@@ -56,6 +56,7 @@ func processFiles(fns <-chan string, wg *sync.WaitGroup) {
 
 func main() {
 	workers := flag.Int("workers", 4, "")
+	watch := flag.Bool("watch", false, "")
 
 	flag.Parse()
 
@@ -75,14 +76,18 @@ func main() {
 		go processFiles(ch, wg)
 	}
 
-	for _, path := range flag.Args() {
-		abspath, err := filepath.Abs(path)
-		if err != nil {
-			log.Fatalf("Error absing %v: %v", path, err)
+	if *watch {
+		watcher(ch, flag.Args())
+	} else {
+		for _, path := range flag.Args() {
+			abspath, err := filepath.Abs(path)
+			if err != nil {
+				log.Fatalf("Error absing %v: %v", path, err)
+			}
+			ch <- abspath
 		}
-		ch <- abspath
-	}
-	close(ch)
+		close(ch)
 
-	wg.Wait()
+		wg.Wait()
+	}
 }
