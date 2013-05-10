@@ -46,7 +46,7 @@ func processFile(filename string) error {
 		if err != nil {
 			if err == io.EOF {
 				offsetLock.Lock()
-				offsets[base] = ln - 1
+				offsets[base] = ln - 2
 				offsetLock.Unlock()
 				return nil
 			}
