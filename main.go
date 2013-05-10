@@ -1,6 +1,7 @@
 package main
 
 import (
+	"flag"
 	"fmt"
 	"io"
 	"log"
@@ -54,6 +55,10 @@ func processFiles(fns <-chan string, wg *sync.WaitGroup) {
 }
 
 func main() {
+	workers := flag.Int("workers", 4, "")
+
+	flag.Parse()
+
 	var err error
 	bucket, err = couchbase.GetBucket("http://localhost:8091/", "default", "default")
 	if err != nil {
@@ -65,15 +70,15 @@ func main() {
 
 	ch := make(chan string)
 
-	for i := 0; i < 4; i++ {
+	for i := 0; i < *workers; i++ {
 		wg.Add(1)
 		go processFiles(ch, wg)
 	}
 
-	for i := 1; i < len(os.Args); i++ {
-		abspath, err := filepath.Abs(os.Args[i])
+	for _, path := range flag.Args() {
+		abspath, err := filepath.Abs(path)
 		if err != nil {
-			log.Fatalf("Error absing %v: %v", os.Args[i], err)
+			log.Fatalf("Error absing %v: %v", path, err)
 		}
 		ch <- abspath
 	}
