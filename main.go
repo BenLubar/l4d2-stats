@@ -34,7 +34,7 @@ func processFile(filename string) error {
 		}
 
 		line["Base"] = base
-		err = bucket.Set(fmt.Sprintf("%s+%d", base, ln), 0, line)
+		_, err = bucket.Add(fmt.Sprintf("%s+%d", base, ln), 0, line)
 		if err != nil {
 			return err
 		}
