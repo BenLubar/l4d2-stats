@@ -12,7 +12,12 @@ import (
 	"github.com/dustin/go-couchbase"
 )
 
-var bucket *couchbase.Bucket
+var (
+	offsets    = make(map[string]int)
+	offsetLock sync.Mutex
+
+	bucket *couchbase.Bucket
+)
 
 func processFile(filename string) error {
 	f, err := os.Open(filename)
@@ -25,13 +30,27 @@ func processFile(filename string) error {
 
 	read := LogReader(f)
 
+	offsetLock.Lock()
+	off := offsets[base]
+	offsetLock.Unlock()
+
+	for i := 0; i < off; i++ {
+		_, _, err := read()
+		if err != nil {
+			return err
+		}
+	}
+
 	for {
 		ln, line, err := read()
 		if err != nil {
-			if err != io.EOF {
-				return err
+			if err == io.EOF {
+				offsetLock.Lock()
+				offsets[base] = ln - 1
+				offsetLock.Unlock()
+				return nil
 			}
-			return nil
+			return err
 		}
 
 		line["Base"] = base
