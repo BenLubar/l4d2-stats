@@ -1,0 +1,1017 @@
+L 05/09/2013 - 14:50:26: Log file started (file "logs/L127_000_001_001_27022_201305091450_001.log") (game "/home/tf/srv/l4d2_beta/left4dead2_beta") (version "5289")
+L 05/09/2013 - 14:50:26: "Swampy<2><STEAM_1:1:64837573><>" connected, address "86.179.152.244:27005"
+L 05/09/2013 - 14:50:26: World triggered "Round_Start"
+L 05/09/2013 - 14:50:27: "Swampy<2><STEAM_1:1:64837573><>" STEAM USERID validated
+L 05/09/2013 - 14:51:17: FinishClientPutInServer Swampy(2): looking for bots to take over
+L 05/09/2013 - 14:51:17: "Swampy<2><STEAM_1:1:64837573><>" entered the game
+L 05/09/2013 - 14:51:29: "Swampy<2><STEAM_1:1:64837573><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 14:51:29: SetModelFromClass: Survivor Swampy changed model from  to models/survivors/survivor_mechanic.mdl via SetModelFromClass
+L 05/09/2013 - 14:51:29: (SKIN) SetCharacter: Survivor Swampy chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 14:51:29: Swampy spawned as a Mechanic
+L 05/09/2013 - 14:51:29: "Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 4336.00 2048.00 -1.97; setang 0.00 180.00 0.00><Area 283881>" spawned
+L 05/09/2013 - 14:51:29: "Nick<3><BOT><>" connected, address "none"
+L 05/09/2013 - 14:51:29: FinishClientPutInServer (3): looking for bots to take over
+L 05/09/2013 - 14:51:29: "Nick<3><BOT><>" entered the game
+L 05/09/2013 - 14:51:29: "Nick<3><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 14:51:29: SetModelFromClass: Survivor Nick changed model from  to models/survivors/survivor_gambler.mdl via SetModelFromClass
+L 05/09/2013 - 14:51:29: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 14:51:29: Nick spawned as a Gambler
+L 05/09/2013 - 14:51:29: "Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 4336.00 2048.00 0.00; setang 0.00 180.00 0.00><Area 283881>" spawned
+L 05/09/2013 - 14:51:29: (SKIN) Survivor Nick changed model from models/survivors/survivor_gambler.mdl to models/survivors/survivor_gambler.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 14:51:29: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 14:51:29: "Rochelle<4><BOT><>" connected, address "none"
+L 05/09/2013 - 14:51:29: FinishClientPutInServer (4): looking for bots to take over
+L 05/09/2013 - 14:51:29: "Rochelle<4><BOT><>" entered the game
+L 05/09/2013 - 14:51:29: "Rochelle<4><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 14:51:29: SetModelFromClass: Survivor Rochelle changed model from  to models/survivors/survivor_producer.mdl via SetModelFromClass
+L 05/09/2013 - 14:51:29: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 14:51:29: Rochelle spawned as a Producer
+L 05/09/2013 - 14:51:29: "Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 4336.00 2048.00 0.00; setang 0.00 180.00 0.00><Area 283881>" spawned
+L 05/09/2013 - 14:51:29: (SKIN) Survivor Rochelle changed model from models/survivors/survivor_producer.mdl to models/survivors/survivor_producer.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 14:51:29: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 14:51:29: "Coach<5><BOT><>" connected, address "none"
+L 05/09/2013 - 14:51:29: FinishClientPutInServer (5): looking for bots to take over
+L 05/09/2013 - 14:51:29: "Coach<5><BOT><>" entered the game
+L 05/09/2013 - 14:51:29: "Coach<5><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 14:51:29: SetModelFromClass: Survivor Coach changed model from  to models/survivors/survivor_coach.mdl via SetModelFromClass
+L 05/09/2013 - 14:51:29: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 14:51:29: Coach spawned as a Coach
+L 05/09/2013 - 14:51:29: "Coach<5><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 4336.00 2048.00 0.00; setang 0.00 180.00 0.00><Area 283881>" spawned
+L 05/09/2013 - 14:51:29: (SKIN) Survivor Coach changed model from models/survivors/survivor_coach.mdl to models/survivors/survivor_coach.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 14:51:29: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 14:52:45: Allowing spawning - "Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 3868.74 2045.84 -1.97; setang 8.32 -157.73 0.00><Area 283905>" left safe area
+L 05/09/2013 - 14:52:49: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 3480.82 2025.47 158.03; setang 6.47 -178.42 0.00><Area 50677>" killed "infected<172><><Infected><infected><DEAD><-7><setpos_exact 3315.94 2027.21 96.03; setang 0.00 -98.99 0.00><Area 47613>" with "rifle_ak47"
+L 05/09/2013 - 14:52:49: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 3480.82 2025.47 158.03; setang 6.47 -178.36 0.00><Area 50677>" killed "infected<121><><Infected><infected><DEAD><-4><setpos_exact 2437.64 2024.29 -7.97; setang -0.00 82.14 0.00><Area 365477>" with "rifle_ak47"
+L 05/09/2013 - 14:52:49: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 3466.14 2025.08 158.03; setang 7.13 -178.49 0.00><Area 52888>" killed "infected<210><><Infected><infected><DEAD><-3><setpos_exact 2243.36 2050.59 -10.71; setang 0.00 36.23 0.00><Area 47727>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 14:52:53: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 3178.85 2025.39 158.21; setang 12.14 162.70 0.00><Area 52427>" killed "infected<123><><Infected><infected><DEAD><-5><setpos_exact 2568.40 2207.61 -7.97; setang 0.00 34.85 0.00><Area 365488>" with "rifle_ak47"
+L 05/09/2013 - 14:52:54: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 3178.85 2025.39 158.21; setang 12.08 162.57 0.00><Area 52427>" killed "infected<200><><Infected><infected><DEAD><-5><setpos_exact 2537.14 2249.24 -7.97; setang 0.00 92.48 0.00><Area 365488>" with "rifle_ak47"
+L 05/09/2013 - 14:52:54: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 3175.67 2026.39 157.53; setang 12.14 162.70 0.00><Area 52427>" killed "infected<196><><Infected><infected><DEAD><-5><setpos_exact 2602.95 2218.33 -7.97; setang 0.00 196.62 0.00><Area 365482>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 14:52:58: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2645.44 2027.19 54.03; setang 4.73 265.46 0.00><Area 134420>" killed "infected<190><><Infected><infected><DEAD><-7><setpos_exact 2627.67 1827.11 -7.97; setang 0.00 4.29 0.00><Area 53596>" with "rifle_ak47"
+L 05/09/2013 - 14:52:59: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2641.97 2019.08 54.03; setang 1.57 283.22 0.00><Area 134420>" killed "infected<191><><Infected><infected><DEAD><-7><setpos_exact 2682.64 1829.12 -7.97; setang -0.00 159.01 0.00><Area 57314>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 14:53:00: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2637.45 2011.57 54.03; setang 6.23 180.20 0.00><Area 134420>" killed "infected<197><><Infected><infected><DEAD><-26><setpos_exact 2403.50 2011.90 -8.38; setang 0.00 8.73 0.00><Area 365467>" with "rifle_ak47"
+L 05/09/2013 - 14:53:00: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 2702.75 2028.40 56.05; setang 4.13 171.06 0.00><Area 52424>" killed "infected<261><><Infected><infected><DEAD><-13><setpos_exact 2343.48 2108.86 -9.35; setang 0.00 340.70 0.00><Area 365467>" with "shotgun_spas"
+L 05/09/2013 - 14:53:01: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 2702.75 2028.40 56.05; setang 3.69 168.83 0.00><Area 52424>" killed "infected<262><><Infected><infected><DEAD><-13><setpos_exact 2306.04 2108.57 -9.86; setang 0.00 335.30 0.00><Area 365467>" with "shotgun_spas"
+L 05/09/2013 - 14:53:02: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2637.45 2011.57 54.03; setang 5.93 166.69 0.00><Area 134420>" killed "infected<279><><Infected><infected><DEAD><-6><setpos_exact 2319.35 2081.54 -9.49; setang 0.00 357.45 0.00><Area 365467>" with "rifle_ak47"
+L 05/09/2013 - 14:53:05: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2457.46 2026.80 54.03; setang 5.61 -146.52 0.00><Area 134433>" killed "infected<295><><Infected><infected><DEAD><-7><setpos_exact 2229.52 1890.03 -11.67; setang 0.00 6.88 0.00><Area 50968>" with "rifle_ak47"
+L 05/09/2013 - 14:53:06: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2404.88 1985.19 53.30; setang 6.73 -120.97 0.00><Area 365467>" killed "infected<265><><Infected><infected><DEAD><-6><setpos_exact 2261.74 1704.58 -38.79; setang 0.00 -136.83 0.00><Area 51001>" with "rifle_ak47"
+L 05/09/2013 - 14:53:06: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2401.12 1982.01 53.25; setang 6.53 -114.31 0.00><Area 365467>" killed "infected<280><><Infected><infected><DEAD><-7><setpos_exact 2337.12 1855.92 -10.96; setang 0.00 55.81 0.00><Area 146907>" with "rifle_ak47"
+L 05/09/2013 - 14:53:06: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2400.77 1981.71 53.24; setang 7.66 -102.16 0.00><Area 365467>" killed "infected<293><><Infected><infected><DEAD><-7><setpos_exact 2338.95 1744.61 -8.06; setang 0.00 -66.27 0.00><Area 51045>" with "rifle_ak47"
+L 05/09/2013 - 14:53:06: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2400.77 1981.71 53.24; setang 7.66 -99.92 0.00><Area 365467>" killed "infected<212><><Infected><infected><DEAD><-7><setpos_exact 2383.59 1779.12 -11.97; setang -0.00 92.68 0.00><Area 51103>" with "rifle_ak47"
+L 05/09/2013 - 14:53:06: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2400.77 1981.71 53.24; setang 7.66 -99.92 0.00><Area 365467>" killed "infected<215><><Infected><infected><DEAD><-7><setpos_exact 2365.12 1710.78 -7.97; setang 0.00 43.94 0.00><Area 53092>" with "rifle_ak47"
+L 05/09/2013 - 14:53:07: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 2450.58 2006.88 54.03; setang 7.43 228.87 0.00><Area 134432>" killed "infected<263><><Infected><infected><DEAD><-7><setpos_exact 2272.50 1836.16 -11.80; setang 0.00 57.39 0.00><Area 50996>" with "rifle_ak47"
+L 05/09/2013 - 14:53:07: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2400.77 1981.71 53.24; setang 7.66 -95.43 0.00><Area 365467>" killed "infected<214><><Infected><infected><DEAD><-7><setpos_exact 2387.99 1752.43 -9.91; setang 0.00 61.22 0.00><Area 51104>" with "rifle_ak47"
+L 05/09/2013 - 14:53:07: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2453.49 2044.17 54.03; setang 8.01 255.36 0.00><Area 134433>" killed "infected<209><><Infected><infected><DEAD><-6><setpos_exact 2379.28 1636.37 -18.08; setang 0.00 372.77 0.00><Area 382442>" with "rifle_ak47"
+L 05/09/2013 - 14:53:07: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 2447.34 2007.70 54.03; setang 34.56 194.06 7.38><Area 365477>" killed "infected<264><><Infected><infected><DEAD><-7><setpos_exact 2371.74 1988.77 -8.97; setang 0.00 346.33 0.00><Area 365467>" with "rifle_ak47"
+L 05/09/2013 - 14:53:07: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 2433.06 2083.27 54.03; setang 6.97 263.01 0.00><Area 365478>" killed "infected<208><><Infected><infected><DEAD><-21><setpos_exact 2404.55 1859.49 -10.72; setang 0.00 15.02 0.00><Area 146907>" with "shotgun_spas"
+L 05/09/2013 - 14:53:07: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2400.77 1981.71 53.24; setang 7.52 -91.74 0.00><Area 365467>" killed "infected<172><><Infected><infected><DEAD><-6><setpos_exact 2382.75 1591.17 -15.05; setang 0.00 396.82 0.00><Area 52430>" with "rifle_ak47"
+L 05/09/2013 - 14:53:10: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 2430.18 2093.53 54.03; setang 4.92 132.52 0.00><Area 365478>" killed "infected<294><><Infected><infected><DEAD><-16><setpos_exact 2227.78 2346.26 -12.88; setang 0.00 266.21 0.00><Area 50975>" with "shotgun_spas"
+L 05/09/2013 - 14:53:10: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 2448.82 2090.52 54.03; setang 6.21 144.01 0.00><Area 365478>" killed "infected<240><><Infected><infected><DEAD><-20><setpos_exact 2239.64 2241.50 -12.87; setang 0.00 256.45 0.00><Area 50971>" with "shotgun_spas"
+L 05/09/2013 - 14:53:10: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 2488.25 2005.90 54.03; setang 9.76 131.37 0.00><Area 134420>" killed "infected<266><><Infected><infected><DEAD><-6><setpos_exact 2292.12 2230.72 -11.25; setang 0.00 263.64 0.00><Area 51015>" with "rifle_ak47"
+L 05/09/2013 - 14:53:11: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2499.76 2057.14 54.03; setang 4.10 145.85 0.00><Area 134420>" killed "infected<121><><Infected><infected><DEAD><-51><setpos_exact 2204.87 2248.98 -7.97; setang 0.00 284.69 0.00><Area 50941>" with "rifle_ak47"
+L 05/09/2013 - 14:53:11: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 2516.75 2002.04 54.03; setang 7.24 141.27 0.00><Area 134420>" killed "infected<217><><Infected><infected><DEAD><-6><setpos_exact 2249.39 2241.95 -13.03; setang 0.00 275.32 0.00><Area 50971>" with "rifle_ak47"
+L 05/09/2013 - 14:53:11: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2521.67 2058.11 54.03; setang 7.56 147.88 0.00><Area 134420>" killed "infected<210><><Infected><infected><DEAD><-7><setpos_exact 2269.38 2198.25 -11.00; setang 0.00 269.50 0.00><Area 50992>" with "rifle_ak47"
+L 05/09/2013 - 14:53:11: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2607.67 2068.41 54.03; setang 6.17 173.28 0.00><Area 134420>" killed "infected<237><><Infected><infected><DEAD><-32><setpos_exact 2255.69 2113.92 -10.57; setang 0.00 183.61 0.00><Area 47727>" with "rifle_ak47"
+L 05/09/2013 - 14:53:12: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2926.04 2070.97 103.96; setang 10.00 182.87 0.00><Area 52425>" killed "infected<239><><Infected><infected><DEAD><-5><setpos_exact 2252.16 2042.61 -10.60; setang 0.00 148.57 0.00><Area 47727>" with "rifle_ak47"
+L 05/09/2013 - 14:53:13: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 3088.29 2038.03 138.78; setang 7.36 175.28 0.00><Area 52427>" killed "infected<256><><Infected><infected><DEAD><-5><setpos_exact 2265.94 2107.75 -10.32; setang 0.00 32.45 0.00><Area 47727>" with "rifle_ak47"
+L 05/09/2013 - 14:53:18: "Charger<6><BOT><>" connected, address "none"
+L 05/09/2013 - 14:53:18: FinishClientPutInServer (6): looking for bots to take over
+L 05/09/2013 - 14:53:18: "Charger<6><BOT><>" entered the game
+L 05/09/2013 - 14:53:18: "Charger<6><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 14:53:18: Charger spawned as a CHARGER
+L 05/09/2013 - 14:53:18: "Charger<6><BOT><Infected><CHARGER><ALIVE><600+0><setpos_exact 2587.50 2537.50 37.53; setang 0.00 0.00 0.00><Area 51203>" spawned
+L 05/09/2013 - 14:53:20: "Jockey<7><BOT><>" connected, address "none"
+L 05/09/2013 - 14:53:20: FinishClientPutInServer (7): looking for bots to take over
+L 05/09/2013 - 14:53:20: "Jockey<7><BOT><>" entered the game
+L 05/09/2013 - 14:53:20: "Jockey<7><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 14:53:20: Jockey spawned as a JOCKEY
+L 05/09/2013 - 14:53:20: "Jockey<7><BOT><Infected><JOCKEY><ALIVE><325+0><setpos_exact 2675.00 1537.50 56.18; setang 0.00 0.00 0.00><Area 53075>" spawned
+L 05/09/2013 - 14:53:29: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 3227.35 2008.50 158.03; setang 9.61 163.34 0.00><Area 47613>" killed "Jockey<7><BOT><Infected><JOCKEY><DEAD><1+0><setpos 2935.41 2100.80 85.76; setang 336.32 342.46 0.00><Area 52426>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 14:53:29: "Smoker<8><BOT><>" connected, address "none"
+L 05/09/2013 - 14:53:29: FinishClientPutInServer (8): looking for bots to take over
+L 05/09/2013 - 14:53:29: "Smoker<8><BOT><>" entered the game
+L 05/09/2013 - 14:53:29: "Smoker<8><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 14:53:29: Smoker spawned as a SMOKER
+L 05/09/2013 - 14:53:29: "Smoker<8><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2800.00 3097.54 22.03; setang 0.00 0.00 0.00><Area 47909>" spawned
+L 05/09/2013 - 14:53:35: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2394.39 2075.53 53.69; setang 8.65 103.46 0.00><Area 365467>" killed "infected<190><><Infected><infected><DEAD><-7><setpos_exact 2364.78 2188.11 -10.11; setang 0.00 -356.80 0.00><Area 134804>" with "shotgun_spas"
+L 05/09/2013 - 14:53:35: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2394.39 2075.53 53.69; setang 8.65 103.46 0.00><Area 365467>" killed "infected<200><><Infected><infected><DEAD><-24><setpos_exact 2349.98 2243.38 -10.98; setang 0.00 308.64 0.00><Area 134804>" with "shotgun_spas"
+L 05/09/2013 - 14:53:37: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2394.39 2075.53 53.69; setang 7.26 87.62 0.00><Area 365467>" killed "infected<297><><Infected><infected><DEAD><-19><setpos_exact 2417.22 2330.69 -11.20; setang -0.00 -95.07 0.00><Area 51085>" with "shotgun_spas"
+L 05/09/2013 - 14:53:37: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2394.39 2075.53 53.69; setang 7.26 87.62 0.00><Area 365467>" killed "infected<196><><Infected><infected><DEAD><-17><setpos_exact 2407.61 2391.00 -9.25; setang 0.00 -459.64 0.00><Area 170986>" with "shotgun_spas"
+L 05/09/2013 - 14:53:37: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2394.39 2075.53 53.69; setang 7.13 87.42 0.00><Area 365467>" killed "infected<265><><Infected><infected><DEAD><-15><setpos_exact 2392.58 2439.48 -39.92; setang -0.00 -118.11 0.00><Area 52372>" with "shotgun_spas"
+L 05/09/2013 - 14:53:37: (DEATH)"infected<215><><Infected><infected><ALIVE><6><setpos_exact 2711.08 2624.53 -23.74; setang 0.00 355.22 0.00><Area 51238>" killed "infected<214><><Infected><infected><DEAD><-2><setpos_exact 2738.76 2622.18 -39.97; setang 0.00 175.28 0.00><Area 48412>" with "infected"
+L 05/09/2013 - 14:53:37: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 2446.96 2018.81 54.03; setang 6.09 103.01 0.00><Area 365477>" killed "infected<299><><Infected><infected><DEAD><-47><setpos_exact 2335.33 2503.71 -35.50; setang 0.00 242.49 0.00><Area 52186>" with "rifle_ak47"
+L 05/09/2013 - 14:53:38: "Jockey<7><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 14:53:40: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<8><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2450.18 2415.09 21.08; setang 356.89 235.79 0.00><Area 52385>". Victim:"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2286.53 2145.97 51.64; setang 11.15 64.98 0.00><Area 365467>".
+L 05/09/2013 - 14:53:41: (TONGUE) Tongue launching towards victim.  Smoker:"Smoker<8><BOT><Infected><SMOKER><ALIVE><150+0><setpos_exact 2442.46 2413.57 21.66; setang 356.30 249.81 0.00><Area 170991>". Victim:"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2344.08 2145.97 52.36; setang 3.56 67.29 0.00><Area 365467>".
+L 05/09/2013 - 14:53:42: (TONGUE) Tongue grab starting.  Smoker:"Smoker<8><BOT><Infected><SMOKER><ALIVE><150+0><setpos_exact 2442.46 2413.39 39.78; setang 359.92 249.81 0.00><Area 170991>". Victim:"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2344.08 2145.97 52.36; setang 3.96 69.34 0.00><Area 365467>".
+L 05/09/2013 - 14:53:42: (TONGUE) Tongue letting go for taking too much damage.  Smoker:"Smoker<8><BOT><Infected><SMOKER><ALIVE><84+0><setpos_exact 2442.46 2413.57 39.66; setang 359.94 249.80 0.00><Area 170991>". Victim:"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2344.08 2145.96 52.36; setang 3.89 69.41 0.00><Area 365467>".
+L 05/09/2013 - 14:53:42: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2344.08 2145.96 52.36; setang 3.89 69.41 0.00><Area 365467>" killed "Smoker<8><BOT><Infected><SMOKER><DEAD><1+0><setpos 2442.46 2413.57 -22.34; setang 334.38 249.82 0.00><Area 170991>" with "shotgun_spas"
+L 05/09/2013 - 14:53:51: "Smoker<8><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 14:53:51: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 2225.83 2206.68 50.34; setang 8.64 80.31 0.00><Area 50969>" killed "Charger<6><BOT><Infected><CHARGER><DEAD><1+0><setpos 2267.21 2415.26 -39.97; setang 324.39 258.78 0.00><Area 47920>" with "shotgun_spas"
+L 05/09/2013 - 14:53:54: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 2253.11 2274.05 51.94; setang 36.78 17.62 0.00><Area 50991>" killed "infected<121><><Infected><infected><DEAD><-7><setpos_exact 2299.10 2289.65 -11.37; setang 0.00 244.43 0.00><Area 51031>" with "rifle_ak47"
+L 05/09/2013 - 14:53:55: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2286.83 2260.62 50.36; setang 2.18 50.09 0.00><Area 51015>" killed "infected<172><><Infected><infected><DEAD><-6><setpos_exact 2581.98 2613.50 -7.97; setang 0.00 120.00 0.00><Area 51206>" with "rifle_ak47"
+L 05/09/2013 - 14:53:55: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2286.83 2260.62 50.36; setang 10.56 52.53 0.00><Area 51015>" killed "infected<295><><Infected><infected><DEAD><-7><setpos_exact 2438.02 2435.37 -39.97; setang 0.00 182.06 0.00><Area 52373>" with "rifle_ak47"
+L 05/09/2013 - 14:53:56: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2286.83 2260.62 50.36; setang 6.34 50.15 0.00><Area 51015>" killed "infected<263><><Infected><infected><DEAD><-7><setpos_exact 2379.55 2369.45 -7.29; setang 0.00 217.48 0.00><Area 170986>" with "rifle_ak47"
+L 05/09/2013 - 14:54:00: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><90+0><setpos_exact 2376.78 2462.28 22.47; setang 3.30 18.59 0.00><Area 52372>" killed "infected<261><><Infected><infected><DEAD><-10><setpos_exact 2797.70 2580.25 -21.07; setang -0.00 -164.36 0.00><Area 48337>" with "shotgun_spas"
+L 05/09/2013 - 14:54:00: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><90+0><setpos_exact 2376.78 2462.28 22.47; setang 3.30 18.59 0.00><Area 52372>" killed "infected<301><><Infected><infected><DEAD><-8><setpos_exact 2822.25 2663.78 -40.52; setang -0.00 163.19 0.00><Area 47786>" with "shotgun_spas"
+L 05/09/2013 - 14:54:01: "Charger<6><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 14:54:01: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 2305.70 2435.82 22.46; setang 0.78 3.79 0.00><Area 52372>" killed "infected<191><><Infected><infected><DEAD><-18><setpos_exact 2603.62 2443.38 -22.75; setang 0.00 -138.82 0.00><Area 48406>" with "shotgun_spas"
+L 05/09/2013 - 14:54:01: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2367.50 2376.44 54.03; setang 15.58 31.71 0.00><Area 170986>" killed "infected<215><><Infected><infected><DEAD><-51><setpos_exact 2554.95 2477.74 -40.13; setang 0.00 185.06 0.00><Area 47922>" with "rifle_ak47"
+L 05/09/2013 - 14:54:04: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2367.50 2376.44 54.03; setang 2.19 24.39 0.00><Area 170986>" killed "infected<304><><Infected><infected><DEAD><-6><setpos_exact 2867.93 2613.68 -7.97; setang 0.00 228.10 0.00><Area 50619>" with "rifle_ak47"
+L 05/09/2013 - 14:54:07: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2368.04 2377.53 54.03; setang 2.42 18.79 0.00><Area 170986>" killed "infected<123><><Infected><infected><DEAD><-25><setpos_exact 2842.15 2537.97 -7.97; setang 0.00 330.00 0.00><Area 50632>" with "rifle_ak47"
+L 05/09/2013 - 14:54:08: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><90+0><setpos_exact 2689.98 2566.25 22.03; setang 4.88 66.24 0.00><Area 47803>" killed "infected<216><><Infected><infected><DEAD><-13><setpos_exact 2727.65 2670.32 -18.01; setang 0.00 278.29 0.00><Area 51244>" with "shotgun_spas"
+L 05/09/2013 - 14:54:08: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><90+0><setpos_exact 2689.98 2566.25 22.03; setang 4.88 66.24 0.00><Area 47803>" killed "infected<240><><Infected><infected><DEAD><-18><setpos_exact 2803.61 2823.94 -32.31; setang 0.00 37.02 0.00><Area 47656>" with "shotgun_spas"
+L 05/09/2013 - 14:54:08: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2536.87 2408.85 43.70; setang 4.09 53.30 0.00><Area 52385>" killed "infected<190><><Infected><infected><DEAD><-29><setpos_exact 2825.02 2806.84 -39.57; setang 0.00 337.00 0.00><Area 47656>" with "rifle_ak47"
+L 05/09/2013 - 14:54:09: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><90+0><setpos_exact 2689.98 2566.25 22.03; setang 3.76 57.53 0.00><Area 47803>" killed "infected<239><><Infected><infected><DEAD><-11><setpos_exact 2932.91 2944.34 -7.97; setang -0.00 24.43 0.00><Area 53458>" with "shotgun_spas"
+L 05/09/2013 - 14:54:10: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2580.15 2438.57 36.26; setang 0.29 56.04 0.00><Area 51202>" killed "infected<256><><Infected><infected><DEAD><-45><setpos_exact 2954.08 2994.21 -7.97; setang 0.00 180.24 0.00><Area 171008>" with "rifle_ak47"
+L 05/09/2013 - 14:54:10: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 2628.15 2534.44 22.62; setang 7.50 48.53 0.00><Area 47923>" killed "infected<300><><Infected><infected><DEAD><-15><setpos_exact 2852.79 2803.59 -39.44; setang 0.00 324.80 0.00><Area 47656>" with "shotgun_spas"
+L 05/09/2013 - 14:54:11: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 2628.15 2534.44 22.62; setang 358.40 29.98 0.00><Area 47923>" killed "infected<196><><Infected><infected><DEAD><-14><setpos_exact 2946.00 2717.84 -7.97; setang 0.00 233.39 0.00><Area 50628>" with "shotgun_spas"
+L 05/09/2013 - 14:54:11: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 2644.18 2494.95 22.58; setang -0.51 73.28 0.00><Area 47923>" killed "infected<293><><Infected><infected><DEAD><-7><setpos_exact 2706.90 2717.42 -7.97; setang 0.00 270.38 0.00><Area 51236>" with "rifle_ak47"
+L 05/09/2013 - 14:54:14: "Hunter<9><BOT><>" connected, address "none"
+L 05/09/2013 - 14:54:14: FinishClientPutInServer (9): looking for bots to take over
+L 05/09/2013 - 14:54:14: "Hunter<9><BOT><>" entered the game
+L 05/09/2013 - 14:54:14: "Hunter<9><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 14:54:14: Hunter spawned as a HUNTER
+L 05/09/2013 - 14:54:14: "Hunter<9><BOT><Infected><HUNTER><ALIVE><250+0><setpos_exact 2150.00 3275.24 44.03; setang 0.00 0.00 0.00><Area 92302>" spawned
+L 05/09/2013 - 14:54:15: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 2839.50 2621.86 53.92; setang 3.99 105.90 0.00><Area 48344>" killed "infected<200><><Infected><infected><DEAD><-6><setpos_exact 2749.33 2912.48 -7.97; setang 0.00 249.63 0.00><Area 52914>" with "rifle_ak47"
+L 05/09/2013 - 14:54:15: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 2774.42 2694.11 22.42; setang 8.18 67.42 0.00><Area 47786>" killed "infected<303><><Infected><infected><DEAD><-23><setpos_exact 2834.95 2872.48 -39.97; setang 0.00 270.79 0.00><Area 47656>" with "shotgun_spas"
+L 05/09/2013 - 14:54:15: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 2774.42 2694.11 22.42; setang 5.67 66.24 0.00><Area 47786>" killed "infected<172><><Infected><infected><DEAD><-19><setpos_exact 2885.17 2964.49 -38.59; setang 0.00 -55.48 0.00><Area 47656>" with "shotgun_spas"
+L 05/09/2013 - 14:54:16: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 2839.50 2621.86 53.92; setang 5.09 98.03 0.00><Area 48344>" killed "infected<240><><Infected><infected><DEAD><-5><setpos_exact 2763.60 3203.13 -37.46; setang 0.00 141.48 0.00><Area 50528>" with "rifle_ak47"
+L 05/09/2013 - 14:54:16: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 2839.50 2621.86 53.92; setang 7.23 100.00 0.00><Area 48344>" killed "infected<216><><Infected><infected><DEAD><-5><setpos_exact 2736.26 3206.12 -39.78; setang 0.00 -38.89 0.00><Area 50523>" with "rifle_ak47"
+L 05/09/2013 - 14:54:17: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 2842.22 2621.25 54.03; setang 2.61 96.17 0.00><Area 48344>" killed "infected<263><><Infected><infected><DEAD><-5><setpos_exact 2767.42 3259.33 -7.97; setang 0.00 298.19 0.00><Area 50530>" with "rifle_ak47"
+L 05/09/2013 - 14:54:19: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 2842.22 2621.25 54.03; setang 8.49 97.67 0.00><Area 48344>" killed "infected<191><><Infected><infected><DEAD><-6><setpos_exact 2795.68 3025.79 -39.97; setang 0.00 62.38 0.00><Area 50536>" with "rifle_ak47"
+L 05/09/2013 - 14:54:19: Hunter starting a pounce, 50 damage interrupts
+L 05/09/2013 - 14:54:19: Hunter pounced on Swampy, 250 damage interrupts
+L 05/09/2013 - 14:54:20: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2739.47 2666.36 38.54; setang 0.91 26.71 0.00><Area 51244>" killed "infected<123><><Infected><infected><DEAD><-6><setpos_exact 3065.14 2825.50 -7.98; setang 0.00 71.66 0.00><Area 197219>" with "rifle_ak47"
+L 05/09/2013 - 14:54:20: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2739.47 2666.36 38.54; setang 5.61 27.50 0.00><Area 51244>" killed "Hunter<9><BOT><Infected><HUNTER><DEAD><1+0><setpos 2894.73 2751.17 3.54; setang 335.94 208.64 0.00><Area 50602>" with "rifle_ak47"
+L 05/09/2013 - 14:54:27: "Spitter<10><BOT><>" connected, address "none"
+L 05/09/2013 - 14:54:27: FinishClientPutInServer (10): looking for bots to take over
+L 05/09/2013 - 14:54:27: "Spitter<10><BOT><>" entered the game
+L 05/09/2013 - 14:54:27: "Spitter<10><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 14:54:27: Spitter spawned as a SPITTER
+L 05/09/2013 - 14:54:27: "Spitter<10><BOT><Infected><SPITTER><ALIVE><100+0><setpos_exact 2200.00 3212.50 54.03; setang 0.00 0.00 0.00><Area 52937>" spawned
+L 05/09/2013 - 14:54:28: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 3036.99 2882.26 54.02; setang 16.69 6.08 0.00><Area 197219>" killed "infected<297><><Infected><infected><DEAD><-15><setpos_exact 3105.16 2889.52 -7.98; setang 0.00 164.47 0.00><Area 197222>" with "shotgun_spas"
+L 05/09/2013 - 14:54:28: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 3028.31 2933.74 54.02; setang 7.81 295.52 0.00><Area 197219>" killed "infected<299><><Infected><infected><DEAD><-7><setpos_exact 3122.36 2741.57 -7.98; setang 0.00 189.42 0.00><Area 197251>" with "rifle_ak47"
+L 05/09/2013 - 14:54:28: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 3071.28 2898.94 54.02; setang 6.48 283.58 0.00><Area 197219>" killed "infected<172><><Infected><infected><DEAD><-7><setpos_exact 3104.01 2715.41 -7.98; setang 0.00 121.26 0.00><Area 197250>" with "rifle_ak47"
+L 05/09/2013 - 14:54:28: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 3071.28 2898.94 54.02; setang 8.59 281.26 0.00><Area 197219>" killed "infected<190><><Infected><infected><DEAD><-7><setpos_exact 3096.00 2741.12 -7.98; setang 0.00 -249.55 0.00><Area 197251>" with "rifle_ak47"
+L 05/09/2013 - 14:54:28: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 3028.31 2933.74 54.02; setang 2.76 151.28 0.00><Area 197219>" killed "infected<216><><Infected><infected><DEAD><-6><setpos_exact 2642.87 3144.95 -7.97; setang 0.00 351.20 0.00><Area 51259>" with "rifle_ak47"
+L 05/09/2013 - 14:54:29: "Hunter<9><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 14:54:31: "Tank<11><BOT><>" connected, address "none"
+L 05/09/2013 - 14:54:31: FinishClientPutInServer (11): looking for bots to take over
+L 05/09/2013 - 14:54:31: "Tank<11><BOT><>" entered the game
+L 05/09/2013 - 14:54:31: "Tank<11><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 14:54:31: Tank spawned as a TANK
+L 05/09/2013 - 14:54:31: "Tank<11><BOT><Infected><TANK><ALIVE><4000+0><setpos_exact 1412.50 3612.50 54.03; setang 0.00 0.00 0.00><Area 50137>" spawned
+L 05/09/2013 - 14:54:31: Tank offer: making a bot, and giving him to nobody
+L 05/09/2013 - 14:54:33: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2830.30 3077.09 23.39; setang 357.64 153.99 0.00><Area 50559>" killed "infected<239><><Infected><infected><DEAD><-5><setpos_exact 2148.57 3419.53 -7.97; setang 0.00 -70.05 0.00><Area 52285>" with "rifle_ak47"
+L 05/09/2013 - 14:54:33: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2830.30 3077.09 23.39; setang -0.96 157.19 0.00><Area 50559>" killed "infected<304><><Infected><infected><DEAD><-7><setpos_exact 2615.66 3154.44 -7.97; setang 0.00 -30.02 0.00><Area 51261>" with "rifle_ak47"
+L 05/09/2013 - 14:54:34: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2830.30 3077.09 23.39; setang 358.10 160.21 0.00><Area 50559>" killed "infected<300><><Infected><infected><DEAD><-7><setpos_exact 2635.42 3126.25 -7.97; setang 0.00 -58.15 0.00><Area 51259>" with "rifle_ak47"
+L 05/09/2013 - 14:54:34: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2830.30 3077.09 23.39; setang 1.31 153.25 0.00><Area 50559>" killed "infected<191><><Infected><infected><DEAD><-7><setpos_exact 2663.06 3179.35 -26.00; setang 0.00 352.78 0.00><Area 50503>" with "rifle_ak47"
+L 05/09/2013 - 14:54:34: 248.97: (MOB) SpawnMob requested of size 30.
+L 05/09/2013 - 14:54:34: 248.97: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 14:54:35: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2830.30 3077.09 23.39; setang 8.51 141.81 0.00><Area 50559>" killed "infected<326><><Infected><infected><DEAD><-6><setpos_exact 2583.97 3259.66 -39.45; setang 0.00 337.95 0.00><Area 52359>" with "rifle_ak47"
+L 05/09/2013 - 14:54:35: 249.57: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 14:54:35: 249.57: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 14:54:35: 249.57: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 14:54:35: 249.57: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 14:54:35: 249.87: (MOB) Mob zombie spawned, 25 remain.
+L 05/09/2013 - 14:54:35: 249.87: (MOB) Mob zombie spawned, 24 remain.
+L 05/09/2013 - 14:54:35: 249.87: (MOB) Mob zombie spawned, 23 remain.
+L 05/09/2013 - 14:54:35: 249.87: (MOB) Mob zombie spawned, 22 remain.
+L 05/09/2013 - 14:54:36: 250.53: (MOB) Mob zombie spawned, 21 remain.
+L 05/09/2013 - 14:54:36: 250.53: (MOB) Mob zombie spawned, 20 remain.
+L 05/09/2013 - 14:54:36: 250.53: (MOB) Mob zombie spawned, 19 remain.
+L 05/09/2013 - 14:54:36: 250.53: (MOB) Mob zombie spawned, 18 remain.
+L 05/09/2013 - 14:54:37: "Smoker<12><BOT><>" connected, address "none"
+L 05/09/2013 - 14:54:37: FinishClientPutInServer (12): looking for bots to take over
+L 05/09/2013 - 14:54:37: "Smoker<12><BOT><>" entered the game
+L 05/09/2013 - 14:54:37: "Smoker<12><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 14:54:37: Smoker spawned as a SMOKER
+L 05/09/2013 - 14:54:37: "Smoker<12><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2177.47 3180.93 258.03; setang 0.00 0.00 0.00><Area 79277>" spawned
+L 05/09/2013 - 14:54:37: 251.20: (MOB) Mob zombie spawned, 17 remain.
+L 05/09/2013 - 14:54:37: 251.20: (MOB) Mob zombie spawned, 16 remain.
+L 05/09/2013 - 14:54:37: 251.20: (MOB) Mob zombie spawned, 15 remain.
+L 05/09/2013 - 14:54:37: 251.20: (MOB) Mob zombie spawned, 14 remain.
+L 05/09/2013 - 14:54:37: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2788.07 3085.60 22.18; setang 358.51 318.69 0.00><Area 47909>" killed "infected<301><><Infected><infected><DEAD><-6><setpos_exact 3110.73 2850.31 -7.98; setang 0.00 128.14 0.00><Area 197222>" with "rifle_ak47"
+L 05/09/2013 - 14:54:37: 251.83: (MOB) Mob zombie spawned, 13 remain.
+L 05/09/2013 - 14:54:37: 251.83: (MOB) Mob zombie spawned, 12 remain.
+L 05/09/2013 - 14:54:37: 251.83: (MOB) Mob zombie spawned, 11 remain.
+L 05/09/2013 - 14:54:37: 251.83: (MOB) Mob zombie spawned, 10 remain.
+L 05/09/2013 - 14:54:38: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><90+0><setpos_exact 2597.38 3269.97 22.52; setang 2.38 -169.38 0.00><Area 47905>" killed "infected<327><><Infected><infected><DEAD><-23><setpos_exact 2381.92 3214.36 -7.97; setang 0.00 163.44 0.00><Area 52942>" with "shotgun_spas"
+L 05/09/2013 - 14:54:38: Spitter projectile spawned at 2322.028076 3190.337402 51.129936, velocity 834.969116 230.708282 -244.131500
+L 05/09/2013 - 14:54:39: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><90+0><setpos_exact 2638.60 3277.09 27.09; setang 2.31 -168.79 0.00><Area 50501>" killed "infected<237><><Infected><infected><DEAD><-12><setpos_exact 2226.29 3182.44 -7.97; setang 0.00 180.67 0.00><Area 52967>" with "shotgun_spas"
+L 05/09/2013 - 14:54:39: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><90+0><setpos_exact 2638.60 3277.09 27.09; setang 2.31 -168.79 0.00><Area 50501>" killed "infected<324><><Infected><infected><DEAD><-10><setpos_exact 2200.09 3187.64 -7.97; setang 0.00 197.11 0.00><Area 52967>" with "shotgun_spas"
+L 05/09/2013 - 14:54:39: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 2715.32 3140.27 36.40; setang 12.37 298.76 0.00><Area 48329>" killed "infected<297><><Infected><infected><DEAD><-14><setpos_exact 2844.73 2897.11 -39.97; setang 0.00 98.07 0.00><Area 47656>" with "shotgun_spas"
+L 05/09/2013 - 14:54:39: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><90+0><setpos_exact 2643.53 3277.94 30.30; setang 2.11 -169.05 0.00><Area 50501>" killed "infected<325><><Infected><infected><DEAD><-10><setpos_exact 2171.14 3210.59 -7.97; setang 0.00 150.45 0.00><Area 52936>" with "shotgun_spas" (headshot)
+L 05/09/2013 - 14:54:39: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<12><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2169.37 3278.07 122.19; setang 14.76 359.86 0.00><Area 92302>". Victim:"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><90+0><setpos_exact 2643.53 3277.94 30.30; setang 2.11 -169.05 0.00><Area 50501>".
+L 05/09/2013 - 14:54:39: "Smoker<12><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2168.65 3274.04 53.54; setang 7.62 0.47 0.00><Area 92302>" landed
+L 05/09/2013 - 14:54:39: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2670.38 3197.69 22.48; setang 361.36 316.63 0.00><Area 50505>" killed "infected<332><><Infected><infected><DEAD><-6><setpos_exact 2899.68 2990.40 -22.39; setang 0.00 130.99 0.00><Area 52879>" with "rifle_ak47"
+L 05/09/2013 - 14:54:39: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><90+0><setpos_exact 2643.53 3277.94 30.30; setang 1.52 -164.96 0.00><Area 50501>" killed "Spitter<10><BOT><Infected><SPITTER><DEAD><1+0><setpos 2299.04 3184.09 -7.97; setang 344.31 15.24 0.00><Area 52969>" with "shotgun_spas"
+L 05/09/2013 - 14:54:40: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 2715.32 3140.27 36.40; setang 16.91 315.18 0.00><Area 48329>" killed "infected<208><><Infected><infected><DEAD><-26><setpos_exact 2767.84 3077.45 -39.67; setang 0.00 151.48 0.00><Area 47909>" with "shotgun_spas"
+L 05/09/2013 - 14:54:40: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 2715.32 3140.27 36.40; setang 16.91 315.18 0.00><Area 48329>" killed "infected<336><><Infected><infected><DEAD><-24><setpos_exact 2818.80 3032.22 -39.97; setang 0.00 125.80 0.00><Area 47973>" with "shotgun_spas"
+L 05/09/2013 - 14:54:40: 254.90: (MOB) Mob zombie spawned, 9 remain.
+L 05/09/2013 - 14:54:40: 254.90: (MOB) Mob zombie spawned, 8 remain.
+L 05/09/2013 - 14:54:40: 254.90: (MOB) Mob zombie spawned, 7 remain.
+L 05/09/2013 - 14:54:40: 254.90: (MOB) Mob zombie spawned, 6 remain.
+L 05/09/2013 - 14:54:41: (TONGUE) Tongue launching towards victim.  Smoker:"Smoker<12><BOT><Infected><SMOKER><ALIVE><152+0><setpos_exact 2164.50 3271.69 46.69; setang 3.42 0.75 0.00><Area 92302>". Victim:"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><88+0><setpos_exact 2643.53 3277.94 30.30; setang 38.68 -142.06 0.00><Area 50501>".
+L 05/09/2013 - 14:54:41: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><99+0><setpos_exact 2715.32 3140.27 36.40; setang 358.50 313.52 0.00><Area 48329>" killed "infected<334><><Infected><infected><DEAD><-19><setpos_exact 2914.15 2926.90 -9.24; setang -0.00 134.67 0.00><Area 52878>" with "shotgun_spas" (headshot)
+L 05/09/2013 - 14:54:41: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><99+0><setpos_exact 2715.32 3140.27 36.40; setang 358.50 313.52 0.00><Area 48329>" killed "infected<239><><Infected><infected><DEAD><-18><setpos_exact 2943.87 2943.11 -7.97; setang -0.00 139.98 0.00><Area 53458>" with "shotgun_spas"
+L 05/09/2013 - 14:54:41: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><99+0><setpos_exact 2715.32 3140.27 36.40; setang 2.43 313.52 0.00><Area 48329>" killed "infected<123><><Infected><infected><DEAD><5><setpos_exact 2909.02 2928.26 -17.75; setang 0.00 127.25 0.00><Area 52878>" with "shotgun_spas" (headshot)
+L 05/09/2013 - 14:54:41: (TONGUE) Tongue grab starting.  Smoker:"Smoker<12><BOT><Infected><SMOKER><ALIVE><40+0><setpos_exact 2164.50 3271.69 46.69; setang 3.42 0.75 0.00><Area 92302>". Victim:"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><85+0><setpos_exact 2643.53 3277.94 30.30; setang 64.22 -132.49 0.00><Area 50501>".
+L 05/09/2013 - 14:54:41: ------------------------------ Director state change BUILD_UP -> SUSTAIN_PEAK
+L 05/09/2013 - 14:54:41: 255.77: (MOB) Mob zombie spawned, 5 remain.
+L 05/09/2013 - 14:54:41: 255.77: (MOB) Mob zombie spawned, 4 remain.
+L 05/09/2013 - 14:54:41: 255.77: (MOB) Mob zombie spawned, 3 remain.
+L 05/09/2013 - 14:54:41: 255.77: (MOB) Mob zombie spawned, 2 remain.
+L 05/09/2013 - 14:54:41: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><97+0><setpos_exact 2734.84 3003.36 54.03; setang 0.62 346.33 0.00><Area 51250>" killed "infected<262><><Infected><infected><DEAD><-18><setpos_exact 3008.21 2946.78 -7.98; setang -0.00 171.58 0.00><Area 197219>" with "shotgun_spas"
+L 05/09/2013 - 14:54:43: 257.33: (MOB) Mob zombie spawned, 1 remain.
+L 05/09/2013 - 14:54:43: 257.33: (MOB) Mob zombie spawned, 0 remain.
+L 05/09/2013 - 14:54:43: 257.33: (MOB) Pending mob done.
+L 05/09/2013 - 14:54:44: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><96+0><setpos_exact 2840.56 3188.32 54.03; setang 17.54 259.02 0.00><Area 50555>" killed "infected<333><><Infected><infected><DEAD><-7><setpos_exact 2823.32 3082.98 -39.97; setang -0.00 91.73 0.00><Area 47909>" with "rifle_ak47"
+L 05/09/2013 - 14:54:44: (TONGUE) Tongue choke starting.  Smoker:"Smoker<12><BOT><Infected><SMOKER><ALIVE><40+0><setpos_exact 2164.50 3271.69 46.69; setang 0.00 180.00 0.00><Area 92302>". Victim:"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><81+0><setpos_exact 2196.54 3270.76 47.14; setang 32.28 -175.59 0.00><Area 92327>".
+L 05/09/2013 - 14:54:44: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><96+0><setpos_exact 2820.71 3137.14 42.74; setang 8.96 283.37 0.00><Area 50548>" killed "infected<342><><Infected><infected><DEAD><-7><setpos_exact 2874.47 2914.82 -49.33; setang 0.00 141.61 0.00><Area 47656>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 14:54:44: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><94+0><setpos_exact 2820.71 3137.14 42.74; setang 5.48 302.25 0.00><Area 50548>" killed "infected<328><><Infected><infected><DEAD><-7><setpos_exact 2859.71 3006.74 -39.97; setang -0.00 105.11 0.00><Area 50570>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 14:54:44: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><94+0><setpos_exact 2820.71 3137.14 42.74; setang 22.89 330.75 0.00><Area 50548>" killed "infected<299><><Infected><infected><DEAD><-7><setpos_exact 2844.83 3099.47 -20.28; setang 0.00 163.87 0.00><Area 50559>" with "rifle_ak47"
+L 05/09/2013 - 14:54:45: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><96+0><setpos_exact 2840.56 3188.32 54.03; setang 31.70 250.13 0.00><Area 50555>" killed "infected<216><><Infected><infected><DEAD><-7><setpos_exact 2811.28 3107.30 -39.97; setang 0.00 72.47 0.00><Area 47909>" with "rifle_ak47"
+L 05/09/2013 - 14:54:45: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><97+0><setpos_exact 2696.82 3041.04 54.03; setang 22.82 28.23 0.00><Area 51252>" killed "infected<337><><Infected><infected><DEAD><-7><setpos_exact 2799.58 3108.11 -39.98; setang 0.00 62.79 0.00><Area 47909>" with "shotgun_spas"
+L 05/09/2013 - 14:54:45: ------------------------------ Director state change SUSTAIN_PEAK -> PEAK_FADE
+L 05/09/2013 - 14:54:46: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><95+0><setpos_exact 2696.82 3041.04 54.03; setang 43.11 330.70 0.00><Area 51252>" killed "infected<335><><Infected><infected><DEAD><-85><setpos_exact 2725.85 3033.27 -7.97; setang 0.00 165.01 0.00><Area 50525>" with "shotgun_spas"
+L 05/09/2013 - 14:54:47: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><96+0><setpos_exact 2840.56 3188.32 54.03; setang 31.98 248.97 0.00><Area 50555>" killed "infected<293><><Infected><infected><DEAD><-7><setpos_exact 2801.18 3101.31 -39.97; setang 0.00 106.08 0.00><Area 47909>" with "rifle_ak47"
+L 05/09/2013 - 14:54:47: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><95+0><setpos_exact 2696.82 3041.04 54.03; setang 21.47 20.82 0.00><Area 51252>" killed "infected<339><><Infected><infected><DEAD><-3><setpos_exact 2771.65 3087.04 -39.63; setang 0.00 182.93 0.00><Area 47909>" with "shotgun_spas" (headshot)
+L 05/09/2013 - 14:54:47: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><95+0><setpos_exact 2696.82 3041.04 54.03; setang 21.47 20.82 0.00><Area 51252>" killed "infected<240><><Infected><infected><DEAD><-1><setpos_exact 2821.27 3071.62 -39.97; setang 0.00 93.66 0.00><Area 47973>" with "shotgun_spas"
+L 05/09/2013 - 14:54:47: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><95+0><setpos_exact 2702.32 3038.67 54.03; setang 16.67 16.58 0.00><Area 51252>" killed "infected<261><><Infected><infected><DEAD><-12><setpos_exact 2857.15 3130.09 -7.97; setang 0.00 166.51 0.00><Area 50575>" with "shotgun_spas"
+L 05/09/2013 - 14:54:48: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><96+0><setpos_exact 2822.10 3184.02 54.03; setang 16.88 274.29 0.00><Area 50555>" killed "infected<197><><Infected><infected><DEAD><-33><setpos_exact 2834.08 3110.51 -21.78; setang -0.00 118.28 0.00><Area 50558>" with "rifle_ak47"
+L 05/09/2013 - 14:54:48: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><96+0><setpos_exact 2805.56 3191.93 52.26; setang 357.20 305.35 0.00><Area 50550>" killed "infected<304><><Infected><infected><DEAD><-29><setpos_exact 2882.30 3078.52 -4.24; setang -0.00 113.97 0.00><Area 50580>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 14:54:48: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><96+0><setpos_exact 2808.59 3202.68 54.03; setang 1.05 304.68 0.00><Area 50550>" killed "infected<121><><Infected><infected><DEAD><-32><setpos_exact 2877.61 3113.77 -7.97; setang -0.00 293.60 0.00><Area 50574>" with "rifle_ak47"
+L 05/09/2013 - 14:54:48: "Spitter<10><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 14:54:49: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><91+0><setpos_exact 2785.67 3212.77 51.21; setang 38.77 275.86 -1.68><Area 50534>" killed "infected<338><><Infected><infected><DEAD><-7><setpos_exact 2788.34 3110.78 -39.88; setang 0.00 103.92 0.00><Area 47909>" with "rifle_ak47"
+L 05/09/2013 - 14:54:49: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><95+0><setpos_exact 2609.97 3251.26 22.35; setang 358.90 331.50 0.00><Area 47905>" killed "infected<191><><Infected><infected><DEAD><-18><setpos_exact 2904.12 3087.59 -7.97; setang -0.00 197.17 0.00><Area 50590>" with "shotgun_spas"
+L 05/09/2013 - 14:54:50: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><95+0><setpos_exact 2517.20 3278.82 22.89; setang 1.24 327.38 0.00><Area 52359>" killed "infected<340><><Infected><infected><DEAD><-15><setpos_exact 2844.92 3073.68 -28.98; setang 0.00 218.06 0.00><Area 50559>" with "shotgun_spas" (headshot)
+L 05/09/2013 - 14:54:51: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><91+0><setpos_exact 2642.19 3289.72 39.22; setang 28.95 297.30 0.00><Area 50501>" killed "infected<190><><Infected><infected><DEAD><-30><setpos_exact 2702.46 3199.65 -39.54; setang 0.00 99.91 0.00><Area 47907>" with "rifle_ak47"
+L 05/09/2013 - 14:54:51: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><96+0><setpos_exact 2292.18 3352.31 43.58; setang 8.60 227.98 0.00><Area 92331>" killed "infected<214><><Infected><infected><DEAD><-7><setpos_exact 2227.59 3293.43 -17.97; setang 0.00 215.95 0.00><Area 92305>" with "rifle_ak47"
+L 05/09/2013 - 14:54:51: (INCAP) "Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><INCAP><1+0><setpos_exact 2196.54 3270.97 24.35; setang 31.68 36.05 0.00><Area 92327>" is incapacitated
+L 05/09/2013 - 14:54:51: (INCAP)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><INCAP><300+0><setpos_exact 2196.54 3270.97 24.35; setang 31.68 36.05 0.00><Area 92327>" was incapped by "infected<217><><Infected><infected><ALIVE><50><setpos_exact 2171.86 3241.94 -13.78; setang 0.00 49.63 0.00><Area 92326>" with ""
+L 05/09/2013 - 14:54:52: (TONGUE) Tongue letting go for taking too much damage.  Smoker:"Smoker<12><BOT><Infected><SMOKER><ALIVE><-22+0><setpos_exact 2164.50 3271.69 46.69; setang 39.11 358.34 0.00><Area 92302>". Victim:"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><INCAP><300+0><setpos_exact 2196.54 3270.97 24.69; setang 31.68 36.05 0.00><Area 92327>".
+L 05/09/2013 - 14:54:52: (TONGUE) Tongue choke ending.  Smoker:"Smoker<12><BOT><Infected><SMOKER><ALIVE><-22+0><setpos_exact 2164.50 3271.69 46.69; setang 39.11 358.34 0.00><Area 92302>". Victim:"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><INCAP><300+0><setpos_exact 2196.54 3270.97 24.69; setang 31.68 36.05 0.00><Area 92327>".
+L 05/09/2013 - 14:54:52: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><95+0><setpos_exact 2229.67 3231.38 49.12; setang 19.74 129.92 0.00><Area 388232>" killed "Smoker<12><BOT><Infected><SMOKER><DEAD><1+0><setpos 2164.50 3271.69 -15.31; setang 301.22 328.26 0.00><Area 92302>" with "shotgun_spas"
+L 05/09/2013 - 14:54:52: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><91+0><setpos_exact 2334.61 3347.24 40.20; setang 359.32 207.75 0.00><Area 53531>" killed "infected<217><><Infected><infected><DEAD><-7><setpos_exact 2161.53 3243.95 -13.78; setang -0.00 79.65 0.00><Area 92326>" with "rifle_ak47"
+L 05/09/2013 - 14:54:53: (INCAP) "Rochelle<4><BOT><Survivor><Producer><ALIVE><96+0><setpos_exact 2215.03 3353.02 26.05; setang 347.34 257.22 0.00><Area 388229>" starts reviving "Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><INCAP><300+0><setpos_exact 2196.42 3270.97 8.36; setang 31.
+L 05/09/2013 - 14:54:53: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><91+0><setpos_exact 2284.20 3367.04 53.40; setang 7.04 229.59 0.00><Area 92331>" killed "infected<256><><Infected><infected><DEAD><-7><setpos_exact 2193.52 3252.63 -17.97; setang -0.00 70.01 0.00><Area 92327>" with "rifle_ak47"
+L 05/09/2013 - 14:54:54: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><91+0><setpos_exact 2284.20 3367.04 53.40; setang 11.29 347.02 0.00><Area 92331>" killed "infected<279><><Infected><infected><DEAD><-6><setpos_exact 2542.18 3295.99 -38.82; setang 0.00 166.45 0.00><Area 52359>" with "rifle_ak47"
+L 05/09/2013 - 14:54:55: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><91+0><setpos_exact 2284.20 3367.04 53.40; setang 7.77 340.53 0.00><Area 92331>" killed "infected<343><><Infected><infected><DEAD><-6><setpos_exact 2675.08 3231.67 -39.99; setang 0.00 141.56 0.00><Area 47907>" with "rifle_ak47"
+L 05/09/2013 - 14:54:55: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><91+0><setpos_exact 2284.20 3367.04 53.40; setang 5.83 328.57 0.00><Area 92331>" killed "infected<237><><Infected><infected><DEAD><-5><setpos_exact 2818.37 3051.28 -39.97; setang 0.00 185.80 0.00><Area 50560>" with "rifle_ak47"
+L 05/09/2013 - 14:55:01: "Smoker<12><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 14:55:03: ------------------------------ Director state change PEAK_FADE -> RELAX
+L 05/09/2013 - 14:55:13: "Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><80+0><setpos_exact 2196.42 3270.97 46.36; setang 18.61 -75.03 0.00><Area 92327>" called vote "ChangeDifficulty Impossible"
+L 05/09/2013 - 14:55:13: Vote succeeded "ChangeDifficulty #L4D_DifficultyImpossible"
+L 05/09/2013 - 14:55:17: (INCAP) "Coach<5><BOT><Survivor><Coach><INCAP><4+0><setpos_exact 2222.11 3228.68 50.92; setang 359.53 198.02 0.00><Area 92325>" is incapacitated
+L 05/09/2013 - 14:55:17: (INCAP)"Coach<5><BOT><Survivor><Coach><INCAP><300+0><setpos_exact 2222.11 3228.68 50.92; setang 359.53 198.02 0.00><Area 92325>" was incapped by "Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><80+0><setpos_exact 2182.88 3054.92 54.02; setang 10.43 78.45 0.00><Area 197306>" with "shotgun_spas"
+L 05/09/2013 - 14:55:18: (INCAP) "Rochelle<4><BOT><Survivor><Producer><ALIVE><96+0><setpos_exact 2267.98 3221.72 54.03; setang 32.55 211.26 0.00><Area 52938>" starts reviving "Coach<5><BOT><Survivor><Coach><INCAP><288+0><setpos_exact 2222.11 3228.68 12.92; setang 347.51 253.68 -19.98><A
+L 05/09/2013 - 14:55:33: ------------------------------ Director state change RELAX -> BUILD_UP
+L 05/09/2013 - 14:55:33: "Charger<13><BOT><>" connected, address "none"
+L 05/09/2013 - 14:55:33: FinishClientPutInServer (13): looking for bots to take over
+L 05/09/2013 - 14:55:33: "Charger<13><BOT><>" entered the game
+L 05/09/2013 - 14:55:33: "Charger<13><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 14:55:33: Charger spawned as a CHARGER
+L 05/09/2013 - 14:55:33: "Charger<13><BOT><Infected><CHARGER><ALIVE><600+0><setpos_exact 1262.50 3612.50 38.72; setang 0.00 0.00 0.00><Area 50037>" spawned
+L 05/09/2013 - 14:55:33: "Jockey<14><BOT><>" connected, address "none"
+L 05/09/2013 - 14:55:33: FinishClientPutInServer (14): looking for bots to take over
+L 05/09/2013 - 14:55:33: "Jockey<14><BOT><>" entered the game
+L 05/09/2013 - 14:55:33: "Jockey<14><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 14:55:33: Jockey spawned as a JOCKEY
+L 05/09/2013 - 14:55:33: "Jockey<14><BOT><Infected><JOCKEY><ALIVE><325+0><setpos_exact 1337.50 3687.50 49.47; setang 0.00 0.00 0.00><Area 50107>" spawned
+L 05/09/2013 - 14:55:43: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><91+0><setpos_exact 2031.21 2954.38 54.02; setang 2.59 354.90 0.00><Area 197314>" killed "Charger<13><BOT><Infected><CHARGER><DEAD><1+0><setpos 2063.24 2951.63 -4.05; setang 284.99 175.09 0.00><Area 197302>" with "rifle_ak47"
+L 05/09/2013 - 14:55:43: "Hunter<15><BOT><>" connected, address "none"
+L 05/09/2013 - 14:55:43: FinishClientPutInServer (15): looking for bots to take over
+L 05/09/2013 - 14:55:43: "Hunter<15><BOT><>" entered the game
+L 05/09/2013 - 14:55:43: "Hunter<15><BOT><Unassigned>" joined team "Spectator"
+L 05/09/2013 - 14:55:43: Hunter spawned as a Unknown
+L 05/09/2013 - 14:55:43: "Hunter<15><BOT><Spectator><><DEAD><1+0><setpos 4336.00 2048.00 -1.97; setang 0.00 180.00 0.00><Area 283881>" spawned
+L 05/09/2013 - 14:55:43: "Spitter<16><BOT><>" connected, address "none"
+L 05/09/2013 - 14:55:43: FinishClientPutInServer (16): looking for bots to take over
+L 05/09/2013 - 14:55:43: "Spitter<16><BOT><>" entered the game
+L 05/09/2013 - 14:55:43: "Spitter<16><BOT><Unassigned>" joined team "Spectator"
+L 05/09/2013 - 14:55:43: Spitter spawned as a Unknown
+L 05/09/2013 - 14:55:43: "Spitter<16><BOT><Spectator><><DEAD><1+0><setpos 4336.00 2048.00 0.00; setang 0.00 180.00 0.00><Area 283881>" spawned
+L 05/09/2013 - 14:55:43: "Boomer<17><BOT><>" connected, address "none"
+L 05/09/2013 - 14:55:43: FinishClientPutInServer (17): looking for bots to take over
+L 05/09/2013 - 14:55:43: "Boomer<17><BOT><>" entered the game
+L 05/09/2013 - 14:55:43: "Boomer<17><BOT><Unassigned>" joined team "Spectator"
+L 05/09/2013 - 14:55:43: Boomer spawned as a Unknown
+L 05/09/2013 - 14:55:43: "Boomer<17><BOT><Spectator><><DEAD><1+0><setpos 4336.00 2048.00 0.00; setang 0.00 180.00 0.00><Area 283881>" spawned
+L 05/09/2013 - 14:55:43: "Smoker<18><BOT><>" connected, address "none"
+L 05/09/2013 - 14:55:43: FinishClientPutInServer (18): looking for bots to take over
+L 05/09/2013 - 14:55:43: "Smoker<18><BOT><>" entered the game
+L 05/09/2013 - 14:55:43: "Smoker<18><BOT><Unassigned>" joined team "Spectator"
+L 05/09/2013 - 14:55:43: Smoker spawned as a Unknown
+L 05/09/2013 - 14:55:43: "Smoker<18><BOT><Spectator><><DEAD><1+0><setpos 4336.00 2048.00 0.00; setang 0.00 180.00 0.00><Area 283881>" spawned
+L 05/09/2013 - 14:55:43: "Hunter<15><BOT><Spectator>" disconnected (reason "Kicked by Console : infected team is full")
+L 05/09/2013 - 14:55:43: "Spitter<16><BOT><Spectator>" disconnected (reason "Kicked by Console : infected team is full")
+L 05/09/2013 - 14:55:43: "Boomer<17><BOT><Spectator>" disconnected (reason "Kicked by Console : infected team is full")
+L 05/09/2013 - 14:55:43: "Smoker<18><BOT><Spectator>" disconnected (reason "Kicked by Console : infected team is full")
+L 05/09/2013 - 14:55:46: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><91+0><setpos_exact 2153.04 3092.24 54.02; setang 11.69 105.93 0.00><Area 197306>" killed "Jockey<14><BOT><Infected><JOCKEY><DEAD><1+0><setpos 2124.71 3158.30 -7.97; setang 304.15 293.20 0.00><Area 197315>" with "rifle_ak47"
+L 05/09/2013 - 14:55:48: "Smoker<19><BOT><>" connected, address "none"
+L 05/09/2013 - 14:55:48: FinishClientPutInServer (19): looking for bots to take over
+L 05/09/2013 - 14:55:48: "Smoker<19><BOT><>" entered the game
+L 05/09/2013 - 14:55:48: "Smoker<19><BOT><Unassigned>" joined team "Spectator"
+L 05/09/2013 - 14:55:48: Smoker spawned as a Unknown
+L 05/09/2013 - 14:55:48: "Smoker<19><BOT><Spectator><><DEAD><1+0><setpos 4336.00 2048.00 -1.97; setang 0.00 180.00 0.00><Area 283881>" spawned
+L 05/09/2013 - 14:55:48: "Hunter<20><BOT><>" connected, address "none"
+L 05/09/2013 - 14:55:48: FinishClientPutInServer (20): looking for bots to take over
+L 05/09/2013 - 14:55:48: "Hunter<20><BOT><>" entered the game
+L 05/09/2013 - 14:55:48: "Hunter<20><BOT><Unassigned>" joined team "Spectator"
+L 05/09/2013 - 14:55:48: Hunter spawned as a Unknown
+L 05/09/2013 - 14:55:48: "Hunter<20><BOT><Spectator><><DEAD><1+0><setpos 4336.00 2048.00 0.00; setang 0.00 180.00 0.00><Area 283881>" spawned
+L 05/09/2013 - 14:55:48: "Spitter<21><BOT><>" connected, address "none"
+L 05/09/2013 - 14:55:48: FinishClientPutInServer (21): looking for bots to take over
+L 05/09/2013 - 14:55:48: "Spitter<21><BOT><>" entered the game
+L 05/09/2013 - 14:55:48: "Spitter<21><BOT><Unassigned>" joined team "Spectator"
+L 05/09/2013 - 14:55:48: Spitter spawned as a Unknown
+L 05/09/2013 - 14:55:48: "Spitter<21><BOT><Spectator><><DEAD><1+0><setpos 4336.00 2048.00 0.00; setang 0.00 180.00 0.00><Area 283881>" spawned
+L 05/09/2013 - 14:55:48: "Boomer<22><BOT><>" connected, address "none"
+L 05/09/2013 - 14:55:48: FinishClientPutInServer (22): looking for bots to take over
+L 05/09/2013 - 14:55:48: "Boomer<22><BOT><>" entered the game
+L 05/09/2013 - 14:55:48: "Boomer<22><BOT><Unassigned>" joined team "Spectator"
+L 05/09/2013 - 14:55:48: Boomer spawned as a Unknown
+L 05/09/2013 - 14:55:48: "Boomer<22><BOT><Spectator><><DEAD><1+0><setpos 4336.00 2048.00 0.00; setang 0.00 180.00 0.00><Area 283881>" spawned
+L 05/09/2013 - 14:55:48: "Smoker<19><BOT><Spectator>" disconnected (reason "Kicked by Console : infected team is full")
+L 05/09/2013 - 14:55:48: "Hunter<20><BOT><Spectator>" disconnected (reason "Kicked by Console : infected team is full")
+L 05/09/2013 - 14:55:48: "Spitter<21><BOT><Spectator>" disconnected (reason "Kicked by Console : infected team is full")
+L 05/09/2013 - 14:55:48: "Boomer<22><BOT><Spectator>" disconnected (reason "Kicked by Console : infected team is full")
+L 05/09/2013 - 14:55:52: "Charger<13><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 14:55:55: "Jockey<14><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 14:55:58: Tank rock models/props_debris/concrete_chunk01a.mdl
+L 05/09/2013 - 14:55:59: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><45+0><setpos_exact 2628.41 3227.86 22.08; setang 4.15 174.90 0.00><Area 47906>" killed "infected<210><><Infected><infected><DEAD><1><setpos_exact 2104.07 3236.66 -17.88; setang 0.00 351.72 0.00><Area 92315>" with "shotgun_spas" (headshot)
+L 05/09/2013 - 14:56:04: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><45+0><setpos_exact 2814.83 3062.80 22.03; setang 9.62 132.49 2.08><Area 47909>" killed "infected<208><><Infected><infected><DEAD><-11><setpos_exact 2685.28 3220.35 -39.97; setang 0.00 315.88 0.00><Area 47906>" with "shotgun_spas"
+L 05/09/2013 - 14:56:06: Tank rock models/props_debris/concrete_chunk01a.mdl
+L 05/09/2013 - 14:56:09: (INCAP)"Tank<11><BOT><Infected><TANK><INCAP><46+0><setpos_exact 2849.89 2921.80 22.03; setang 350.96 248.05 0.00><Area 47656>" was incapped by "Rochelle<4><BOT><Survivor><Producer><ALIVE><87+0><setpos_exact 2696.99 2504.69 37.43; setang 2.35 69.25 0.00><Area 51230>" with "rifle_ak47"
+L 05/09/2013 - 14:56:11: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><87+0><setpos_exact 2493.47 2417.01 37.03; setang 6.79 53.22 0.00><Area 52385>" killed "Tank<11><BOT><Infected><TANK><DEAD><1+0><setpos 2816.27 2843.08 -39.97; setang 344.37 248.30 -20.00><Area 47656>" with "rifle_ak47"
+L 05/09/2013 - 14:56:11: "Smoker<23><BOT><>" connected, address "none"
+L 05/09/2013 - 14:56:11: FinishClientPutInServer (23): looking for bots to take over
+L 05/09/2013 - 14:56:11: "Smoker<23><BOT><>" entered the game
+L 05/09/2013 - 14:56:11: "Smoker<23><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 14:56:11: Smoker spawned as a SMOKER
+L 05/09/2013 - 14:56:11: "Smoker<23><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 3462.50 2025.00 158.03; setang 0.00 0.00 0.00><Area 52888>" spawned
+L 05/09/2013 - 14:56:14: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><91+0><setpos_exact 2461.36 2452.22 22.03; setang 26.21 15.12 0.00><Area 52373>" killed "infected<209><><Infected><infected><DEAD><-17><setpos_exact 2512.90 2467.83 -39.97; setang 0.00 233.64 0.00><Area 52373>" with "rifle_ak47"
+L 05/09/2013 - 14:56:20: "Tank<11><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 14:56:21: (INCAP) "Coach<5><BOT><Survivor><Coach><INCAP><9+0><setpos_exact 2820.10 2844.65 22.03; setang 0.58 77.14 0.00><Area 47656>" is incapacitated
+L 05/09/2013 - 14:56:21: (INCAP)"Coach<5><BOT><Survivor><Coach><INCAP><300+0><setpos_exact 2820.10 2844.65 22.03; setang 0.58 77.14 0.00><Area 47656>" was incapped by "Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><96+0><setpos_exact 2846.83 3003.89 22.03; setang 4.89 -96.65 0.00><Area 47973>" with "shotgun_spas"
+L 05/09/2013 - 14:56:22: (INCAP) "Rochelle<4><BOT><Survivor><Producer><ALIVE><87+0><setpos_exact 2807.59 2849.14 30.45; setang 38.09 42.19 0.00><Area 47656>" starts reviving "Coach<5><BOT><Survivor><Coach><INCAP><264+0><setpos_exact 2820.10 2844.65 -15.97; setang 350.22 80.47 -19.90><Ar
+L 05/09/2013 - 14:56:26: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<23><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2576.69 2495.82 22.53; setang 0.55 56.12 0.00><Area 47922>". Victim:"Nick<3><BOT><Survivor><Gambler><ALIVE><7+0><setpos_exact 2841.80 2855.87 22.03; setang 0.92 88.68 0.00><Area 47656>".
+L 05/09/2013 - 14:56:26: (TONGUE) Tongue launching towards victim.  Smoker:"Smoker<23><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2596.35 2498.35 23.03; setang 0.66 58.51 0.00><Area 47922>". Victim:"Nick<3><BOT><Survivor><Gambler><ALIVE><7+0><setpos_exact 2841.80 2855.87 22.03; setang 0.92 88.68 0.00><Area 47656>".
+L 05/09/2013 - 14:56:26: (TONGUE) Tongue grab starting.  Smoker:"Smoker<23><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2596.35 2498.35 23.03; setang 0.68 58.94 0.00><Area 47922>". Victim:"Nick<3><BOT><Survivor><Gambler><ALIVE><7+0><setpos_exact 2841.80 2855.87 22.03; setang 0.92 88.68 0.00><Area 47656>".
+L 05/09/2013 - 14:56:28: "Hunter<24><BOT><>" connected, address "none"
+L 05/09/2013 - 14:56:28: FinishClientPutInServer (24): looking for bots to take over
+L 05/09/2013 - 14:56:28: "Hunter<24><BOT><>" entered the game
+L 05/09/2013 - 14:56:28: "Hunter<24><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 14:56:28: Hunter spawned as a HUNTER
+L 05/09/2013 - 14:56:28: "Hunter<24><BOT><Infected><HUNTER><ALIVE><250+0><setpos_exact 2301.81 3616.56 54.02; setang 0.00 0.00 0.00><Area 197259>" spawned
+L 05/09/2013 - 14:56:29: (TONGUE) Tongue choke starting.  Smoker:"Smoker<23><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2596.35 2498.35 23.03; setang 0.00 180.00 0.00><Area 47922>". Victim:"Nick<3><BOT><Survivor><Gambler><ALIVE><7+0><setpos_exact 2628.38 2522.47 22.99; setang 1.87 220.51 0.00><Area 47923>".
+L 05/09/2013 - 14:56:29: (TONGUE) Tongue took 23.848537 damage (was 100.000000/100.000000).  Smoker:"Smoker<23><BOT><Infected><SMOKER><ALIVE><227+0><setpos_exact 2596.35 2498.35 23.03; setang 34.86 126.66 0.00><Area 47922>". Victim:"Nick<3><BOT><Survivor><Gambler><ALIVE><7+0><setpos_exact 2628.36 2505.26 1.03; setang 338.42 198.10 0.00><Area 47923>".
+L 05/09/2013 - 14:56:29: (TONGUE) Tongue letting go for taking too much damage.  Smoker:"Smoker<23><BOT><Infected><SMOKER><ALIVE><198+0><setpos_exact 2596.35 2498.35 23.03; setang 34.86 126.66 0.00><Area 47922>". Victim:"Nick<3><BOT><Survivor><Gambler><ALIVE><7+0><setpos_exact 2628.36 2505.26 1.03; setang 338.42 198.10 0.00><Area 47923>".
+L 05/09/2013 - 14:56:29: (TONGUE) Tongue choke ending.  Smoker:"Smoker<23><BOT><Infected><SMOKER><ALIVE><198+0><setpos_exact 2596.35 2498.35 23.03; setang 34.86 126.66 0.00><Area 47922>". Victim:"Nick<3><BOT><Survivor><Gambler><ALIVE><7+0><setpos_exact 2628.36 2505.26 1.03; setang 338.42 198.10 0.00><Area 47923>".
+L 05/09/2013 - 14:56:29: (DEATH)"Coach<5><BOT><Survivor><Coach><LIMPING><1+29><setpos_exact 2757.48 2678.64 29.34; setang 2.16 228.43 0.00><Area 47786>" killed "Smoker<23><BOT><Infected><SMOKER><DEAD><1+0><setpos 2596.35 2498.35 -38.97; setang 331.68 48.21 0.00><Area 47922>" with "shotgun_spas"
+L 05/09/2013 - 14:56:31: 365.40: (MOB) SpawnMob requested of size 26.
+L 05/09/2013 - 14:56:31: 365.40: (MOB) SpawnMob pending count is now 26.
+L 05/09/2013 - 14:56:31: 365.40: (MOB) Mob zombie spawned, 25 remain.
+L 05/09/2013 - 14:56:31: 365.40: (MOB) Mob zombie spawned, 24 remain.
+L 05/09/2013 - 14:56:31: 365.40: (MOB) Mob zombie spawned, 23 remain.
+L 05/09/2013 - 14:56:31: "Boomer<25><BOT><>" connected, address "none"
+L 05/09/2013 - 14:56:31: FinishClientPutInServer (25): looking for bots to take over
+L 05/09/2013 - 14:56:31: "Boomer<25><BOT><>" entered the game
+L 05/09/2013 - 14:56:31: "Boomer<25><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 14:56:31: Boomer spawned as a BOOMER
+L 05/09/2013 - 14:56:31: "Boomer<25><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact 2311.97 3600.04 54.02; setang 0.00 0.00 0.00><Area 197259>" spawned
+L 05/09/2013 - 14:56:31: 365.43: (MOB) Mob zombie spawned, 22 remain.
+L 05/09/2013 - 14:56:31: 365.43: (MOB) Mob zombie spawned, 21 remain.
+L 05/09/2013 - 14:56:31: 365.47: (MOB) Mob zombie spawned, 20 remain.
+L 05/09/2013 - 14:56:31: 365.47: (MOB) Mob zombie spawned, 19 remain.
+L 05/09/2013 - 14:56:31: 365.47: (MOB) Mob zombie spawned, 18 remain.
+L 05/09/2013 - 14:56:31: 365.47: (MOB) Mob zombie spawned, 17 remain.
+L 05/09/2013 - 14:56:31: 365.50: (MOB) Mob zombie spawned, 16 remain.
+L 05/09/2013 - 14:56:31: 365.50: (MOB) Mob zombie spawned, 15 remain.
+L 05/09/2013 - 14:56:31: 365.50: (MOB) Mob zombie spawned, 14 remain.
+L 05/09/2013 - 14:56:31: 365.50: (MOB) Mob zombie spawned, 13 remain.
+L 05/09/2013 - 14:56:31: 365.53: (MOB) Mob zombie spawned, 12 remain.
+L 05/09/2013 - 14:56:31: 365.53: (MOB) Mob zombie spawned, 11 remain.
+L 05/09/2013 - 14:56:31: 365.53: (MOB) Mob zombie spawned, 10 remain.
+L 05/09/2013 - 14:56:31: 365.53: (MOB) Mob zombie spawned, 9 remain.
+L 05/09/2013 - 14:56:31: 365.57: (MOB) Mob zombie spawned, 8 remain.
+L 05/09/2013 - 14:56:31: 365.57: (MOB) Mob zombie spawned, 7 remain.
+L 05/09/2013 - 14:56:31: 365.57: (MOB) Mob zombie spawned, 6 remain.
+L 05/09/2013 - 14:56:31: 365.57: (MOB) Mob zombie spawned, 5 remain.
+L 05/09/2013 - 14:56:31: 365.60: (MOB) Mob zombie spawned, 4 remain.
+L 05/09/2013 - 14:56:31: 365.60: (MOB) Mob zombie spawned, 3 remain.
+L 05/09/2013 - 14:56:31: 365.60: (MOB) Mob zombie spawned, 2 remain.
+L 05/09/2013 - 14:56:31: 365.60: (MOB) Mob zombie spawned, 1 remain.
+L 05/09/2013 - 14:56:33: Hunter starting a pounce, 50 damage interrupts
+L 05/09/2013 - 14:56:34: Hunter ending a pounce
+L 05/09/2013 - 14:56:34: 368.27: (MOB) Mob zombie spawned, 0 remain.
+L 05/09/2013 - 14:56:34: 368.27: (MOB) Pending mob done.
+L 05/09/2013 - 14:56:34: Hunter starting a pounce, 50 damage interrupts
+L 05/09/2013 - 14:56:35: Hunter pounced on Swampy, 250 damage interrupts
+L 05/09/2013 - 14:56:35: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><7+0><setpos_exact 2832.71 2837.22 22.03; setang 5.71 10.28 0.00><Area 47656>" killed "Hunter<24><BOT><Infected><HUNTER><DEAD><1+0><setpos 2996.26 2864.95 -7.98; setang 335.95 189.62 0.00><Area 197219>" with "rifle_ak47"
+L 05/09/2013 - 14:56:38: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><7+0><setpos_exact 2832.71 2837.22 22.03; setang 11.99 265.35 0.00><Area 47656>" killed "infected<215><><Infected><infected><DEAD><-18><setpos_exact 2824.62 2737.64 -39.11; setang 0.00 57.38 0.00><Area 47910>" with "rifle_ak47"
+L 05/09/2013 - 14:56:38: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><7+0><setpos_exact 2832.71 2837.22 22.03; setang 12.26 263.84 0.00><Area 47656>" killed "infected<296><><Infected><infected><DEAD><-7><setpos_exact 2833.99 2737.64 -39.04; setang 0.00 57.62 0.00><Area 47910>" with "rifle_ak47"
+L 05/09/2013 - 14:56:38: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><87+0><setpos_exact 2843.19 2766.67 5.03; setang 3.44 265.65 0.00><Area 47910>" killed "infected<265><><Infected><infected><DEAD><-7><setpos_exact 2837.51 2708.36 -39.29; setang 0.00 39.06 0.00><Area 47910>" with "rifle_ak47"
+L 05/09/2013 - 14:56:38: "Smoker<23><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 14:56:38: (DEATH)"Coach<5><BOT><Survivor><Coach><LIMPING><1+26><setpos_exact 2875.88 2739.49 34.56; setang 33.78 214.81 0.00><Area 50603>" killed "infected<264><><Infected><infected><DEAD><-3><setpos_exact 2807.92 2680.47 -39.97; setang 0.00 43.06 0.00><Area 47786>" with "shotgun_spas"
+L 05/09/2013 - 14:56:39: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><7+0><setpos_exact 2832.71 2837.22 22.03; setang 11.97 270.71 0.00><Area 47656>" killed "infected<279><><Infected><infected><DEAD><-7><setpos_exact 2847.31 2700.93 -39.35; setang 0.00 47.60 0.00><Area 47910>" with "rifle_ak47"
+L 05/09/2013 - 14:56:39: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><7+0><setpos_exact 2857.60 2860.13 22.03; setang 14.02 260.51 0.00><Area 47656>" killed "infected<328><><Infected><infected><DEAD><-7><setpos_exact 2846.85 2739.18 -39.19; setang 0.00 25.51 0.00><Area 47910>" with "rifle_ak47"
+L 05/09/2013 - 14:56:40: (DEATH)"Coach<5><BOT><Survivor><Coach><LIMPING><1+26><setpos_exact 2875.88 2739.49 34.56; setang 4.40 254.39 0.00><Area 50603>" killed "infected<280><><Infected><infected><DEAD><-4><setpos_exact 2820.88 2604.31 -13.03; setang -0.00 79.12 0.00><Area 50608>" with "shotgun_spas" (headshot)
+L 05/09/2013 - 14:56:40: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><17+0><setpos_exact 2842.31 2772.10 23.03; setang 8.97 269.36 2.20><Area 47910>" killed "infected<324><><Infected><infected><DEAD><-7><setpos_exact 2846.85 2715.44 -39.43; setang 0.00 39.73 0.00><Area 50606>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 14:56:40: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><96+0><setpos_exact 3012.08 2859.20 54.02; setang 19.54 -150.11 0.00><Area 197219>" killed "infected<304><><Infected><infected><DEAD><-2><setpos_exact 2815.09 2731.36 -39.35; setang -0.00 56.09 0.00><Area 47910>" with "shotgun_spas"
+L 05/09/2013 - 14:56:40: (INCAP) "Rochelle<4><BOT><Survivor><Producer><INCAP><5+0><setpos_exact 2842.31 2772.10 23.03; setang 28.74 283.95 1.54><Area 47910>" is incapacitated
+L 05/09/2013 - 14:56:40: (INCAP)"Rochelle<4><BOT><Survivor><Producer><INCAP><300+0><setpos_exact 2842.31 2772.10 23.03; setang 28.74 283.95 1.54><Area 47910>" was incapped by "Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><96+0><setpos_exact 3012.08 2859.20 54.02; setang 19.54 -150.11 0.00><Area 197219>" with "shotgun_spas"
+L 05/09/2013 - 14:56:40: ------------------------------ Director state change BUILD_UP -> SUSTAIN_PEAK
+L 05/09/2013 - 14:56:41: (DEATH)"Coach<5><BOT><Survivor><Coach><LIMPING><1+26><setpos_exact 2872.35 2736.84 32.84; setang 33.38 218.81 0.00><Area 48338>" killed "infected<301><><Infected><infected><DEAD><-18><setpos_exact 2843.32 2721.36 -39.35; setang -0.00 72.49 0.00><Area 47910>" with "shotgun_spas"
+L 05/09/2013 - 14:56:41: (DEATH)"Coach<5><BOT><Survivor><Coach><LIMPING><1+26><setpos_exact 2872.35 2736.84 32.84; setang 33.38 218.81 0.00><Area 48338>" killed "infected<294><><Infected><infected><DEAD><-11><setpos_exact 2808.55 2685.09 -39.97; setang 0.00 53.27 0.00><Area 47786>" with "shotgun_spas"
+L 05/09/2013 - 14:56:42: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><7+0><setpos_exact 3010.70 2927.56 54.02; setang 15.77 213.52 0.00><Area 197219>" killed "infected<303><><Infected><infected><DEAD><-7><setpos_exact 2829.06 2806.10 -39.54; setang 0.00 291.30 0.00><Area 47656>" with "rifle_ak47"
+L 05/09/2013 - 14:56:42: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><7+0><setpos_exact 2999.26 2923.11 54.02; setang 17.41 215.98 0.00><Area 197219>" killed "infected<327><><Infected><infected><DEAD><-13><setpos_exact 2800.69 2752.93 -38.53; setang 0.00 24.73 0.00><Area 47910>" with "rifle_ak47"
+L 05/09/2013 - 14:56:42: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><7+0><setpos_exact 2992.01 2920.28 54.02; setang 16.75 224.47 0.00><Area 197219>" killed "infected<293><><Infected><infected><DEAD><-7><setpos_exact 2818.64 2750.09 -39.09; setang 0.00 47.76 0.00><Area 47910>" with "rifle_ak47"
+L 05/09/2013 - 14:56:43: (INCAP) "Coach<5><BOT><Survivor><Coach><INCAP><1+5><setpos_exact 2866.11 2744.93 23.39; setang 36.63 131.22 0.00><Area 48338>" is incapacitated
+L 05/09/2013 - 14:56:43: (INCAP)"Coach<5><BOT><Survivor><Coach><INCAP><300+5><setpos_exact 2866.11 2744.93 23.39; setang 36.63 131.22 0.00><Area 48338>" was incapped by "infected<325><><Infected><infected><ALIVE><16><setpos_exact 2837.08 2722.04 -39.18; setang -0.00 38.26 0.00><Area 47910>" with ""
+L 05/09/2013 - 14:56:43: (DEATH)"Rochelle<4><BOT><Survivor><Producer><INCAP><281+0><setpos_exact 2842.31 2772.10 -14.97; setang 344.57 270.33 -20.00><Area 47910>" killed "infected<325><><Infected><infected><DEAD><-2><setpos_exact 2837.08 2711.16 -39.27; setang -0.00 47.55 0.00><Area 47910>" with "pistol"
+L 05/09/2013 - 14:56:44: ------------------------------ Director state change SUSTAIN_PEAK -> PEAK_FADE
+L 05/09/2013 - 14:56:44: (INCAP) "Nick<3><BOT><Survivor><Gambler><ALIVE><7+0><setpos_exact 2871.92 2889.48 22.03; setang 353.17 234.45 0.00><Area 47656>" starts reviving "Rochelle<4><BOT><Survivor><Producer><INCAP><281+0><setpos_exact 2842.31 2772.10 -14.97; setang 335.50 283.84 -20.00>
+L 05/09/2013 - 14:56:44: (INCAP) "Nick<3><BOT><Survivor><Gambler><ALIVE><7+0><setpos_exact 2871.92 2889.48 22.03; setang 353.17 234.45 0.00><Area 47656>" stopped holding revive key and stops reviving "Rochelle<4><BOT><Survivor><Producer><INCAP><281+0><setpos_exact 2842.31 2772.10 -14.97
+L 05/09/2013 - 14:56:44: (DEATH)"Coach<5><BOT><Survivor><Coach><INCAP><290+5><setpos_exact 2866.11 2744.93 -14.61; setang 343.75 113.02 -20.00><Area 48338>" killed "infected<172><><Infected><infected><DEAD><-3><setpos_exact 2845.68 2788.37 -39.21; setang 0.00 299.41 0.00><Area 47656>" with "pistol"
+L 05/09/2013 - 14:56:44: (MOB) 15 wanderers grabbed for an IT mob of desired size 30.
+L 05/09/2013 - 14:56:44: 378.73: (MOB) SpawnITMob requested of size 15.
+L 05/09/2013 - 14:56:44: 378.73: (MOB) SpawnITMob will make 15.
+L 05/09/2013 - 14:56:44: 378.73: (MOB) Mob zombie spawned, 14 remain.
+L 05/09/2013 - 14:56:44: 378.73: (MOB) Mob zombie spawned, 13 remain.
+L 05/09/2013 - 14:56:44: 378.73: (MOB) Mob zombie spawned, 12 remain.
+L 05/09/2013 - 14:56:44: 378.73: (MOB) Mob zombie spawned, 11 remain.
+L 05/09/2013 - 14:56:44: 378.77: (MOB) Mob zombie spawned, 10 remain.
+L 05/09/2013 - 14:56:44: 378.77: (MOB) Mob zombie spawned, 9 remain.
+L 05/09/2013 - 14:56:44: 378.77: (MOB) Mob zombie spawned, 8 remain.
+L 05/09/2013 - 14:56:44: 378.77: (MOB) Mob zombie spawned, 7 remain.
+L 05/09/2013 - 14:56:44: "Hunter<24><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 14:56:44: 378.80: (MOB) Mob zombie spawned, 6 remain.
+L 05/09/2013 - 14:56:44: 378.80: (MOB) Mob zombie spawned, 5 remain.
+L 05/09/2013 - 14:56:44: 378.80: (MOB) Mob zombie spawned, 4 remain.
+L 05/09/2013 - 14:56:44: 378.80: (MOB) Mob zombie spawned, 3 remain.
+L 05/09/2013 - 14:56:44: (DEATH)"Rochelle<4><BOT><Survivor><Producer><INCAP><281+0><setpos_exact 2842.31 2772.10 -14.97; setang 336.29 293.10 -20.00><Area 47910>" killed "infected<300><><Infected><infected><DEAD><-1><setpos_exact 2865.48 2717.78 -30.02; setang 0.00 88.67 0.00><Area 50604>" with "pistol"
+L 05/09/2013 - 14:56:44: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><96+0><setpos_exact 3012.08 2859.20 54.02; setang 6.47 143.76 0.00><Area 197219>" killed "Boomer<25><BOT><Infected><BOOMER><DEAD><1+0><setpos 2668.18 3162.34 -16.46; setang 343.88 318.60 0.00><Area 50504>" with "shotgun_spas"
+L 05/09/2013 - 14:56:44: 378.97: (MOB) Mob zombie spawned, 2 remain.
+L 05/09/2013 - 14:56:44: 378.97: (MOB) Mob zombie spawned, 1 remain.
+L 05/09/2013 - 14:56:44: 378.97: (MOB) Mob zombie spawned, 0 remain.
+L 05/09/2013 - 14:56:44: 378.97: (MOB) Pending mob done.
+L 05/09/2013 - 14:56:45: (DEATH)"Coach<5><BOT><Survivor><Coach><INCAP><287+5><setpos_exact 2866.11 2744.93 -14.61; setang 341.33 109.28 -20.00><Area 48338>" killed "infected<326><><Infected><infected><DEAD><-2><setpos_exact 2855.41 2799.46 -39.37; setang 0.00 81.15 0.00><Area 47656>" with "pistol"
+L 05/09/2013 - 14:56:45: (INCAP) "Nick<3><BOT><Survivor><Gambler><INCAP><7+0><setpos_exact 2871.78 2878.05 22.03; setang 19.09 256.54 0.00><Area 47656>" is incapacitated
+L 05/09/2013 - 14:56:45: (INCAP)"Nick<3><BOT><Survivor><Gambler><INCAP><300+0><setpos_exact 2871.78 2878.05 22.03; setang 19.09 256.54 0.00><Area 47656>" was incapped by "infected<197><><Infected><infected><ALIVE><33><setpos_exact 2884.02 2849.02 -39.97; setang 0.00 112.87 0.00><Area 47656>" with ""
+L 05/09/2013 - 14:56:46: (DEATH)"Rochelle<4><BOT><Survivor><Producer><INCAP><275+0><setpos_exact 2842.31 2772.10 -14.97; setang 351.11 76.46 -20.00><Area 47910>" killed "infected<295><><Infected><infected><DEAD><-6><setpos_exact 2858.03 2857.27 -39.97; setang -0.00 57.59 0.00><Area 47656>" with "pistol"
+L 05/09/2013 - 14:56:46: (DEATH)"Rochelle<4><BOT><Survivor><Producer><INCAP><275+0><setpos_exact 2842.31 2772.10 -14.97; setang 351.35 75.95 -20.00><Area 47910>" killed "infected<192><><Infected><infected><DEAD><-2><setpos_exact 2867.51 2872.84 -39.97; setang 0.00 50.69 0.00><Area 47656>" with "pistol"
+L 05/09/2013 - 14:56:47: (DEATH)"Coach<5><BOT><Survivor><Coach><INCAP><269+4><setpos_exact 2866.11 2744.93 -14.61; setang 352.70 108.08 -20.00><Area 48338>" killed "infected<263><><Infected><infected><DEAD><-2><setpos_exact 2859.89 2790.00 -38.96; setang -0.00 78.46 0.00><Area 47910>" with "pistol"
+L 05/09/2013 - 14:56:47: (DEATH)"Coach<5><BOT><Survivor><Coach><INCAP><266+4><setpos_exact 2866.11 2744.93 -14.61; setang 352.70 108.08 -20.00><Area 48338>" killed "infected<262><><Infected><infected><DEAD><0><setpos_exact 2828.68 2859.59 -39.97; setang 0.00 23.18 0.00><Area 47656>" with "pistol"
+L 05/09/2013 - 14:56:49: (DEATH)"Nick<3><BOT><Survivor><Gambler><INCAP><248+0><setpos_exact 2871.78 2878.05 -15.97; setang 344.20 267.56 -20.00><Area 47656>" killed "infected<297><><Infected><infected><DEAD><-8><setpos_exact 2872.99 2842.42 -39.97; setang -0.00 86.37 0.00><Area 47656>" with "pistol"
+L 05/09/2013 - 14:56:50: (DEATH)"Nick<3><BOT><Survivor><Gambler><INCAP><248+0><setpos_exact 2871.78 2878.05 -15.97; setang 335.42 234.82 -20.00><Area 47656>" killed "infected<261><><Infected><infected><DEAD><-2><setpos_exact 2846.26 2851.62 -39.97; setang 0.00 46.00 0.00><Area 47656>" with "pistol"
+L 05/09/2013 - 14:56:50: (DEATH)"Rochelle<4><BOT><Survivor><Producer><INCAP><251+0><setpos_exact 2842.31 2772.10 -14.97; setang 354.71 69.42 -20.00><Area 47910>" killed "infected<349><><Infected><infected><DEAD><17><setpos_exact 2902.74 2905.54 -21.56; setang -0.00 222.92 0.00><Area 52878>" with "pistol" (headshot)
+L 05/09/2013 - 14:56:51: (DEATH)"Rochelle<4><BOT><Survivor><Producer><INCAP><248+0><setpos_exact 2842.31 2772.10 -14.97; setang 347.88 63.46 -20.00><Area 47910>" killed "infected<351><><Infected><infected><DEAD><0><setpos_exact 2894.27 2874.94 -28.31; setang 0.00 172.33 0.00><Area 47656>" with "pistol"
+L 05/09/2013 - 14:56:51: (DEATH)"Nick<3><BOT><Survivor><Gambler><INCAP><222+0><setpos_exact 2871.78 2878.05 -15.97; setang 327.57 289.26 -20.00><Area 47656>" killed "infected<350><><Infected><infected><DEAD><-1><setpos_exact 2880.50 2853.08 -39.97; setang 0.00 109.26 0.00><Area 47656>" with "pistol"
+L 05/09/2013 - 14:56:52: (DEATH)"Coach<5><BOT><Survivor><Coach><INCAP><254+3><setpos_exact 2866.11 2744.93 -14.61; setang 344.87 69.83 -20.00><Area 48338>" killed "infected<332><><Infected><infected><DEAD><-1><setpos_exact 2895.10 2826.89 -26.49; setang 0.00 117.35 0.00><Area 47656>" with "pistol"
+L 05/09/2013 - 14:56:52: (DEATH)"Rochelle<4><BOT><Survivor><Producer><INCAP><245+0><setpos_exact 2842.31 2772.10 -14.97; setang 337.65 45.02 -20.00><Area 47910>" killed "infected<304><><Infected><infected><DEAD><0><setpos_exact 2916.07 2843.01 -11.86; setang 0.00 141.66 0.00><Area 52877>" with "pistol"
+L 05/09/2013 - 14:56:53: (DEATH)"Rochelle<4><BOT><Survivor><Producer><INCAP><245+0><setpos_exact 2842.31 2772.10 -14.97; setang 344.62 53.70 -20.00><Area 47910>" killed "infected<338><><Infected><infected><DEAD><0><setpos_exact 2909.21 2867.14 -18.30; setang 0.00 174.13 0.00><Area 52877>" with "pistol"
+L 05/09/2013 - 14:56:53: (DEATH)"Nick<3><BOT><Survivor><Gambler><INCAP><196+0><setpos_exact 2871.78 2878.05 -15.97; setang 315.09 14.79 -20.00><Area 47656>" killed "infected<335><><Infected><infected><DEAD><-17><setpos_exact 2908.34 2887.87 -18.80; setang 0.00 196.18 0.00><Area 52878>" with "pistol"
+L 05/09/2013 - 14:56:53: "Boomer<25><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 14:56:54: (DEATH)"Nick<3><BOT><Survivor><Gambler><INCAP><196+0><setpos_exact 2871.78 2878.05 -15.97; setang 325.74 49.16 -20.00><Area 47656>" killed "infected<296><><Infected><infected><DEAD><-1><setpos_exact 2877.44 2899.12 -39.97; setang 0.00 254.95 0.00><Area 47656>" with "pistol"
+L 05/09/2013 - 14:56:54: (DEATH)"Nick<3><BOT><Survivor><Gambler><INCAP><196+0><setpos_exact 2871.78 2878.05 -15.97; setang 325.75 51.64 -20.00><Area 47656>" killed "infected<294><><Infected><infected><DEAD><0><setpos_exact 2899.06 2893.39 -23.76; setang -0.00 210.22 0.00><Area 47656>" with "pistol"
+L 05/09/2013 - 14:56:54: (DEATH)"Rochelle<4><BOT><Survivor><Producer><INCAP><239+0><setpos_exact 2842.31 2772.10 -14.97; setang 347.34 66.91 -20.00><Area 47910>" killed "infected<334><><Infected><infected><DEAD><0><setpos_exact 2905.84 2921.08 -19.41; setang 0.00 231.64 0.00><Area 52878>" with "pistol"
+L 05/09/2013 - 14:56:54: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><96+0><setpos_exact 2972.97 2772.51 36.03; setang 13.93 133.79 0.00><Area 52882>" killed "infected<299><><Infected><infected><DEAD><-10><setpos_exact 2842.03 2918.45 -39.97; setang 0.00 306.36 0.00><Area 47656>" with "shotgun_spas"
+L 05/09/2013 - 14:56:55: (DEATH)"Nick<3><BOT><Survivor><Gambler><INCAP><183+0><setpos_exact 2871.78 2878.05 -15.97; setang 320.11 85.80 -20.00><Area 47656>" killed "infected<340><><Infected><infected><DEAD><-14><setpos_exact 2878.49 2911.82 -39.97; setang -0.00 213.94 0.00><Area 47656>" with "pistol"
+L 05/09/2013 - 14:56:55: (DEATH)"Rochelle<4><BOT><Survivor><Producer><INCAP><239+0><setpos_exact 2842.31 2772.10 -14.97; setang 351.53 77.64 -20.00><Area 47910>" killed "infected<337><><Infected><infected><DEAD><17><setpos_exact 2875.14 2917.80 -39.97; setang 0.00 265.16 0.00><Area 47656>" with "pistol" (headshot)
+L 05/09/2013 - 14:56:55: (DEATH)"Coach<5><BOT><Survivor><Coach><INCAP><242+2><setpos_exact 2866.11 2744.93 -14.61; setang 351.41 101.34 -20.00><Area 48338>" killed "infected<197><><Infected><infected><DEAD><-15><setpos_exact 2846.00 2845.19 -39.97; setang -0.00 51.88 0.00><Area 47656>" with "pistol"
+L 05/09/2013 - 14:56:56: (DEATH)"Coach<5><BOT><Survivor><Coach><INCAP><242+2><setpos_exact 2866.11 2744.93 -14.61; setang 353.30 108.36 -20.00><Area 48338>" killed "infected<324><><Infected><infected><DEAD><-17><setpos_exact 2824.66 2869.78 -39.97; setang 0.00 9.95 0.00><Area 47656>" with "pistol" (headshot)
+L 05/09/2013 - 14:56:56: (DEATH)"Coach<5><BOT><Survivor><Coach><INCAP><242+1><setpos_exact 2866.11 2744.93 -14.61; setang 350.27 106.62 -20.00><Area 48338>" killed "infected<333><><Infected><infected><DEAD><-14><setpos_exact 2802.30 2942.42 -31.33; setang -0.00 317.32 0.00><Area 47656>" with "pistol"
+L 05/09/2013 - 14:56:58: (INCAP) "Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><96+0><setpos_exact 2837.04 2778.94 22.98; setang 54.12 -152.62 0.00><Area 47656>" starts reviving "Rochelle<4><BOT><Survivor><Producer><INCAP><230+0><setpos_exact 2842.31 2772.10 -14.97; setang 34
+L 05/09/2013 - 14:56:58: (DEATH)"Nick<3><BOT><Survivor><Gambler><INCAP><151+0><setpos_exact 2871.78 2878.05 -15.97; setang 334.83 146.10 -20.00><Area 47656>" killed "infected<339><><Infected><infected><DEAD><-14><setpos_exact 2838.44 2903.05 -39.97; setang -0.00 326.10 0.00><Area 47656>" with "pistol"
+L 05/09/2013 - 14:56:59: (DEATH)"Rochelle<4><BOT><Survivor><Producer><INCAP><230+0><setpos_exact 2842.31 2772.10 -10.44; setang 353.75 89.53 -20.00><Area 47910>" killed "infected<256><><Infected><infected><DEAD><-1><setpos_exact 2843.15 2876.30 -39.97; setang 0.00 3.48 0.00><Area 47656>" with "pistol"
+L 05/09/2013 - 14:56:59: (DEATH)"Coach<5><BOT><Survivor><Coach><INCAP><230+1><setpos_exact 2866.11 2744.93 -14.61; setang 351.44 86.61 -20.00><Area 48338>" killed "infected<238><><Infected><infected><DEAD><-1><setpos_exact 2873.78 2841.18 -39.97; setang 0.00 95.16 0.00><Area 47656>" with "pistol"
+L 05/09/2013 - 14:57:00: (DEATH)"Coach<5><BOT><Survivor><Coach><INCAP><230+0><setpos_exact 2866.11 2744.93 -14.61; setang 351.62 81.94 -20.00><Area 48338>" killed "infected<195><><Infected><infected><DEAD><-1><setpos_exact 2880.81 2848.72 -39.97; setang 0.00 107.12 0.00><Area 47656>" with "pistol"
+L 05/09/2013 - 14:57:00: (DEATH)"Nick<3><BOT><Survivor><Gambler><INCAP><135+0><setpos_exact 2871.78 2878.05 -15.97; setang 337.07 224.02 -20.00><Area 47656>" killed "infected<240><><Infected><infected><DEAD><-2><setpos_exact 2843.22 2850.45 -39.97; setang 0.00 44.02 0.00><Area 47656>" with "pistol"
+L 05/09/2013 - 14:57:03: (INCAP) "Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><96+0><setpos_exact 2831.45 2890.32 22.03; setang 60.92 -18.97 0.00><Area 47656>" starts reviving "Nick<3><BOT><Survivor><Gambler><INCAP><129+0><setpos_exact 2871.78 2878.05 -15.97; setang 296.52 2
+L 05/09/2013 - 14:57:03: (INCAP) "Rochelle<4><BOT><Survivor><Producer><LIMPING><1+29><setpos_exact 2849.25 2769.11 23.03; setang 41.56 345.35 -5.85><Area 47910>" starts reviving "Coach<5><BOT><Survivor><Coach><INCAP><221+0><setpos_exact 2866.11 2744.93 -14.61; setang 351.86 81.13 -20.00
+L 05/09/2013 - 14:57:08: ------------------------------ Director state change PEAK_FADE -> RELAX
+L 05/09/2013 - 14:57:34: Pipe bomb projectile spawned at 1581.109619 4653.332031 65.228683, velocity 0.000000 0.000000 0.000000
+L 05/09/2013 - 14:57:34: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><94+0><setpos_exact 1524.96 4303.60 62.03; setang -0.46 79.96 0.00><Area 50046>" killed "infected<215><><Infected><infected><DEAD><-51><setpos_exact 1683.77 4690.97 53.12; setang 0.00 41.90 0.00><Area 50066>" with "pipe_bomb"
+L 05/09/2013 - 14:57:34: Explosion prop detonated 1581,4653,65.  Breaker:"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><94+0><setpos_exact 1524.96 4303.60 62.03; setang -0.46 79.96 0.00><Area 50046>". Attacker:"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><94+0><setpos_exact 1524.96 4303.60 62.03; setang -0.46 79.96 0.00><Area 50046>".
+L 05/09/2013 - 14:57:36: (DEATH)"Coach<5><BOT><Survivor><Coach><LIMPING><1+22><setpos_exact 1522.76 4271.00 62.03; setang 7.26 91.84 0.00><Area 47623>" killed "infected<214><><Infected><infected><DEAD><-4><setpos_exact 1511.15 4631.55 0.03; setang 0.00 180.00 0.00><Area 53668>" with "shotgun_spas"
+L 05/09/2013 - 14:57:37: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><94+0><setpos_exact 1585.96 4391.73 62.03; setang 0.99 178.24 0.00><Area 47606>" killed "infected<239><><Infected><infected><DEAD><-3><setpos_exact 953.72 4398.67 -7.97; setang 0.00 26.80 0.00><Area 72847>" with "shotgun_spas"
+L 05/09/2013 - 14:57:38: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><94+0><setpos_exact 1622.41 4390.64 62.03; setang 0.93 178.57 0.00><Area 47606>" killed "infected<260><><Infected><infected><DEAD><32><setpos_exact 1016.47 4424.31 -20.83; setang 0.00 410.32 0.00><Area 72843>" with "shotgun_spas" (headshot)
+L 05/09/2013 - 14:57:38: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+21><setpos_exact 1534.10 4320.48 62.03; setang 1.88 166.20 0.00><Area 50046>" killed "infected<212><><Infected><infected><DEAD><-12><setpos_exact 1299.45 4383.32 0.03; setang 0.00 227.52 0.00><Area 225262>" with "rifle_ak47"
+L 05/09/2013 - 14:57:43: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><94+0><setpos_exact 1368.79 4376.15 62.03; setang 9.97 153.03 0.00><Area 47606>" killed "infected<240><><Infected><infected><DEAD><-9><setpos_exact 1163.51 4486.85 -39.97; setang -0.00 -105.69 0.00><Area 52280>" with "shotgun_spas"
+L 05/09/2013 - 14:57:43: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><94+0><setpos_exact 1368.79 4376.15 62.03; setang 6.34 152.56 0.00><Area 47606>" killed "infected<261><><Infected><infected><DEAD><0><setpos_exact 965.83 4587.39 -7.97; setang 0.00 -10.36 0.00><Area 72861>" with "shotgun_spas"
+L 05/09/2013 - 14:57:45: ------------------------------ Director state change RELAX -> BUILD_UP
+L 05/09/2013 - 14:57:45: "Hunter<26><BOT><>" connected, address "none"
+L 05/09/2013 - 14:57:45: FinishClientPutInServer (26): looking for bots to take over
+L 05/09/2013 - 14:57:45: "Hunter<26><BOT><>" entered the game
+L 05/09/2013 - 14:57:45: "Hunter<26><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 14:57:45: Hunter spawned as a HUNTER
+L 05/09/2013 - 14:57:45: "Hunter<26><BOT><Infected><HUNTER><ALIVE><250+0><setpos_exact 125.00 4152.20 186.03; setang 0.00 0.00 0.00><Area 92232>" spawned
+L 05/09/2013 - 14:57:45: "Boomer<27><BOT><>" connected, address "none"
+L 05/09/2013 - 14:57:45: FinishClientPutInServer (27): looking for bots to take over
+L 05/09/2013 - 14:57:45: "Boomer<27><BOT><>" entered the game
+L 05/09/2013 - 14:57:45: "Boomer<27><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 14:57:45: Boomer spawned as a BOOMER
+L 05/09/2013 - 14:57:45: "Boomer<27><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact 125.00 4535.11 186.03; setang 0.00 0.00 0.00><Area 92235>" spawned
+L 05/09/2013 - 14:57:48: (INCAP) "Nick<3><BOT><Survivor><Gambler><INCAP><1+6><setpos_exact 1454.16 4407.79 62.03; setang 17.58 175.07 0.00><Area 47606>" is incapacitated
+L 05/09/2013 - 14:57:48: (INCAP)"Nick<3><BOT><Survivor><Gambler><INCAP><300+6><setpos_exact 1454.16 4407.79 62.03; setang 17.58 175.07 0.00><Area 47606>" was incapped by "Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><94+0><setpos_exact 1446.80 4448.92 62.03; setang 18.35 -79.59 0.00><Area 47606>" with "shotgun_spas"
+L 05/09/2013 - 14:57:48: (INCAP) "Coach<5><BOT><Survivor><Coach><LIMPING><1+19><setpos_exact 1425.78 4370.98 62.03; setang 11.87 18.90 0.00><Area 47606>" starts reviving "Nick<3><BOT><Survivor><Gambler><INCAP><209+6><setpos_exact 1454.16 4407.79 24.03; setang 17.58 175.07 0.00><Area 476
+L 05/09/2013 - 14:57:50: (INCAP) "Coach<5><BOT><Survivor><Coach><LIMPING><1+5><setpos_exact 1425.78 4370.98 62.03; setang 29.69 52.37 0.00><Area 47606>" is dying instead of incapping because they have been revived 2 times already.
+L 05/09/2013 - 14:57:50: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><94+0><setpos_exact 1446.80 4448.92 62.03; setang 20.40 -103.55 0.00><Area 47606>" killed "Coach<5><BOT><Survivor><Coach><DEAD><1+5><setpos 1425.78 4370.98 0.03; setang 29.69 52.37 0.00><Area 47606>" with "shotgun_spas"
+L 05/09/2013 - 14:57:51: (INCAP) "Rochelle<4><BOT><Survivor><Producer><LIMPING><1+17><setpos_exact 1460.62 4374.24 62.03; setang 37.79 103.20 0.00><Area 47606>" starts reviving "Nick<3><BOT><Survivor><Gambler><INCAP><206+5><setpos_exact 1454.16 4407.79 24.03; setang 17.58 175.07 0.00><A
+L 05/09/2013 - 14:57:55: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><94+0><setpos_exact 1393.75 4437.10 62.03; setang 9.51 -154.97 0.00><Area 47606>" killed "infected<216><><Infected><infected><DEAD><-5><setpos_exact 1104.28 4323.40 -7.97; setang 0.00 271.14 0.00><Area 171057>" with "shotgun_spas"
+L 05/09/2013 - 14:58:03: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+13><setpos_exact 1362.96 4394.51 62.03; setang 7.19 183.69 0.00><Area 225259>" killed "infected<238><><Infected><infected><DEAD><-25><setpos_exact 914.16 4365.23 -7.97; setang 0.00 180.00 0.00><Area 72846>" with "rifle_ak47"
+L 05/09/2013 - 14:58:03: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><94+0><setpos_exact 1253.06 4385.15 58.03; setang 18.88 -99.86 0.00><Area 225272>" killed "infected<210><><Infected><infected><DEAD><-6><setpos_exact 1229.42 4272.16 -29.40; setang 0.00 60.53 0.00><Area 53637>" with "shotgun_spas"
+L 05/09/2013 - 14:58:03: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+27><setpos_exact 1377.02 4427.18 62.03; setang 2.10 214.78 0.00><Area 225259>" killed "infected<200><><Infected><infected><DEAD><-44><setpos_exact 1077.69 4219.56 -7.97; setang -0.00 42.82 0.00><Area 52991>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 14:58:03: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+13><setpos_exact 1359.51 4394.51 62.03; setang 12.98 169.06 0.00><Area 225259>" killed "infected<256><><Infected><infected><DEAD><-6><setpos_exact 969.93 4469.81 -39.97; setang 0.00 88.08 0.00><Area 72887>" with "rifle_ak47"
+L 05/09/2013 - 14:58:03: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><94+0><setpos_exact 1253.06 4385.15 58.03; setang 21.52 -107.12 0.00><Area 225272>" killed "infected<196><><Infected><infected><DEAD><-10><setpos_exact 1200.61 4214.18 -39.97; setang -0.00 72.41 0.00><Area 365371>" with "shotgun_spas"
+L 05/09/2013 - 14:58:04: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><94+0><setpos_exact 1253.06 4385.15 58.03; setang 12.74 -112.07 0.00><Area 225272>" killed "infected<209><><Infected><infected><DEAD><-7><setpos_exact 1137.96 4123.73 -14.91; setang 0.00 -63.00 0.00><Area 52414>" with "shotgun_spas"
+L 05/09/2013 - 14:58:05: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+13><setpos_exact 1359.51 4394.51 62.03; setang 6.33 197.20 0.00><Area 225259>" killed "infected<237><><Infected><infected><DEAD><-7><setpos_exact 1282.09 4382.24 -3.97; setang -0.00 278.17 0.00><Area 225262>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 14:58:06: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+13><setpos_exact 1359.51 4394.51 62.03; setang 13.22 167.44 0.00><Area 225259>" killed "infected<264><><Infected><infected><DEAD><-7><setpos_exact 1250.75 4418.74 -3.97; setang 0.00 273.93 0.00><Area 225272>" with "rifle_ak47"
+L 05/09/2013 - 14:58:08: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+26><setpos_exact 1378.71 4433.05 62.03; setang 5.17 196.97 0.00><Area 47606>" killed "infected<123><><Infected><infected><DEAD><-7><setpos_exact 1277.79 4396.92 -3.97; setang -0.00 6.47 0.00><Area 225262>" with "rifle_ak47"
+L 05/09/2013 - 14:58:12: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+25><setpos_exact 1152.85 4466.48 22.03; setang 2.88 98.98 0.00><Area 52280>" killed "infected<131><><Infected><infected><DEAD><-7><setpos_exact 1134.99 4682.43 -26.01; setang 0.00 5.87 0.00><Area 49935>" with "rifle_ak47"
+L 05/09/2013 - 14:58:13: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><84+0><setpos_exact 975.57 4467.30 22.03; setang -8.84 178.99 0.00><Area 72887>" killed "Boomer<27><BOT><Infected><BOOMER><DEAD><1+0><setpos 157.11 4462.62 126.03; setang 2.94 0.33 0.00><Area 92235>" with "shotgun_spas"
+L 05/09/2013 - 14:58:13: "Smoker<28><BOT><>" connected, address "none"
+L 05/09/2013 - 14:58:13: FinishClientPutInServer (28): looking for bots to take over
+L 05/09/2013 - 14:58:13: "Smoker<28><BOT><>" entered the game
+L 05/09/2013 - 14:58:13: "Smoker<28><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 14:58:13: Smoker spawned as a SMOKER
+L 05/09/2013 - 14:58:13: "Smoker<28><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 1930.72 3310.99 258.03; setang 0.00 0.00 0.00><Area 388220>" spawned
+L 05/09/2013 - 14:58:14: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+24><setpos_exact 1120.06 4468.30 22.03; setang 356.96 302.66 0.00><Area 72969>" killed "infected<217><><Infected><infected><DEAD><-7><setpos_exact 1233.17 4311.80 -3.97; setang 0.00 75.00 0.00><Area 53642>" with "rifle_ak47"
+L 05/09/2013 - 14:58:15: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+10><setpos_exact 1155.09 4484.89 22.03; setang 2.00 288.12 0.00><Area 52280>" killed "infected<191><><Infected><infected><DEAD><-7><setpos_exact 1190.91 4382.17 -39.97; setang -0.00 99.91 0.00><Area 52280>" with "rifle_ak47"
+L 05/09/2013 - 14:58:15: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+10><setpos_exact 1155.09 4484.89 22.03; setang 3.86 289.45 0.00><Area 52280>" killed "infected<194><><Infected><infected><DEAD><-6><setpos_exact 1294.10 4103.26 -3.97; setang 0.00 322.05 0.00><Area 225276>" with "rifle_ak47"
+L 05/09/2013 - 14:58:16: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+10><setpos_exact 1155.09 4484.89 22.03; setang 2.17 289.76 0.00><Area 52280>" killed "infected<197><><Infected><infected><DEAD><-40><setpos_exact 1211.39 4295.95 -39.97; setang -0.00 119.26 0.00><Area 52280>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 14:58:17: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><84+0><setpos_exact 979.68 4467.20 22.03; setang 5.68 179.65 0.00><Area 72887>" killed "infected<262><><Infected><infected><DEAD><-15><setpos_exact 831.89 4470.23 -39.97; setang -0.00 -1.06 0.00><Area 225296>" with "pistol" (headshot)
+L 05/09/2013 - 14:58:18: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+9><setpos_exact 1155.09 4484.89 22.03; setang 2.83 282.06 0.00><Area 52280>" killed "infected<192><><Infected><infected><DEAD><-18><setpos_exact 1185.04 4362.79 -39.97; setang -0.00 123.19 0.00><Area 52280>" with "rifle_ak47"
+L 05/09/2013 - 14:58:18: (DEATH)"infected<279><><Infected><infected><ALIVE><10><setpos_exact 1243.57 4789.32 -7.97; setang 0.00 267.97 0.00><Area 49955>" killed "infected<265><><Infected><infected><DEAD><-2><setpos_exact 1242.55 4761.57 -7.97; setang -0.00 88.05 0.00><Area 49954>" with "infected"
+L 05/09/2013 - 14:58:18: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+23><setpos_exact 1116.44 4468.91 22.03; setang 355.97 193.78 0.00><Area 72969>" killed "infected<172><><Infected><infected><DEAD><-24><setpos_exact 914.34 4425.37 -21.43; setang -0.00 33.74 0.00><Area 72838>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 14:58:19: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+23><setpos_exact 1116.44 4468.91 22.03; setang 3.42 171.11 0.00><Area 72969>" killed "infected<200><><Infected><infected><DEAD><-22><setpos_exact 862.14 4509.64 -39.97; setang -0.00 339.65 0.00><Area 225296>" with "rifle_ak47"
+L 05/09/2013 - 14:58:21: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+8><setpos_exact 1179.88 4432.44 22.03; setang 2.18 82.41 0.00><Area 52280>" killed "infected<279><><Infected><infected><DEAD><-18><setpos_exact 1243.66 4789.04 -7.97; setang 0.00 270.10 0.00><Area 49955>" with "rifle_ak47"
+L 05/09/2013 - 14:58:22: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+22><setpos_exact 925.45 4469.96 22.03; setang 12.83 347.96 0.00><Area 72887>" killed "infected<263><><Infected><infected><DEAD><-7><setpos_exact 1063.49 4457.31 -39.97; setang 0.00 189.36 0.00><Area 72969>" with "rifle_ak47"
+L 05/09/2013 - 14:58:22: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><84+0><setpos_exact 759.33 4427.88 50.03; setang 9.70 -163.38 0.00><Area 225547>" killed "infected<238><><Infected><infected><DEAD><-11><setpos_exact 535.03 4367.95 -39.97; setang 0.00 225.89 0.00><Area 225285>" with "pistol"
+L 05/09/2013 - 14:58:22: "Boomer<27><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 14:58:23: Hunter starting a pounce, 50 damage interrupts
+L 05/09/2013 - 14:58:23: Hunter ending a pounce
+L 05/09/2013 - 14:58:24: Hunter starting a pounce, 50 damage interrupts
+L 05/09/2013 - 14:58:24: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+8><setpos_exact 931.78 4438.04 32.01; setang 11.63 12.68 0.00><Area 72839>" killed "infected<208><><Infected><infected><DEAD><-7><setpos_exact 985.04 4464.50 -39.97; setang -0.00 262.30 0.00><Area 72887>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 14:58:24: Hunter pounced on Swampy, 250 damage interrupts
+L 05/09/2013 - 14:58:25: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+7><setpos_exact 934.03 4437.56 32.48; setang 14.94 189.91 0.00><Area 72839>" killed "Hunter<26><BOT><Infected><HUNTER><DEAD><1+0><setpos 814.43 4416.71 -11.97; setang 323.92 9.89 0.00><Area 225539>" with "rifle_ak47"
+L 05/09/2013 - 14:58:26: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+21><setpos_exact 882.93 4450.66 22.03; setang 2.93 159.17 0.00><Area 72887>" killed "infected<210><><Infected><infected><DEAD><-23><setpos_exact 682.53 4525.82 -24.16; setang 0.00 169.09 0.00><Area 225296>" with "rifle_ak47"
+L 05/09/2013 - 14:58:27: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+21><setpos_exact 882.93 4450.66 22.03; setang 357.23 199.80 0.00><Area 72887>" killed "infected<209><><Infected><infected><DEAD><-23><setpos_exact 758.25 4411.91 -11.97; setang 0.00 14.00 0.00><Area 225538>" with "rifle_ak47"
+L 05/09/2013 - 14:58:27: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+7><setpos_exact 934.03 4437.56 32.48; setang 11.82 163.70 0.00><Area 72839>" killed "infected<132><><Infected><infected><DEAD><-7><setpos_exact 744.12 4490.86 -39.97; setang 0.00 341.12 0.00><Area 225296>" with "rifle_ak47"
+L 05/09/2013 - 14:58:29: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+20><setpos_exact 871.11 4450.26 22.03; setang 2.90 141.26 0.00><Area 225549>" killed "infected<170><><Infected><infected><DEAD><-6><setpos_exact 546.19 4718.97 -7.97; setang 0.00 258.96 0.00><Area 225557>" with "rifle_ak47"
+L 05/09/2013 - 14:58:31: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+20><setpos_exact 586.92 4402.40 22.03; setang 359.63 307.05 0.00><Area 225285>" killed "infected<123><><Infected><infected><DEAD><-7><setpos_exact 715.11 4245.09 -7.97; setang 0.00 99.21 0.00><Area 225480>" with "rifle_ak47"
+L 05/09/2013 - 14:58:32: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+20><setpos_exact 560.22 4370.78 29.91; setang 363.43 313.78 0.00><Area 225285>" killed "infected<256><><Infected><infected><DEAD><-7><setpos_exact 647.21 4274.29 -20.31; setang 0.00 116.31 0.00><Area 225455>" with "rifle_ak47"
+L 05/09/2013 - 14:58:33: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+19><setpos_exact 404.25 4401.55 54.03; setang 10.43 312.40 0.00><Area 388242>" killed "infected<240><><Infected><infected><DEAD><-7><setpos_exact 578.29 4216.56 -7.97; setang 0.00 268.18 0.00><Area 225313>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 14:58:33: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+19><setpos_exact 380.40 4403.55 54.03; setang 6.37 314.48 0.00><Area 388242>" killed "infected<217><><Infected><infected><DEAD><-7><setpos_exact 455.14 4318.19 -7.97; setang -0.00 193.13 0.00><Area 388242>" with "rifle_ak47"
+L 05/09/2013 - 14:58:34: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+5><setpos_exact 405.88 4301.39 54.03; setang 1.09 128.36 0.00><Area 388242>" killed "infected<130><><Infected><infected><DEAD><-6><setpos_exact 338.25 4381.74 -7.97; setang -0.00 25.67 0.00><Area 225289>" with "rifle_ak47"
+L 05/09/2013 - 14:58:35: "Hunter<26><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 14:58:35: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+19><setpos_exact 206.73 4310.87 54.03; setang 9.90 180.55 0.00><Area 92203>" killed "infected<261><><Infected><infected><DEAD><-7><setpos_exact 25.29 4307.87 -7.97; setang 0.00 319.02 0.00><Area 92208>" with "rifle_ak47"
+L 05/09/2013 - 14:58:36: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+4><setpos_exact 346.19 4204.01 36.03; setang 358.55 107.17 0.00><Area 225305>" killed "infected<190><><Infected><infected><DEAD><-6><setpos_exact 209.80 4652.97 7.03; setang 0.00 184.52 0.00><Area 225350>" with "rifle_ak47"
+L 05/09/2013 - 14:58:36: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+19><setpos_exact 197.07 4241.34 54.03; setang 26.81 284.73 0.00><Area 92203>" killed "infected<204><><Infected><infected><DEAD><-4><setpos_exact 195.29 4206.98 -7.97; setang 0.00 311.39 0.00><Area 72936>" with "rifle_ak47"
+L 05/09/2013 - 14:58:38: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+18><setpos_exact 184.13 4141.29 54.03; setang 351.23 113.02 0.00><Area 92047>" killed "infected<195><><Infected><infected><DEAD><-5><setpos_exact -92.53 4802.84 124.03; setang 0.00 -17.99 0.00><Area 92296>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 14:58:41: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><69+0><setpos_exact 151.03 4206.15 54.03; setang 8.12 46.66 0.00><Area 72936>" killed "infected<203><><Infected><infected><DEAD><-1><setpos_exact 261.88 4324.79 -7.97; setang 0.00 219.20 0.00><Area 225289>" with "autoshotgun"
+L 05/09/2013 - 14:58:42: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><69+0><setpos_exact 151.03 4206.15 54.03; setang 10.36 50.76 0.00><Area 72936>" killed "infected<295><><Infected><infected><DEAD><-1><setpos_exact 252.80 4315.74 -7.97; setang 0.00 225.17 0.00><Area 92203>" with "autoshotgun"
+L 05/09/2013 - 14:58:44: (DEATH)"infected<210><><Infected><infected><ALIVE><2><setpos_exact 288.86 3789.26 -32.03; setang 0.00 264.49 0.00><Area 115540>" killed "infected<200><><Infected><infected><DEAD><-2><setpos_exact 286.28 3762.62 -39.97; setang 0.00 84.55 0.00><Area 115543>" with "infected"
+L 05/09/2013 - 14:58:48: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<28><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 910.33 4467.15 22.03; setang 351.29 201.16 0.00><Area 72887>". Victim:"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><69+0><setpos_exact 356.08 4116.03 186.03; setang 10.10 -175.43 0.00><Area 92288>".
+L 05/09/2013 - 14:58:48: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<28><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 899.08 4481.92 22.03; setang 351.22 203.05 0.00><Area 72887>". Victim:"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><69+0><setpos_exact 314.41 4116.41 186.03; setang 10.83 174.15 0.00><Area 92288>".
+L 05/09/2013 - 14:58:50: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<28><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 897.33 4484.22 22.03; setang 347.68 208.69 0.00><Area 72887>". Victim:"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+1><setpos_exact 369.22 4211.08 164.85; setang 4.77 222.19 0.00><Area 92247>".
+L 05/09/2013 - 14:58:58: "Jockey<29><BOT><>" connected, address "none"
+L 05/09/2013 - 14:58:58: FinishClientPutInServer (29): looking for bots to take over
+L 05/09/2013 - 14:58:58: "Jockey<29><BOT><>" entered the game
+L 05/09/2013 - 14:58:58: "Jockey<29><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 14:58:58: Jockey spawned as a JOCKEY
+L 05/09/2013 - 14:58:58: "Jockey<29><BOT><Infected><JOCKEY><ALIVE><325+0><setpos_exact -59.73 3841.81 270.03; setang 0.00 0.00 0.00><Area 167088>" spawned
+L 05/09/2013 - 14:59:08: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<28><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 908.03 4457.91 22.03; setang 346.77 208.69 0.00><Area 72887>". Victim:"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 348.68 4146.97 186.03; setang 34.88 133.77 0.00><Area 92288>".
+L 05/09/2013 - 14:59:08: (TONGUE) Tongue launching towards victim.  Smoker:"Smoker<28><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 881.61 4462.54 22.03; setang 346.30 210.39 0.00><Area 72887>". Victim:"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 348.68 4146.97 186.03; setang 37.79 138.00 0.00><Area 92288>".
+L 05/09/2013 - 14:59:09: (TONGUE) Tongue grab starting.  Smoker:"Smoker<28><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 881.57 4462.55 22.03; setang 346.23 210.63 0.00><Area 72887>". Victim:"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 348.68 4146.97 186.03; setang 33.45 113.47 0.00><Area 92288>".
+L 05/09/2013 - 14:59:10: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+9><setpos_exact 471.08 4147.66 186.03; setang 352.60 165.82 0.00><Area 92242>" killed "Jockey<29><BOT><Infected><JOCKEY><DEAD><1+0><setpos 396.38 4161.29 136.94; setang 309.20 349.65 0.00><Area 92289>" with "rifle_ak47"
+L 05/09/2013 - 14:59:11: "Boomer<30><BOT><>" connected, address "none"
+L 05/09/2013 - 14:59:11: FinishClientPutInServer (30): looking for bots to take over
+L 05/09/2013 - 14:59:11: "Boomer<30><BOT><>" entered the game
+L 05/09/2013 - 14:59:11: "Boomer<30><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 14:59:11: Boomer spawned as a BOOMER
+L 05/09/2013 - 14:59:11: "Boomer<30><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact -300.00 4225.00 190.03; setang 0.00 0.00 0.00><Area 167098>" spawned
+L 05/09/2013 - 14:59:19: "Jockey<29><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 14:59:33: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<28><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 867.75 4459.16 22.03; setang 345.03 212.57 0.00><Area 225296>". Victim:"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 396.70 4154.13 186.03; setang 6.00 125.08 0.00><Area 92289>".
+L 05/09/2013 - 14:59:34: (TONGUE) Tongue launching towards victim.  Smoker:"Smoker<28><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 847.97 4457.94 22.03; setang 344.51 213.74 0.00><Area 225296>". Victim:"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 396.70 4154.13 186.03; setang 6.00 125.08 0.00><Area 92289>".
+L 05/09/2013 - 14:59:34: (TONGUE) Tongue grab starting.  Smoker:"Smoker<28><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 847.94 4457.94 22.03; setang 344.42 213.95 0.00><Area 225296>". Victim:"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 396.70 4154.13 186.03; setang 16.94 48.12 0.00><Area 92289>".
+L 05/09/2013 - 14:59:35: (TONGUE) Tongue letting go for taking too much damage.  Smoker:"Smoker<28><BOT><Infected><SMOKER><ALIVE><180+0><setpos_exact 847.94 4457.94 22.03; setang 343.63 215.88 0.00><Area 225296>". Victim:"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 426.74 4155.13 186.03; setang 21.17 35.68 0.00><Area 92289>".
+L 05/09/2013 - 14:59:35: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 426.74 4155.13 186.03; setang 21.17 35.68 0.00><Area 92289>" killed "Smoker<28><BOT><Infected><SMOKER><DEAD><1+0><setpos 847.94 4457.94 -39.97; setang 330.96 215.71 0.00><Area 225296>" with "rifle_ak47"
+L 05/09/2013 - 14:59:39: 553.90: (MOB) SpawnMob requested of size 30.
+L 05/09/2013 - 14:59:39: 553.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 14:59:39: 553.90: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 14:59:39: 553.90: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 14:59:39: 553.90: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 14:59:39: 553.90: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 14:59:39: 553.93: (MOB) Mob zombie spawned, 25 remain.
+L 05/09/2013 - 14:59:39: 553.93: (MOB) Mob zombie spawned, 24 remain.
+L 05/09/2013 - 14:59:39: 553.93: (MOB) Mob zombie spawned, 23 remain.
+L 05/09/2013 - 14:59:39: 553.93: (MOB) Mob zombie spawned, 22 remain.
+L 05/09/2013 - 14:59:39: 553.97: (MOB) Mob zombie spawned, 21 remain.
+L 05/09/2013 - 14:59:39: 553.97: (MOB) Mob zombie spawned, 20 remain.
+L 05/09/2013 - 14:59:39: 553.97: (MOB) Mob zombie spawned, 19 remain.
+L 05/09/2013 - 14:59:39: 553.97: (MOB) Mob zombie spawned, 18 remain.
+L 05/09/2013 - 14:59:39: 554.00: (MOB) Mob zombie spawned, 17 remain.
+L 05/09/2013 - 14:59:39: 554.00: (MOB) Mob zombie spawned, 16 remain.
+L 05/09/2013 - 14:59:39: 554.00: (MOB) Mob zombie spawned, 15 remain.
+L 05/09/2013 - 14:59:39: 554.00: (MOB) Mob zombie spawned, 14 remain.
+L 05/09/2013 - 14:59:39: 554.03: (MOB) Mob zombie spawned, 13 remain.
+L 05/09/2013 - 14:59:39: 554.03: (MOB) Mob zombie spawned, 12 remain.
+L 05/09/2013 - 14:59:39: 554.03: (MOB) Mob zombie spawned, 11 remain.
+L 05/09/2013 - 14:59:39: 554.03: (MOB) Mob zombie spawned, 10 remain.
+L 05/09/2013 - 14:59:39: 554.07: (MOB) Mob zombie spawned, 9 remain.
+L 05/09/2013 - 14:59:39: 554.07: (MOB) Mob zombie spawned, 8 remain.
+L 05/09/2013 - 14:59:39: 554.07: (MOB) Mob zombie spawned, 7 remain.
+L 05/09/2013 - 14:59:39: 554.07: (MOB) Mob zombie spawned, 6 remain.
+L 05/09/2013 - 14:59:41: 555.40: (MOB) Mob zombie spawned, 5 remain.
+L 05/09/2013 - 14:59:41: 555.40: (MOB) Mob zombie spawned, 4 remain.
+L 05/09/2013 - 14:59:41: 555.57: (MOB) Mob zombie spawned, 3 remain.
+L 05/09/2013 - 14:59:41: 555.57: (MOB) Mob zombie spawned, 2 remain.
+L 05/09/2013 - 14:59:41: 555.57: (MOB) Mob zombie spawned, 1 remain.
+L 05/09/2013 - 14:59:41: 555.57: (MOB) Mob zombie spawned, 0 remain.
+L 05/09/2013 - 14:59:41: 555.57: (MOB) Pending mob done.
+L 05/09/2013 - 14:59:41: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+1><setpos_exact 449.74 4122.29 186.03; setang 32.06 149.45 0.00><Area 92242>" killed "infected<132><><Infected><infected><DEAD><-7><setpos_exact 315.20 4227.99 60.45; setang 0.00 382.36 0.00><Area 92246>" with "rifle_ak47"
+L 05/09/2013 - 14:59:42: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+1><setpos_exact 449.74 4122.29 186.03; setang 14.77 79.36 0.00><Area 92242>" killed "infected<172><><Infected><infected><DEAD><-7><setpos_exact 460.21 4201.97 124.03; setang 0.00 331.18 0.00><Area 92243>" with "rifle_ak47"
+L 05/09/2013 - 14:59:42: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+1><setpos_exact 449.74 4122.29 186.03; setang 16.91 72.33 0.00><Area 92242>" killed "infected<195><><Infected><infected><DEAD><-7><setpos_exact 484.15 4175.81 124.03; setang 0.00 326.58 0.00><Area 92242>" with "rifle_ak47"
+L 05/09/2013 - 14:59:43: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+1><setpos_exact 446.28 4120.30 186.03; setang 15.01 74.27 0.00><Area 92242>" killed "infected<215><><Infected><infected><DEAD><-7><setpos_exact 470.61 4152.06 124.03; setang -0.00 264.43 0.00><Area 92242>" with "rifle_ak47"
+L 05/09/2013 - 14:59:43: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+1><setpos_exact 446.28 4120.30 186.03; setang 15.01 74.27 0.00><Area 92242>" killed "infected<237><><Infected><infected><DEAD><-7><setpos_exact 479.47 4213.59 124.03; setang 0.00 11.60 0.00><Area 92243>" with "rifle_ak47"
+L 05/09/2013 - 14:59:43: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+1><setpos_exact 442.80 4118.31 186.03; setang 17.64 71.13 0.00><Area 92289>" killed "infected<239><><Infected><infected><DEAD><-7><setpos_exact 489.47 4232.34 124.03; setang 0.00 32.18 0.00><Area 92243>" with "rifle_ak47"
+L 05/09/2013 - 14:59:43: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 426.98 4155.13 186.03; setang 3.12 346.74 0.00><Area 92289>" killed "infected<262><><Infected><infected><DEAD><-7><setpos_exact 478.29 4145.89 124.03; setang 0.00 -87.91 0.00><Area 92242>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 14:59:43: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 426.98 4155.13 186.03; setang 3.12 346.74 0.00><Area 92289>" killed "infected<260><><Infected><infected><DEAD><-36><setpos_exact 494.97 4145.89 124.03; setang -0.00 266.19 0.00><Area 92242>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 14:59:44: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 426.98 4155.13 186.03; setang 10.28 324.46 0.00><Area 92289>" killed "infected<256><><Infected><infected><DEAD><-7><setpos_exact 458.35 4131.44 124.03; setang -0.00 288.20 0.00><Area 92242>" with "rifle_ak47"
+L 05/09/2013 - 14:59:44: "Smoker<28><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 14:59:44: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+0><setpos_exact 408.28 4119.45 186.03; setang 17.38 20.99 0.00><Area 92289>" killed "infected<209><><Infected><infected><DEAD><-7><setpos_exact 474.31 4145.89 124.03; setang 0.00 262.42 0.00><Area 92242>" with "rifle_ak47"
+L 05/09/2013 - 14:59:45: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 426.98 4155.13 186.03; setang 6.97 18.41 0.00><Area 92289>" killed "infected<265><><Infected><infected><DEAD><-36><setpos_exact 494.97 4187.98 124.03; setang -0.00 294.17 0.00><Area 92242>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 14:59:45: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 426.98 4155.13 186.03; setang 8.57 20.69 0.00><Area 92289>" killed "infected<212><><Infected><infected><DEAD><-36><setpos_exact 489.22 4192.85 124.03; setang -0.00 292.53 0.00><Area 92242>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 14:59:50: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 426.98 4155.13 186.03; setang 32.46 145.96 0.00><Area 92289>" killed "infected<123><><Infected><infected><DEAD><-6><setpos_exact 309.64 4221.22 59.50; setang 0.00 328.13 0.00><Area 92246>" with "rifle_ak47"
+L 05/09/2013 - 14:59:50: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 426.98 4155.13 186.03; setang 29.80 132.95 0.00><Area 92289>" killed "infected<214><><Infected><infected><DEAD><-7><setpos_exact 353.00 4233.64 87.48; setang 0.00 338.87 0.00><Area 92247>" with "rifle_ak47"
+L 05/09/2013 - 14:59:50: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+0><setpos_exact 408.28 4119.45 186.03; setang 11.75 45.76 0.00><Area 92289>" killed "infected<217><><Infected><infected><DEAD><-7><setpos_exact 481.52 4190.30 124.03; setang 0.00 -24.35 0.00><Area 92243>" with "rifle_ak47"
+L 05/09/2013 - 14:59:51: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 426.98 4155.13 186.03; setang 356.51 80.60 0.00><Area 92289>" killed "infected<257><><Infected><infected><DEAD><-36><setpos_exact 438.56 4231.60 126.95; setang 0.00 3.79 0.00><Area 92247>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 14:59:51: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+0><setpos_exact 408.28 4119.45 186.03; setang 13.45 19.81 0.00><Area 92289>" killed "infected<133><><Infected><infected><DEAD><-7><setpos_exact 472.01 4145.86 124.03; setang 0.00 304.54 0.00><Area 92242>" with "rifle_ak47"
+L 05/09/2013 - 14:59:51: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+0><setpos_exact 408.28 4119.45 186.03; setang 13.45 19.81 0.00><Area 92289>" killed "infected<210><><Infected><infected><DEAD><-7><setpos_exact 494.32 4166.15 124.03; setang 0.00 242.14 0.00><Area 92242>" with "rifle_ak47"
+L 05/09/2013 - 14:59:52: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 426.98 4155.13 186.03; setang 20.02 342.61 0.00><Area 92289>" killed "infected<190><><Infected><infected><DEAD><-6><setpos_exact 484.40 4145.89 124.03; setang 0.00 226.75 0.00><Area 92242>" with "rifle_ak47"
+L 05/09/2013 - 14:59:53: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 426.98 4155.13 186.03; setang 5.02 344.07 0.00><Area 92289>" killed "infected<263><><Infected><infected><DEAD><-7><setpos_exact 472.14 4145.89 124.03; setang -0.00 261.35 0.00><Area 92242>" with "rifle_ak47"
+L 05/09/2013 - 14:59:55: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+0><setpos_exact 406.08 4120.21 186.03; setang 3.25 24.65 0.00><Area 92289>" killed "infected<280><><Infected><infected><DEAD><-7><setpos_exact 494.84 4168.15 124.03; setang -0.00 290.73 0.00><Area 92242>" with "rifle_ak47"
+L 05/09/2013 - 14:59:55: "Spitter<31><BOT><>" connected, address "none"
+L 05/09/2013 - 14:59:55: FinishClientPutInServer (31): looking for bots to take over
+L 05/09/2013 - 14:59:55: "Spitter<31><BOT><>" entered the game
+L 05/09/2013 - 14:59:55: "Spitter<31><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 14:59:55: Spitter spawned as a SPITTER
+L 05/09/2013 - 14:59:55: "Spitter<31><BOT><Infected><SPITTER><ALIVE><100+0><setpos_exact -524.23 4294.65 190.03; setang 0.00 0.00 0.00><Area 167090>" spawned
+L 05/09/2013 - 14:59:56: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 315.02 4130.86 186.03; setang 4.28 352.19 0.00><Area 92288>" killed "infected<238><><Infected><infected><DEAD><-7><setpos_exact 458.16 4115.69 124.03; setang -0.00 269.69 0.00><Area 92242>" with "rifle_ak47"
+L 05/09/2013 - 14:59:57: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+0><setpos_exact 406.99 4116.08 186.03; setang 20.03 27.00 0.00><Area 92289>" killed "infected<261><><Infected><infected><DEAD><-7><setpos_exact 460.06 4143.28 124.03; setang 0.00 320.43 0.00><Area 92242>" with "rifle_ak47"
+L 05/09/2013 - 14:59:58: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+0><setpos_exact 406.99 4116.08 186.03; setang 11.15 177.24 0.00><Area 92289>" killed "infected<192><><Infected><infected><DEAD><-7><setpos_exact 277.43 4122.34 124.03; setang 0.00 13.77 0.00><Area 92288>" with "rifle_ak47"
+L 05/09/2013 - 14:59:59: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 311.08 4130.58 186.03; setang 9.46 7.77 0.00><Area 92288>" killed "infected<120><><Infected><infected><DEAD><-7><setpos_exact 438.83 4153.34 124.03; setang 0.00 320.59 0.00><Area 92289>" with "rifle_ak47"
+L 05/09/2013 - 15:00:00: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+0><setpos_exact 406.99 4116.08 186.03; setang 4.27 181.27 0.00><Area 92289>" killed "infected<295><><Infected><infected><DEAD><-7><setpos_exact 274.05 4113.03 124.03; setang 0.00 30.26 0.00><Area 92067>" with "rifle_ak47"
+L 05/09/2013 - 15:00:01: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+0><setpos_exact 406.99 4116.08 186.03; setang 10.16 177.95 0.00><Area 92289>" killed "infected<293><><Infected><infected><DEAD><-7><setpos_exact 252.91 4116.74 124.03; setang 0.00 11.18 0.00><Area 92067>" with "rifle_ak47"
+L 05/09/2013 - 15:00:03: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 311.08 4130.58 186.03; setang 34.32 104.72 0.00><Area 92288>" killed "infected<297><><Infected><infected><DEAD><-6><setpos_exact 253.23 4364.76 -7.97; setang 0.00 256.31 0.00><Area 225289>" with "rifle_ak47"
+L 05/09/2013 - 15:00:05: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 311.08 4130.58 186.03; setang 7.36 5.30 0.00><Area 92288>" killed "infected<197><><Infected><infected><DEAD><-7><setpos_exact 474.49 4145.89 124.03; setang 0.00 291.10 0.00><Area 92242>" with "rifle_ak47"
+L 05/09/2013 - 15:00:33: Spitter projectile spawned at -71.902580 4399.593262 59.713112, velocity 715.443298 -502.529388 213.553268
+L 05/09/2013 - 15:00:35: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+0><setpos_exact 395.83 4121.12 186.03; setang 16.68 147.38 0.00><Area 92289>" killed "Spitter<31><BOT><Infected><SPITTER><DEAD><1+0><setpos -72.45 4416.01 -7.97; setang 335.17 327.80 0.00><Area 388244>" with "rifle_ak47"
+L 05/09/2013 - 15:00:35: "Jockey<32><BOT><>" connected, address "none"
+L 05/09/2013 - 15:00:35: FinishClientPutInServer (32): looking for bots to take over
+L 05/09/2013 - 15:00:35: "Jockey<32><BOT><>" entered the game
+L 05/09/2013 - 15:00:35: "Jockey<32><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:00:35: Jockey spawned as a JOCKEY
+L 05/09/2013 - 15:00:35: "Jockey<32><BOT><Infected><JOCKEY><ALIVE><325+0><setpos_exact -137.50 4175.00 270.03; setang 0.00 0.00 0.00><Area 167114>" spawned
+L 05/09/2013 - 15:00:43: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 311.08 4130.58 186.03; setang 352.64 104.84 0.00><Area 92288>" killed "Jockey<32><BOT><Infected><JOCKEY><DEAD><1+0><setpos 292.74 4193.02 148.67; setang 308.65 286.37 0.00><Area 92282>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 15:00:44: "Spitter<31><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:00:52: "Jockey<32><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:01:19: 653.53: (MOB) SpawnMob requested of size 22.
+L 05/09/2013 - 15:01:19: 653.53: (MOB) SpawnMob pending count is now 22.
+L 05/09/2013 - 15:01:19: 653.53: (MOB) Mob zombie spawned, 21 remain.
+L 05/09/2013 - 15:01:19: 653.53: (MOB) Mob zombie spawned, 20 remain.
+L 05/09/2013 - 15:01:19: 653.53: (MOB) Mob zombie spawned, 19 remain.
+L 05/09/2013 - 15:01:19: 653.53: (MOB) Mob zombie spawned, 18 remain.
+L 05/09/2013 - 15:01:19: 653.57: (MOB) Mob zombie spawned, 17 remain.
+L 05/09/2013 - 15:01:19: 653.57: (MOB) Mob zombie spawned, 16 remain.
+L 05/09/2013 - 15:01:19: 653.57: (MOB) Mob zombie spawned, 15 remain.
+L 05/09/2013 - 15:01:19: 653.57: (MOB) Mob zombie spawned, 14 remain.
+L 05/09/2013 - 15:01:19: 653.60: (MOB) Mob zombie spawned, 13 remain.
+L 05/09/2013 - 15:01:19: 653.60: (MOB) Mob zombie spawned, 12 remain.
+L 05/09/2013 - 15:01:19: 653.60: (MOB) Mob zombie spawned, 11 remain.
+L 05/09/2013 - 15:01:19: 653.60: (MOB) Mob zombie spawned, 10 remain.
+L 05/09/2013 - 15:01:19: 653.63: (MOB) Mob zombie spawned, 9 remain.
+L 05/09/2013 - 15:01:19: 653.63: (MOB) Mob zombie spawned, 8 remain.
+L 05/09/2013 - 15:01:19: 653.63: (MOB) Mob zombie spawned, 7 remain.
+L 05/09/2013 - 15:01:19: 653.63: (MOB) Mob zombie spawned, 6 remain.
+L 05/09/2013 - 15:01:19: 653.67: (MOB) Mob zombie spawned, 5 remain.
+L 05/09/2013 - 15:01:19: 653.67: (MOB) Mob zombie spawned, 4 remain.
+L 05/09/2013 - 15:01:19: 653.67: (MOB) Mob zombie spawned, 3 remain.
+L 05/09/2013 - 15:01:19: 653.67: (MOB) Mob zombie spawned, 2 remain.
+L 05/09/2013 - 15:01:19: 653.70: (MOB) Mob zombie spawned, 1 remain.
+L 05/09/2013 - 15:01:19: 653.70: (MOB) Mob zombie spawned, 0 remain.
+L 05/09/2013 - 15:01:19: 653.70: (MOB) Pending mob done.
+L 05/09/2013 - 15:01:20: "Smoker<33><BOT><>" connected, address "none"
+L 05/09/2013 - 15:01:20: FinishClientPutInServer (33): looking for bots to take over
+L 05/09/2013 - 15:01:20: "Smoker<33><BOT><>" entered the game
+L 05/09/2013 - 15:01:20: "Smoker<33><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:01:20: Smoker spawned as a SMOKER
+L 05/09/2013 - 15:01:20: "Smoker<33><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -37.50 3562.50 270.03; setang 0.00 0.00 0.00><Area 407626>" spawned
+L 05/09/2013 - 15:01:26: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 311.08 4130.58 186.03; setang 53.65 139.97 0.00><Area 92288>" killed "infected<190><><Infected><infected><DEAD><-7><setpos_exact 222.55 4218.53 -7.97; setang 0.00 289.10 0.00><Area 92101>" with "rifle_ak47"
+L 05/09/2013 - 15:01:26: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+0><setpos_exact 395.83 4121.12 186.03; setang 17.14 18.85 0.00><Area 92289>" killed "infected<216><><Infected><infected><DEAD><-7><setpos_exact 467.85 4145.89 124.03; setang 0.00 257.72 0.00><Area 92242>" with "rifle_ak47"
+L 05/09/2013 - 15:01:26: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+0><setpos_exact 395.83 4121.12 186.03; setang 17.14 18.85 0.00><Area 92289>" killed "infected<237><><Infected><infected><DEAD><-7><setpos_exact 494.97 4145.89 124.03; setang 0.00 282.49 0.00><Area 92242>" with "rifle_ak47"
+L 05/09/2013 - 15:01:26: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 311.08 4130.58 186.03; setang 53.07 129.92 0.00><Area 92288>" killed "infected<214><><Infected><infected><DEAD><-7><setpos_exact 232.49 4218.48 -7.97; setang 0.00 257.66 0.00><Area 92246>" with "rifle_ak47"
+L 05/09/2013 - 15:01:27: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+0><setpos_exact 395.83 4121.12 186.03; setang 16.04 18.94 0.00><Area 92289>" killed "infected<197><><Infected><infected><DEAD><-7><setpos_exact 485.39 4150.80 124.03; setang 0.00 304.18 0.00><Area 92242>" with "rifle_ak47"
+L 05/09/2013 - 15:01:27: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 311.08 4130.58 186.03; setang 53.83 142.20 0.00><Area 92288>" killed "infected<120><><Infected><infected><DEAD><-7><setpos_exact 217.12 4225.12 -7.97; setang 0.00 245.01 0.00><Area 92203>" with "rifle_ak47"
+L 05/09/2013 - 15:01:27: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+0><setpos_exact 395.83 4121.12 186.03; setang 16.04 18.94 0.00><Area 92289>" killed "infected<239><><Infected><infected><DEAD><-7><setpos_exact 492.46 4156.90 124.03; setang 0.00 268.18 0.00><Area 92242>" with "rifle_ak47"
+L 05/09/2013 - 15:01:28: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+0><setpos_exact 395.83 4121.12 186.03; setang 16.38 18.94 0.00><Area 92289>" killed "infected<192><><Infected><infected><DEAD><-36><setpos_exact 424.86 4113.03 124.03; setang 0.00 -99.76 0.00><Area 92289>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 15:01:28: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+0><setpos_exact 395.83 4121.12 186.03; setang 16.32 18.11 0.00><Area 92289>" killed "infected<133><><Infected><infected><DEAD><-7><setpos_exact 479.79 4153.23 124.03; setang 0.00 253.56 0.00><Area 92242>" with "rifle_ak47"
+L 05/09/2013 - 15:01:28: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 311.08 4130.58 186.03; setang 18.35 58.77 0.00><Area 92288>" killed "infected<209><><Infected><infected><DEAD><-7><setpos_exact 381.52 4232.46 106.69; setang 0.00 354.49 0.00><Area 92247>" with "rifle_ak47"
+L 05/09/2013 - 15:01:29: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+0><setpos_exact 395.83 4121.12 186.03; setang 6.60 349.21 0.00><Area 92289>" killed "infected<195><><Infected><infected><DEAD><-7><setpos_exact 462.94 4115.27 124.03; setang -0.00 259.96 0.00><Area 92242>" with "rifle_ak47"
+L 05/09/2013 - 15:01:29: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 311.08 4130.58 186.03; setang 7.45 18.05 0.00><Area 92288>" killed "infected<210><><Infected><infected><DEAD><-7><setpos_exact 490.62 4175.75 124.03; setang 0.00 249.05 0.00><Area 92242>" with "rifle_ak47"
+L 05/09/2013 - 15:01:29: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 311.08 4130.58 186.03; setang 6.97 5.44 0.00><Area 92288>" killed "infected<215><><Infected><infected><DEAD><-7><setpos_exact 494.97 4145.89 124.03; setang 0.00 266.47 0.00><Area 92242>" with "rifle_ak47"
+L 05/09/2013 - 15:01:29: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+0><setpos_exact 395.83 4121.12 186.03; setang 12.95 12.48 0.00><Area 92289>" killed "infected<196><><Infected><infected><DEAD><-7><setpos_exact 484.59 4145.89 124.03; setang 0.00 284.26 0.00><Area 92242>" with "rifle_ak47"
+L 05/09/2013 - 15:01:30: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 311.08 4130.58 186.03; setang 6.97 0.31 0.00><Area 92288>" killed "infected<123><><Infected><infected><DEAD><-7><setpos_exact 494.97 4145.89 124.03; setang 0.00 -77.49 0.00><Area 92242>" with "rifle_ak47"
+L 05/09/2013 - 15:01:30: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><59+0><setpos_exact 491.97 4116.86 186.03; setang 19.93 106.30 0.00><Area 92242>" killed "infected<172><><Infected><infected><DEAD><-18><setpos_exact 494.97 4173.78 124.03; setang 0.00 -70.28 0.00><Area 92242>" with "autoshotgun"
+L 05/09/2013 - 15:01:30: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><59+0><setpos_exact 491.97 4116.86 186.03; setang 19.93 106.30 0.00><Area 92242>" killed "infected<240><><Infected><infected><DEAD><-7><setpos_exact 470.12 4240.24 124.03; setang -0.00 191.25 0.00><Area 92243>" with "autoshotgun"
+L 05/09/2013 - 15:01:30: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><59+0><setpos_exact 491.97 4116.86 186.03; setang 19.93 106.30 0.00><Area 92242>" killed "infected<194><><Infected><infected><DEAD><-13><setpos_exact 452.99 4211.59 126.03; setang -0.00 -67.98 0.00><Area 92242>" with "autoshotgun"
+L 05/09/2013 - 15:01:31: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 311.08 4130.58 186.03; setang 6.90 2.83 0.00><Area 92288>" killed "infected<212><><Infected><infected><DEAD><-7><setpos_exact 455.21 4134.56 124.03; setang -0.00 182.11 0.00><Area 92289>" with "rifle_ak47"
+L 05/09/2013 - 15:01:31: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><59+0><setpos_exact 491.97 4116.86 186.03; setang 20.00 102.54 0.00><Area 92242>" killed "infected<191><><Infected><infected><DEAD><-8><setpos_exact 472.34 4214.78 125.36; setang 0.00 2.24 0.00><Area 92243>" with "autoshotgun"
+L 05/09/2013 - 15:01:31: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><59+0><setpos_exact 491.97 4116.86 186.03; setang 20.00 102.54 0.00><Area 92242>" killed "infected<238><><Infected><infected><DEAD><-2><setpos_exact 459.85 4246.80 124.03; setang 0.00 -18.72 0.00><Area 92243>" with "autoshotgun"
+L 05/09/2013 - 15:01:31: (DEATH)"Rochelle<4><BOT><Survivor><Producer><LIMPING><1+0><setpos_exact 311.08 4130.58 186.03; setang 8.93 25.64 0.00><Area 92288>" killed "infected<217><><Infected><infected><DEAD><-7><setpos_exact 494.97 4217.63 124.03; setang 0.00 2.97 0.00><Area 92243>" with "rifle_ak47"
+L 05/09/2013 - 15:01:37: (INCAP) "Rochelle<4><BOT><Survivor><Producer><INCAP><1+0><setpos_exact 296.72 4117.86 186.03; setang 6.01 23.98 0.00><Area 92288>" is incapacitated
+L 05/09/2013 - 15:01:37: (INCAP)"Rochelle<4><BOT><Survivor><Producer><INCAP><300+0><setpos_exact 296.72 4117.86 186.03; setang 6.01 23.98 0.00><Area 92288>" was incapped by "Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><59+0><setpos_exact 328.96 4143.13 186.03; setang 43.03 -128.83 0.00><Area 92288>" with "autoshotgun"
+L 05/09/2013 - 15:01:38: (INCAP) "Nick<3><BOT><Survivor><Gambler><LIMPING><1+0><setpos_exact 377.98 4120.14 186.03; setang 18.06 147.04 0.00><Area 92289>" starts reviving "Rochelle<4><BOT><Survivor><Producer><INCAP><234+0><setpos_exact 296.72 4117.86 148.03; setang 6.01 23.98 0.00><Area
+L 05/09/2013 - 15:01:43: (RESCUE) Rescue spot at -356, 4544, 129 (area 47632) activated for Coach(5).
+L 05/09/2013 - 15:01:47: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><59+0><setpos_exact 205.91 4827.97 186.03; setang 4.42 -159.78 0.00><Area 92071>" killed "Boomer<30><BOT><Infected><BOOMER><DEAD><1+0><setpos -162.75 4681.12 124.03; setang 342.65 21.72 0.00><Area 92229>" with "autoshotgun"
+L 05/09/2013 - 15:01:47: "Spitter<34><BOT><>" connected, address "none"
+L 05/09/2013 - 15:01:47: FinishClientPutInServer (34): looking for bots to take over
+L 05/09/2013 - 15:01:47: "Spitter<34><BOT><>" entered the game
+L 05/09/2013 - 15:01:47: "Spitter<34><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:01:47: Spitter spawned as a SPITTER
+L 05/09/2013 - 15:01:47: "Spitter<34><BOT><Infected><SPITTER><ALIVE><100+0><setpos_exact 1312.50 3762.50 54.03; setang 0.00 0.00 0.00><Area 50100>" spawned
+L 05/09/2013 - 15:01:49: (DEATH)"Spitter<34><BOT><Infected><SPITTER><DEAD><1+0><setpos 1211.16 3841.81 -39.97; setang 352.69 154.78 0.00><Area 52278>" committed suicide with "world"
+L 05/09/2013 - 15:01:53: (INCAP) "Rochelle<4><BOT><Survivor><Producer><LIMPING><1+5><setpos_exact -175.79 4540.11 186.03; setang 0.00 271.00 0.00><Area 92298>" is dying instead of incapping because they have been revived 2 times already.
+L 05/09/2013 - 15:01:53: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><59+0><setpos_exact -185.67 4567.42 186.03; setang 19.74 -84.35 0.00><Area 92227>" killed "Rochelle<4><BOT><Survivor><Producer><DEAD><1+5><setpos -175.79 4540.11 124.03; setang 0.00 271.00 0.00><Area 92298>" with "autoshotgun"
+L 05/09/2013 - 15:01:56: "Boomer<30><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:01:58: "Spitter<34><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:02:01: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><59+0><setpos_exact -543.87 4466.18 190.03; setang 12.21 40.23 0.00><Area 167097>" killed "infected<121><><Infected><infected><DEAD><-7><setpos_exact -476.29 4527.09 128.03; setang 0.00 0.00 0.00><Area 47925>" with "rifle_ak47"
+L 05/09/2013 - 15:02:02: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 15:02:02: Coach spawned as a Coach
+L 05/09/2013 - 15:02:02: "Coach<5><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -356.00 4544.00 190.03; setang 0.00 180.00 0.00><Area 47632>" spawned
+L 05/09/2013 - 15:02:02: (RESCUE) Rescue spot at -356, 4544, 129 (area 47632) now spawning.
+L 05/09/2013 - 15:02:02: (RESCUE) Rescue spot at -356, 4544, 129 (area 47632) deactivated.
+L 05/09/2013 - 15:02:13: "Nick<3><BOT><Survivor><Gambler><LIMPING><1+0><setpos_exact -519.22 4415.27 190.03; setang 1.84 60.74 0.00><Area 167097>" used adrenaline
+L 05/09/2013 - 15:02:19: (DEATH)"infected<212><><Infected><infected><ALIVE><18><setpos_exact 371.75 3582.77 -7.97; setang 0.00 282.44 0.00><Area 51780>" killed "infected<192><><Infected><infected><DEAD><-2><setpos_exact 377.97 3554.48 -7.97; setang 0.00 102.54 0.00><Area 51792>" with "infected"
+L 05/09/2013 - 15:02:21: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><59+0><setpos_exact -183.68 4174.39 255.29; setang 19.21 -3.95 0.00><Area 167099>" killed "infected<130><><Infected><infected><DEAD><-10><setpos_exact -72.36 4160.61 208.03; setang 0.00 -186.97 0.00><Area 167093>" with "autoshotgun" (headshot)
+L 05/09/2013 - 15:02:27: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><50+0><setpos_exact -1.47 3739.31 270.03; setang 7.60 6.88 0.00><Area 76042>" killed "infected<123><><Infected><infected><DEAD><-6><setpos_exact 160.44 3760.54 208.03; setang 0.00 206.71 0.00><Area 76039>" with "rifle_ak47"
+L 05/09/2013 - 15:02:29: (INCAP) "Nick<3><BOT><Survivor><Gambler><LIMPING><1+0><setpos_exact -38.82 3825.53 270.03; setang 7.20 326.41 0.00><Area 167088>" is dying instead of incapping because they have been revived 2 times already.
+L 05/09/2013 - 15:02:29: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><59+0><setpos_exact -10.22 3758.60 270.03; setang 22.05 125.67 0.00><Area 76042>" killed "Nick<3><BOT><Survivor><Gambler><DEAD><1+0><setpos -38.82 3825.53 208.03; setang 7.20 326.41 0.00><Area 167088>" with "autoshotgun"
+L 05/09/2013 - 15:02:32: "Spitter<35><BOT><>" connected, address "none"
+L 05/09/2013 - 15:02:32: FinishClientPutInServer (35): looking for bots to take over
+L 05/09/2013 - 15:02:32: "Spitter<35><BOT><>" entered the game
+L 05/09/2013 - 15:02:32: "Spitter<35><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:02:32: Spitter spawned as a SPITTER
+L 05/09/2013 - 15:02:32: "Spitter<35><BOT><Infected><SPITTER><ALIVE><100+0><setpos_exact 37.50 2587.50 54.03; setang 0.00 0.00 0.00><Area 51986>" spawned
+L 05/09/2013 - 15:02:35: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><50+0><setpos_exact -83.17 3836.30 270.03; setang 13.95 322.40 0.00><Area 167088>" killed "infected<120><><Infected><infected><DEAD><-7><setpos_exact 95.61 3696.73 208.03; setang -0.00 159.80 0.00><Area 76039>" with "rifle_ak47"
+L 05/09/2013 - 15:02:47: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<33><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 300.77 3730.81 62.39; setang 292.48 55.28 0.00><Area 382391>". Victim:"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><59+0><setpos_exact 303.97 3817.29 275.03; setang 21.65 -8.21 0.00><Area 76096>".
+L 05/09/2013 - 15:02:49: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<33><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 367.91 3689.12 22.03; setang 318.90 77.54 0.00><Area 382374>". Victim:"Coach<5><BOT><Survivor><Coach><ALIVE><50+0><setpos_exact 350.97 3793.38 270.06; setang 68.63 301.30 0.00><Area 76097>".
+L 05/09/2013 - 15:02:50: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<33><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 339.59 3683.24 24.18; setang 314.06 76.96 0.00><Area 382372>". Victim:"Coach<5><BOT><Survivor><Coach><ALIVE><50+0><setpos_exact 350.97 3793.38 270.06; setang 65.53 282.29 0.00><Area 76097>".
+L 05/09/2013 - 15:02:50: (DEATH)"infected<172><><Infected><infected><ALIVE><6><setpos_exact 305.55 3846.22 -7.97; setang 0.00 132.16 0.00><Area 382388>" killed "infected<197><><Infected><infected><DEAD><-2><setpos_exact 287.61 3866.04 -7.97; setang 0.00 312.23 0.00><Area 51757>" with "infected"
+L 05/09/2013 - 15:02:50: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<33><BOT><Infected><SMOKER><ALIVE><179+0><setpos_exact 349.49 3671.52 29.39; setang 302.73 88.14 0.00><Area 382372>". Victim:"Coach<5><BOT><Survivor><Coach><ALIVE><50+0><setpos_exact 350.97 3793.38 270.06; setang 64.22 272.47 0.00><Area 76097>".
+L 05/09/2013 - 15:02:50: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><50+0><setpos_exact 350.97 3793.38 270.06; setang 64.22 272.47 0.00><Area 76097>" killed "Smoker<33><BOT><Infected><SMOKER><DEAD><1+0><setpos 349.49 3671.52 -32.61; setang 288.48 89.30 0.00><Area 382372>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 15:02:50: "Boomer<36><BOT><>" connected, address "none"
+L 05/09/2013 - 15:02:50: FinishClientPutInServer (36): looking for bots to take over
+L 05/09/2013 - 15:02:50: "Boomer<36><BOT><>" entered the game
+L 05/09/2013 - 15:02:50: "Boomer<36><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:02:50: Boomer spawned as a BOOMER
+L 05/09/2013 - 15:02:50: "Boomer<36><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact 562.50 2812.50 54.03; setang 0.00 0.00 0.00><Area 51951>" spawned
+L 05/09/2013 - 15:02:53: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><50+0><setpos_exact 350.97 3793.38 270.06; setang 68.28 271.38 0.00><Area 76097>" killed "infected<215><><Infected><infected><DEAD><-7><setpos_exact 356.94 3723.61 5.62; setang 0.00 160.96 0.00><Area 382383>" with "rifle_ak47"
+L 05/09/2013 - 15:02:56: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><50+0><setpos_exact 350.97 3793.38 270.06; setang 67.42 261.49 0.00><Area 76097>" killed "infected<264><><Infected><infected><DEAD><-7><setpos_exact 345.71 3714.28 49.71; setang 0.00 162.05 0.00><Area 382392>" with "rifle_ak47"
+L 05/09/2013 - 15:02:56: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><50+0><setpos_exact 350.97 3793.38 270.06; setang 71.07 259.13 0.00><Area 76097>" killed "infected<133><><Infected><infected><DEAD><-36><setpos_exact 340.41 3730.86 56.30; setang 0.00 313.85 0.00><Area 382392>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 15:02:59: "Smoker<33><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:03:16: "Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><59+0><setpos_exact 390.95 3769.95 270.06; setang 27.72 175.73 0.00><Area 76041>" used adrenaline
+L 05/09/2013 - 15:03:20: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><59+23><setpos_exact 385.81 3734.26 111.94; setang 34.62 -38.54 0.00><Area 382392>" killed "infected<216><><Infected><infected><DEAD><0><setpos_exact 390.80 3707.06 -18.13; setang 0.00 130.73 0.00><Area 382384>" with "autoshotgun"
+L 05/09/2013 - 15:03:26: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><50+0><setpos_exact 341.10 3709.32 270.06; setang 78.58 70.10 0.00><Area 76041>" killed "infected<240><><Infected><infected><DEAD><-7><setpos_exact 363.26 3747.50 -1.98; setang 0.00 10.04 0.00><Area 382382>" with "rifle_ak47"
+L 05/09/2013 - 15:03:26: Spitter projectile spawned at 600.835205 3343.740234 49.175629, velocity -324.148773 832.110779 -111.889648
+L 05/09/2013 - 15:03:28: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><19+21><setpos_exact 435.29 3768.72 36.03; setang 14.62 -92.33 0.00><Area 51802>" killed "infected<172><><Infected><infected><DEAD><-1><setpos_exact 446.67 3727.56 -6.95; setang -0.00 112.22 0.00><Area 51803>" with "autoshotgun"
+L 05/09/2013 - 15:03:28: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><49+0><setpos_exact 430.72 3785.81 54.03; setang 9.55 167.88 0.00><Area 382365>" killed "infected<195><><Infected><infected><DEAD><-7><setpos_exact 325.50 3804.70 -13.89; setang -0.00 347.16 0.00><Area 76157>" with "rifle_ak47"
+L 05/09/2013 - 15:03:29: ------------------------------ Director state change BUILD_UP -> SUSTAIN_PEAK
+L 05/09/2013 - 15:03:30: (INCAP) "Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><INCAP><1+17><setpos_exact 320.12 3821.88 54.03; setang 33.82 161.94 0.00><Area 382388>" is incapacitated
+L 05/09/2013 - 15:03:30: (INCAP)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><INCAP><300+17><setpos_exact 320.12 3821.88 54.03; setang 33.82 161.94 0.00><Area 382388>" was incapped by "infected<239><><Infected><infected><ALIVE><50><setpos_exact 291.08 3824.51 -7.97; setang 0.00 283.08 0.00><Area 76146>" with ""
+L 05/09/2013 - 15:03:31: (INCAP) "Coach<5><BOT><Survivor><Coach><INCAP><16+0><setpos_exact 431.75 3765.57 54.03; setang 10.57 161.76 0.00><Area 51802>" is incapacitated
+L 05/09/2013 - 15:03:31: (INCAP)"Coach<5><BOT><Survivor><Coach><INCAP><300+0><setpos_exact 431.75 3765.57 54.03; setang 10.57 161.76 0.00><Area 51802>" was incapped by "infected<280><><Infected><infected><ALIVE><50><setpos_exact 449.44 3735.45 -6.75; setang 0.00 120.41 0.00><Area 51803>" with ""
+L 05/09/2013 - 15:03:31: Team "Infected" triggered "L4D_Scenario_Survivors_Dead" (Infected "0") (Survivor "0")
+L 05/09/2013 - 15:03:31: Team "Infected" scored "0" with "2" players
+L 05/09/2013 - 15:03:31: Team "Survivor" scored "0" with "4" players
+L 05/09/2013 - 15:03:31: World triggered "Round_End"
+L 05/09/2013 - 15:03:32: (DEATH)"Coach<5><BOT><Survivor><Coach><INCAP><264+0><setpos_exact 431.80 3765.57 16.03; setang 355.12 160.29 -20.00><Area 51802>" killed "infected<210><><Infected><infected><DEAD><-11><setpos_exact 296.31 3814.12 -12.53; setang 0.00 19.25 0.00><Area 76146>" with "dual_pistols"
+L 05/09/2013 - 15:03:33: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><INCAP><255+16><setpos_exact 320.12 3822.43 16.03; setang 16.57 173.60 0.00><Area 382388>" killed "infected<239><><Infected><infected><DEAD><-13><setpos_exact 288.21 3838.93 -7.97; setang 0.00 332.65 0.00><Area 76145>" with "pistol"
+L 05/09/2013 - 15:03:33: (DEATH)"Coach<5><BOT><Survivor><Coach><INCAP><262+0><setpos_exact 431.80 3765.57 16.03; setang 338.18 167.48 -20.00><Area 51802>" killed "infected<263><><Infected><infected><DEAD><-1><setpos_exact 349.75 3783.79 10.83; setang 0.00 127.48 0.00><Area 382386>" with "dual_pistols"
+L 05/09/2013 - 15:03:33: ------------------------------ Director state change SUSTAIN_PEAK -> PEAK_FADE
+L 05/09/2013 - 15:03:33: (DEATH)"Coach<5><BOT><Survivor><Coach><INCAP><261+0><setpos_exact 431.80 3765.57 16.03; setang 344.42 166.59 -20.00><Area 51802>" killed "infected<209><><Infected><infected><DEAD><-10><setpos_exact 415.92 3760.59 4.54; setang 0.00 17.42 0.00><Area 382385>" with "dual_pistols"
+L 05/09/2013 - 15:03:35: (DEATH)"Coach<5><BOT><Survivor><Coach><INCAP><205+0><setpos_exact 431.80 3765.57 16.03; setang 290.74 325.63 -20.00><Area 51802>" killed "infected<197><><Infected><infected><DEAD><-22><setpos_exact 436.82 3755.87 -7.97; setang 0.00 117.38 0.00><Area 51802>" with "dual_pistols" (headshot)
+L 05/09/2013 - 15:03:36: (DEATH)"Coach<5><BOT><Survivor><Coach><INCAP><173+0><setpos_exact 431.80 3765.57 16.03; setang 296.63 294.21 -20.00><Area 51802>" killed "Spitter<35><BOT><Infected><SPITTER><DEAD><1+0><setpos 437.04 3763.08 -7.97; setang 273.86 154.55 0.00><Area 51802>" with "dual_pistols"
+L 05/09/2013 - 15:03:38: (DEATH)"Coach<5><BOT><Survivor><Coach><INCAP><138+0><setpos_exact 431.80 3765.57 16.03; setang 305.01 263.76 -20.00><Area 51802>" killed "infected<212><><Infected><infected><DEAD><-17><setpos_exact 430.67 3755.30 -7.97; setang -0.00 83.68 0.00><Area 51802>" with "dual_pistols"
+L 05/09/2013 - 15:03:38: (DEATH)"Coach<5><BOT><Survivor><Coach><INCAP><138+0><setpos_exact 431.80 3765.57 16.03; setang 305.01 263.76 -20.00><Area 51802>" killed "infected<196><><Infected><infected><DEAD><-25><setpos_exact 410.07 3736.54 2.45; setang -0.00 53.19 0.00><Area 382385>" with "dual_pistols" (headshot)
+L 05/09/2013 - 15:03:38: CDirector::RunScript, scriptedmode, level: 1
+L 05/09/2013 - 15:03:38: CDirector::RunScript, director_base, level: 0
+L 05/09/2013 - 15:03:39: Preventing spawning
+L 05/09/2013 - 15:03:39: CDirector::RunScript, scriptedmode, level: 1
+L 05/09/2013 - 15:03:39: CDirector::RunScript, director_base, level: 0
+L 05/09/2013 - 15:03:39: (SKIN) SetCharacter: Survivor Swampy chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 15:03:39: Swampy spawned as a Mechanic
+L 05/09/2013 - 15:03:39: "Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 4336.00 2048.00 -1.97; setang 0.00 180.00 0.00><Area 283881>" spawned
+L 05/09/2013 - 15:03:39: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 15:03:39: Nick spawned as a Gambler
+L 05/09/2013 - 15:03:39: "Nick<3><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 4336.00 2048.00 0.00; setang 0.00 180.00 0.00><Area 283881>" spawned
+L 05/09/2013 - 15:03:39: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 15:03:39: Rochelle spawned as a Producer
+L 05/09/2013 - 15:03:39: "Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 4336.00 2048.00 0.00; setang 0.00 180.00 0.00><Area 283881>" spawned
+L 05/09/2013 - 15:03:39: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 15:03:39: Coach spawned as a Coach
+L 05/09/2013 - 15:03:39: "Coach<5><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 4336.00 2048.00 0.00; setang 0.00 180.00 0.00><Area 283881>" spawned
+L 05/09/2013 - 15:03:39: World triggered "Round_Start"
+L 05/09/2013 - 15:03:39: World triggered "Round_Start"
+L 05/09/2013 - 15:03:39: "Boomer<36><BOT><Infected>" disconnected (reason "Kicked by Console")
+L 05/09/2013 - 15:03:39: "Spitter<35><BOT><Infected>" disconnected (reason "Kicked by Console")
+L 05/09/2013 - 15:04:02: (INCAP) "Nick<3><BOT><Survivor><Gambler><INCAP><9+0><setpos_exact 4153.45 2127.07 33.23; setang 0.00 8.46 0.00><Area 283882>" is incapacitated
+L 05/09/2013 - 15:04:02: (INCAP)"Nick<3><BOT><Survivor><Gambler><INCAP><300+0><setpos_exact 4153.45 2127.07 33.23; setang 0.00 8.46 0.00><Area 283882>" was incapped by "Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 4180.05 2115.64 -1.97; setang -12.74 151.42 0.00><Area 283882>" with "shotgun_spas"
+L 05/09/2013 - 15:04:03: (INCAP) "Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 4145.12 2093.54 -1.97; setang 345.86 99.24 0.00><Area 283882>" starts reviving "Nick<3><BOT><Survivor><Gambler><INCAP><287+0><setpos_exact 4153.45 2127.07 -4.77; setang 0.00 8.46 0.00><Area
+L 05/09/2013 - 15:04:06: (INCAP) "Rochelle<4><BOT><Survivor><Producer><INCAP><9+0><setpos_exact 4145.12 2093.54 -1.97; setang 345.86 76.05 0.00><Area 283882>" is incapacitated
+L 05/09/2013 - 15:04:06: (INCAP)"Rochelle<4><BOT><Survivor><Producer><INCAP><300+0><setpos_exact 4145.12 2093.54 -1.97; setang 345.86 76.05 0.00><Area 283882>" was incapped by "Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 4180.05 2115.64 -1.97; setang 54.98 -147.86 0.00><Area 283882>" with "shotgun_spas"
+L 05/09/2013 - 15:04:08: (INCAP) "Coach<5><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 4275.82 2110.65 -1.97; setang 0.00 194.30 0.00><Area 283882>" starts reviving "Nick<3><BOT><Survivor><Gambler><INCAP><281+0><setpos_exact 4153.45 2127.07 -4.77; setang 0.00 8.46 0.00><Area 283882
+L 05/09/2013 - 15:04:12: (INCAP) "Coach<5><BOT><Survivor><Coach><INCAP><9+0><setpos_exact 4275.82 2110.65 -1.97; setang 15.45 177.02 0.00><Area 283882>" is incapacitated
+L 05/09/2013 - 15:04:12: (INCAP)"Coach<5><BOT><Survivor><Coach><INCAP><300+0><setpos_exact 4275.82 2110.65 -1.97; setang 15.45 177.02 0.00><Area 283882>" was incapped by "Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 4180.05 2115.64 -1.97; setang 20.59 1.57 0.00><Area 283882>" with "shotgun_spas"
+L 05/09/2013 - 15:04:14: (INCAP) "Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 4225.28 2116.77 -1.97; setang 29.30 1.04 0.00><Area 283882>" starts reviving "Coach<5><BOT><Survivor><Coach><INCAP><217+0><setpos_exact 4275.82 2110.65 -39.97; setang 0.00 161.
+L 05/09/2013 - 15:04:20: (INCAP) "Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 4225.28 2116.77 -1.97; setang 38.35 -134.26 0.00><Area 283882>" starts reviving "Rochelle<4><BOT><Survivor><Producer><INCAP><248+0><setpos_exact 4145.12 2093.54 -39.97; setang 
+L 05/09/2013 - 15:04:20: (INCAP) "Coach<5><BOT><Survivor><Coach><LIMPING><1+29><setpos_exact 4252.04 2116.53 -1.97; setang 354.98 211.64 0.00><Area 283882>" starts reviving "Nick<3><BOT><Survivor><Gambler><INCAP><254+0><setpos_exact 4153.45 2127.07 -4.77; setang 0.00 347.46 -20.00><Area
+L 05/09/2013 - 15:04:42: Allowing spawning - "Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 3866.29 2031.34 -1.97; setang 19.40 158.72 0.00><Area 283905>" left safe area
+L 05/09/2013 - 15:04:49: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 3419.96 2057.74 158.03; setang 11.22 179.25 0.00><Area 47613>" killed "infected<197><><Infected><infected><DEAD><-14><setpos_exact 3330.87 2052.03 96.03; setang 0.00 204.20 0.00><Area 47613>" with "shotgun_spas"
+L 05/09/2013 - 15:04:52: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2890.49 2061.81 78.34; setang 10.43 -179.50 0.00><Area 52425>" killed "infected<121><><Infected><infected><DEAD><-2><setpos_exact 2491.74 2074.13 -7.97; setang -0.00 -1.07 0.00><Area 134420>" with "shotgun_spas"
+L 05/09/2013 - 15:04:53: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2890.49 2061.81 78.34; setang 9.57 -179.43 0.00><Area 52425>" killed "infected<123><><Infected><infected><DEAD><-1><setpos_exact 2464.60 2058.63 -7.97; setang 0.00 333.79 0.00><Area 134433>" with "shotgun_spas"
+L 05/09/2013 - 15:04:54: (DEATH)"infected<199><><Infected><infected><ALIVE><6><setpos_exact 2565.35 2274.93 -7.97; setang 0.00 328.23 0.00><Area 53054>" killed "infected<196><><Infected><infected><DEAD><-2><setpos_exact 2588.85 2260.34 -7.97; setang 0.00 148.25 0.00><Area 53054>" with "infected"
+L 05/09/2013 - 15:04:54: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2890.56 2061.81 96.35; setang 13.13 149.48 0.00><Area 52425>" killed "infected<199><><Infected><infected><DEAD><-4><setpos_exact 2566.72 2273.98 -7.97; setang 0.00 328.47 0.00><Area 53054>" with "shotgun_spas"
+L 05/09/2013 - 15:04:55: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><63+0><setpos_exact 3046.00 2070.97 129.70; setang 13.62 172.96 0.00><Area 52426>" killed "infected<125><><Infected><infected><DEAD><-7><setpos_exact 2538.94 2134.07 -7.97; setang 0.00 197.76 0.00><Area 57329>" with "rifle_ak47"
+L 05/09/2013 - 15:04:56: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><63+0><setpos_exact 2917.07 2034.33 102.04; setang 17.22 184.89 0.00><Area 52425>" killed "infected<170><><Infected><infected><DEAD><-14><setpos_exact 2650.71 2010.31 -7.97; setang -0.00 16.12 0.00><Area 134420>" with "rifle_ak47"
+L 05/09/2013 - 15:04:56: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><80+0><setpos_exact 2851.64 2070.97 88.00; setang 12.23 199.32 0.00><Area 52425>" killed "infected<206><><Infected><infected><DEAD><-7><setpos_exact 2651.14 2012.02 -7.97; setang 0.00 49.36 0.00><Area 134420>" with "rifle_ak47"
+L 05/09/2013 - 15:04:57: (DEATH)"Nick<3><BOT><Survivor><Gambler><ALIVE><80+0><setpos_exact 2849.95 2070.97 87.64; setang 10.34 199.45 0.00><Area 52425>" killed "infected<198><><Infected><infected><DEAD><-6><setpos_exact 2477.00 1939.37 -7.97; setang 0.00 284.80 0.00><Area 134420>" with "rifle_ak47"
+L 05/09/2013 - 15:04:57: (INCAP) "Nick<3><BOT><Survivor><Gambler><INCAP><10+0><setpos_exact 2850.43 2070.97 87.74; setang 8.05 198.76 0.00><Area 52425>" is incapacitated
+L 05/09/2013 - 15:04:57: (INCAP)"Nick<3><BOT><Survivor><Gambler><INCAP><300+0><setpos_exact 2850.43 2070.97 87.74; setang 8.05 198.76 0.00><Area 52425>" was incapped by "Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2846.36 2070.97 86.87; setang 8.38 -155.67 0.00><Area 52425>" with "shotgun_spas"
+L 05/09/2013 - 15:04:57: (INCAP) "Coach<5><BOT><Survivor><Coach><ALIVE><64+0><setpos_exact 2898.49 2069.89 98.05; setang 8.40 197.22 0.00><Area 52425>" starts reviving "Nick<3><BOT><Survivor><Gambler><INCAP><258+0><setpos_exact 2872.36 2068.63 54.45; setang 4.90 198.12 -18.24><Area 5242
+L 05/09/2013 - 15:04:59: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><63+0><setpos_exact 2865.45 2025.21 90.96; setang 11.66 176.07 0.00><Area 52425>" killed "infected<201><><Infected><infected><DEAD><-6><setpos_exact 2545.64 2047.65 -7.97; setang 0.00 357.55 0.00><Area 134420>" with "rifle_ak47"
+L 05/09/2013 - 15:05:05: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+29><setpos_exact 2588.28 1984.56 54.03; setang 9.84 153.45 0.00><Area 134420>" killed "infected<269><><Infected><infected><DEAD><-1><setpos_exact 2447.87 2067.06 -7.97; setang 0.00 345.87 0.00><Area 365478>" with "rifle_ak47"
+L 05/09/2013 - 15:05:07: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+28><setpos_exact 2647.92 1863.03 54.03; setang 4.45 145.49 0.00><Area 134435>" killed "infected<270><><Infected><infected><DEAD><0><setpos_exact 2393.46 2041.65 -8.37; setang 0.00 308.97 0.00><Area 365467>" with "rifle_ak47"
+L 05/09/2013 - 15:05:12: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2364.33 2008.26 53.15; setang 5.94 -111.88 0.00><Area 365467>" killed "infected<230><><Infected><infected><DEAD><-10><setpos_exact 2281.84 1818.72 -11.69; setang 0.00 40.29 0.00><Area 51014>" with "shotgun_spas"
+L 05/09/2013 - 15:05:12: 886.83: (MOB) SpawnMob requested of size 30.
+L 05/09/2013 - 15:05:12: 886.83: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:05:13: 887.10: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:05:13: 887.10: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:05:13: 887.10: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:05:13: 887.10: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 15:05:13: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2364.33 2008.26 53.15; setang 7.26 -109.37 0.00><Area 365467>" killed "infected<239><><Infected><infected><DEAD><-11><setpos_exact 2310.43 1815.61 -11.78; setang -0.00 12.33 0.00><Area 51035>" with "shotgun_spas"
+L 05/09/2013 - 15:05:13: 887.73: (MOB) Mob zombie spawned, 25 remain.
+L 05/09/2013 - 15:05:13: 887.73: (MOB) Mob zombie spawned, 24 remain.
+L 05/09/2013 - 15:05:13: 887.73: (MOB) Mob zombie spawned, 23 remain.
+L 05/09/2013 - 15:05:13: 887.73: (MOB) Mob zombie spawned, 22 remain.
+L 05/09/2013 - 15:05:13: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2364.33 2008.26 53.15; setang 6.34 -97.23 0.00><Area 365467>" killed "infected<256><><Infected><infected><DEAD><-9><setpos_exact 2343.68 1786.46 -11.55; setang 0.00 53.05 0.00><Area 51047>" with "shotgun_spas"
+L 05/09/2013 - 15:05:13: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2364.33 2008.26 53.15; setang 6.34 -97.23 0.00><Area 365467>" killed "infected<123><><Infected><infected><DEAD><-6><setpos_exact 2332.97 1715.80 -7.97; setang 0.00 46.81 0.00><Area 51044>" with "shotgun_spas"
+L 05/09/2013 - 15:05:14: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2364.33 2008.26 53.15; setang 5.48 -87.79 0.00><Area 365467>" killed "infected<210><><Infected><infected><DEAD><0><setpos_exact 2384.04 1867.89 -10.58; setang 0.00 -621.91 0.00><Area 146907>" with "shotgun_spas"
+L 05/09/2013 - 15:05:14: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><63+0><setpos_exact 2452.90 2023.69 54.03; setang 10.40 168.48 0.00><Area 134432>" killed "infected<200><><Infected><infected><DEAD><-17><setpos_exact 2328.86 2041.74 -9.38; setang 0.00 316.65 0.00><Area 365467>" with "rifle_ak47"
+L 05/09/2013 - 15:05:15: 889.13: (MOB) Mob zombie spawned, 21 remain.
+L 05/09/2013 - 15:05:15: 889.13: (MOB) Mob zombie spawned, 20 remain.
+L 05/09/2013 - 15:05:15: 889.13: (MOB) Mob zombie spawned, 19 remain.
+L 05/09/2013 - 15:05:15: 889.13: (MOB) Mob zombie spawned, 18 remain.
+L 05/09/2013 - 15:05:15: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+26><setpos_exact 2533.67 1985.62 54.03; setang 6.54 163.66 0.00><Area 134420>" killed "infected<122><><Infected><infected><DEAD><-17><setpos_exact 2346.83 2037.49 -9.15; setang 0.00 312.60 0.00><Area 365467>" with "rifle_ak47"
+L 05/09/2013 - 15:05:16: 890.03: (MOB) Mob zombie spawned, 17 remain.
+L 05/09/2013 - 15:05:16: 890.03: (MOB) Mob zombie spawned, 16 remain.
+L 05/09/2013 - 15:05:16: 890.03: (MOB) Mob zombie spawned, 15 remain.
+L 05/09/2013 - 15:05:16: 890.03: (MOB) Mob zombie spawned, 14 remain.
+L 05/09/2013 - 15:05:16: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><63+0><setpos_exact 2441.62 2033.78 54.03; setang 29.47 179.81 -3.48><Area 365477>" killed "infected<121><><Infected><infected><DEAD><-7><setpos_exact 2352.03 2037.30 -9.24; setang 0.00 300.86 0.00><Area 365467>" with "rifle_ak47"
+L 05/09/2013 - 15:05:16: "Boomer<37><BOT><>" connected, address "none"
+L 05/09/2013 - 15:05:16: OnEndChangelevel (37): 0 saved players:
+L 05/09/2013 - 15:05:16: "Boomer<37><BOT><>" entered the game
+L 05/09/2013 - 15:05:16: "Boomer<37><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:05:16: Boomer spawned as a BOOMER
+L 05/09/2013 - 15:05:16: "Boomer<37><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact 2662.50 3337.50 54.03; setang 0.00 0.00 0.00><Area 50508>" spawned
+L 05/09/2013 - 15:05:16: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><63+0><setpos_exact 2441.62 2033.78 54.03; setang 25.52 179.81 -0.81><Area 365477>" killed "infected<207><><Infected><infected><DEAD><-7><setpos_exact 2340.96 2037.71 -9.20; setang 0.00 306.28 0.00><Area 365467>" with "rifle_ak47"
+L 05/09/2013 - 15:05:17: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><63+0><setpos_exact 2441.62 2033.78 54.03; setang 18.70 179.81 -0.01><Area 365477>" killed "infected<208><><Infected><infected><DEAD><-7><setpos_exact 2342.12 2037.30 -9.15; setang 0.00 305.93 0.00><Area 365467>" with "rifle_ak47"
+L 05/09/2013 - 15:05:18: 892.23: (MOB) Mob zombie spawned, 13 remain.
+L 05/09/2013 - 15:05:18: 892.23: (MOB) Mob zombie spawned, 12 remain.
+L 05/09/2013 - 15:05:18: 892.23: (MOB) Mob zombie spawned, 11 remain.
+L 05/09/2013 - 15:05:18: 892.23: (MOB) Mob zombie spawned, 10 remain.
+L 05/09/2013 - 15:05:18: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><63+0><setpos_exact 2440.42 2034.01 54.03; setang 4.52 259.09 0.00><Area 365477>" killed "infected<209><><Infected><infected><DEAD><-1><setpos_exact 2386.60 1749.37 -9.62; setang 0.00 781.87 0.00><Area 53080>" with "rifle_ak47"
+L 05/09/2013 - 15:05:19: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><63+0><setpos_exact 2391.36 2060.00 53.64; setang 7.64 257.38 0.00><Area 365467>" killed "infected<212><><Infected><infected><DEAD><-6><setpos_exact 2294.91 1606.89 -13.48; setang 0.00 778.14 0.00><Area 51007>" with "rifle_ak47"
+L 05/09/2013 - 15:05:20: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2284.83 2328.62 36.03; setang 13.20 45.43 0.00><Area 51018>" killed "infected<241><><Infected><infected><DEAD><-63><setpos_exact 2301.60 2357.65 -7.97; setang -0.00 -133.21 0.00><Area 51029>" with "shotgun_spas"
+L 05/09/2013 - 15:05:20: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2284.83 2328.62 36.03; setang 13.20 45.43 0.00><Area 51018>" killed "infected<270><><Infected><infected><DEAD><-9><setpos_exact 2334.21 2411.86 -18.85; setang -0.00 -123.27 0.00><Area 52372>" with "shotgun_spas"
+L 05/09/2013 - 15:05:20: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2284.83 2328.62 36.03; setang 13.20 45.43 0.00><Area 51018>" killed "infected<237><><Infected><infected><DEAD><-9><setpos_exact 2454.58 2495.34 -39.97; setang 0.00 44.50 0.00><Area 52373>" with "shotgun_spas"
+L 05/09/2013 - 15:05:20: "Hunter<38><BOT><>" connected, address "none"
+L 05/09/2013 - 15:05:20: OnEndChangelevel (38): 0 saved players:
+L 05/09/2013 - 15:05:20: "Hunter<38><BOT><>" entered the game
+L 05/09/2013 - 15:05:20: "Hunter<38><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:05:20: Hunter spawned as a HUNTER
+L 05/09/2013 - 15:05:20: "Hunter<38><BOT><Infected><HUNTER><ALIVE><250+0><setpos_exact 2112.50 3337.50 44.03; setang 0.00 0.00 0.00><Area 92311>" spawned
+L 05/09/2013 - 15:05:21: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><63+0><setpos_exact 2319.09 2145.97 52.08; setang 6.98 90.19 0.00><Area 365467>" killed "infected<269><><Infected><infected><DEAD><-7><setpos_exact 2313.86 2344.20 -7.97; setang 0.00 213.82 0.00><Area 51030>" with "rifle_ak47"
+L 05/09/2013 - 15:05:21: 895.37: (MOB) Mob zombie spawned, 9 remain.
+L 05/09/2013 - 15:05:21: 895.37: (MOB) Mob zombie spawned, 8 remain.
+L 05/09/2013 - 15:05:21: 895.37: (MOB) Mob zombie spawned, 7 remain.
+L 05/09/2013 - 15:05:21: 895.37: (MOB) Mob zombie spawned, 6 remain.
+L 05/09/2013 - 15:05:21: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+24><setpos_exact 2261.59 2182.04 51.02; setang 7.14 69.67 0.00><Area 47991>" killed "infected<272><><Infected><infected><DEAD><-7><setpos_exact 2304.08 2365.85 -7.97; setang 0.00 235.64 0.00><Area 51029>" with "rifle_ak47"
+L 05/09/2013 - 15:05:21: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+24><setpos_exact 2261.70 2186.86 50.98; setang 10.41 68.30 0.00><Area 47991>" killed "infected<196><><Infected><infected><DEAD><-20><setpos_exact 2335.57 2365.85 -7.97; setang -0.00 216.83 0.00><Area 51054>" with "rifle_ak47"
+L 05/09/2013 - 15:05:22: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+24><setpos_exact 2261.74 2188.68 50.97; setang 9.53 59.78 0.00><Area 47991>" killed "infected<276><><Infected><infected><DEAD><-7><setpos_exact 2371.65 2382.92 -4.14; setang 0.00 211.41 0.00><Area 170986>" with "rifle_ak47"
+L 05/09/2013 - 15:05:22: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2284.83 2328.62 36.03; setang 16.04 40.09 0.00><Area 51018>" killed "infected<211><><Infected><infected><DEAD><-7><setpos_exact 2489.82 2492.96 -39.97; setang 0.00 -110.40 0.00><Area 52373>" with "shotgun_spas"
+L 05/09/2013 - 15:05:22: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2284.83 2328.62 36.03; setang 16.04 40.09 0.00><Area 51018>" killed "infected<216><><Infected><infected><DEAD><0><setpos_exact 2396.96 2422.16 -39.97; setang -0.00 -142.52 0.00><Area 51055>" with "shotgun_spas"
+L 05/09/2013 - 15:05:22: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+24><setpos_exact 2261.74 2188.68 50.97; setang 5.81 62.61 0.00><Area 47991>" killed "infected<274><><Infected><infected><DEAD><-9><setpos_exact 2327.43 2328.51 -9.58; setang -0.00 188.92 0.00><Area 51030>" with "rifle_ak47"
+L 05/09/2013 - 15:05:22: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+24><setpos_exact 2261.74 2188.68 50.97; setang 7.18 59.57 0.00><Area 47991>" killed "infected<206><><Infected><infected><DEAD><-2><setpos_exact 2408.31 2420.26 -20.55; setang -0.00 216.55 0.00><Area 170986>" with "rifle_ak47"
+L 05/09/2013 - 15:05:22: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+24><setpos_exact 2261.74 2188.68 50.97; setang 11.14 61.00 0.00><Area 47991>" killed "infected<213><><Infected><infected><DEAD><-26><setpos_exact 2414.31 2425.47 -39.97; setang 0.00 215.31 0.00><Area 52373>" with "rifle_ak47"
+L 05/09/2013 - 15:05:23: 897.23: (MOB) Mob zombie spawned, 5 remain.
+L 05/09/2013 - 15:05:23: 897.23: (MOB) Mob zombie spawned, 4 remain.
+L 05/09/2013 - 15:05:23: 897.23: (MOB) Mob zombie spawned, 3 remain.
+L 05/09/2013 - 15:05:23: 897.23: (MOB) Mob zombie spawned, 2 remain.
+L 05/09/2013 - 15:05:23: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><64+0><setpos_exact 2209.49 2186.11 50.28; setang 6.49 46.85 0.00><Area 50944>" killed "infected<240><><Infected><infected><DEAD><-3><setpos_exact 2334.59 2321.42 -10.44; setang 0.00 176.95 0.00><Area 51053>" with "shotgun_spas"
+L 05/09/2013 - 15:05:24: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><63+0><setpos_exact 2320.85 2145.97 52.10; setang 8.94 84.36 0.00><Area 365467>" killed "infected<230><><Infected><infected><DEAD><-19><setpos_exact 2338.48 2356.34 -7.97; setang -0.00 232.81 0.00><Area 51054>" with "rifle_ak47"
+L 05/09/2013 - 15:05:24: 898.27: (MOB) Mob zombie spawned, 1 remain.
+L 05/09/2013 - 15:05:24: 898.27: (MOB) Mob zombie spawned, 0 remain.
+L 05/09/2013 - 15:05:24: 898.27: (MOB) Pending mob done.
+L 05/09/2013 - 15:05:24: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><63+0><setpos_exact 2320.85 2145.97 52.10; setang 6.83 106.27 0.00><Area 365467>" killed "infected<271><><Infected><infected><DEAD><-7><setpos_exact 2265.16 2357.97 -12.03; setang -0.00 298.04 0.00><Area 50987>" with "rifle_ak47"
+L 05/09/2013 - 15:05:24: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><64+0><setpos_exact 2209.49 2186.11 50.28; setang 5.75 60.69 0.00><Area 50944>" killed "infected<201><><Infected><infected><DEAD><-1><setpos_exact 2313.86 2330.97 -8.58; setang 0.00 199.16 0.00><Area 51030>" with "shotgun_spas"
+L 05/09/2013 - 15:05:25: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+23><setpos_exact 2264.84 2190.94 50.99; setang 9.71 67.68 0.00><Area 47991>" killed "infected<197><><Infected><infected><DEAD><-7><setpos_exact 2320.14 2362.03 -7.97; setang 0.00 218.73 0.00><Area 51054>" with "rifle_ak47"
+L 05/09/2013 - 15:05:25: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><63+0><setpos_exact 2320.85 2145.97 52.10; setang 5.78 87.80 0.00><Area 365467>" killed "infected<125><><Infected><infected><DEAD><-7><setpos_exact 2313.86 2333.47 -8.45; setang 0.00 198.78 0.00><Area 51053>" with "rifle_ak47"
+L 05/09/2013 - 15:05:25: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><64+0><setpos_exact 2209.49 2186.11 50.28; setang 9.15 292.12 0.00><Area 50944>" killed "infected<261><><Infected><infected><DEAD><-2><setpos_exact 2254.13 2037.46 -10.55; setang 0.00 85.98 0.00><Area 47727>" with "shotgun_spas"
+L 05/09/2013 - 15:05:26: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><64+0><setpos_exact 2209.49 2186.11 50.28; setang 8.78 286.98 0.00><Area 50944>" killed "infected<257><><Infected><infected><DEAD><-12><setpos_exact 2270.62 2032.93 -10.34; setang 0.00 91.22 0.00><Area 47727>" with "shotgun_spas"
+L 05/09/2013 - 15:05:26: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+23><setpos_exact 2264.84 2190.94 50.99; setang 5.84 60.83 0.00><Area 47991>" killed "infected<275><><Infected><infected><DEAD><-7><setpos_exact 2375.39 2387.78 -7.97; setang 0.00 205.71 0.00><Area 170986>" with "rifle_ak47"
+L 05/09/2013 - 15:05:27: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><64+0><setpos_exact 2209.49 2186.11 50.28; setang 4.53 53.66 0.00><Area 50944>" killed "infected<239><><Infected><infected><DEAD><-2><setpos_exact 2338.58 2364.06 -7.97; setang -0.00 218.12 0.00><Area 51054>" with "shotgun_spas"
+L 05/09/2013 - 15:05:27: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><64+0><setpos_exact 2209.49 2186.11 50.28; setang 4.53 53.66 0.00><Area 50944>" killed "infected<210><><Infected><infected><DEAD><-2><setpos_exact 2316.67 2365.85 -7.91; setang 0.00 221.16 0.00><Area 51055>" with "shotgun_spas"
+L 05/09/2013 - 15:05:27: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+23><setpos_exact 2264.84 2190.94 50.99; setang 11.30 70.02 0.00><Area 47991>" killed "infected<198><><Infected><infected><DEAD><0><setpos_exact 2340.77 2418.57 -36.37; setang -0.00 240.25 0.00><Area 51056>" with "rifle_ak47"
+L 05/09/2013 - 15:05:28: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+23><setpos_exact 2264.84 2190.94 50.99; setang 13.19 66.55 0.00><Area 47991>" killed "infected<123><><Infected><infected><DEAD><-1><setpos_exact 2361.37 2407.02 -28.61; setang -0.00 232.73 0.00><Area 170986>" with "rifle_ak47"
+L 05/09/2013 - 15:05:28: ------------------------------ Director state change BUILD_UP -> SUSTAIN_PEAK
+L 05/09/2013 - 15:05:28: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><64+0><setpos_exact 2209.49 2186.11 50.28; setang 3.74 74.45 0.00><Area 50944>" killed "infected<170><><Infected><infected><DEAD><-6><setpos_exact 2244.18 2341.48 -8.22; setang 0.00 331.29 0.00><Area 50975>" with "shotgun_spas"
+L 05/09/2013 - 15:05:30: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><80+0><setpos_exact 2284.83 2328.62 54.03; setang 17.89 36.00 0.00><Area 51018>" killed "infected<256><><Infected><infected><DEAD><-44><setpos_exact 2334.19 2363.96 -7.97; setang 0.00 214.28 0.00><Area 51029>" with "shotgun_spas"
+L 05/09/2013 - 15:05:30: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><64+0><setpos_exact 2209.49 2186.11 50.28; setang 4.49 58.52 0.00><Area 50944>" killed "infected<208><><Infected><infected><DEAD><-10><setpos_exact 2304.37 2368.92 -7.97; setang 0.00 238.54 0.00><Area 51029>" with "shotgun_spas"
+L 05/09/2013 - 15:05:30: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><64+0><setpos_exact 2209.49 2186.11 50.28; setang 4.49 58.52 0.00><Area 50944>" killed "infected<282><><Infected><infected><DEAD><-9><setpos_exact 2341.91 2400.26 -20.43; setang -0.00 232.39 0.00><Area 51055>" with "shotgun_spas"
+L 05/09/2013 - 15:05:30: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><63+0><setpos_exact 2320.85 2145.97 52.10; setang 9.30 95.18 0.00><Area 365467>" killed "infected<241><><Infected><infected><DEAD><-7><setpos_exact 2295.74 2432.74 -39.67; setang -0.00 268.39 0.00><Area 47920>" with "rifle_ak47"
+L 05/09/2013 - 15:05:30: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><64+0><setpos_exact 2209.49 2186.11 50.28; setang 6.12 55.54 0.00><Area 50944>" killed "infected<229><><Infected><infected><DEAD><-11><setpos_exact 2318.38 2337.70 -8.22; setang 0.00 195.11 0.00><Area 51030>" with "shotgun_spas"
+L 05/09/2013 - 15:05:30: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><80+0><setpos_exact 2284.83 2328.62 54.03; setang 14.65 35.86 0.00><Area 51018>" killed "infected<280><><Infected><infected><DEAD><-8><setpos_exact 2452.26 2422.17 -39.97; setang -0.00 -150.79 0.00><Area 170986>" with "shotgun_spas"
+L 05/09/2013 - 15:05:30: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><64+0><setpos_exact 2209.49 2186.11 50.28; setang 8.77 326.68 0.00><Area 50944>" killed "infected<258><><Infected><infected><DEAD><-4><setpos_exact 2309.89 2111.42 -9.84; setang 0.00 72.41 0.00><Area 365467>" with "shotgun_spas"
+L 05/09/2013 - 15:05:31: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><80+0><setpos_exact 2284.83 2328.62 54.03; setang 15.25 36.00 0.00><Area 51018>" killed "infected<212><><Infected><infected><DEAD><-10><setpos_exact 2414.58 2409.57 -21.46; setang -0.00 -149.12 0.00><Area 170986>" with "shotgun_spas"
+L 05/09/2013 - 15:05:31: ------------------------------ Director state change SUSTAIN_PEAK -> PEAK_FADE
+L 05/09/2013 - 15:05:31: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><53+0><setpos_exact 2320.85 2145.97 52.10; setang 6.10 90.99 0.00><Area 365467>" killed "infected<236><><Infected><infected><DEAD><-46><setpos_exact 2317.77 2501.34 -36.93; setang -0.00 254.85 0.00><Area 52186>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 15:05:34: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+21><setpos_exact 2273.74 2253.51 50.36; setang 7.07 37.83 0.00><Area 50991>" killed "infected<237><><Infected><infected><DEAD><-6><setpos_exact 2644.40 2536.83 -39.97; setang -0.00 210.19 0.00><Area 48408>" with "rifle_ak47"
+L 05/09/2013 - 15:05:40: (DEATH)"Nick<3><BOT><Survivor><Gambler><LIMPING><1+19><setpos_exact 2556.37 2441.23 22.07; setang 357.23 70.72 0.00><Area 51201>" killed "infected<199><><Infected><infected><DEAD><-7><setpos_exact 2587.63 2562.48 -7.97; setang 0.00 -21.20 0.00><Area 51205>" with "rifle_ak47"
+L 05/09/2013 - 15:05:40: (MOB) 3 wanderers grabbed for an IT mob of desired size 30.
+L 05/09/2013 - 15:05:40: 914.80: (MOB) SpawnITMob requested of size 27.
+L 05/09/2013 - 15:05:40: 914.80: (MOB) SpawnITMob will make 27.
+L 05/09/2013 - 15:05:40: 914.80: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 15:05:40: 914.80: (MOB) Mob zombie spawned, 25 remain.
+L 05/09/2013 - 15:05:40: 914.80: (MOB) Mob zombie spawned, 24 remain.
+L 05/09/2013 - 15:05:40: 914.80: (MOB) Mob zombie spawned, 23 remain.
+L 05/09/2013 - 15:05:40: 914.83: (MOB) Mob zombie spawned, 22 remain.
+L 05/09/2013 - 15:05:40: 914.83: (MOB) Mob zombie spawned, 21 remain.
+L 05/09/2013 - 15:05:40: 914.83: (MOB) Mob zombie spawned, 20 remain.
+L 05/09/2013 - 15:05:40: 914.83: (MOB) Mob zombie spawned, 19 remain.
+L 05/09/2013 - 15:05:40: 914.87: (MOB) Mob zombie spawned, 18 remain.
+L 05/09/2013 - 15:05:40: 914.87: (MOB) Mob zombie spawned, 17 remain.
+L 05/09/2013 - 15:05:40: 914.87: (MOB) Mob zombie spawned, 16 remain.
+L 05/09/2013 - 15:05:40: 914.87: (MOB) Mob zombie spawned, 15 remain.
+L 05/09/2013 - 15:05:40: 914.90: (MOB) Mob zombie spawned, 14 remain.
+L 05/09/2013 - 15:05:40: 914.90: (MOB) Mob zombie spawned, 13 remain.
+L 05/09/2013 - 15:05:40: 914.90: (MOB) Mob zombie spawned, 12 remain.
+L 05/09/2013 - 15:05:40: 914.90: (MOB) Mob zombie spawned, 11 remain.
+L 05/09/2013 - 15:05:40: 914.93: (MOB) Mob zombie spawned, 10 remain.
+L 05/09/2013 - 15:05:40: 914.93: (MOB) Mob zombie spawned, 9 remain.
+L 05/09/2013 - 15:05:40: 914.93: (MOB) Mob zombie spawned, 8 remain.
+L 05/09/2013 - 15:05:40: 914.93: (MOB) Mob zombie spawned, 7 remain.
+L 05/09/2013 - 15:05:40: 914.97: (MOB) Mob zombie spawned, 6 remain.
+L 05/09/2013 - 15:05:40: 914.97: (MOB) Mob zombie spawned, 5 remain.
+L 05/09/2013 - 15:05:40: 914.97: (MOB) Mob zombie spawned, 4 remain.
+L 05/09/2013 - 15:05:40: 914.97: (MOB) Mob zombie spawned, 3 remain.
+L 05/09/2013 - 15:05:40: 915.00: (MOB) Mob zombie spawned, 2 remain.
+L 05/09/2013 - 15:05:40: 915.00: (MOB) Mob zombie spawned, 1 remain.
+L 05/09/2013 - 15:05:40: 915.00: (MOB) Mob zombie spawned, 0 remain.
+L 05/09/2013 - 15:05:40: 915.00: (MOB) Pending mob done.
+L 05/09/2013 - 15:05:41: (DEATH)"Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><80+0><setpos_exact 2882.68 2853.86 24.72; setang 5.81 119.88 0.00><Area 47656>" killed "Boomer<37><BOT><Infected><BOOMER><DEAD><1+0><setpos 2765.11 3077.35 -37.26; setang 333.85 297.75 0.00><Area 48332>" with "shotgun_spas"
+L 05/09/2013 - 15:05:42: (DEATH)"Coach<5><BOT><Survivor><Coach><ALIVE><64+0><setpos_exact 2823.97 2691.79 22.50; setang 356.76 36.72 0.00><Area 47786>" killed "infected<269><><Infected><infected><DEAD><-10><setpos_exact 2969.73 2812.66 -7.98; setang 0.00 253.90 0.00><Area 52882>" with "shotgun_spas"
+L 05/09/2013 - 15:05:43: Hunter starting a pounce, 50 damage interrupts
+L 05/09/2013 - 15:05:44: Hunter ending a pounce
+L 05/09/2013 - 15:05:44: Hunter starting a pounce, 50 damage interrupts
+L 05/09/2013 - 15:05:44: Hunter pounced on Swampy, 250 damage interrupts
+L 05/09/2013 - 15:05:44: "Swampy<2><STEAM_1:1:64837573><Survivor>" disconnected (reason "Disconnect by user.")
+L 05/09/2013 - 15:05:44: "Ellis<39><BOT><>" connected, address "none"
+L 05/09/2013 - 15:05:44: OnEndChangelevel (39): 0 saved players:
+L 05/09/2013 - 15:05:44: "Ellis<39><BOT><>" entered the game
+L 05/09/2013 - 15:05:44: "Ellis<39><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 15:05:44: (SKIN) Survivor Ellis changed model from  to models/survivors/survivor_mechanic.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 15:05:44: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 15:05:44: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 15:05:44: Ellis spawned as a Mechanic
+L 05/09/2013 - 15:05:44: "Ellis<39><BOT><Survivor><Mechanic><ALIVE><100+0><setpos_exact 4336.00 2048.00 -1.97; setang 0.00 180.00 0.00><Area 283881>" spawned
+L 05/09/2013 - 15:05:44: Reloading original map c2m3_coaster
+L 05/09/2013 - 15:05:44: Preparing player entities for changelevel
+L 05/09/2013 - 15:05:44: Saving NORMAL for map transition at 2776,2707,-35
+L 05/09/2013 - 15:05:44: (SKIN) Nick saved model [models/survivors/survivor_gambler.mdl] via PlayerSaveData
+L 05/09/2013 - 15:05:44: Saving NORMAL for map transition at 2798,2661,-40
+L 05/09/2013 - 15:05:44: (SKIN) Rochelle saved model [models/survivors/survivor_producer.mdl] via PlayerSaveData
+L 05/09/2013 - 15:05:44: Saving NORMAL for map transition at 2825,2693,-39
+L 05/09/2013 - 15:05:44: (SKIN) Coach saved model [models/survivors/survivor_coach.mdl] via PlayerSaveData
+L 05/09/2013 - 15:05:44: Saving NORMAL for map transition at 2935,2774,-8
+L 05/09/2013 - 15:05:44: (SKIN) Ellis saved model [models/survivors/survivor_mechanic.mdl] via PlayerSaveData
+L 05/09/2013 - 15:05:45: "Ellis<39><BOT><Survivor>" disconnected (reason "Kicked by Console")
+L 05/09/2013 - 15:05:45: "Hunter<38><BOT><Infected>" disconnected (reason "Kicked by Console")
+L 05/09/2013 - 15:05:45: "Coach<5><BOT><Survivor>" disconnected (reason "Kicked by Console")
+L 05/09/2013 - 15:05:45: "Nick<3><BOT><Survivor>" disconnected (reason "Kicked by Console")
+L 05/09/2013 - 15:05:45: "Boomer<37><BOT><Infected>" disconnected (reason "Kicked by Console")
+L 05/09/2013 - 15:05:45: "Rochelle<4><BOT><Survivor>" disconnected (reason "Kicked by Console")
+L 05/09/2013 - 15:05:45: Log file closed

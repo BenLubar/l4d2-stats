@@ -1,0 +1,40 @@
+L 05/09/2013 - 14:46:54: Log file started (file "logs/L127_000_001_001_27017_201305091446_001.log") (game "/home/tf/srv/l4d2_beta/left4dead2_beta") (version "5289")
+L 05/09/2013 - 14:46:54: "Swampy<2><STEAM_1:1:64837573><>" connected, address "86.179.152.244:27005"
+L 05/09/2013 - 14:46:54: World triggered "Round_Start"
+L 05/09/2013 - 14:46:55: CDirector::RunScript, C2m1_no_bosses, level: 2
+L 05/09/2013 - 14:46:56: "Swampy<2><STEAM_1:1:64837573><>" STEAM USERID validated
+L 05/09/2013 - 14:47:57: FinishClientPutInServer Swampy(2): looking for bots to take over
+L 05/09/2013 - 14:47:57: "Swampy<2><STEAM_1:1:64837573><>" entered the game
+L 05/09/2013 - 14:48:10: "Swampy<2><STEAM_1:1:64837573><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 14:48:10: SetModelFromClass: Survivor Swampy changed model from  to models/survivors/survivor_mechanic.mdl via SetModelFromClass
+L 05/09/2013 - 14:48:10: (SKIN) SetCharacter: Survivor Swampy chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 14:48:10: Swampy spawned as a Mechanic
+L 05/09/2013 - 14:48:10: "Swampy<2><STEAM_1:1:64837573><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2671.00 4792.00 -914.76; setang -0.00 165.00 0.00><Area 156979>" spawned
+L 05/09/2013 - 14:48:10: "Coach<3><BOT><>" connected, address "none"
+L 05/09/2013 - 14:48:10: FinishClientPutInServer (3): looking for bots to take over
+L 05/09/2013 - 14:48:10: "Coach<3><BOT><>" entered the game
+L 05/09/2013 - 14:48:10: "Coach<3><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 14:48:10: SetModelFromClass: Survivor Coach changed model from  to models/survivors/survivor_coach.mdl via SetModelFromClass
+L 05/09/2013 - 14:48:10: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 14:48:10: Coach spawned as a Coach
+L 05/09/2013 - 14:48:10: "Coach<3><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 2671.00 4728.00 -914.44; setang -0.00 165.00 0.00><Area 156979>" spawned
+L 05/09/2013 - 14:48:10: (SKIN) Survivor Coach changed model from models/survivors/survivor_coach.mdl to models/survivors/survivor_coach.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 14:48:10: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 14:48:10: "Rochelle<4><BOT><>" connected, address "none"
+L 05/09/2013 - 14:48:10: FinishClientPutInServer (4): looking for bots to take over
+L 05/09/2013 - 14:48:10: "Rochelle<4><BOT><>" entered the game
+L 05/09/2013 - 14:48:10: "Rochelle<4><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 14:48:10: SetModelFromClass: Survivor Rochelle changed model from  to models/survivors/survivor_producer.mdl via SetModelFromClass
+L 05/09/2013 - 14:48:10: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 14:48:10: Rochelle spawned as a Producer
+L 05/09/2013 - 14:48:10: "Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 2671.00 4792.00 -914.00; setang -0.00 165.00 0.00><Area 156979>" spawned
+L 05/09/2013 - 14:48:10: (SKIN) Survivor Rochelle changed model from models/survivors/survivor_producer.mdl to models/survivors/survivor_producer.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 14:48:10: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 14:48:10: "Nick<5><BOT><>" connected, address "none"
+L 05/09/2013 - 14:48:10: FinishClientPutInServer (5): looking for bots to take over
+L 05/09/2013 - 14:48:10: "Nick<5><BOT><>" entered the game
+L 05/09/2013 - 14:48:10: "Nick<5><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 14:48:10: SetModelFromClass: Survivor Nick changed model from  to models/survivors/survivor_gambler.mdl via SetModelFromClass
+L 05/09/2013 - 14:48:10: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 14:48:10: Nick spawned as a Gambler
+L 05/09/2013 - 14:48:10: "Nick<5><BOT><Su

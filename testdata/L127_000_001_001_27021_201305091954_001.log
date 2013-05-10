@@ -1,0 +1,76 @@
+L 05/09/2013 - 19:54:51: Log file started (file "logs/L127_000_001_001_27021_201305091954_001.log") (game "/home/tf/srv/l4d2_beta/left4dead2_beta") (version "5289")
+L 05/09/2013 - 19:54:51: "Bill<2><STEAM_1:1:25363694><>" connected, address "107.212.60.132:27005"
+L 05/09/2013 - 19:54:51: World triggered "Round_Start"
+L 05/09/2013 - 19:54:51: "GameOverDude<3><STEAM_1:1:28847790><>" connected, address "50.88.252.60:27005"
+L 05/09/2013 - 19:54:51: CDirector::RunScript, C2m1_no_bosses, level: 2
+L 05/09/2013 - 19:54:53: "Bill<2><STEAM_1:1:25363694><>" STEAM USERID validated
+L 05/09/2013 - 19:54:53: "GameOverDude<3><STEAM_1:1:28847790><>" STEAM USERID validated
+L 05/09/2013 - 19:55:24: FinishClientPutInServer GameOverDude(3): looking for bots to take over
+L 05/09/2013 - 19:55:24: "GameOverDude<3><STEAM_1:1:28847790><>" entered the game
+L 05/09/2013 - 19:55:28: FinishClientPutInServer Bill(2): looking for bots to take over
+L 05/09/2013 - 19:55:28: "Bill<2><STEAM_1:1:25363694><>" entered the game
+L 05/09/2013 - 19:55:39: "GameOverDude<3><STEAM_1:1:28847790><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 19:55:39: SetModelFromClass: Survivor GameOverDude changed model from  to models/survivors/survivor_coach.mdl via SetModelFromClass
+L 05/09/2013 - 19:55:39: (SKIN) SetCharacter: Survivor GameOverDude chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 19:55:39: GameOverDude spawned as a Coach
+L 05/09/2013 - 19:55:39: "GameOverDude<3><STEAM_1:1:28847790><Survivor><Coach><ALIVE><100+0><setpos_exact 10716.00 7908.00 -480.49; setang 0.00 159.50 0.00><Area 10579>" spawned
+L 05/09/2013 - 19:55:39: "Nick<4><BOT><>" connected, address "none"
+L 05/09/2013 - 19:55:39: FinishClientPutInServer (4): looking for bots to take over
+L 05/09/2013 - 19:55:39: "Nick<4><BOT><>" entered the game
+L 05/09/2013 - 19:55:39: "Nick<4><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 19:55:39: SetModelFromClass: Survivor Nick changed model from  to models/survivors/survivor_gambler.mdl via SetModelFromClass
+L 05/09/2013 - 19:55:39: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 19:55:39: Nick spawned as a Gambler
+L 05/09/2013 - 19:55:39: "Nick<4><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 10728.00 7836.00 -481.08; setang 0.00 139.50 0.00><Area 10579>" spawned
+L 05/09/2013 - 19:55:39: (SKIN) Survivor Nick changed model from models/survivors/survivor_gambler.mdl to models/survivors/survivor_gambler.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 19:55:39: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 19:55:39: "Ellis<5><BOT><>" connected, address "none"
+L 05/09/2013 - 19:55:39: FinishClientPutInServer (5): looking for bots to take over
+L 05/09/2013 - 19:55:39: "Ellis<5><BOT><>" entered the game
+L 05/09/2013 - 19:55:39: "Ellis<5><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 19:55:39: SetModelFromClass: Survivor Ellis changed model from  to models/survivors/survivor_mechanic.mdl via SetModelFromClass
+L 05/09/2013 - 19:55:39: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 19:55:39: Ellis spawned as a Mechanic
+L 05/09/2013 - 19:55:39: "Ellis<5><BOT><Survivor><Mechanic><ALIVE><100+0><setpos_exact 10716.00 7908.00 -480.49; setang 0.00 159.50 0.00><Area 10579>" spawned
+L 05/09/2013 - 19:55:39: (SKIN) Survivor Ellis changed model from models/survivors/survivor_mechanic.mdl to models/survivors/survivor_mechanic.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 19:55:39: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 19:55:39: "Rochelle<6><BOT><>" connected, address "none"
+L 05/09/2013 - 19:55:39: FinishClientPutInServer (6): looking for bots to take over
+L 05/09/2013 - 19:55:39: "Rochelle<6><BOT><>" entered the game
+L 05/09/2013 - 19:55:39: "Rochelle<6><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 19:55:39: SetModelFromClass: Survivor Rochelle changed model from  to models/survivors/survivor_producer.mdl via SetModelFromClass
+L 05/09/2013 - 19:55:39: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 19:55:39: Rochelle spawned as a Producer
+L 05/09/2013 - 19:55:39: "Rochelle<6><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 10728.00 7836.00 -479.49; setang 0.00 139.50 0.00><Area 10579>" spawned
+L 05/09/2013 - 19:55:39: (SKIN) Survivor Rochelle changed model from models/survivors/survivor_producer.mdl to models/survivors/survivor_producer.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 19:55:39: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 19:55:39: "Bill<2><STEAM_1:1:25363694><Unassigned>" joined team "Spectator"
+L 05/09/2013 - 19:55:39: "Nick<4><BOT><Survivor>" joined team "Spectator"
+L 05/09/2013 - 19:55:39: "Bill<2><STEAM_1:1:25363694><Spectator>" joined team "Survivor"
+L 05/09/2013 - 19:55:39: SetModelFromClass: Survivor Bill changed model from  to models/survivors/survivor_gambler.mdl via SetModelFromClass
+L 05/09/2013 - 19:55:39: (SKIN) SetCharacter: Survivor Bill chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 19:55:39: Bill spawned as a Gambler
+L 05/09/2013 - 19:55:39: "Bill<2><STEAM_1:1:25363694><Survivor><Gambler><DEAD><1+0><setpos 10756.00 7848.00 -481.49; setang 0.00 160.50 0.00><Area 10587>" spawned
+L 05/09/2013 - 19:55:39: (SKIN) Survivor Bill changed model from models/survivors/survivor_gambler.mdl to models/survivors/survivor_gambler.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 19:55:39: (SKIN) SetCharacter: Survivor Bill chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 19:55:39: (SKIN) SetCharacter: Survivor Bill chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 19:55:39: Bill spawned as a Gambler
+L 05/09/2013 - 19:55:39: "Bill<2><STEAM_1:1:25363694><Survivor><Gambler><ALIVE><100+0><setpos_exact 10716.00 7908.00 -480.49; setang 0.00 159.50 0.00><Area 10579>" spawned
+L 05/09/2013 - 19:55:39: "Nick<4><BOT><Spectator>" disconnected (reason "Kicked by Console : survivor bot left the survivor team")
+L 05/09/2013 - 19:55:53: STEAMAUTH: Client Bill received failure code 6
+L 05/09/2013 - 19:55:53: "Bill<2><STEAM_1:1:25363694><Survivor>" disconnected (reason "No Steam logon")
+L 05/09/2013 - 19:55:53: "Nick<7><BOT><>" connected, address "none"
+L 05/09/2013 - 19:55:53: FinishClientPutInServer (7): looking for bots to take over
+L 05/09/2013 - 19:55:53: "Nick<7><BOT><>" entered the game
+L 05/09/2013 - 19:55:53: "Nick<7><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 19:55:53: SetModelFromClass: Survivor Nick changed model from  to models/survivors/survivor_gambler.mdl via SetModelFromClass
+L 05/09/2013 - 19:55:53: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 19:55:53: Nick spawned as a Gambler
+L 05/09/2013 - 19:55:53: "Nick<7><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 10728.00 7836.00 -479.49; setang 0.00 139.50 0.00><Area 10579>" spawned
+L 05/09/2013 - 19:55:53: (SKIN) Survivor Nick changed model from models/survivors/survivor_gambler.mdl to models/survivors/survivor_gambler.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 19:55:53: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 19:55:53: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 19:55:53: Nick spawned as a Gambler
+L 05/09/2013 - 19:55:53: "Nick<7><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 10756.00 7848.00 -481.49; setang 0.00 160.50 0.00><Area 10587>" spawned
+L 05/09/2013 - 19:56:59: "GameOverDude<3><STEAM_1:1:28847790><Survivor>" disconnected (reason "GameOverDude timed out")
+L 05/09/201

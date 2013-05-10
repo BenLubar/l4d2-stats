@@ -1,0 +1,722 @@
+L 05/09/2013 - 15:16:19: Log file started (file "logs/L127_000_001_001_27022_201305091516_001.log") (game "/home/tf/srv/l4d2_beta/left4dead2_beta") (version "5289")
+L 05/09/2013 - 15:16:19: "WiltzuTM<2><STEAM_1:1:8763726><>" connected, address "89.106.39.50:27005"
+L 05/09/2013 - 15:16:19: World triggered "Round_Start"
+L 05/09/2013 - 15:16:21: "WiltzuTM<2><STEAM_1:1:8763726><>" STEAM USERID validated
+L 05/09/2013 - 15:16:26: FinishClientPutInServer WiltzuTM(2): looking for bots to take over
+L 05/09/2013 - 15:16:26: "WiltzuTM<2><STEAM_1:1:8763726><>" entered the game
+L 05/09/2013 - 15:16:31: "WiltzuTM<2><STEAM_1:1:8763726><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 15:16:31: SetModelFromClass: Survivor WiltzuTM changed model from  to models/survivors/survivor_biker.mdl via SetModelFromClass
+L 05/09/2013 - 15:16:31: (SKIN) SetCharacter: Survivor WiltzuTM chose character Biker(3) from model models/survivors/survivor_biker.mdl
+L 05/09/2013 - 15:16:31: WiltzuTM spawned as a Biker
+L 05/09/2013 - 15:16:31: "WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><100+0><setpos_exact -11600.00 -14802.00 -153.84; setang 0.00 141.00 0.00><Area 21258>" spawned
+L 05/09/2013 - 15:16:31: "Bill<3><BOT><>" connected, address "none"
+L 05/09/2013 - 15:16:31: FinishClientPutInServer (3): looking for bots to take over
+L 05/09/2013 - 15:16:31: "Bill<3><BOT><>" entered the game
+L 05/09/2013 - 15:16:31: "Bill<3><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 15:16:31: SetModelFromClass: Survivor Bill changed model from  to models/survivors/survivor_namvet.mdl via SetModelFromClass
+L 05/09/2013 - 15:16:31: (SKIN) SetCharacter: Survivor Bill chose character NamVet(0) from model models/survivors/survivor_namvet.mdl
+L 05/09/2013 - 15:16:31: Bill spawned as a NamVet
+L 05/09/2013 - 15:16:31: "Bill<3><BOT><Survivor><NamVet><ALIVE><100+0><setpos_exact -11657.60 -14851.00 -156.48; setang 0.00 112.00 0.00><Area 21258>" spawned
+L 05/09/2013 - 15:16:31: (SKIN) Survivor Bill changed model from models/survivors/survivor_namvet.mdl to models/survivors/survivor_namvet.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 15:16:31: (SKIN) SetCharacter: Survivor Bill chose character NamVet(0) from model models/survivors/survivor_namvet.mdl
+L 05/09/2013 - 15:16:31: "Zoey<4><BOT><>" connected, address "none"
+L 05/09/2013 - 15:16:31: FinishClientPutInServer (4): looking for bots to take over
+L 05/09/2013 - 15:16:31: "Zoey<4><BOT><>" entered the game
+L 05/09/2013 - 15:16:31: "Zoey<4><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 15:16:31: SetModelFromClass: Survivor Zoey changed model from  to models/survivors/survivor_teenangst.mdl via SetModelFromClass
+L 05/09/2013 - 15:16:31: (SKIN) SetCharacter: Survivor Zoey chose character TeenGirl(1) from model models/survivors/survivor_teenangst.mdl
+L 05/09/2013 - 15:16:31: Zoey spawned as a TeenGirl
+L 05/09/2013 - 15:16:31: "Zoey<4><BOT><Survivor><TeenGirl><ALIVE><100+0><setpos_exact -11600.00 -14802.00 -153.71; setang 0.00 141.00 0.00><Area 21258>" spawned
+L 05/09/2013 - 15:16:31: (SKIN) Survivor Zoey changed model from models/survivors/survivor_teenangst.mdl to models/survivors/survivor_teenangst.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 15:16:31: (SKIN) SetCharacter: Survivor Zoey chose character TeenGirl(1) from model models/survivors/survivor_teenangst.mdl
+L 05/09/2013 - 15:16:31: "Louis<5><BOT><>" connected, address "none"
+L 05/09/2013 - 15:16:31: FinishClientPutInServer (5): looking for bots to take over
+L 05/09/2013 - 15:16:31: "Louis<5><BOT><>" entered the game
+L 05/09/2013 - 15:16:31: "Louis<5><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 15:16:31: SetModelFromClass: Survivor Louis changed model from  to models/survivors/survivor_manager.mdl via SetModelFromClass
+L 05/09/2013 - 15:16:31: (SKIN) SetCharacter: Survivor Louis chose character Manager(2) from model models/survivors/survivor_manager.mdl
+L 05/09/2013 - 15:16:31: Louis spawned as a Manager
+L 05/09/2013 - 15:16:31: "Louis<5><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact -11657.60 -14851.00 -153.58; setang 0.00 112.00 0.00><Area 21258>" spawned
+L 05/09/2013 - 15:16:31: (SKIN) Survivor Louis changed model from models/survivors/survivor_manager.mdl to models/survivors/survivor_manager.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 15:16:31: (SKIN) SetCharacter: Survivor Louis chose character Manager(2) from model models/survivors/survivor_manager.mdl
+L 05/09/2013 - 15:16:57: CDirector::RunScript, c10m1_no_bosses, level: 2
+L 05/09/2013 - 15:16:58: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact -11655.32 -14752.54 -150.42; setang 354.36 119.85 0.00><Area 21265>" killed "infected<123><><Infected><infected><DEAD><26><setpos_exact -12305.89 -13618.18 -62.15; setang 0.00 293.81 0.00><Area 406>" with "shotgun_chrome" (headshot)
+L 05/09/2013 - 15:16:58: Allowing spawning - "WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><100+0><setpos_exact -12074.95 -14090.72 -43.64; setang -1.72 87.64 0.00><Area 16684>" left safe area
+L 05/09/2013 - 15:17:00: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><100+0><setpos_exact -12068.17 -13866.78 -17.33; setang 3.50 119.55 0.00><Area 16681>" killed "infected<167><><Infected><infected><DEAD><0><setpos_exact -12077.89 -13837.77 -77.34; setang -0.00 -149.54 0.00><Area 16681>" with "melee"
+L 05/09/2013 - 15:17:01: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><100+0><setpos_exact -12084.88 -13830.41 -14.47; setang 5.58 81.07 0.00><Area 16681>" killed "infected<122><><Infected><infected><DEAD><0><setpos_exact -12090.88 -13801.39 -74.28; setang -0.00 -94.23 0.00><Area 16681>" with "melee"
+L 05/09/2013 - 15:17:02: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact -12029.35 -14239.00 -68.07; setang 359.09 100.95 0.00><Area 24601>" killed "infected<109><><Infected><infected><DEAD><0><setpos_exact -12142.28 -13665.70 -63.62; setang 0.00 328.16 0.00><Area 1474>" with "dual_pistols"
+L 05/09/2013 - 15:17:04: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact -12032.81 -13879.92 -16.51; setang 0.93 88.70 0.00><Area 16681>" killed "infected<125><><Infected><infected><DEAD><-24><setpos_exact -12024.71 -13521.47 -63.51; setang 0.00 268.71 0.00><Area 24818>" with "dual_pistols"
+L 05/09/2013 - 15:17:05: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><100+0><setpos_exact -12197.07 -13358.50 -0.06; setang 7.66 44.80 0.00><Area 21530>" killed "infected<159><><Infected><infected><DEAD><0><setpos_exact -12150.10 -13323.57 -62.69; setang 0.00 239.47 0.00><Area 28320>" with "melee" (headshot)
+L 05/09/2013 - 15:17:06: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><100+0><setpos_exact -12191.83 -13320.96 -0.16; setang 8.35 103.64 0.00><Area 28320>" killed "infected<124><><Infected><infected><DEAD><0><setpos_exact -12189.41 -13279.85 -62.26; setang -0.00 -73.50 0.00><Area 28320>" with "melee"
+L 05/09/2013 - 15:17:07: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><100+0><setpos_exact -12293.99 -13455.69 1.88; setang 7.61 67.10 0.00><Area 24923>" killed "infected<172><><Infected><infected><DEAD><-5><setpos_exact -12227.41 -13298.83 -61.79; setang 0.00 325.84 0.00><Area 28686>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:08: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact -12247.13 -13494.58 0.91; setang 5.08 174.16 0.00><Area 21524>" killed "infected<163><><Infected><infected><DEAD><-3><setpos_exact -12458.22 -13483.06 -54.26; setang 0.00 20.17 0.00><Area 28658>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:08: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><100+0><setpos_exact -12294.00 -13455.36 1.88; setang 5.17 191.09 0.00><Area 24923>" killed "infected<173><><Infected><infected><DEAD><-5><setpos_exact -12461.48 -13502.23 -54.01; setang 0.00 30.15 0.00><Area 28658>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:08: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><100+0><setpos_exact -12295.53 -13303.39 1.67; setang 4.85 81.90 0.00><Area 28686>" killed "infected<195><><Infected><infected><DEAD><0><setpos_exact -12283.02 -13273.15 -60.72; setang 0.00 308.28 0.00><Area 28686>" with "melee" (headshot)
+L 05/09/2013 - 15:17:09: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><100+0><setpos_exact -12294.00 -13455.36 1.88; setang 359.82 126.89 0.00><Area 24923>" killed "infected<188><><Infected><infected><DEAD><-6><setpos_exact -12383.45 -13341.27 -58.77; setang -0.00 322.03 0.00><Area 20949>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:10: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><100+0><setpos_exact -12338.36 -13375.59 2.73; setang 3.53 161.19 0.00><Area 24923>" killed "infected<189><><Infected><infected><DEAD><-12><setpos_exact -12452.27 -13340.77 -55.22; setang 0.00 343.10 0.00><Area 20949>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:10: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><100+0><setpos_exact -12283.38 -13454.51 1.64; setang 5.81 344.08 0.00><Area 24923>" killed "infected<190><><Infected><infected><DEAD><-29><setpos_exact -12206.37 -13466.63 -62.01; setang -0.00 251.90 0.00><Area 21531>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:11: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><100+0><setpos_exact -12253.91 -13425.16 0.96; setang 9.60 83.62 0.00><Area 28689>" killed "infected<197><><Infected><infected><DEAD><-3><setpos_exact -12236.98 -13205.78 -61.78; setang -0.00 238.24 0.00><Area 28686>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:12: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><100+0><setpos_exact -12284.95 -13467.38 1.70; setang 7.21 90.10 0.00><Area 24923>" killed "infected<202><><Infected><infected><DEAD><-3><setpos_exact -12292.82 -13253.32 -60.51; setang 0.00 289.41 0.00><Area 28686>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:12: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><100+0><setpos_exact -12284.95 -13467.38 1.70; setang 7.21 90.10 0.00><Area 24923>" killed "infected<198><><Infected><infected><DEAD><-3><setpos_exact -12268.53 -13259.25 -60.95; setang 0.00 274.90 0.00><Area 28686>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:13: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><100+0><setpos_exact -12276.96 -13455.97 1.51; setang 14.15 174.29 0.00><Area 24923>" killed "infected<191><><Infected><infected><DEAD><-8><setpos_exact -12444.66 -13440.33 -54.57; setang -0.00 4.50 0.00><Area 28658>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:13: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><100+0><setpos_exact -12233.74 -13370.45 0.43; setang 7.98 150.46 0.00><Area 28689>" killed "infected<203><><Infected><infected><DEAD><-26><setpos_exact -12365.53 -13314.51 -58.59; setang 0.00 22.41 0.00><Area 20949>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:14: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><100+0><setpos_exact -12370.36 -13079.40 2.92; setang 7.03 121.86 0.00><Area 20946>" killed "infected<216><><Infected><infected><DEAD><0><setpos_exact -12378.25 -13029.05 -59.33; setang -0.00 -41.44 0.00><Area 20946>" with "melee" (headshot)
+L 05/09/2013 - 15:17:15: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><100+0><setpos_exact -12226.25 -13166.61 0.07; setang 2.23 144.57 0.00><Area 20959>" killed "infected<258><><Infected><infected><DEAD><-20><setpos_exact -12535.65 -12945.90 -52.95; setang 0.00 325.45 0.00><Area 20945>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:16: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><100+0><setpos_exact -12220.89 -13156.51 -0.00; setang 1.73 131.54 0.00><Area 28318>" killed "infected<255><><Infected><infected><DEAD><-13><setpos_exact -12578.17 -12770.50 -53.63; setang 0.00 5.76 0.00><Area 3620>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:16: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact -12278.39 -13271.14 1.25; setang 2.41 222.17 0.00><Area 28686>" killed "infected<161><><Infected><infected><DEAD><-16><setpos_exact -12515.57 -13485.03 -50.90; setang 0.00 41.97 0.00><Area 28659>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:17: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><100+0><setpos_exact -12260.96 -13220.94 0.76; setang 8.20 125.02 0.00><Area 28686>" killed "infected<259><><Infected><infected><DEAD><-21><setpos_exact -12362.88 -13088.49 -59.46; setang 0.00 316.83 0.00><Area 20950>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:19: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><100+0><setpos_exact -12201.94 -13051.67 -0.45; setang 3.74 39.36 0.00><Area 21519>" killed "infected<192><><Infected><infected><DEAD><-14><setpos_exact -11915.70 -12834.66 -64.47; setang 0.00 -161.34 0.00><Area 3286>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:21: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><100+0><setpos_exact -12477.51 -12921.61 5.82; setang 4.42 100.73 0.00><Area 20945>" killed "infected<214><><Infected><infected><DEAD><-1><setpos_exact -12529.10 -12635.73 -58.96; setang 0.00 76.59 0.00><Area 3260>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:23: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><100+0><setpos_exact -12320.05 -12331.35 -1.97; setang 1.22 216.74 0.00><Area 18038>" killed "infected<269><><Infected><infected><DEAD><-2><setpos_exact -12513.63 -12481.53 -62.29; setang 0.00 55.02 0.00><Area 3267>" with "shotgun_chrome" (headshot)
+L 05/09/2013 - 15:17:25: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><100+0><setpos_exact -12306.36 -12182.67 -0.93; setang 3.99 221.65 0.00><Area 18044>" killed "infected<278><><Infected><infected><DEAD><0><setpos_exact -12528.22 -12367.38 -59.97; setang 0.00 39.80 0.00><Area 18040>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:25: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact -12298.53 -12230.72 -1.97; setang 5.18 223.45 0.00><Area 18044>" killed "infected<123><><Infected><infected><DEAD><-12><setpos_exact -12498.00 -12429.14 -63.78; setang 0.00 52.97 0.00><Area 3267>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:26: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact -12286.15 -12240.59 -1.97; setang 2.00 228.98 0.00><Area 18044>" killed "infected<260><><Infected><infected><DEAD><0><setpos_exact -12356.75 -12309.01 -63.97; setang -0.00 29.52 0.00><Area 18038>" with "shotgun_chrome" (headshot)
+L 05/09/2013 - 15:17:26: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact -12286.15 -12240.59 -1.97; setang 2.00 228.98 0.00><Area 18044>" killed "infected<277><><Infected><infected><DEAD><-19><setpos_exact -12553.13 -12549.83 -60.54; setang 0.00 49.19 0.00><Area 3267>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:27: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><100+0><setpos_exact -12379.04 -12269.98 -1.97; setang 2.82 234.78 0.00><Area 18042>" killed "infected<202><><Infected><infected><DEAD><-21><setpos_exact -12486.57 -12446.68 -63.17; setang -0.00 132.89 0.00><Area 3267>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:27: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><100+0><setpos_exact -12379.04 -12269.98 -1.97; setang 2.82 234.78 0.00><Area 18042>" killed "infected<215><><Infected><infected><DEAD><-14><setpos_exact -12688.05 -12701.41 -44.44; setang 0.00 54.39 0.00><Area 3360>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:30: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><100+0><setpos_exact -12429.84 -12309.13 -1.97; setang 5.75 223.62 0.00><Area 18040>" killed "infected<279><><Infected><infected><DEAD><-13><setpos_exact -12522.59 -12391.55 -59.97; setang 0.00 50.00 0.00><Area 18040>" with "shotgun_chrome" (headshot)
+L 05/09/2013 - 15:17:31: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><100+0><setpos_exact -12585.88 -12353.16 54.03; setang 65.11 159.87 0.00><Area 24935>" killed "infected<280><><Infected><infected><DEAD><0><setpos_exact -12614.91 -12357.77 -6.19; setang 0.00 -0.00 0.00><Area 24935>" with "melee"
+L 05/09/2013 - 15:17:35: "Boomer<6><BOT><>" connected, address "none"
+L 05/09/2013 - 15:17:35: FinishClientPutInServer (6): looking for bots to take over
+L 05/09/2013 - 15:17:35: "Boomer<6><BOT><>" entered the game
+L 05/09/2013 - 15:17:35: "Boomer<6><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:17:35: Boomer spawned as a BOOMER
+L 05/09/2013 - 15:17:35: "Boomer<6><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact -12937.50 -10762.50 46.19; setang 0.00 0.00 0.00><Area 28086>" spawned
+L 05/09/2013 - 15:17:36: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><94+0><setpos_exact -12853.08 -11973.54 -236.51; setang 35.51 140.97 0.00><Area 20312>" killed "infected<197><><Infected><infected><DEAD><0><setpos_exact -12888.75 -11944.00 -316.37; setang 0.00 286.14 0.00><Area 20312>" with "melee"
+L 05/09/2013 - 15:17:36: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><92+0><setpos_exact -12865.38 -11969.28 -238.86; setang 25.51 155.91 0.00><Area 20312>" killed "infected<195><><Infected><infected><DEAD><0><setpos_exact -12888.90 -11947.48 -312.36; setang -0.00 -65.00 0.00><Area 20312>" with "melee"
+L 05/09/2013 - 15:17:37: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><90+0><setpos_exact -12866.13 -11971.91 -237.41; setang 26.89 162.65 0.00><Area 20312>" killed "infected<159><><Infected><infected><DEAD><0><setpos_exact -12895.17 -11979.05 -297.13; setang 0.00 15.25 0.00><Area 20312>" with "melee"
+L 05/09/2013 - 15:17:38: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><88+0><setpos_exact -12871.18 -11998.28 -222.91; setang 25.01 165.75 0.00><Area 20312>" killed "infected<198><><Infected><infected><DEAD><0><setpos_exact -12895.72 -12016.48 -276.55; setang -0.00 30.97 0.00><Area 3322>" with "melee"
+L 05/09/2013 - 15:17:39: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><100+0><setpos_exact -12827.67 -12050.77 -194.04; setang 31.56 57.94 0.00><Area 3386>" killed "infected<125><><Infected><infected><DEAD><-44><setpos_exact -12768.88 -11970.59 -303.49; setang -0.00 192.27 0.00><Area 20312>" with "shotgun_chrome" (headshot)
+L 05/09/2013 - 15:17:39: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact -12779.66 -12151.05 -138.89; setang 5.48 192.56 0.00><Area 28628>" killed "infected<163><><Infected><infected><DEAD><-16><setpos_exact -12888.46 -12178.58 -187.33; setang -0.00 22.29 0.00><Area 28629>" with "dual_pistols"
+L 05/09/2013 - 15:17:40: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><100+0><setpos_exact -12810.74 -12173.33 -126.63; setang 10.08 179.50 0.00><Area 28628>" killed "infected<255><><Infected><infected><DEAD><-5><setpos_exact -12965.69 -12165.74 -195.69; setang 0.00 301.24 0.00><Area 26138>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:40: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><100+0><setpos_exact -12832.39 -12040.53 -199.67; setang 36.84 45.45 0.00><Area 3386>" killed "infected<109><><Infected><infected><DEAD><-6><setpos_exact -12748.06 -11934.57 -321.66; setang -0.00 196.92 0.00><Area 25014>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:41: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><100+0><setpos_exact -12813.75 -12178.91 -123.56; setang 19.49 61.62 0.00><Area 28628>" killed "infected<172><><Infected><infected><DEAD><-7><setpos_exact -12768.88 -12101.72 -218.87; setang -0.00 255.34 0.00><Area 28628>" with "shotgun_chrome" (headshot)
+L 05/09/2013 - 15:17:42: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact -12784.11 -12165.98 -130.68; setang 31.89 123.01 0.00><Area 28628>" killed "infected<192><><Infected><infected><DEAD><-4><setpos_exact -12861.42 -12047.26 -259.62; setang 0.00 7.57 0.00><Area 3322>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:42: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact -12784.11 -12165.98 -130.68; setang 31.89 123.01 0.00><Area 28628>" killed "infected<190><><Infected><infected><DEAD><-26><setpos_exact -12857.55 -12083.14 -239.88; setang 0.00 -44.88 0.00><Area 3322>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:42: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact -12784.11 -12165.98 -130.68; setang 31.89 123.01 0.00><Area 28628>" killed "infected<188><><Infected><infected><DEAD><-13><setpos_exact -13018.46 -11771.88 -431.30; setang 0.00 -75.66 0.00><Area 3445>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:43: "Jockey<7><BOT><>" connected, address "none"
+L 05/09/2013 - 15:17:43: FinishClientPutInServer (7): looking for bots to take over
+L 05/09/2013 - 15:17:43: "Jockey<7><BOT><>" entered the game
+L 05/09/2013 - 15:17:43: "Jockey<7><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:17:43: Jockey spawned as a JOCKEY
+L 05/09/2013 - 15:17:43: "Jockey<7><BOT><Infected><JOCKEY><ALIVE><325+0><setpos_exact -12547.73 -11062.73 2.03; setang 0.00 0.00 0.00><Area 3310>" spawned
+L 05/09/2013 - 15:17:43: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><98+0><setpos_exact -12821.11 -12191.70 -116.53; setang 19.39 28.16 0.00><Area 28627>" killed "infected<124><><Infected><infected><DEAD><-45><setpos_exact -12747.08 -12142.24 -205.37; setang -0.00 222.00 0.00><Area 28628>" with "shotgun_chrome" (headshot)
+L 05/09/2013 - 15:17:44: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><98+0><setpos_exact -12784.11 -12165.98 -130.68; setang 33.55 98.90 0.00><Area 28628>" killed "infected<216><><Infected><infected><DEAD><-3><setpos_exact -12811.78 -11987.47 -299.11; setang -0.00 252.14 0.00><Area 20312>" with "shotgun_chrome" (headshot)
+L 05/09/2013 - 15:17:44: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><98+0><setpos_exact -12784.11 -12165.98 -130.68; setang 33.55 98.90 0.00><Area 28628>" killed "infected<191><><Infected><infected><DEAD><-10><setpos_exact -12794.61 -12049.25 -258.52; setang -0.00 180.13 0.00><Area 3386>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:45: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><96+0><setpos_exact -12831.50 -12050.77 -194.04; setang 343.05 227.92 0.00><Area 3386>" killed "infected<189><><Infected><infected><DEAD><-7><setpos_exact -12877.98 -12126.64 -219.50; setang -0.00 309.30 0.00><Area 28630>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:45: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><98+0><setpos_exact -12784.11 -12165.98 -130.68; setang 16.08 155.83 0.00><Area 28628>" killed "infected<173><><Infected><infected><DEAD><-23><setpos_exact -12989.09 -12084.23 -252.01; setang -0.00 15.48 0.00><Area 25794>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:47: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -12895.69 -12166.33 -130.48; setang 22.12 145.91 0.00><Area 28629>" killed "infected<258><><Infected><infected><DEAD><-14><setpos_exact -13591.28 -11697.55 -509.05; setang 0.00 211.49 0.00><Area 25016>" with "pistol"
+L 05/09/2013 - 15:17:47: 88.87: (MOB) SpawnMob requested of size 30.
+L 05/09/2013 - 15:17:47: 88.87: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:17:47: 88.87: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:17:47: 88.87: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:17:47: 88.87: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:17:47: 88.87: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 15:17:48: 89.27: (MOB) Mob zombie spawned, 25 remain.
+L 05/09/2013 - 15:17:48: 89.27: (MOB) Mob zombie spawned, 24 remain.
+L 05/09/2013 - 15:17:48: 89.27: (MOB) Mob zombie spawned, 23 remain.
+L 05/09/2013 - 15:17:48: 89.27: (MOB) Mob zombie spawned, 22 remain.
+L 05/09/2013 - 15:17:48: 89.77: (MOB) Mob zombie spawned, 21 remain.
+L 05/09/2013 - 15:17:48: 89.77: (MOB) Mob zombie spawned, 20 remain.
+L 05/09/2013 - 15:17:49: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><96+0><setpos_exact -12829.68 -12038.97 -200.53; setang 334.95 286.80 0.00><Area 3386>" killed "infected<190><><Infected><infected><DEAD><-9><setpos_exact -12737.53 -12328.17 -105.90; setang 0.00 108.14 0.00><Area 3389>" with "pistol"
+L 05/09/2013 - 15:17:49: 90.60: (MOB) Mob zombie spawned, 19 remain.
+L 05/09/2013 - 15:17:49: 90.60: (MOB) Mob zombie spawned, 18 remain.
+L 05/09/2013 - 15:17:49: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><96+0><setpos_exact -12829.68 -12038.97 -200.53; setang 340.69 299.57 0.00><Area 3386>" killed "infected<192><><Infected><infected><DEAD><-13><setpos_exact -12718.79 -12232.35 -157.95; setang 0.00 119.45 0.00><Area 20315>" with "pistol"
+L 05/09/2013 - 15:17:49: 91.00: (MOB) Mob zombie spawned, 17 remain.
+L 05/09/2013 - 15:17:49: 91.00: (MOB) Mob zombie spawned, 16 remain.
+L 05/09/2013 - 15:17:49: 91.00: (MOB) Mob zombie spawned, 15 remain.
+L 05/09/2013 - 15:17:49: 91.00: (MOB) Mob zombie spawned, 14 remain.
+L 05/09/2013 - 15:17:50: "Jockey<7><BOT><Infected><JOCKEY><ALIVE><325+0><setpos_exact -12048.84 -11239.73 -333.61; setang 339.29 359.01 0.00><Area 24944>" landed
+L 05/09/2013 - 15:17:51: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><96+0><setpos_exact -12812.48 -11926.42 -262.43; setang 343.63 283.77 0.00><Area 20312>" killed "infected<172><><Infected><infected><DEAD><-15><setpos_exact -12786.73 -12065.43 -250.84; setang 0.00 85.20 0.00><Area 3386>" with "pistol"
+L 05/09/2013 - 15:17:51: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><98+0><setpos_exact -12755.14 -12028.62 -206.22; setang 15.31 27.20 0.00><Area 25014>" killed "infected<345><><Infected><infected><DEAD><-56><setpos_exact -12686.85 -12008.88 -282.56; setang -0.00 113.26 0.00><Area 25014>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:52: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -12887.99 -11824.12 -317.94; setang 23.38 56.54 0.00><Area 20313>" killed "infected<202><><Infected><infected><DEAD><-21><setpos_exact -12708.33 -11530.26 -499.76; setang 0.00 239.53 0.00><Area 3264>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:53: ------------------------------ Director state change BUILD_UP -> SUSTAIN_PEAK
+L 05/09/2013 - 15:17:53: 94.53: (MOB) Mob zombie spawned, 13 remain.
+L 05/09/2013 - 15:17:53: 94.53: (MOB) Mob zombie spawned, 12 remain.
+L 05/09/2013 - 15:17:53: 94.53: (MOB) Mob zombie spawned, 11 remain.
+L 05/09/2013 - 15:17:53: 94.53: (MOB) Mob zombie spawned, 10 remain.
+L 05/09/2013 - 15:17:54: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><96+0><setpos_exact -12813.51 -11828.85 -315.61; setang 352.01 283.60 0.00><Area 20313>" killed "infected<191><><Infected><infected><DEAD><-47><setpos_exact -12792.43 -11915.89 -331.87; setang 0.00 103.62 0.00><Area 20312>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:55: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><88+0><setpos_exact -12853.92 -11840.61 -308.22; setang 13.63 16.72 0.00><Area 20313>" killed "infected<260><><Infected><infected><DEAD><31><setpos_exact -12771.24 -11816.89 -389.25; setang 0.00 194.45 0.00><Area 20311>" with "smg" (headshot)
+L 05/09/2013 - 15:17:56: ------------------------------ Director state change SUSTAIN_PEAK -> PEAK_FADE
+L 05/09/2013 - 15:17:56: 97.60: (MOB) Mob zombie spawned, 9 remain.
+L 05/09/2013 - 15:17:56: 97.60: (MOB) Mob zombie spawned, 8 remain.
+L 05/09/2013 - 15:17:56: 97.60: (MOB) Mob zombie spawned, 7 remain.
+L 05/09/2013 - 15:17:56: 97.60: (MOB) Mob zombie spawned, 6 remain.
+L 05/09/2013 - 15:17:56: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -12887.99 -11824.12 -317.94; setang 28.37 52.54 0.00><Area 20313>" killed "infected<194><><Infected><infected><DEAD><-3><setpos_exact -12764.45 -11669.78 -472.25; setang 0.00 208.43 0.00><Area 5216>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:56: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><89+0><setpos_exact -12811.15 -11827.39 -316.45; setang 358.14 353.92 0.00><Area 20313>" killed "infected<344><><Infected><infected><DEAD><-27><setpos_exact -12637.63 -11850.05 -368.66; setang -0.00 171.11 0.00><Area 20311>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:57: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -12887.99 -11824.12 -317.94; setang 2.27 345.12 0.00><Area 20313>" killed "infected<173><><Infected><infected><DEAD><-5><setpos_exact -12723.61 -11874.95 -354.35; setang -0.00 137.33 0.00><Area 20311>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:57: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -12887.99 -11824.12 -317.94; setang 2.27 345.12 0.00><Area 20313>" killed "infected<364><><Infected><infected><DEAD><-5><setpos_exact -12750.71 -11886.30 -346.76; setang -0.00 97.89 0.00><Area 20311>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:58: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -12887.99 -11824.12 -317.94; setang 5.26 329.04 0.00><Area 20313>" killed "infected<163><><Infected><infected><DEAD><-7><setpos_exact -12770.09 -11886.84 -347.28; setang 0.00 65.18 0.00><Area 20311>" with "shotgun_chrome"
+L 05/09/2013 - 15:17:58: 99.87: (MOB) Mob zombie spawned, 5 remain.
+L 05/09/2013 - 15:17:58: 99.87: (MOB) Mob zombie spawned, 4 remain.
+L 05/09/2013 - 15:17:58: 99.87: (MOB) Mob zombie spawned, 3 remain.
+L 05/09/2013 - 15:17:58: 99.87: (MOB) Mob zombie spawned, 2 remain.
+L 05/09/2013 - 15:17:59: (DEATH)"Jockey<7><BOT><Infected><JOCKEY><ALIVE><67+0><setpos_exact -12772.35 -11920.30 -283.80; setang 18.85 70.85 0.00><Area 25014>" killed "infected<189><><Infected><infected><DEAD><0><setpos_exact -12759.55 -11900.15 -341.76; setang 0.00 89.90 0.00><Area 20311>" with "jockey_claw"
+L 05/09/2013 - 15:17:59: (DEATH)"Boomer<6><BOT><Infected><BOOMER><DEAD><1+0><setpos -12622.06 -11210.06 -398.77; setang 4.05 259.15 0.00><Area 3387>" committed suicide with "world"
+L 05/09/2013 - 15:17:59: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><98+0><setpos_exact -12778.63 -11806.82 -328.51; setang 351.25 269.44 0.00><Area 20313>" killed "Jockey<7><BOT><Infected><JOCKEY><DEAD><1+0><setpos -12776.32 -11931.80 -321.47; setang 336.27 91.06 0.00><Area 20312>" with "shotgun_chrome"
+L 05/09/2013 - 15:18:00: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -12887.99 -11824.12 -317.94; setang 9.15 2.89 0.00><Area 20313>" killed "infected<159><><Infected><infected><DEAD><-4><setpos_exact -12709.55 -11815.63 -387.23; setang 0.00 184.22 0.00><Area 20311>" with "shotgun_chrome"
+L 05/09/2013 - 15:18:00: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -12887.99 -11824.12 -317.94; setang 9.15 2.89 0.00><Area 20313>" killed "infected<361><><Infected><infected><DEAD><-3><setpos_exact -12688.89 -11801.91 -394.33; setang -0.00 196.06 0.00><Area 20311>" with "shotgun_chrome"
+L 05/09/2013 - 15:18:00: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -12887.99 -11824.12 -317.94; setang 9.15 2.89 0.00><Area 20313>" killed "infected<216><><Infected><infected><DEAD><-3><setpos_exact -12653.73 -11831.87 -379.77; setang -0.00 191.61 0.00><Area 20311>" with "shotgun_chrome"
+L 05/09/2013 - 15:18:00: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -12887.99 -11824.12 -317.94; setang 9.15 2.89 0.00><Area 20313>" killed "infected<259><><Infected><infected><DEAD><-9><setpos_exact -12233.12 -11776.13 -408.90; setang 0.00 250.54 0.00><Area 20323>" with "shotgun_chrome"
+L 05/09/2013 - 15:18:00: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><88+0><setpos_exact -12738.56 -11818.13 -322.19; setang 353.11 251.62 0.00><Area 20311>" killed "infected<366><><Infected><infected><DEAD><-38><setpos_exact -12763.49 -11911.28 -334.28; setang 0.00 109.73 0.00><Area 25014>" with "shotgun_chrome"
+L 05/09/2013 - 15:18:01: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -12881.00 -11818.32 -321.88; setang 17.09 15.16 0.00><Area 20313>" killed "infected<198><><Infected><infected><DEAD><-6><setpos_exact -12753.92 -11783.80 -404.35; setang 0.00 214.81 0.00><Area 20311>" with "shotgun_chrome"
+L 05/09/2013 - 15:18:02: 103.20: (MOB) Mob zombie spawned, 1 remain.
+L 05/09/2013 - 15:18:02: 103.20: (MOB) Mob zombie spawned, 0 remain.
+L 05/09/2013 - 15:18:02: 103.20: (MOB) Pending mob done.
+L 05/09/2013 - 15:18:02: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><88+0><setpos_exact -12990.18 -11893.48 -279.53; setang 4.52 355.16 0.00><Area 3353>" killed "infected<214><><Infected><infected><DEAD><-5><setpos_exact -12851.70 -11903.84 -338.12; setang -0.00 183.19 0.00><Area 20313>" with "shotgun_chrome"
+L 05/09/2013 - 15:18:04: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -13307.76 -11929.68 -400.18; setang 3.08 32.38 0.00><Area 25201>" killed "infected<215><><Infected><infected><DEAD><-22><setpos_exact -13001.19 -11749.38 -444.28; setang 0.00 167.71 0.00><Area 3446>" with "shotgun_chrome"
+L 05/09/2013 - 15:18:04: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -13307.76 -11929.68 -400.18; setang 3.08 32.38 0.00><Area 25201>" killed "infected<269><><Infected><infected><DEAD><-21><setpos_exact -12985.39 -11737.95 -443.56; setang 0.00 176.35 0.00><Area 3384>" with "shotgun_chrome"
+L 05/09/2013 - 15:18:05: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><88+0><setpos_exact -13322.00 -11857.65 -424.02; setang 333.08 323.51 0.00><Area 25094>" killed "infected<202><><Infected><infected><DEAD><-16><setpos_exact -12966.77 -12082.43 -239.71; setang 0.00 156.07 0.00><Area 3322>" with "shotgun_chrome"
+L 05/09/2013 - 15:18:05: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><88+0><setpos_exact -13322.00 -11857.65 -424.02; setang 333.08 323.51 0.00><Area 25094>" killed "infected<338><><Infected><infected><DEAD><-21><setpos_exact -13040.51 -12061.03 -284.44; setang 0.00 157.64 0.00><Area 3447>" with "shotgun_chrome"
+L 05/09/2013 - 15:18:05: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><98+0><setpos_exact -13535.43 -11837.27 -424.85; setang 6.09 164.08 0.00><Area 25093>" killed "infected<125><><Infected><infected><DEAD><-2><setpos_exact -13760.04 -11776.59 -505.22; setang -0.00 338.11 0.00><Area 25098>" with "shotgun_chrome"
+L 05/09/2013 - 15:18:06: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><88+0><setpos_exact -13536.36 -11837.00 -424.51; setang 339.10 332.96 0.00><Area 25093>" killed "infected<188><><Infected><infected><DEAD><-9><setpos_exact -12998.85 -12120.51 -234.04; setang 0.00 113.11 0.00><Area 25794>" with "shotgun_chrome"
+L 05/09/2013 - 15:18:06: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -13545.44 -11789.39 -431.11; setang 342.02 332.28 0.00><Area 25093>" killed "infected<258><><Infected><infected><DEAD><-12><setpos_exact -12948.44 -12068.21 -246.55; setang -0.00 137.66 0.00><Area 3322>" with "shotgun_chrome"
+L 05/09/2013 - 15:18:06: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><98+0><setpos_exact -13561.58 -11780.33 -442.43; setang 345.96 337.60 0.00><Area 25118>" killed "infected<367><><Infected><infected><DEAD><9><setpos_exact -13091.03 -11996.17 -346.90; setang 0.00 153.55 0.00><Area 3352>" with "shotgun_chrome" (headshot)
+L 05/09/2013 - 15:18:07: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -13761.21 -11805.22 -432.68; setang 351.69 353.04 0.00><Area 25098>" killed "infected<203><><Infected><infected><DEAD><-4><setpos_exact -13040.00 -11884.02 -369.92; setang 0.00 213.07 0.00><Area 3445>" with "shotgun_chrome"
+L 05/09/2013 - 15:18:08: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><88+0><setpos_exact -13822.58 -11784.95 -442.05; setang 352.86 348.24 0.00><Area 25098>" killed "infected<195><><Infected><infected><DEAD><-4><setpos_exact -13122.72 -11939.90 -380.05; setang 0.00 151.79 0.00><Area 3440>" with "shotgun_chrome"
+L 05/09/2013 - 15:18:08: "Boomer<6><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:18:08: "Jockey<7><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:18:08: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -13876.43 -11821.69 -457.54; setang 351.45 351.27 0.00><Area 25155>" killed "infected<190><><Infected><infected><DEAD><-11><setpos_exact -13088.35 -11947.42 -363.36; setang 0.00 159.52 0.00><Area 3352>" with "pistol"
+L 05/09/2013 - 15:18:10: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -13895.00 -11841.74 -440.83; setang 358.78 7.57 0.00><Area 25101>" killed "infected<124><><Infected><infected><DEAD><-14><setpos_exact -13008.74 -11733.29 -456.65; setang 0.00 268.78 0.00><Area 3446>" with "pistol"
+L 05/09/2013 - 15:18:13: ------------------------------ Director state change PEAK_FADE -> RELAX
+L 05/09/2013 - 15:18:19: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><80+0><setpos_exact -14315.91 -11522.15 -442.50; setang 8.05 -66.97 0.00><Area 22595>" killed "infected<368><><Infected><infected><DEAD><-7><setpos_exact -14244.14 -11701.73 -494.65; setang -0.00 114.19 0.00><Area 22600>" with "smg"
+L 05/09/2013 - 15:18:19: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -14350.28 -11454.64 -441.26; setang 360.37 272.24 0.00><Area 22595>" killed "infected<260><><Infected><infected><DEAD><-6><setpos_exact -14334.32 -11688.19 -493.91; setang -0.00 152.01 0.00><Area 22635>" with "shotgun_chrome"
+L 05/09/2013 - 15:18:21: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><98+0><setpos_exact -14236.29 -11724.32 -426.36; setang 10.25 322.38 0.00><Area 22600>" killed "infected<173><><Infected><infected><DEAD><-4><setpos_exact -14106.51 -11839.38 -504.77; setang 0.00 252.47 0.00><Area 25097>" with "shotgun_chrome"
+L 05/09/2013 - 15:18:22: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><98+0><setpos_exact -14231.22 -11732.15 -425.42; setang 9.89 350.62 0.00><Area 22600>" killed "infected<163><><Infected><infected><DEAD><-19><setpos_exact -13971.19 -11774.59 -505.40; setang 0.00 170.60 0.00><Area 25095>" with "shotgun_chrome"
+L 05/09/2013 - 15:18:47: ------------------------------ Director state change RELAX -> BUILD_UP
+L 05/09/2013 - 15:18:47: "Hunter<8><BOT><>" connected, address "none"
+L 05/09/2013 - 15:18:47: FinishClientPutInServer (8): looking for bots to take over
+L 05/09/2013 - 15:18:47: "Hunter<8><BOT><>" entered the game
+L 05/09/2013 - 15:18:47: "Hunter<8><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:18:47: Hunter spawned as a HUNTER
+L 05/09/2013 - 15:18:47: "Hunter<8><BOT><Infected><HUNTER><ALIVE><250+0><setpos_exact -13012.50 -10250.00 135.79; setang 0.00 0.00 0.00><Area 25574>" spawned
+L 05/09/2013 - 15:18:47: "Charger<9><BOT><>" connected, address "none"
+L 05/09/2013 - 15:18:47: FinishClientPutInServer (9): looking for bots to take over
+L 05/09/2013 - 15:18:47: "Charger<9><BOT><>" entered the game
+L 05/09/2013 - 15:18:47: "Charger<9><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:18:47: Charger spawned as a CHARGER
+L 05/09/2013 - 15:18:47: "Charger<9><BOT><Infected><CHARGER><ALIVE><600+0><setpos_exact -12875.00 -10100.00 34.41; setang 0.00 0.00 0.00><Area 26163>" spawned
+L 05/09/2013 - 15:18:49: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><78+0><setpos_exact -12392.36 -10961.65 -1.97; setang 1.75 10.88 0.00><Area 25555>" killed "infected<360><><Infected><infected><DEAD><-2><setpos_exact -12013.46 -10887.47 -64.77; setang 0.00 136.97 0.00><Area 17166>" with "smg"
+L 05/09/2013 - 15:18:49: Hunter starting a pounce, 50 damage interrupts
+L 05/09/2013 - 15:18:50: Hunter ending a pounce
+L 05/09/2013 - 15:18:51: Hunter starting a pounce, 50 damage interrupts
+L 05/09/2013 - 15:18:52: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><98+0><setpos_exact -12552.38 -11004.26 2.03; setang 40.26 59.85 0.00><Area 5256>" killed "Hunter<8><BOT><Infected><HUNTER><DEAD><1+0><setpos -12523.81 -10954.40 -63.97; setang 297.58 240.19 0.00><Area 20304>" with "shotgun_chrome"
+L 05/09/2013 - 15:18:52: "Jockey<10><BOT><>" connected, address "none"
+L 05/09/2013 - 15:18:52: FinishClientPutInServer (10): looking for bots to take over
+L 05/09/2013 - 15:18:52: "Jockey<10><BOT><>" entered the game
+L 05/09/2013 - 15:18:52: "Jockey<10><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:18:52: Jockey spawned as a JOCKEY
+L 05/09/2013 - 15:18:52: "Jockey<10><BOT><Infected><JOCKEY><ALIVE><325+0><setpos_exact -13037.50 -10237.50 152.84; setang 0.00 0.00 0.00><Area 25855>" spawned
+L 05/09/2013 - 15:18:54: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><98+0><setpos_exact -12591.20 -10859.35 -1.97; setang 0.43 297.12 0.00><Area 28306>" killed "Charger<9><BOT><Infected><CHARGER><DEAD><1+0><setpos -12491.00 -11055.02 -63.97; setang 330.57 117.12 0.00><Area 3310>" with "shotgun_chrome"
+L 05/09/2013 - 15:18:58: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><78+0><setpos_exact -12464.24 -10993.74 -0.97; setang -1.77 131.05 0.00><Area 20304>" killed "Jockey<10><BOT><Infected><JOCKEY><DEAD><1+0><setpos -12543.62 -10923.39 -63.97; setang 314.75 318.45 0.00><Area 20304>" with "shotgun_chrome"
+L 05/09/2013 - 15:19:01: "Hunter<8><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:19:03: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><78+0><setpos_exact -12453.85 -10511.04 -1.97; setang 2.40 130.82 0.00><Area 20290>" killed "infected<173><><Infected><infected><DEAD><-12><setpos_exact -12784.85 -10055.81 -45.38; setang 0.00 261.99 0.00><Area 7826>" with "shotgun_chrome"
+L 05/09/2013 - 15:19:03: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><68+0><setpos_exact -12525.98 -10272.64 -1.97; setang 0.13 101.66 0.00><Area 34653>" killed "infected<124><><Infected><infected><DEAD><-1><setpos_exact -12609.57 -9874.98 -50.18; setang 0.00 -20.16 0.00><Area 5667>" with "smg"
+L 05/09/2013 - 15:19:03: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><68+0><setpos_exact -12526.07 -10272.32 -1.97; setang 0.13 101.66 0.00><Area 34653>" killed "infected<189><><Infected><infected><DEAD><-1><setpos_exact -12582.58 -9915.05 -56.35; setang 0.00 -116.71 0.00><Area 5667>" with "smg"
+L 05/09/2013 - 15:19:04: "Charger<9><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:19:04: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><78+0><setpos_exact -12478.50 -10434.58 -1.97; setang 2.86 137.37 0.00><Area 20294>" killed "infected<163><><Infected><infected><DEAD><-21><setpos_exact -12756.34 -10175.91 -61.85; setang 0.00 180.46 0.00><Area 25568>" with "shotgun_chrome"
+L 05/09/2013 - 15:19:05: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><94+0><setpos_exact -12623.96 -10316.68 -0.13; setang 7.72 100.81 0.00><Area 25558>" killed "infected<172><><Infected><infected><DEAD><-21><setpos_exact -12647.44 -10154.12 -63.27; setang 0.00 21.80 0.00><Area 25564>" with "shotgun_chrome"
+L 05/09/2013 - 15:19:07: "Jockey<10><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:19:08: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><78+0><setpos_exact -12315.61 -10030.42 -1.97; setang 6.54 53.39 0.00><Area 26250>" killed "infected<159><><Infected><infected><DEAD><-4><setpos_exact -12203.79 -9890.43 -63.97; setang 0.00 529.40 0.00><Area 26250>" with "shotgun_chrome"
+L 05/09/2013 - 15:19:08: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><94+0><setpos_exact -12709.02 -10378.63 0.57; setang 337.56 147.37 0.00><Area 25558>" killed "infected<167><><Infected><infected><DEAD><-17><setpos_exact -13062.89 -10150.02 131.87; setang 0.00 -32.07 0.00><Area 7905>" with "shotgun_chrome"
+L 05/09/2013 - 15:19:09: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><78+0><setpos_exact -12338.71 -9835.48 -0.97; setang 4.48 72.00 0.00><Area 21930>" killed "infected<190><><Infected><infected><DEAD><-20><setpos_exact -12314.42 -9727.93 -63.97; setang -0.00 318.46 0.00><Area 22078>" with "shotgun_chrome"
+L 05/09/2013 - 15:19:12: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -12457.16 -9337.00 -1.97; setang 1.38 151.02 0.00><Area 21931>" killed "infected<197><><Infected><infected><DEAD><-3><setpos_exact -12635.77 -9225.00 -47.97; setang 0.00 340.89 0.00><Area 5672>" with "shotgun_chrome"
+L 05/09/2013 - 15:19:18: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><94+0><setpos_exact -12502.87 -8733.71 -1.97; setang 0.44 96.86 0.00><Area 28300>" killed "infected<191><><Infected><infected><DEAD><-14><setpos_exact -12571.38 -8171.13 -47.97; setang 0.00 342.34 0.00><Area 8614>" with "shotgun_chrome"
+L 05/09/2013 - 15:19:18: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -12519.84 -8796.00 -1.97; setang 2.11 92.61 0.00><Area 18067>" killed "infected<172><><Infected><infected><DEAD><0><setpos_exact -12540.16 -8200.22 -63.97; setang 0.00 107.76 0.00><Area 22248>" with "pistol"
+L 05/09/2013 - 15:19:19: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><68+0><setpos_exact -12714.65 -8792.74 14.03; setang 7.53 139.28 0.00><Area 5625>" killed "infected<173><><Infected><infected><DEAD><0><setpos_exact -12759.76 -8774.56 -47.97; setang 0.00 55.46 0.00><Area 5625>" with "melee"
+L 05/09/2013 - 15:19:20: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><78+0><setpos_exact -12552.57 -8679.45 14.03; setang 5.71 89.85 0.00><Area 7924>" killed "infected<194><><Infected><infected><DEAD><-11><setpos_exact -12551.56 -8437.71 -47.97; setang 0.00 253.68 0.00><Area 22198>" with "pistol"
+L 05/09/2013 - 15:19:23: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -12532.49 -8783.59 6.03; setang 1.96 93.25 0.00><Area 8868>" killed "infected<203><><Infected><infected><DEAD><-21><setpos_exact -12558.64 -8452.45 -47.97; setang 0.00 249.90 0.00><Area 22198>" with "shotgun_chrome"
+L 05/09/2013 - 15:19:33: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><94+0><setpos_exact -12710.67 -8116.80 14.03; setang 2.40 66.51 0.00><Area 8135>" killed "infected<258><><Infected><infected><DEAD><-4><setpos_exact -12432.79 -7477.56 -55.97; setang 0.00 141.12 0.00><Area 8591>" with "shotgun_chrome"
+L 05/09/2013 - 15:19:34: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><94+0><setpos_exact -12710.67 -8116.80 14.03; setang 2.93 64.52 0.00><Area 8135>" killed "infected<192><><Infected><infected><DEAD><-18><setpos_exact -12538.28 -7761.81 -49.13; setang 0.00 244.21 0.00><Area 22311>" with "shotgun_chrome"
+L 05/09/2013 - 15:19:34: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -12678.02 -8077.44 14.03; setang 3.39 69.55 0.00><Area 8135>" killed "infected<277><><Infected><infected><DEAD><-10><setpos_exact -12455.86 -7459.34 -55.97; setang 0.00 350.01 0.00><Area 8195>" with "pistol"
+L 05/09/2013 - 15:19:35: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><94+0><setpos_exact -12716.81 -8122.62 14.03; setang 6.76 55.05 0.00><Area 8135>" killed "infected<124><><Infected><infected><DEAD><-4><setpos_exact -12614.26 -7975.96 -47.97; setang 0.00 198.70 0.00><Area 8564>" with "shotgun_chrome"
+L 05/09/2013 - 15:19:35: Pipe bomb projectile spawned at -12510.217773 -7668.126953 -56.892296, velocity 0.000000 0.000000 0.000000
+L 05/09/2013 - 15:19:35: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><64+0><setpos_exact -12647.55 -7987.19 14.03; setang 12.58 68.56 0.00><Area 8784>" killed "infected<269><><Infected><infected><DEAD><-51><setpos_exact -12609.57 -7677.10 -63.97; setang -0.00 -91.40 0.00><Area 22311>" with "pipe_bomb"
+L 05/09/2013 - 15:19:35: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><64+0><setpos_exact -12647.55 -7987.19 14.03; setang 12.58 68.56 0.00><Area 8784>" killed "infected<167><><Infected><infected><DEAD><-51><setpos_exact -12689.16 -7726.37 -47.97; setang 0.00 -131.06 0.00><Area 8535>" with "pipe_bomb"
+L 05/09/2013 - 15:19:35: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><64+0><setpos_exact -12647.55 -7987.19 14.03; setang 12.58 68.56 0.00><Area 8784>" killed "infected<215><><Infected><infected><DEAD><-11><setpos_exact -12716.29 -7668.56 -47.97; setang -0.00 77.98 0.00><Area 8533>" with "pipe_bomb"
+L 05/09/2013 - 15:19:35: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><64+0><setpos_exact -12647.55 -7987.19 14.03; setang 12.58 68.56 0.00><Area 8784>" killed "infected<159><><Infected><infected><DEAD><-51><setpos_exact -12672.25 -7682.15 -63.97; setang 0.00 248.51 0.00><Area 8190>" with "pipe_bomb"
+L 05/09/2013 - 15:19:35: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><64+0><setpos_exact -12647.55 -7987.19 14.03; setang 12.58 68.56 0.00><Area 8784>" killed "infected<190><><Infected><infected><DEAD><0><setpos_exact -12710.43 -7641.24 -55.97; setang -0.00 -101.99 0.00><Area 8532>" with "pipe_bomb"
+L 05/09/2013 - 15:19:35: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><64+0><setpos_exact -12647.55 -7987.19 14.03; setang 12.58 68.56 0.00><Area 8784>" killed "infected<195><><Infected><infected><DEAD><-51><setpos_exact -12728.29 -7596.07 -55.97; setang 0.00 287.27 0.00><Area 8529>" with "pipe_bomb"
+L 05/09/2013 - 15:19:35: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><64+0><setpos_exact -12647.55 -7987.19 14.03; setang 12.58 68.56 0.00><Area 8784>" killed "infected<123><><Infected><infected><DEAD><-51><setpos_exact -12710.04 -7507.66 0.47; setang 0.00 -130.12 0.00><Area 22419>" with "pipe_bomb"
+L 05/09/2013 - 15:19:35: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><64+0><setpos_exact -12647.55 -7987.19 14.03; setang 12.58 68.56 0.00><Area 8784>" killed "infected<197><><Infected><infected><DEAD><-51><setpos_exact -12588.48 -7412.37 -63.97; setang 0.00 261.71 0.00><Area 22312>" with "pipe_bomb"
+L 05/09/2013 - 15:19:35: Explosion prop detonated -12510,-7668,-57.  Breaker:"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><64+0><setpos_exact -12647.55 -7987.19 14.03; setang 12.58 68.56 0.00><Area 8784>". Attacker:"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><64+0><setpos_exact -12647.55 -7987.19 14.03; setang 12.58 68.56 0.00><Area 8784>".
+L 05/09/2013 - 15:19:37: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><94+0><setpos_exact -12724.24 -8118.38 14.03; setang 2.77 86.15 0.00><Area 8135>" killed "infected<259><><Infected><infected><DEAD><-6><setpos_exact -12712.11 -7988.22 -47.97; setang -0.00 266.04 0.00><Area 8127>" with "shotgun_chrome" (headshot)
+L 05/09/2013 - 15:19:37: "Hunter<11><BOT><>" connected, address "none"
+L 05/09/2013 - 15:19:37: FinishClientPutInServer (11): looking for bots to take over
+L 05/09/2013 - 15:19:37: "Hunter<11><BOT><>" entered the game
+L 05/09/2013 - 15:19:37: "Hunter<11><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:19:37: Hunter spawned as a HUNTER
+L 05/09/2013 - 15:19:37: "Hunter<11><BOT><Infected><HUNTER><ALIVE><250+0><setpos_exact -12812.50 -6662.50 12.03; setang 0.00 0.00 0.00><Area 8818>" spawned
+L 05/09/2013 - 15:19:38: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -12667.25 -8067.64 14.03; setang 10.96 101.38 0.00><Area 8135>" killed "infected<163><><Infected><infected><DEAD><-10><setpos_exact -12682.39 -7951.26 -47.97; setang -0.00 261.10 0.00><Area 8127>" with "shotgun_chrome"
+L 05/09/2013 - 15:19:40: "Smoker<12><BOT><>" connected, address "none"
+L 05/09/2013 - 15:19:40: FinishClientPutInServer (12): looking for bots to take over
+L 05/09/2013 - 15:19:40: "Smoker<12><BOT><>" entered the game
+L 05/09/2013 - 15:19:40: "Smoker<12><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:19:40: Smoker spawned as a SMOKER
+L 05/09/2013 - 15:19:40: "Smoker<12><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -12913.34 -7062.67 122.97; setang 0.00 0.00 0.00><Area 26648>" spawned
+L 05/09/2013 - 15:19:40: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><64+0><setpos_exact -12725.31 -7936.32 14.03; setang 8.58 3.55 0.00><Area 8127>" killed "infected<214><><Infected><infected><DEAD><0><setpos_exact -12692.97 -7930.17 -47.97; setang 0.00 186.66 0.00><Area 8127>" with "melee"
+L 05/09/2013 - 15:19:41: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -12667.25 -8067.64 14.03; setang 11.67 101.53 0.00><Area 8135>" killed "infected<255><><Infected><infected><DEAD><-35><setpos_exact -12684.82 -8007.75 -47.97; setang 0.00 238.35 0.00><Area 8127>" with "shotgun_chrome"
+L 05/09/2013 - 15:19:41: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -12666.73 -8068.09 14.03; setang 6.70 98.42 0.00><Area 8135>" killed "infected<216><><Infected><infected><DEAD><-6><setpos_exact -12693.17 -7889.61 -47.97; setang 0.00 210.86 0.00><Area 8797>" with "shotgun_chrome"
+L 05/09/2013 - 15:19:46: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><62+0><setpos_exact -12673.50 -7888.03 14.03; setang 1.92 -51.85 0.00><Area 8797>" killed "infected<202><><Infected><infected><DEAD><34><setpos_exact -12376.52 -8261.93 -63.97; setang 0.00 167.59 0.00><Area 8705>" with "smg" (headshot)
+L 05/09/2013 - 15:19:47: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><62+0><setpos_exact -12673.50 -7888.03 14.03; setang 1.55 -48.78 0.00><Area 8797>" killed "infected<198><><Infected><infected><DEAD><34><setpos_exact -12320.25 -8295.70 -63.97; setang 0.00 176.81 0.00><Area 8208>" with "smg" (headshot)
+L 05/09/2013 - 15:19:53: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><62+0><setpos_exact -12673.50 -7888.03 14.03; setang 4.56 -25.98 0.00><Area 8797>" killed "infected<260><><Infected><infected><DEAD><-2><setpos_exact -12336.59 -8041.72 -63.97; setang -0.00 -142.65 0.00><Area 22571>" with "smg"
+L 05/09/2013 - 15:19:57: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<12><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -12840.37 -7433.28 28.85; setang 2.83 294.50 0.00><Area 22341>". Victim:"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><62+0><setpos_exact -12590.24 -7973.19 14.03; setang 5.51 64.14 0.00><Area 8564>".
+L 05/09/2013 - 15:19:58: (TONGUE) Tongue launching towards victim.  Smoker:"Smoker<12><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -12861.07 -7403.90 14.03; setang 2.41 319.69 0.00><Area 8483>". Victim:"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><62+0><setpos_exact -12338.86 -7840.97 -1.97; setang -1.28 140.07 0.00><Area 22317>".
+L 05/09/2013 - 15:19:59: (TONGUE) Tongue grab starting.  Smoker:"Smoker<12><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -12861.07 -7403.90 14.03; setang 2.49 305.35 0.00><Area 8483>". Victim:"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><62+0><setpos_exact -12417.28 -7887.97 -1.97; setang -1.58 133.74 0.00><Area 22318>".
+L 05/09/2013 - 15:20:00: (TONGUE) Tongue letting go for taking too much damage.  Smoker:"Smoker<12><BOT><Infected><SMOKER><ALIVE><198+0><setpos_exact -12861.07 -7403.90 14.03; setang 2.51 306.54 0.00><Area 8483>". Victim:"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><62+0><setpos_exact -12513.27 -7813.26 -1.97; setang 0.73 130.17 0.00><Area 22315>".
+L 05/09/2013 - 15:20:00: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><62+0><setpos_exact -12513.27 -7813.26 -1.97; setang 0.73 130.17 0.00><Area 22315>" killed "Smoker<12><BOT><Infected><SMOKER><DEAD><1+0><setpos -12861.07 -7403.90 -47.97; setang 348.63 310.35 0.00><Area 8483>" with "smg"
+L 05/09/2013 - 15:20:00: "Charger<13><BOT><>" connected, address "none"
+L 05/09/2013 - 15:20:00: FinishClientPutInServer (13): looking for bots to take over
+L 05/09/2013 - 15:20:00: "Charger<13><BOT><>" entered the game
+L 05/09/2013 - 15:20:00: "Charger<13><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:20:00: Charger spawned as a CHARGER
+L 05/09/2013 - 15:20:00: "Charger<13><BOT><Infected><CHARGER><ALIVE><600+0><setpos_exact -12787.50 -6550.00 20.03; setang 0.00 0.00 0.00><Area 8842>" spawned
+L 05/09/2013 - 15:20:00: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><62+0><setpos_exact -12529.97 -7793.61 -1.97; setang 1.45 128.59 0.00><Area 22315>" killed "infected<278><><Infected><infected><DEAD><-7><setpos_exact -12819.59 -7426.54 -41.50; setang 0.00 206.57 0.00><Area 22341>" with "smg"
+L 05/09/2013 - 15:20:01: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><62+0><setpos_exact -12456.94 -7897.39 -1.97; setang 1.82 109.05 0.00><Area 22313>" killed "infected<279><><Infected><infected><DEAD><-3><setpos_exact -12542.88 -7661.44 -63.97; setang -0.00 -80.36 0.00><Area 22311>" with "smg" (headshot)
+L 05/09/2013 - 15:20:05: Hunter starting a lunge, 50 damage interrupts
+L 05/09/2013 - 15:20:06: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><62+0><setpos_exact -12030.78 -8365.07 14.03; setang 7.20 52.62 0.00><Area 28298>" killed "infected<189><><Infected><infected><DEAD><-1><setpos_exact -11997.03 -8352.01 -47.97; setang -0.00 -32.23 0.00><Area 28298>" with "smg"
+L 05/09/2013 - 15:20:06: Hunter ending a lunge
+L 05/09/2013 - 15:20:09: "Smoker<12><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:20:14: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><62+0><setpos_exact -12095.85 -8455.96 14.03; setang 2.08 115.99 0.00><Area 8214>" killed "Charger<13><BOT><Infected><CHARGER><DEAD><1+0><setpos -12182.11 -8284.34 -63.97; setang 323.91 296.68 0.00><Area 8143>" with "smg"
+L 05/09/2013 - 15:20:16: Hunter starting a pounce, 50 damage interrupts
+L 05/09/2013 - 15:20:17: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><62+0><setpos_exact -12111.26 -8401.10 14.03; setang 4.23 108.17 0.00><Area 8794>" killed "Hunter<11><BOT><Infected><HUNTER><DEAD><1+0><setpos -12332.76 -7713.99 -63.97; setang 350.41 287.87 0.00><Area 22587>" with "smg"
+L 05/09/2013 - 15:20:20: 241.60: (MOB) SpawnMob requested of size 30.
+L 05/09/2013 - 15:20:20: 241.60: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:20:20: 241.60: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:20:20: 241.60: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:20:20: 241.63: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:20:20: 241.77: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 15:20:20: 241.77: (MOB) Mob zombie spawned, 25 remain.
+L 05/09/2013 - 15:20:20: 241.93: (MOB) Mob zombie spawned, 24 remain.
+L 05/09/2013 - 15:20:20: 241.93: (MOB) Mob zombie spawned, 23 remain.
+L 05/09/2013 - 15:20:20: 241.97: (MOB) Mob zombie spawned, 22 remain.
+L 05/09/2013 - 15:20:20: 241.97: (MOB) Mob zombie spawned, 21 remain.
+L 05/09/2013 - 15:20:20: 242.00: (MOB) Mob zombie spawned, 20 remain.
+L 05/09/2013 - 15:20:20: 242.00: (MOB) Mob zombie spawned, 19 remain.
+L 05/09/2013 - 15:20:20: 242.03: (MOB) Mob zombie spawned, 18 remain.
+L 05/09/2013 - 15:20:20: 242.03: (MOB) Mob zombie spawned, 17 remain.
+L 05/09/2013 - 15:20:21: 242.17: (MOB) Mob zombie spawned, 16 remain.
+L 05/09/2013 - 15:20:21: 242.17: (MOB) Mob zombie spawned, 15 remain.
+L 05/09/2013 - 15:20:21: 242.20: (MOB) Mob zombie spawned, 14 remain.
+L 05/09/2013 - 15:20:21: 242.20: (MOB) Mob zombie spawned, 13 remain.
+L 05/09/2013 - 15:20:22: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><84+0><setpos_exact -12352.32 -8019.52 -1.97; setang 0.96 160.47 0.00><Area 22573>" killed "infected<258><><Infected><infected><DEAD><0><setpos_exact -12642.65 -7920.69 -47.97; setang 0.00 134.75 0.00><Area 8785>" with "shotgun_chrome"
+L 05/09/2013 - 15:20:22: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><75+0><setpos_exact -12449.53 -8005.60 -1.97; setang 5.16 157.16 0.00><Area 22574>" killed "infected<260><><Infected><infected><DEAD><-30><setpos_exact -12669.03 -7902.10 -47.97; setang 0.00 41.10 0.00><Area 8127>" with "pistol"
+L 05/09/2013 - 15:20:23: "Charger<13><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:20:23: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><62+0><setpos_exact -12426.33 -7606.90 -1.97; setang 7.69 149.25 0.00><Area 22314>" killed "infected<195><><Infected><infected><DEAD><0><setpos_exact -12443.54 -7577.87 -63.97; setang 0.00 350.71 0.00><Area 22314>" with "melee"
+L 05/09/2013 - 15:20:24: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><84+0><setpos_exact -12611.74 -7922.20 14.03; setang 12.12 288.83 0.00><Area 8564>" killed "infected<262><><Infected><infected><DEAD><-3><setpos_exact -12541.26 -8122.22 -63.97; setang 0.00 93.36 0.00><Area 22248>" with "shotgun_chrome"
+L 05/09/2013 - 15:20:24: 245.27: (MOB) Mob zombie spawned, 12 remain.
+L 05/09/2013 - 15:20:24: 245.27: (MOB) Mob zombie spawned, 11 remain.
+L 05/09/2013 - 15:20:24: 245.37: (MOB) Mob zombie spawned, 10 remain.
+L 05/09/2013 - 15:20:24: 245.37: (MOB) Mob zombie spawned, 9 remain.
+L 05/09/2013 - 15:20:24: 246.03: (MOB) Mob zombie spawned, 8 remain.
+L 05/09/2013 - 15:20:24: 246.03: (MOB) Mob zombie spawned, 7 remain.
+L 05/09/2013 - 15:20:24: 246.03: (MOB) Mob zombie spawned, 6 remain.
+L 05/09/2013 - 15:20:24: 246.03: (MOB) Mob zombie spawned, 5 remain.
+L 05/09/2013 - 15:20:25: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><84+0><setpos_exact -12568.75 -7752.45 -1.97; setang 1.72 289.35 0.00><Area 22311>" killed "infected<261><><Infected><infected><DEAD><-5><setpos_exact -12539.43 -7909.28 -63.97; setang -0.00 60.05 0.00><Area 22313>" with "shotgun_chrome" (headshot)
+L 05/09/2013 - 15:20:26: "Hunter<11><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:20:26: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><75+0><setpos_exact -12494.45 -7694.01 -1.97; setang 9.92 118.41 0.00><Area 22311>" killed "infected<197><><Infected><infected><DEAD><-2><setpos_exact -12595.32 -7473.61 -63.97; setang -0.00 320.01 0.00><Area 22312>" with "shotgun_chrome"
+L 05/09/2013 - 15:20:27: 248.13: (MOB) Mob zombie spawned, 4 remain.
+L 05/09/2013 - 15:20:27: 248.13: (MOB) Mob zombie spawned, 3 remain.
+L 05/09/2013 - 15:20:27: 248.13: (MOB) Mob zombie spawned, 2 remain.
+L 05/09/2013 - 15:20:27: 248.13: (MOB) Mob zombie spawned, 1 remain.
+L 05/09/2013 - 15:20:27: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><84+0><setpos_exact -12602.28 -7755.53 -1.97; setang 7.86 294.79 0.00><Area 22311>" killed "infected<214><><Infected><infected><DEAD><-7><setpos_exact -12548.91 -7876.14 -63.97; setang 0.00 58.42 0.00><Area 22313>" with "shotgun_chrome"
+L 05/09/2013 - 15:20:28: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><84+0><setpos_exact -12612.91 -7968.10 14.03; setang 8.71 291.96 0.00><Area 8564>" killed "infected<198><><Infected><infected><DEAD><-43><setpos_exact -12592.09 -8024.53 -47.97; setang -0.00 114.86 0.00><Area 8620>" with "shotgun_chrome" (headshot)
+L 05/09/2013 - 15:20:28: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><84+0><setpos_exact -12612.91 -7968.10 14.03; setang 8.71 291.96 0.00><Area 8564>" killed "infected<269><><Infected><infected><DEAD><-6><setpos_exact -12587.18 -8085.98 -47.97; setang -0.00 164.88 0.00><Area 8618>" with "shotgun_chrome"
+L 05/09/2013 - 15:20:29: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -12515.50 -7854.77 -1.97; setang 5.82 352.16 0.00><Area 22313>" killed "infected<202><><Infected><infected><DEAD><-3><setpos_exact -12308.43 -7883.26 -63.97; setang 0.00 145.13 0.00><Area 22576>" with "shotgun_chrome" (headshot)
+L 05/09/2013 - 15:20:30: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><75+0><setpos_exact -12495.66 -7963.99 -1.97; setang 3.68 20.91 0.00><Area 22313>" killed "infected<159><><Infected><infected><DEAD><-5><setpos_exact -12323.13 -7897.71 -63.97; setang -0.00 77.63 0.00><Area 22586>" with "shotgun_chrome"
+L 05/09/2013 - 15:20:30: 251.43: (MOB) Mob zombie spawned, 0 remain.
+L 05/09/2013 - 15:20:30: 251.43: (MOB) Pending mob done.
+L 05/09/2013 - 15:20:30: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><96+0><setpos_exact -12515.50 -7854.77 -1.97; setang 6.45 302.13 0.00><Area 22313>" killed "infected<194><><Infected><infected><DEAD><-4><setpos_exact -12411.53 -8003.53 -63.97; setang 0.00 85.70 0.00><Area 22574>" with "shotgun_chrome"
+L 05/09/2013 - 15:20:31: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><75+0><setpos_exact -12495.66 -7963.99 -1.97; setang 10.07 1.53 0.00><Area 22313>" killed "infected<173><><Infected><infected><DEAD><-9><setpos_exact -12376.43 -7960.80 -63.97; setang 0.00 173.75 0.00><Area 22574>" with "shotgun_chrome"
+L 05/09/2013 - 15:20:31: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><84+0><setpos_exact -12471.34 -7999.22 -1.97; setang 11.65 341.66 0.00><Area 22575>" killed "infected<193><><Infected><infected><DEAD><-49><setpos_exact -12402.32 -8018.25 -63.97; setang -0.00 211.09 0.00><Area 22574>" with "shotgun_chrome"
+L 05/09/2013 - 15:20:31: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><84+0><setpos_exact -12471.34 -7999.22 -1.97; setang 11.65 341.66 0.00><Area 22575>" killed "infected<259><><Infected><infected><DEAD><-9><setpos_exact -12393.12 -8013.79 -63.97; setang 0.00 171.66 0.00><Area 22573>" with "shotgun_chrome"
+L 05/09/2013 - 15:20:32: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><83+0><setpos_exact -12471.34 -7999.22 -1.97; setang 13.18 332.49 0.00><Area 22575>" killed "infected<191><><Infected><infected><DEAD><-6><setpos_exact -12341.73 -8066.82 -63.97; setang 0.00 146.05 0.00><Area 22572>" with "shotgun_chrome"
+L 05/09/2013 - 15:20:33: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><95+0><setpos_exact -12515.50 -7862.10 -1.97; setang 1.22 353.73 0.00><Area 22313>" killed "infected<190><><Infected><infected><DEAD><-4><setpos_exact -12343.26 -7884.99 -63.97; setang -0.00 207.39 0.00><Area 22404>" with "shotgun_chrome"
+L 05/09/2013 - 15:20:34: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><72+0><setpos_exact -12494.45 -7964.60 -1.97; setang 357.42 115.70 0.00><Area 22313>" killed "infected<188><><Infected><infected><DEAD><-6><setpos_exact -12543.20 -7840.73 -63.97; setang 0.00 282.48 0.00><Area 22315>" with "shotgun_chrome"
+L 05/09/2013 - 15:20:34: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><72+0><setpos_exact -12494.45 -7964.60 -1.97; setang 362.31 115.23 0.00><Area 22313>" killed "infected<363><><Infected><infected><DEAD><33><setpos_exact -12792.67 -7230.64 -62.97; setang 0.00 267.87 0.00><Area 22568>" with "shotgun_chrome" (headshot)
+L 05/09/2013 - 15:20:35: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><72+0><setpos_exact -12494.45 -7964.60 -1.97; setang 19.90 134.16 0.00><Area 22313>" killed "infected<362><><Infected><infected><DEAD><-60><setpos_exact -12535.36 -7922.57 -63.97; setang 0.00 314.27 0.00><Area 22313>" with "shotgun_chrome"
+L 05/09/2013 - 15:20:35: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><72+0><setpos_exact -12494.45 -7964.60 -1.97; setang 19.90 134.16 0.00><Area 22313>" killed "infected<280><><Infected><infected><DEAD><-17><setpos_exact -12548.29 -7886.25 -63.97; setang 0.00 347.95 0.00><Area 22313>" with "shotgun_chrome"
+L 05/09/2013 - 15:20:35: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><81+0><setpos_exact -12471.34 -7999.22 -1.97; setang 356.65 183.12 0.00><Area 22575>" killed "infected<277><><Infected><infected><DEAD><-8><setpos_exact -12593.33 -8004.26 -47.97; setang 0.00 358.44 0.00><Area 8576>" with "shotgun_chrome" (headshot)
+L 05/09/2013 - 15:20:35: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><61+0><setpos_exact -12691.00 -7947.65 14.03; setang 8.68 -15.69 0.00><Area 8127>" killed "infected<203><><Infected><infected><DEAD><-8><setpos_exact -12592.88 -7975.91 -47.97; setang -0.00 79.24 0.00><Area 8564>" with "smg" (headshot)
+L 05/09/2013 - 15:20:37: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><92+0><setpos_exact -12519.26 -7893.46 -1.97; setang 1.70 83.25 0.00><Area 22313>" killed "infected<215><><Infected><infected><DEAD><-28><setpos_exact -12506.37 -7794.17 -63.97; setang 0.00 262.24 0.00><Area 22315>" with "shotgun_chrome" (headshot)
+L 05/09/2013 - 15:20:37: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><80+0><setpos_exact -12514.51 -8000.32 -1.97; setang 17.89 47.60 0.00><Area 22578>" killed "infected<255><><Infected><infected><DEAD><-45><setpos_exact -12465.42 -7956.68 -63.97; setang -0.00 195.26 0.00><Area 22313>" with "shotgun_chrome"
+L 05/09/2013 - 15:20:39: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -12692.09 -7907.35 14.03; setang 4.89 -101.02 0.00><Area 8127>" killed "infected<109><><Infected><infected><DEAD><11><setpos_exact -12712.07 -7936.59 -47.97; setang 0.00 81.30 0.00><Area 8127>" with "smg" (headshot)
+L 05/09/2013 - 15:20:39: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><92+0><setpos_exact -12516.40 -7907.88 -1.97; setang 12.24 140.26 0.00><Area 22313>" killed "infected<361><><Infected><infected><DEAD><-25><setpos_exact -12601.49 -7836.30 -63.97; setang -0.00 324.26 0.00><Area 22315>" with "shotgun_chrome" (headshot)
+L 05/09/2013 - 15:20:39: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><92+0><setpos_exact -12516.40 -7907.88 -1.97; setang 12.24 140.26 0.00><Area 22313>" killed "infected<216><><Infected><infected><DEAD><-4><setpos_exact -12644.54 -7795.75 -47.97; setang 0.00 259.05 0.00><Area 8552>" with "shotgun_chrome"
+L 05/09/2013 - 15:20:40: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><80+0><setpos_exact -12514.51 -8000.32 -1.97; setang 12.90 345.80 0.00><Area 22578>" killed "infected<195><><Infected><infected><DEAD><-46><setpos_exact -12426.78 -8017.39 -63.97; setang 0.00 163.57 0.00><Area 22574>" with "shotgun_chrome"
+L 05/09/2013 - 15:20:41: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><72+0><setpos_exact -12492.77 -7954.67 -1.97; setang 8.73 116.86 0.00><Area 22313>" killed "infected<258><><Infected><infected><DEAD><-15><setpos_exact -12530.07 -7881.80 -63.97; setang 0.00 296.14 0.00><Area 22313>" with "shotgun_chrome"
+L 05/09/2013 - 15:20:41: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><72+0><setpos_exact -12492.77 -7954.67 -1.97; setang 8.73 116.86 0.00><Area 22313>" killed "infected<125><><Infected><infected><DEAD><-3><setpos_exact -12601.62 -7779.14 -63.97; setang 0.00 63.82 0.00><Area 8191>" with "shotgun_chrome"
+L 05/09/2013 - 15:20:41: ------------------------------ Director state change BUILD_UP -> SUSTAIN_PEAK
+L 05/09/2013 - 15:20:42: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -12638.15 -7907.59 14.03; setang 9.94 10.38 0.00><Area 8785>" killed "infected<189><><Infected><infected><DEAD><-6><setpos_exact -12477.82 -7895.49 -63.97; setang -0.00 -156.87 0.00><Area 22313>" with "smg"
+L 05/09/2013 - 15:20:42: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><91+0><setpos_exact -12515.82 -7910.83 -1.97; setang 17.72 107.75 0.00><Area 22313>" killed "infected<124><><Infected><infected><DEAD><-18><setpos_exact -12538.25 -7839.73 -63.97; setang 0.00 280.29 0.00><Area 22315>" with "shotgun_chrome"
+L 05/09/2013 - 15:20:44: ------------------------------ Director state change SUSTAIN_PEAK -> PEAK_FADE
+L 05/09/2013 - 15:20:49: ------------------------------ Director state change PEAK_FADE -> RELAX
+L 05/09/2013 - 15:20:51: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -12718.99 -7302.39 -1.97; setang -0.20 95.06 0.00><Area 22569>" killed "infected<340><><Infected><infected><DEAD><33><setpos_exact -12751.23 -6885.89 -55.97; setang 0.00 -162.20 0.00><Area 22562>" with "smg" (headshot)
+L 05/09/2013 - 15:21:11: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><72+0><setpos_exact -12965.53 -6836.24 41.11; setang 353.20 99.84 0.00><Area 28684>" killed "infected<122><><Infected><infected><DEAD><-8><setpos_exact -13014.45 -6633.47 24.42; setang 0.00 323.29 0.00><Area 8286>" with "shotgun_chrome"
+L 05/09/2013 - 15:21:23: ------------------------------ Director state change RELAX -> BUILD_UP
+L 05/09/2013 - 15:21:23: "Smoker<14><BOT><>" connected, address "none"
+L 05/09/2013 - 15:21:23: FinishClientPutInServer (14): looking for bots to take over
+L 05/09/2013 - 15:21:23: "Smoker<14><BOT><>" entered the game
+L 05/09/2013 - 15:21:23: "Smoker<14><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:21:23: Smoker spawned as a SMOKER
+L 05/09/2013 - 15:21:23: "Smoker<14><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -12975.00 -5762.50 238.03; setang 0.00 0.00 0.00><Area 20398>" spawned
+L 05/09/2013 - 15:21:23: "Spitter<15><BOT><>" connected, address "none"
+L 05/09/2013 - 15:21:23: FinishClientPutInServer (15): looking for bots to take over
+L 05/09/2013 - 15:21:23: "Spitter<15><BOT><>" entered the game
+L 05/09/2013 - 15:21:23: "Spitter<15><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:21:23: Spitter spawned as a SPITTER
+L 05/09/2013 - 15:21:23: "Spitter<15><BOT><Infected><SPITTER><ALIVE><100+0><setpos_exact -13462.50 -5475.00 16.03; setang 0.00 0.00 0.00><Area 10161>" spawned
+L 05/09/2013 - 15:21:24: VomitJar projectile spawned at -12851.405273 -5945.404297 -0.148635, velocity -129.699280 576.932312 85.317879
+L 05/09/2013 - 15:21:25: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<14><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -13085.69 -5846.46 238.03; setang 34.51 316.92 0.00><Area 8910>". Victim:"Bill<3><BOT><Survivor><NamVet><ALIVE><72+0><setpos_exact -12812.07 -6090.24 6.03; setang 0.00 83.37 0.00><Area 8834>".
+L 05/09/2013 - 15:21:25: (MOB) 0 wanderers grabbed for an IT mob of desired size 30.
+L 05/09/2013 - 15:21:25: 306.80: (MOB) SpawnITMob requested of size 30.
+L 05/09/2013 - 15:21:25: 306.80: (MOB) SpawnITMob will make 30.
+L 05/09/2013 - 15:21:25: (MOB) 306.80: MOB SPAWN ERROR: Empty spawn area set, switching to ANYWHERE
+L 05/09/2013 - 15:21:25: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<14><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -13082.02 -5865.95 238.03; setang 35.74 318.92 0.00><Area 8910>". Victim:"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -12819.80 -6086.38 -1.97; setang 3.93 98.64 0.00><Area 8834>".
+L 05/09/2013 - 15:21:25: 306.83: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:21:25: 306.83: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:21:25: 306.83: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:21:25: 306.83: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 15:21:25: 306.87: (MOB) Mob zombie spawned, 25 remain.
+L 05/09/2013 - 15:21:25: 306.87: (MOB) Mob zombie spawned, 24 remain.
+L 05/09/2013 - 15:21:25: 306.87: (MOB) Mob zombie spawned, 23 remain.
+L 05/09/2013 - 15:21:25: 306.87: (MOB) Mob zombie spawned, 22 remain.
+L 05/09/2013 - 15:21:25: 306.90: (MOB) Mob zombie spawned, 21 remain.
+L 05/09/2013 - 15:21:25: 306.90: (MOB) Mob zombie spawned, 20 remain.
+L 05/09/2013 - 15:21:25: 306.90: (MOB) Mob zombie spawned, 19 remain.
+L 05/09/2013 - 15:21:25: 306.90: (MOB) Mob zombie spawned, 18 remain.
+L 05/09/2013 - 15:21:25: 306.93: (MOB) Mob zombie spawned, 17 remain.
+L 05/09/2013 - 15:21:25: 306.93: (MOB) Mob zombie spawned, 16 remain.
+L 05/09/2013 - 15:21:25: 306.93: (MOB) Mob zombie spawned, 15 remain.
+L 05/09/2013 - 15:21:25: 306.93: (MOB) Mob zombie spawned, 14 remain.
+L 05/09/2013 - 15:21:25: 306.97: (MOB) Mob zombie spawned, 13 remain.
+L 05/09/2013 - 15:21:25: 306.97: (MOB) Mob zombie spawned, 12 remain.
+L 05/09/2013 - 15:21:25: 306.97: (MOB) Mob zombie spawned, 11 remain.
+L 05/09/2013 - 15:21:25: 306.97: (MOB) Mob zombie spawned, 10 remain.
+L 05/09/2013 - 15:21:25: 307.00: (MOB) Mob zombie spawned, 9 remain.
+L 05/09/2013 - 15:21:25: 307.00: (MOB) Mob zombie spawned, 8 remain.
+L 05/09/2013 - 15:21:25: 307.00: (MOB) Mob zombie spawned, 7 remain.
+L 05/09/2013 - 15:21:25: 307.00: (MOB) Mob zombie spawned, 6 remain.
+L 05/09/2013 - 15:21:25: 307.03: (MOB) Mob zombie spawned, 5 remain.
+L 05/09/2013 - 15:21:25: 307.03: (MOB) Mob zombie spawned, 4 remain.
+L 05/09/2013 - 15:21:25: 307.03: (MOB) Mob zombie spawned, 3 remain.
+L 05/09/2013 - 15:21:25: 307.03: (MOB) Mob zombie spawned, 2 remain.
+L 05/09/2013 - 15:21:26: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<14><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -13078.77 -5883.20 238.03; setang 43.65 338.91 0.00><Area 8910>". Victim:"Bill<3><BOT><Survivor><NamVet><ALIVE><72+0><setpos_exact -12793.07 -6106.74 14.03; setang 328.49 133.78 0.00><Area 8832>".
+L 05/09/2013 - 15:21:27: (TONGUE) Tongue launching towards victim.  Smoker:"Smoker<14><BOT><Infected><SMOKER><ALIVE><106+0><setpos_exact -13078.77 -5883.20 238.03; setang 43.60 338.72 0.00><Area 8910>". Victim:"Bill<3><BOT><Survivor><NamVet><ALIVE><72+0><setpos_exact -12793.07 -6106.74 14.03; setang 328.80 141.95 0.00><Area 8832>".
+L 05/09/2013 - 15:21:27: (TONGUE) Tongue grab starting.  Smoker:"Smoker<14><BOT><Infected><SMOKER><ALIVE><106+0><setpos_exact -13078.77 -5883.20 238.03; setang 47.57 348.37 0.00><Area 8910>". Victim:"Bill<3><BOT><Survivor><NamVet><ALIVE><72+0><setpos_exact -12793.07 -6106.74 14.03; setang 328.49 141.95 0.00><Area 8832>".
+L 05/09/2013 - 15:21:28: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><80+0><setpos_exact -12866.47 -5943.92 -1.97; setang 9.23 245.95 0.00><Area 10056>" killed "infected<280><><Infected><infected><DEAD><-4><setpos_exact -12945.54 -6145.21 -63.97; setang 0.00 81.08 0.00><Area 10224>" with "shotgun_chrome"
+L 05/09/2013 - 15:21:28: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><80+0><setpos_exact -12866.47 -5943.92 -1.97; setang 9.23 245.95 0.00><Area 10056>" killed "infected<215><><Infected><infected><DEAD><-3><setpos_exact -12922.00 -6132.95 -63.97; setang 0.00 98.12 0.00><Area 10224>" with "shotgun_chrome"
+L 05/09/2013 - 15:21:29: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><80+0><setpos_exact -12877.98 -5927.82 -1.97; setang 43.59 196.46 0.00><Area 10056>" killed "infected<345><><Infected><infected><DEAD><-56><setpos_exact -12926.31 -5949.95 -63.97; setang 0.00 70.83 0.00><Area 9044>" with "shotgun_chrome"
+L 05/09/2013 - 15:21:30: (TONGUE) Tongue choke starting.  Smoker:"Smoker<14><BOT><Infected><SMOKER><ALIVE><106+0><setpos_exact -13078.77 -5883.20 238.03; setang 0.00 72.21 0.00><Area 8910>". Victim:"Bill<3><BOT><Survivor><NamVet><ALIVE><72+0><setpos_exact -13028.20 -5984.10 -1.97; setang 339.29 74.82 0.00><Area 9214>".
+L 05/09/2013 - 15:21:30: (TONGUE) Tongue took 33.282696 damage (was 100.000000/100.000000).  Smoker:"Smoker<14><BOT><Infected><SMOKER><ALIVE><106+0><setpos_exact -13078.77 -5883.20 238.03; setang 0.00 72.21 0.00><Area 8910>". Victim:"Bill<3><BOT><Survivor><NamVet><ALIVE><72+0><setpos_exact -13029.50 -5984.01 -16.40; setang 13.67 34.28 0.00><Area 9214>".
+L 05/09/2013 - 15:21:30: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><80+0><setpos_exact -12880.27 -5949.65 -1.97; setang 54.03 181.36 0.00><Area 10056>" killed "infected<259><><Infected><infected><DEAD><-100><setpos_exact -12909.30 -5950.45 -63.97; setang 0.00 29.96 0.00><Area 10056>" with "shotgun_chrome"
+L 05/09/2013 - 15:21:31: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -12971.03 -5832.40 6.39; setang 10.50 97.61 0.00><Area 22589>" killed "infected<124><><Infected><infected><DEAD><-1><setpos_exact -12939.12 -5553.04 -63.97; setang 0.00 103.83 0.00><Area 25297>" with "inferno"
+L 05/09/2013 - 15:21:31: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -12971.03 -5832.40 6.39; setang 10.50 97.61 0.00><Area 22589>" killed "infected<125><><Infected><infected><DEAD><-1><setpos_exact -12925.31 -5528.10 -15.72; setang 0.00 181.81 0.00><Area 25308>" with "inferno"
+L 05/09/2013 - 15:21:31: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><76+0><setpos_exact -12880.27 -5949.65 -1.97; setang 45.82 200.13 0.00><Area 10056>" killed "infected<361><><Infected><infected><DEAD><-101><setpos_exact -12909.30 -5954.77 -63.97; setang -0.00 10.02 0.00><Area 10056>" with "shotgun_chrome"
+L 05/09/2013 - 15:21:31: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><76+0><setpos_exact -12880.27 -5949.65 -1.97; setang 45.82 200.13 0.00><Area 10056>" killed "infected<365><><Infected><infected><DEAD><-64><setpos_exact -12924.80 -5957.10 -63.97; setang 0.00 90.98 0.00><Area 9044>" with "shotgun_chrome"
+L 05/09/2013 - 15:21:32: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><75+0><setpos_exact -12880.27 -5949.65 -1.97; setang 15.54 91.24 0.00><Area 10056>" killed "infected<255><><Infected><infected><DEAD><-1><setpos_exact -12895.17 -5864.15 -63.97; setang 0.00 65.97 0.00><Area 22589>" with "shotgun_chrome"
+L 05/09/2013 - 15:21:32: 314.03: (MOB) Mob zombie spawned, 1 remain.
+L 05/09/2013 - 15:21:32: 314.03: (MOB) Mob zombie spawned, 0 remain.
+L 05/09/2013 - 15:21:32: 314.03: (MOB) Pending mob done.
+L 05/09/2013 - 15:21:33: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -12846.91 -5949.36 -1.97; setang -12.11 -135.50 0.00><Area 10056>" killed "infected<269><><Infected><infected><DEAD><-3><setpos_exact -12917.81 -5543.99 -63.97; setang 0.00 139.52 0.00><Area 25283>" with "inferno"
+L 05/09/2013 - 15:21:33: (DEATH)"Spitter<15><BOT><Infected><SPITTER><ALIVE><100+0><setpos_exact -13473.01 -5291.66 -211.96; setang 345.76 359.16 0.00><Area 20576>" killed "infected<195><><Infected><infected><DEAD><0><setpos_exact -13434.97 -5326.97 -255.97; setang 0.00 245.30 0.00><Area 20524>" with "spitter_claw"
+L 05/09/2013 - 15:21:33: (DEATH)"Spitter<15><BOT><Infected><SPITTER><ALIVE><100+0><setpos_exact -13473.01 -5291.66 -211.96; setang 345.76 359.16 0.00><Area 20576>" killed "infected<194><><Infected><infected><DEAD><0><setpos_exact -13434.97 -5326.97 -255.97; setang 0.00 245.30 0.00><Area 20524>" with "spitter_claw"
+L 05/09/2013 - 15:21:33: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><91+0><setpos_exact -13026.10 -5999.98 -1.97; setang 9.97 8.71 0.00><Area 8991>" killed "infected<363><><Infected><infected><DEAD><-17><setpos_exact -12906.33 -5981.24 -63.97; setang -0.00 51.09 0.00><Area 9044>" with "pistol"
+L 05/09/2013 - 15:21:33: (TONGUE) Tongue letting go for a melee.  Smoker:"Smoker<14><BOT><Infected><SMOKER><ALIVE><106+0><setpos_exact -13078.77 -5883.20 238.03; setang 0.00 72.21 0.00><Area 8910>". Victim:"Bill<3><BOT><Survivor><NamVet><ALIVE><42+0><setpos_exact -13030.51 -5983.94 -15.57; setang 358.17 339.87 0.00><Area 9214>".
+L 05/09/2013 - 15:21:33: (TONGUE) Tongue choke ending.  Smoker:"Smoker<14><BOT><Infected><SMOKER><ALIVE><106+0><setpos_exact -13078.77 -5883.20 238.03; setang 0.00 72.21 0.00><Area 8910>". Victim:"Bill<3><BOT><Survivor><NamVet><ALIVE><42+0><setpos_exact -13030.51 -5983.94 -15.57; setang 358.17 339.87 0.00><Area 9214>".
+L 05/09/2013 - 15:21:34: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -12843.20 -6040.01 -1.97; setang -42.24 146.78 0.00><Area 8180>" killed "Smoker<14><BOT><Infected><SMOKER><DEAD><1+0><setpos -13078.77 -5883.20 176.03; setang 22.29 326.35 0.00><Area 8910>" with "smg" (headshot)
+L 05/09/2013 - 15:21:34: "Boomer<16><BOT><>" connected, address "none"
+L 05/09/2013 - 15:21:34: FinishClientPutInServer (16): looking for bots to take over
+L 05/09/2013 - 15:21:34: "Boomer<16><BOT><>" entered the game
+L 05/09/2013 - 15:21:34: "Boomer<16><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:21:34: Boomer spawned as a BOOMER
+L 05/09/2013 - 15:21:34: "Boomer<16><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact -13420.57 -5475.00 14.03; setang 0.00 0.00 0.00><Area 28290>" spawned
+L 05/09/2013 - 15:21:34: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><72+0><setpos_exact -12879.18 -5952.85 -1.97; setang 357.75 137.01 0.00><Area 10056>" killed "infected<261><><Infected><infected><DEAD><-6><setpos_exact -12984.75 -5853.48 -55.60; setang 0.00 317.56 0.00><Area 22589>" with "shotgun_chrome"
+L 05/09/2013 - 15:21:35: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><91+0><setpos_exact -13004.34 -6004.09 -1.97; setang 3.23 306.06 0.00><Area 8991>" killed "infected<340><><Infected><infected><DEAD><-16><setpos_exact -12922.20 -6130.52 -63.97; setang -0.00 156.56 0.00><Area 10224>" with "pistol"
+L 05/09/2013 - 15:21:35: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><91+0><setpos_exact -13004.34 -6004.09 -1.97; setang 3.07 303.62 0.00><Area 8991>" killed "infected<367><><Infected><infected><DEAD><-14><setpos_exact -12877.10 -6177.71 -63.97; setang -0.00 90.32 0.00><Area 10207>" with "pistol"
+L 05/09/2013 - 15:21:35: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><72+0><setpos_exact -12948.80 -6017.00 -1.97; setang 1.35 232.52 0.00><Area 9044>" killed "infected<278><><Infected><infected><DEAD><-26><setpos_exact -13009.92 -6109.72 -63.97; setang -0.00 52.82 0.00><Area 10226>" with "shotgun_chrome"
+L 05/09/2013 - 15:21:35: "Bill<3><BOT><Survivor><NamVet><ALIVE><42+50><setpos_exact -13036.76 -5983.55 6.43; setang 3.42 302.43 0.00><Area 9214>" used pills on "Bill<3><BOT><Survivor><NamVet><ALIVE><42+50><setpos_exact -13036.76 -5983.55 6.43; setang 3.42 302.43 0.00><Area 9214>L 05/09/2013 - 15:21:35: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -12827.29 -6168.83 -1.97; setang -3.23 154.08 0.00><Area 10207>" killed "infected<338><><Infected><infected><DEAD><-2><setpos_exact -12957.45 -5280.70 8.02; setang 0.00 270.00 0.00><Area 10535>" with "inferno"
+L 05/09/2013 - 15:21:35: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -12827.29 -6168.83 -1.97; setang -3.23 154.08 0.00><Area 10207>" killed "infected<214><><Infected><infected><DEAD><-2><setpos_exact -12951.47 -5243.48 -9.51; setang 0.00 245.00 0.00><Area 10520>" with "inferno"
+L 05/09/2013 - 15:21:36: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -12798.52 -6180.38 14.03; setang 11.68 174.34 0.00><Area 8849>" killed "infected<203><><Infected><infected><DEAD><-2><setpos_exact -12922.23 -5539.01 -55.80; setang 0.00 137.00 0.00><Area 25297>" with "inferno"
+L 05/09/2013 - 15:21:36: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -12849.70 -6156.52 -1.97; setang 9.51 -130.98 0.00><Area 10207>" killed "infected<364><><Infected><infected><DEAD><-2><setpos_exact -12964.70 -5250.33 -9.26; setang 0.00 270.00 0.00><Area 10520>" with "inferno"
+L 05/09/2013 - 15:21:36: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -12875.65 -6155.32 -1.97; setang 9.51 -130.98 0.00><Area 10207>" killed "infected<216><><Infected><infected><DEAD><-2><setpos_exact -13021.37 -5297.35 8.02; setang 0.00 270.00 0.00><Area 20424>" with "inferno"
+L 05/09/2013 - 15:21:37: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -12886.63 -6154.81 -1.97; setang 9.57 113.88 0.00><Area 10207>" killed "infected<262><><Infected><infected><DEAD><-2><setpos_exact -12993.74 -5291.79 8.02; setang 0.00 270.00 0.00><Area 20422>" with "inferno"
+L 05/09/2013 - 15:21:37: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -12886.63 -6154.81 -1.97; setang 9.57 113.88 0.00><Area 10207>" killed "infected<260><><Infected><infected><DEAD><-2><setpos_exact -12994.38 -5315.62 -63.97; setang 0.00 270.00 0.00><Area 20422>" with "inferno"
+L 05/09/2013 - 15:21:37: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -12886.63 -6154.81 -1.97; setang 10.17 92.23 0.00><Area 10207>" killed "Boomer<16><BOT><Infected><BOOMER><DEAD><1+0><setpos -13233.06 -5550.72 -47.97; setang 351.18 299.83 0.00><Area 9014>" with "inferno"
+L 05/09/2013 - 15:21:37: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -12886.63 -6154.81 -1.97; setang 10.17 92.23 0.00><Area 10207>" killed "infected<362><><Infected><infected><DEAD><-2><setpos_exact -13025.30 -5313.78 -31.97; setang 0.00 270.00 0.00><Area 20424>" with "inferno"
+L 05/09/2013 - 15:21:37: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><91+0><setpos_exact -12910.47 -6118.10 -1.97; setang 4.31 148.04 0.00><Area 10227>" killed "infected<192><><Infected><infected><DEAD><-6><setpos_exact -13143.80 -5974.81 -63.97; setang 0.00 49.29 0.00><Area 8921>" with "pistol"
+L 05/09/2013 - 15:21:37: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -12822.17 -6149.48 -1.97; setang 8.38 94.18 0.00><Area 10207>" killed "infected<344><><Infected><infected><DEAD><-2><setpos_exact -12979.00 -5298.69 8.04; setang 0.00 270.00 0.00><Area 20422>" with "inferno"
+L 05/09/2013 - 15:21:37: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -12822.17 -6149.48 -1.97; setang 8.38 94.18 0.00><Area 10207>" killed "infected<277><><Infected><infected><DEAD><-2><setpos_exact -12996.41 -5246.87 -6.90; setang 0.00 345.00 0.00><Area 10520>" with "inferno"
+L 05/09/2013 - 15:21:38: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -12818.50 -6115.75 -1.97; setang 7.86 95.01 0.00><Area 8832>" killed "infected<279><><Infected><infected><DEAD><-2><setpos_exact -13012.84 -5268.80 -49.74; setang 0.00 270.00 0.00><Area 10535>" with "inferno"
+L 05/09/2013 - 15:21:38: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -12818.50 -6115.75 -1.97; setang 7.86 95.01 0.00><Area 8832>" killed "infected<202><><Infected><infected><DEAD><-2><setpos_exact -12948.32 -5302.01 -49.74; setang 0.00 270.00 0.00><Area 20422>" with "inferno"
+L 05/09/2013 - 15:21:38: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -12813.13 -6002.27 6.03; setang 7.20 103.88 0.00><Area 8835>" killed "infected<360><><Infected><infected><DEAD><-2><setpos_exact -13001.82 -5300.44 -63.97; setang 0.00 270.00 0.00><Area 20422>" with "inferno"
+L 05/09/2013 - 15:21:38: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -12813.13 -6002.27 6.03; setang 7.20 103.88 0.00><Area 8835>" killed "infected<258><><Infected><infected><DEAD><-3><setpos_exact -12942.17 -5266.70 8.04; setang 0.00 295.00 0.00><Area 10535>" with "inferno"
+L 05/09/2013 - 15:21:39: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -12798.34 -5965.84 14.03; setang 4.19 105.00 0.00><Area 25280>" killed "infected<366><><Infected><infected><DEAD><-2><setpos_exact -13022.64 -5289.66 -31.97; setang 0.00 270.00 0.00><Area 20424>" with "inferno"
+L 05/09/2013 - 15:21:43: "Smoker<14><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:21:44: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -12849.49 -6238.67 -1.97; setang 14.52 103.58 0.00><Area 10207>" killed "infected<122><><Infected><infected><DEAD><-2><setpos_exact -12977.53 -5269.19 8.04; setang 0.00 270.00 0.00><Area 10535>" with "inferno"
+L 05/09/2013 - 15:21:46: "Boomer<16><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:21:58: Spitter projectile spawned at -13455.695312 -5273.312500 -195.199234, velocity -861.123535 90.837288 -245.387390
+L 05/09/2013 - 15:22:01: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -13540.74 -4922.03 -193.97; setang 3.57 1.05 0.00><Area 24510>" killed "infected<103><><Infected><infected><DEAD><-6><setpos_exact -13381.68 -4915.72 -255.97; setang 0.00 195.71 0.00><Area 8945>" with "smg"
+L 05/09/2013 - 15:22:01: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -13535.62 -4922.03 -193.97; setang 3.57 1.05 0.00><Area 24510>" killed "infected<101><><Infected><infected><DEAD><-6><setpos_exact -13342.55 -4919.01 -255.97; setang 0.00 -65.70 0.00><Area 8945>" with "smg"
+L 05/09/2013 - 15:22:01: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -13528.31 -4922.03 -193.97; setang 1.26 -4.29 0.00><Area 24510>" killed "infected<125><><Infected><infected><DEAD><-4><setpos_exact -13252.43 -4942.83 -255.97; setang 0.00 -112.52 0.00><Area 8994>" with "smg"
+L 05/09/2013 - 15:22:02: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -13548.15 -4922.15 -193.97; setang 2.38 1.52 0.00><Area 24510>" killed "infected<191><><Infected><infected><DEAD><-1><setpos_exact -13088.64 -4917.65 -259.46; setang 0.00 312.20 0.00><Area 25403>" with "smg"
+L 05/09/2013 - 15:22:03: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -13621.96 -4943.67 -193.97; setang 2.64 -8.35 0.00><Area 24506>" killed "infected<193><><Infected><infected><DEAD><-8><setpos_exact -13527.25 -4952.69 -255.97; setang -0.00 334.81 0.00><Area 24510>" with "smg"
+L 05/09/2013 - 15:22:18: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -13400.32 -4945.46 -193.97; setang 5.68 0.86 0.00><Area 8945>" killed "infected<255><><Infected><infected><DEAD><0><setpos_exact -13360.97 -4945.14 -255.97; setang -0.00 -162.78 0.00><Area 8945>" with "melee" (headshot)
+L 05/09/2013 - 15:22:19: "Hunter<17><BOT><>" connected, address "none"
+L 05/09/2013 - 15:22:19: FinishClientPutInServer (17): looking for bots to take over
+L 05/09/2013 - 15:22:19: "Hunter<17><BOT><>" entered the game
+L 05/09/2013 - 15:22:19: "Hunter<17><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:22:19: Hunter spawned as a HUNTER
+L 05/09/2013 - 15:22:19: "Hunter<17><BOT><Infected><HUNTER><ALIVE><250+0><setpos_exact -12576.79 -4983.65 -337.97; setang 0.00 0.00 0.00><Area 20514>" spawned
+L 05/09/2013 - 15:22:22: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -13468.59 -4930.82 -193.97; setang 7.82 2.41 0.00><Area 24501>" killed "infected<203><><Infected><infected><DEAD><0><setpos_exact -13434.13 -4921.58 -255.97; setang -0.00 -167.14 0.00><Area 24501>" with "melee" (headshot)
+L 05/09/2013 - 15:22:24: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><63+0><setpos_exact -13535.97 -5001.42 -193.97; setang 4.00 32.30 0.00><Area 24509>" killed "infected<259><><Infected><infected><DEAD><-5><setpos_exact -13413.34 -4902.72 -255.97; setang -0.00 311.28 0.00><Area 8945>" with "shotgun_chrome" (headshot)
+L 05/09/2013 - 15:22:26: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><60+0><setpos_exact -13499.23 -4938.34 -193.97; setang 7.10 -12.54 0.00><Area 9114>" killed "infected<122><><Infected><infected><DEAD><0><setpos_exact -13470.20 -4937.31 -255.97; setang 0.00 219.69 0.00><Area 24501>" with "melee"
+L 05/09/2013 - 15:22:26: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><63+0><setpos_exact -13535.97 -5001.42 -193.97; setang 7.49 170.06 0.00><Area 24509>" killed "infected<123><><Infected><infected><DEAD><-17><setpos_exact -13649.19 -4967.64 -255.97; setang -0.00 355.96 0.00><Area 24506>" with "dual_pistols" (headshot)
+L 05/09/2013 - 15:22:29: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><33+35><setpos_exact -13503.03 -5014.06 -193.97; setang 6.59 220.44 0.00><Area 24509>" killed "infected<194><><Infected><infected><DEAD><-3><setpos_exact -13654.60 -5147.58 -255.97; setang 0.00 131.71 0.00><Area 9113>" with "shotgun_chrome"
+L 05/09/2013 - 15:22:30: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><33+35><setpos_exact -13503.03 -5014.06 -193.97; setang 4.58 236.08 0.00><Area 24509>" killed "infected<260><><Infected><infected><DEAD><0><setpos_exact -13661.33 -5249.92 -255.97; setang 0.00 96.45 0.00><Area 20573>" with "shotgun_chrome"
+L 05/09/2013 - 15:22:32: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><50+0><setpos_exact -13382.22 -4918.26 -193.97; setang 20.86 18.84 0.00><Area 8945>" killed "Hunter<17><BOT><Infected><HUNTER><DEAD><1+0><setpos -13342.81 -4906.92 -255.97; setang 291.15 196.05 0.00><Area 8945>" with "melee" (headshot)
+L 05/09/2013 - 15:22:33: "Charger<18><BOT><>" connected, address "none"
+L 05/09/2013 - 15:22:33: FinishClientPutInServer (18): looking for bots to take over
+L 05/09/2013 - 15:22:33: "Charger<18><BOT><>" entered the game
+L 05/09/2013 - 15:22:33: "Charger<18><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:22:33: Charger spawned as a CHARGER
+L 05/09/2013 - 15:22:33: "Charger<18><BOT><Infected><CHARGER><ALIVE><600+0><setpos_exact -12315.00 -5600.00 -17.97; setang 0.00 0.00 0.00><Area 28447>" spawned
+L 05/09/2013 - 15:22:36: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><50+0><setpos_exact -13421.24 -4931.65 -193.97; setang 3.96 -77.62 0.00><Area 8945>" killed "infected<124><><Infected><infected><DEAD><18><setpos_exact -13308.11 -5490.63 -263.97; setang 0.00 55.00 0.00><Area 25365>" with "smg" (headshot)
+L 05/09/2013 - 15:22:42: "Hunter<17><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:22:42: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><85+0><setpos_exact -12913.72 -4950.46 -197.46; setang 27.08 177.13 0.00><Area 25410>" killed "infected<258><><Infected><infected><DEAD><18><setpos_exact -13088.02 -4965.29 -305.36; setang 0.00 90.00 0.00><Area 9049>" with "pistol" (headshot)
+L 05/09/2013 - 15:22:42: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><63+0><setpos_exact -12947.33 -4926.22 -197.46; setang 14.60 214.27 0.00><Area 25409>" killed "infected<159><><Infected><infected><DEAD><-17><setpos_exact -13049.98 -5007.05 -279.36; setang 0.00 90.00 0.00><Area 24599>" with "dual_pistols"
+L 05/09/2013 - 15:22:43: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><63+0><setpos_exact -12947.33 -4926.22 -197.46; setang 27.74 300.82 0.00><Area 25409>" killed "infected<192><><Infected><infected><DEAD><17><setpos_exact -12890.20 -5033.64 -293.22; setang 0.00 -0.00 0.00><Area 8913>" with "dual_pistols" (headshot)
+L 05/09/2013 - 15:22:44: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><63+0><setpos_exact -12947.33 -4926.22 -197.46; setang 18.14 274.48 0.00><Area 25409>" killed "infected<215><><Infected><infected><DEAD><-5><setpos_exact -12917.40 -5354.71 -375.97; setang 0.00 98.93 0.00><Area 25413>" with "dual_pistols"
+L 05/09/2013 - 15:22:45: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><33+31><setpos_exact -12895.84 -4893.31 -197.46; setang 14.29 257.41 0.00><Area 25410>" killed "infected<202><><Infected><infected><DEAD><-9><setpos_exact -13040.48 -5486.86 -374.97; setang 0.00 420.19 0.00><Area 20600>" with "shotgun_chrome"
+L 05/09/2013 - 15:22:45: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><63+0><setpos_exact -12947.33 -4926.22 -197.46; setang 18.29 285.24 0.00><Area 25409>" killed "infected<214><><Infected><infected><DEAD><-4><setpos_exact -12838.39 -5350.94 -375.97; setang 0.00 54.80 0.00><Area 25414>" with "dual_pistols"
+L 05/09/2013 - 15:22:46: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><33+31><setpos_exact -12833.47 -4946.83 -197.46; setang 13.51 242.90 0.00><Area 25406>" killed "infected<195><><Infected><infected><DEAD><-11><setpos_exact -13096.14 -5446.87 -374.97; setang 0.00 488.78 0.00><Area 20597>" with "shotgun_chrome"
+L 05/09/2013 - 15:22:46: Spitter projectile spawned at -12740.293945 -5532.996094 -195.369247, velocity -230.235352 844.291809 -210.149979
+L 05/09/2013 - 15:22:47: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><50+0><setpos_exact -12747.07 -5527.07 -193.97; setang 6.44 -38.91 0.00><Area 10540>" killed "Spitter<15><BOT><Infected><SPITTER><DEAD><1+0><setpos -12733.71 -5556.03 -255.97; setang 284.42 114.77 0.00><Area 8909>" with "melee"
+L 05/09/2013 - 15:22:48: (DEATH)"infected<277><><Infected><infected><ALIVE><6><setpos_exact -12188.57 -5384.72 -36.22; setang 0.00 347.85 0.00><Area 9057>" killed "infected<364><><Infected><infected><DEAD><-2><setpos_exact -12161.69 -5390.51 -46.61; setang 0.00 167.90 0.00><Area 9134>" with "infected"
+L 05/09/2013 - 15:22:49: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><85+0><setpos_exact -12860.46 -5263.97 -313.97; setang 336.72 93.35 0.00><Area 26276>" killed "infected<261><><Infected><infected><DEAD><-15><setpos_exact -12874.07 -5023.76 -256.46; setang 0.00 -50.00 0.00><Area 25405>" with "pistol"
+L 05/09/2013 - 15:22:49: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><30+30><setpos_exact -12870.80 -5207.33 -311.19; setang 7.77 116.35 0.00><Area 26276>" killed "infected<163><><Infected><infected><DEAD><16><setpos_exact -12900.56 -5143.34 -375.97; setang -0.00 356.07 0.00><Area 26275>" with "pistol" (headshot)
+L 05/09/2013 - 15:22:50: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><63+0><setpos_exact -12900.62 -5112.30 -313.97; setang 50.62 54.05 0.00><Area 8913>" killed "infected<262><><Infected><infected><DEAD><-18><setpos_exact -12854.14 -5079.72 -375.97; setang 0.00 199.43 0.00><Area 8949>" with "dual_pistols"
+L 05/09/2013 - 15:22:51: ------------------------------ Director state change BUILD_UP -> SUSTAIN_PEAK
+L 05/09/2013 - 15:22:51: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><9+0><setpos_exact -12765.94 -5260.92 -197.46; setang 17.43 -111.94 0.00><Area 25412>" killed "infected<269><><Infected><infected><DEAD><0><setpos_exact -12770.87 -5299.69 -259.46; setang 0.00 95.15 0.00><Area 25411>" with "melee"
+L 05/09/2013 - 15:22:51: (INCAP) "WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><INCAP><3+0><setpos_exact -12777.18 -5227.81 -197.46; setang 17.43 -102.37 0.00><Area 25412>" is incapacitated
+L 05/09/2013 - 15:22:51: (INCAP)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><INCAP><300+0><setpos_exact -12777.18 -5227.81 -197.46; setang 17.43 -102.37 0.00><Area 25412>" was incapped by "Spitter<15><BOT><Infected><SPITTER><DEAD><1+0><setpos -12726.56 -5559.10 -255.97; setang 330.52 122.62 0.00><Area 8909>" with "insect_swarm"
+L 05/09/2013 - 15:22:52: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><65+0><setpos_exact -12909.97 -5286.41 -313.97; setang 7.59 283.13 0.00><Area 9384>" killed "infected<172><><Infected><infected><DEAD><-17><setpos_exact -12888.40 -5406.02 -375.97; setang 0.00 341.13 0.00><Area 9053>" with "pistol"
+L 05/09/2013 - 15:22:53: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><60+0><setpos_exact -12896.91 -5290.08 -313.97; setang 7.57 268.72 0.00><Area 9384>" killed "infected<198><><Infected><infected><DEAD><-15><setpos_exact -12900.36 -5449.64 -375.97; setang 0.00 105.88 0.00><Area 9053>" with "pistol"
+L 05/09/2013 - 15:22:53: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><63+0><setpos_exact -12907.14 -5420.61 -313.97; setang 338.20 59.20 0.00><Area 9053>" killed "infected<197><><Infected><infected><DEAD><-12><setpos_exact -12789.46 -5230.65 -259.46; setang 0.00 87.01 0.00><Area 25412>" with "dual_pistols"
+L 05/09/2013 - 15:22:53: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><60+0><setpos_exact -12908.27 -5276.59 -313.97; setang 12.22 239.65 0.00><Area 9384>" killed "infected<216><><Infected><infected><DEAD><-16><setpos_exact -12969.63 -5384.08 -375.97; setang 0.00 33.20 0.00><Area 26259>" with "pistol"
+L 05/09/2013 - 15:22:55: ------------------------------ Director state change SUSTAIN_PEAK -> PEAK_FADE
+L 05/09/2013 - 15:22:56: (INCAP) "Bill<3><BOT><Survivor><NamVet><ALIVE><30+28><setpos_exact -12803.96 -5241.52 -313.97; setang 294.04 319.56 0.00><Area 26276>" starts reviving "WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><INCAP><281+0><setpos_exact -12786.59 -5205.32 -235.46; setang 
+L 05/09/2013 - 15:22:56: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><60+0><setpos_exact -12897.43 -5276.62 -313.97; setang 0.57 256.06 0.00><Area 9384>" killed "Charger<18><BOT><Infected><CHARGER><DEAD><1+0><setpos -12937.05 -5436.29 -375.97; setang 322.99 76.06 0.00><Area 20598>" with "pistol" (headshot)
+L 05/09/2013 - 15:22:56: "Spitter<15><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:23:04: ------------------------------ Director state change PEAK_FADE -> RELAX
+L 05/09/2013 - 15:23:05: "Charger<18><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:23:24: "Louis<5><BOT><Survivor><Manager><ALIVE><43+0><setpos_exact -12815.43 -5039.77 -313.97; setang 7.91 -1.07 0.00><Area 8949>" used adrenaline
+L 05/09/2013 - 15:23:45: ------------------------------ Director state change RELAX -> BUILD_UP
+L 05/09/2013 - 15:23:45: 446.33: (MOB) SpawnMob requested of size 30.
+L 05/09/2013 - 15:23:45: 446.33: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:23:45: "Boomer<19><BOT><>" connected, address "none"
+L 05/09/2013 - 15:23:45: FinishClientPutInServer (19): looking for bots to take over
+L 05/09/2013 - 15:23:45: "Boomer<19><BOT><>" entered the game
+L 05/09/2013 - 15:23:45: "Boomer<19><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:23:45: Boomer spawned as a BOOMER
+L 05/09/2013 - 15:23:45: "Boomer<19><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact -12262.50 -5887.50 20.68; setang 0.00 0.00 0.00><Area 9880>" spawned
+L 05/09/2013 - 15:23:45: "Hunter<20><BOT><>" connected, address "none"
+L 05/09/2013 - 15:23:45: FinishClientPutInServer (20): looking for bots to take over
+L 05/09/2013 - 15:23:45: "Hunter<20><BOT><>" entered the game
+L 05/09/2013 - 15:23:45: "Hunter<20><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:23:45: Hunter spawned as a HUNTER
+L 05/09/2013 - 15:23:45: "Hunter<20><BOT><Infected><HUNTER><ALIVE><250+0><setpos_exact -13175.00 -4910.53 -193.97; setang 0.00 0.00 0.00><Area 25402>" spawned
+L 05/09/2013 - 15:23:45: 446.33: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:23:45: 446.33: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:23:45: 446.33: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:23:45: 446.33: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 15:23:45: 446.37: (MOB) Mob zombie spawned, 25 remain.
+L 05/09/2013 - 15:23:45: 446.37: (MOB) Mob zombie spawned, 24 remain.
+L 05/09/2013 - 15:23:45: 446.37: (MOB) Mob zombie spawned, 23 remain.
+L 05/09/2013 - 15:23:45: 446.37: (MOB) Mob zombie spawned, 22 remain.
+L 05/09/2013 - 15:23:45: 446.40: (MOB) Mob zombie spawned, 21 remain.
+L 05/09/2013 - 15:23:45: 446.40: (MOB) Mob zombie spawned, 20 remain.
+L 05/09/2013 - 15:23:45: 446.40: (MOB) Mob zombie spawned, 19 remain.
+L 05/09/2013 - 15:23:45: 446.40: (MOB) Mob zombie spawned, 18 remain.
+L 05/09/2013 - 15:23:45: 446.43: (MOB) Mob zombie spawned, 17 remain.
+L 05/09/2013 - 15:23:45: 446.43: (MOB) Mob zombie spawned, 16 remain.
+L 05/09/2013 - 15:23:45: 446.43: (MOB) Mob zombie spawned, 15 remain.
+L 05/09/2013 - 15:23:45: 446.43: (MOB) Mob zombie spawned, 14 remain.
+L 05/09/2013 - 15:23:45: 446.47: (MOB) Mob zombie spawned, 13 remain.
+L 05/09/2013 - 15:23:45: 446.47: (MOB) Mob zombie spawned, 12 remain.
+L 05/09/2013 - 15:23:45: 446.47: (MOB) Mob zombie spawned, 11 remain.
+L 05/09/2013 - 15:23:45: 446.47: (MOB) Mob zombie spawned, 10 remain.
+L 05/09/2013 - 15:23:45: 446.50: (MOB) Mob zombie spawned, 9 remain.
+L 05/09/2013 - 15:23:45: 446.50: (MOB) Mob zombie spawned, 8 remain.
+L 05/09/2013 - 15:23:45: 446.50: (MOB) Mob zombie spawned, 7 remain.
+L 05/09/2013 - 15:23:45: 446.50: (MOB) Mob zombie spawned, 6 remain.
+L 05/09/2013 - 15:23:45: 446.53: (MOB) Mob zombie spawned, 5 remain.
+L 05/09/2013 - 15:23:45: 446.53: (MOB) Mob zombie spawned, 4 remain.
+L 05/09/2013 - 15:23:45: 446.53: (MOB) Mob zombie spawned, 3 remain.
+L 05/09/2013 - 15:23:45: 446.53: (MOB) Mob zombie spawned, 2 remain.
+L 05/09/2013 - 15:23:45: 446.57: (MOB) Mob zombie spawned, 1 remain.
+L 05/09/2013 - 15:23:45: 446.57: (MOB) Mob zombie spawned, 0 remain.
+L 05/09/2013 - 15:23:45: 446.57: (MOB) Pending mob done.
+L 05/09/2013 - 15:23:48: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><86+0><setpos_exact -13671.96 -5259.66 -313.97; setang 6.01 14.74 0.00><Area 20448>" killed "infected<280><><Infected><infected><DEAD><-7><setpos_exact -13271.82 -5164.29 -375.97; setang 0.00 -125.00 0.00><Area 28484>" with "pistol"
+L 05/09/2013 - 15:23:49: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><80+0><setpos_exact -13678.64 -5371.56 -313.97; setang 2.90 26.72 0.00><Area 20448>" killed "infected<190><><Infected><infected><DEAD><-51><setpos_exact -13491.03 -5278.43 -375.97; setang -0.00 -110.64 0.00><Area 20450>" with "pistol_magnum"
+L 05/09/2013 - 15:23:49: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><80+0><setpos_exact -13678.64 -5371.56 -313.97; setang 2.90 26.72 0.00><Area 20448>" killed "infected<216><><Infected><infected><DEAD><-10><setpos_exact -13250.92 -5142.39 -375.97; setang 0.00 -66.67 0.00><Area 28486>" with "pistol_magnum"
+L 05/09/2013 - 15:23:49: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><80+0><setpos_exact -13678.70 -5371.46 -313.97; setang 3.06 27.19 0.00><Area 20448>" killed "infected<197><><Infected><infected><DEAD><-15><setpos_exact -13353.66 -5203.32 -375.97; setang 0.00 158.35 0.00><Area 10204>" with "pistol_magnum"
+L 05/09/2013 - 15:23:50: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><60+0><setpos_exact -13636.79 -5258.23 -313.97; setang 5.77 25.14 0.00><Area 20448>" killed "infected<188><><Infected><infected><DEAD><-7><setpos_exact -13365.46 -5119.23 -375.97; setang 0.00 157.34 0.00><Area 10204>" with "pistol"
+L 05/09/2013 - 15:23:51: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><80+0><setpos_exact -13670.74 -5387.27 -313.97; setang 2.27 29.23 0.00><Area 20448>" killed "infected<202><><Infected><infected><DEAD><-10><setpos_exact -13242.92 -5131.14 -375.97; setang 0.00 166.75 0.00><Area 28486>" with "pistol_magnum"
+L 05/09/2013 - 15:23:51: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><60+0><setpos_exact -13636.79 -5258.23 -313.97; setang 14.92 320.34 -0.55><Area 20448>" killed "infected<192><><Infected><infected><DEAD><-14><setpos_exact -13521.37 -5346.97 -375.97; setang 0.00 256.21 0.00><Area 20450>" with "pistol"
+L 05/09/2013 - 15:23:51: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><43+17><setpos_exact -13592.33 -5311.85 -313.97; setang 6.58 5.84 0.00><Area 20448>" killed "infected<191><><Infected><infected><DEAD><-13><setpos_exact -13378.39 -5292.39 -375.97; setang 0.00 188.26 0.00><Area 10204>" with "dual_pistols"
+L 05/09/2013 - 15:23:52: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><43+17><setpos_exact -13592.33 -5311.85 -313.97; setang 5.19 1.81 0.00><Area 20448>" killed "infected<262><><Infected><infected><DEAD><-10><setpos_exact -13335.17 -5310.70 -375.97; setang 0.00 -25.00 0.00><Area 9289>" with "dual_pistols"
+L 05/09/2013 - 15:23:52: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><43+17><setpos_exact -13592.33 -5311.85 -313.97; setang 6.15 2.28 0.00><Area 20448>" killed "infected<203><><Infected><infected><DEAD><-10><setpos_exact -13362.37 -5309.77 -375.97; setang 0.00 183.64 0.00><Area 8923>" with "dual_pistols"
+L 05/09/2013 - 15:23:52: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><43+17><setpos_exact -13592.33 -5311.85 -313.97; setang 4.67 356.22 0.00><Area 20448>" killed "infected<338><><Infected><infected><DEAD><-9><setpos_exact -13307.98 -5325.25 -375.97; setang 0.00 180.57 0.00><Area 9289>" with "dual_pistols"
+L 05/09/2013 - 15:23:53: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><60+0><setpos_exact -13636.79 -5258.23 -313.97; setang 6.42 332.42 0.00><Area 20448>" killed "infected<193><><Infected><infected><DEAD><-13><setpos_exact -13424.06 -5361.00 -375.97; setang 0.00 112.75 0.00><Area 8923>" with "pistol"
+L 05/09/2013 - 15:23:53: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><86+0><setpos_exact -13671.96 -5259.66 -313.97; setang 3.26 348.02 0.00><Area 20448>" killed "infected<277><><Infected><infected><DEAD><22><setpos_exact -13299.07 -5322.81 -375.97; setang 0.00 -50.00 0.00><Area 9289>" with "pistol" (headshot)
+L 05/09/2013 - 15:23:53: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><43+17><setpos_exact -13592.33 -5311.85 -313.97; setang 22.52 335.09 0.00><Area 20448>" killed "infected<255><><Infected><infected><DEAD><-17><setpos_exact -13515.07 -5335.69 -375.97; setang 0.00 192.01 0.00><Area 20450>" with "dual_pistols"
+L 05/09/2013 - 15:23:53: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><86+0><setpos_exact -13671.96 -5259.66 -313.97; setang 3.45 350.30 0.00><Area 20448>" killed "infected<261><><Infected><infected><DEAD><-8><setpos_exact -13329.37 -5322.44 -375.97; setang 0.00 -50.00 0.00><Area 9289>" with "pistol"
+L 05/09/2013 - 15:23:54: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><80+0><setpos_exact -13615.61 -5355.65 -313.97; setang 6.43 8.97 0.00><Area 20448>" killed "infected<215><><Infected><infected><DEAD><-50><setpos_exact -13380.07 -5315.37 -375.97; setang 0.00 189.15 0.00><Area 8923>" with "pistol_magnum"
+L 05/09/2013 - 15:23:54: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><60+0><setpos_exact -13636.79 -5258.23 -313.97; setang 6.13 339.31 0.00><Area 20448>" killed "infected<189><><Infected><infected><DEAD><-12><setpos_exact -13426.12 -5335.38 -375.97; setang 0.00 97.57 0.00><Area 8923>" with "pistol"
+L 05/09/2013 - 15:23:54: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><80+0><setpos_exact -13631.86 -5357.32 -313.97; setang 6.20 6.10 0.00><Area 20448>" killed "infected<342><><Infected><infected><DEAD><-19><setpos_exact -13331.50 -5299.98 -375.97; setang 0.00 191.55 0.00><Area 8923>" with "pistol_magnum"
+L 05/09/2013 - 15:23:54: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><80+0><setpos_exact -13631.86 -5357.32 -313.97; setang 6.20 6.10 0.00><Area 20448>" killed "infected<276><><Infected><infected><DEAD><-15><setpos_exact -13271.18 -5324.78 -375.97; setang 0.00 -0.00 0.00><Area 9289>" with "pistol_magnum"
+L 05/09/2013 - 15:23:54: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><86+0><setpos_exact -13671.96 -5259.66 -313.97; setang 3.58 344.72 0.00><Area 20448>" killed "infected<198><><Infected><infected><DEAD><-8><setpos_exact -13326.31 -5361.57 -375.97; setang 0.00 122.57 0.00><Area 26273>" with "pistol"
+L 05/09/2013 - 15:23:54: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><80+0><setpos_exact -13642.36 -5358.40 -313.97; setang 2.24 7.25 0.00><Area 20448>" killed "infected<258><><Infected><infected><DEAD><-15><setpos_exact -13286.01 -5318.54 -375.97; setang -0.00 50.00 0.00><Area 9289>" with "pistol_magnum"
+L 05/09/2013 - 15:23:55: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><80+0><setpos_exact -13642.36 -5358.40 -313.97; setang 2.27 5.37 0.00><Area 20448>" killed "infected<194><><Infected><infected><DEAD><-5><setpos_exact -13026.10 -5307.74 -375.97; setang -0.00 -81.66 0.00><Area 26259>" with "pistol_magnum"
+L 05/09/2013 - 15:23:55: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><80+0><setpos_exact -13642.36 -5358.40 -313.97; setang 1.88 3.92 0.00><Area 20448>" killed "infected<195><><Infected><infected><DEAD><-47><setpos_exact -13355.00 -5340.40 -375.97; setang 0.00 169.12 0.00><Area 8923>" with "pistol_magnum"
+L 05/09/2013 - 15:23:56: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><80+0><setpos_exact -13642.74 -5349.47 -313.97; setang 3.06 2.50 0.00><Area 20448>" killed "infected<259><><Infected><infected><DEAD><-20><setpos_exact -13410.14 -5343.15 -375.97; setang -0.00 -175.86 0.00><Area 20450>" with "pistol_magnum"
+L 05/09/2013 - 15:23:56: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><43+16><setpos_exact -13592.33 -5311.85 -313.97; setang 5.68 34.10 0.00><Area 20448>" killed "infected<269><><Infected><infected><DEAD><-19><setpos_exact -13565.03 -5274.62 -375.97; setang -0.00 277.72 0.00><Area 20448>" with "dual_pistols"
+L 05/09/2013 - 15:23:57: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><60+0><setpos_exact -13671.96 -5329.86 -313.97; setang 5.83 5.11 0.00><Area 20448>" killed "infected<214><><Infected><infected><DEAD><-11><setpos_exact -13427.65 -5311.00 -375.97; setang 0.00 188.53 0.00><Area 8923>" with "pistol"
+L 05/09/2013 - 15:23:57: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><60+0><setpos_exact -13671.96 -5329.86 -313.97; setang 5.83 5.11 0.00><Area 20448>" killed "infected<279><><Infected><infected><DEAD><-6><setpos_exact -13263.03 -5309.08 -375.97; setang 0.00 -50.00 0.00><Area 9289>" with "pistol"
+L 05/09/2013 - 15:23:58: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><43+15><setpos_exact -13614.46 -5285.07 -313.97; setang 2.10 309.72 0.00><Area 20448>" killed "infected<260><><Infected><infected><DEAD><-17><setpos_exact -13552.27 -5363.95 -375.97; setang -0.00 138.64 0.00><Area 20454>" with "dual_pistols"
+L 05/09/2013 - 15:24:00: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><80+0><setpos_exact -13671.96 -5351.05 -313.97; setang 5.77 0.62 0.00><Area 20448>" killed "Hunter<20><BOT><Infected><HUNTER><DEAD><1+0><setpos -13355.93 -5344.31 -375.97; setang 341.46 181.22 0.00><Area 8923>" with "pistol_magnum" (headshot)
+L 05/09/2013 - 15:24:00: "Charger<21><BOT><>" connected, address "none"
+L 05/09/2013 - 15:24:00: FinishClientPutInServer (21): looking for bots to take over
+L 05/09/2013 - 15:24:00: "Charger<21><BOT><>" entered the game
+L 05/09/2013 - 15:24:00: "Charger<21><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:24:00: Charger spawned as a CHARGER
+L 05/09/2013 - 15:24:00: "Charger<21><BOT><Infected><CHARGER><ALIVE><600+0><setpos_exact -13212.50 -5537.50 14.03; setang 0.00 0.00 0.00><Area 9932>" spawned
+L 05/09/2013 - 15:24:00: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><60+0><setpos_exact -13670.59 -5314.47 -313.97; setang 3.69 32.80 0.00><Area 20448>" killed "infected<278><><Infected><infected><DEAD><-18><setpos_exact -13595.44 -5252.13 -375.97; setang -0.00 278.28 0.00><Area 20448>" with "pistol" (headshot)
+L 05/09/2013 - 15:24:00: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><86+0><setpos_exact -13671.43 -5262.91 -313.97; setang 16.95 27.56 0.00><Area 20448>" killed "infected<340><><Infected><infected><DEAD><-16><setpos_exact -13584.38 -5213.22 -375.97; setang 0.00 243.09 0.00><Area 20453>" with "pistol"
+L 05/09/2013 - 15:24:09: "Hunter<20><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:24:10: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><60+0><setpos_exact -13273.08 -5114.04 -313.97; setang 2.75 289.19 0.00><Area 28486>" killed "Charger<21><BOT><Infected><CHARGER><DEAD><1+0><setpos -13267.37 -5146.07 -375.97; setang 284.70 100.10 0.00><Area 28486>" with "pistol" (headshot)
+L 05/09/2013 - 15:24:14: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><43+11><setpos_exact -13148.47 -5101.93 -305.97; setang 347.56 310.00 0.00><Area 9047>" killed "Boomer<19><BOT><Infected><BOOMER><DEAD><1+0><setpos -12820.68 -5511.31 -255.97; setang 358.69 128.68 0.00><Area 10541>" with "dual_pistols" (headshot)
+L 05/09/2013 - 15:24:20: "Charger<21><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:24:23: "Boomer<19><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:24:45: "Spitter<22><BOT><>" connected, address "none"
+L 05/09/2013 - 15:24:45: FinishClientPutInServer (22): looking for bots to take over
+L 05/09/2013 - 15:24:45: "Spitter<22><BOT><>" entered the game
+L 05/09/2013 - 15:24:45: "Spitter<22><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:24:45: Spitter spawned as a SPITTER
+L 05/09/2013 - 15:24:45: "Spitter<22><BOT><Infected><SPITTER><ALIVE><100+0><setpos_exact -13450.00 -4937.50 -193.97; setang 0.00 0.00 0.00><Area 24501>" spawned
+L 05/09/2013 - 15:24:52: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><78+0><setpos_exact -13482.46 -5322.70 -65.97; setang 18.84 -104.15 0.00><Area 20437>" killed "Spitter<22><BOT><Infected><SPITTER><DEAD><1+0><setpos -13545.78 -5551.97 -191.97; setang 321.68 74.56 0.00><Area 20580>" with "pistol_magnum"
+L 05/09/2013 - 15:24:56: "Smoker<23><BOT><>" connected, address "none"
+L 05/09/2013 - 15:24:56: FinishClientPutInServer (23): looking for bots to take over
+L 05/09/2013 - 15:24:56: "Smoker<23><BOT><>" entered the game
+L 05/09/2013 - 15:24:56: "Smoker<23><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:24:56: Smoker spawned as a SMOKER
+L 05/09/2013 - 15:24:56: "Smoker<23><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -12865.97 -6110.41 238.03; setang 0.00 0.00 0.00><Area 20379>" spawned
+L 05/09/2013 - 15:24:57: "Louis<5><BOT><Survivor><Manager><ALIVE><43+50><setpos_exact -13503.97 -5384.42 -89.97; setang 18.61 185.43 0.00><Area 9918>" used pills on "Louis<5><BOT><Survivor><Manager><ALIVE><43+50><setpos_exact -13503.97 -5384.42 -89.97; setang 18.61 185.43 0.00><L 05/09/2013 - 15:24:57: "Smoker<23><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -13038.37 -6104.28 13.14; setang 28.27 32.92 0.00><Area 8125>" landed
+L 05/09/2013 - 15:24:59: "Jockey<24><BOT><>" connected, address "none"
+L 05/09/2013 - 15:24:59: FinishClientPutInServer (24): looking for bots to take over
+L 05/09/2013 - 15:24:59: "Jockey<24><BOT><>" entered the game
+L 05/09/2013 - 15:24:59: "Jockey<24><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:24:59: Jockey spawned as a JOCKEY
+L 05/09/2013 - 15:24:59: "Jockey<24><BOT><Infected><JOCKEY><ALIVE><325+0><setpos_exact -13229.61 -4925.98 -193.97; setang 0.00 0.00 0.00><Area 8994>" spawned
+L 05/09/2013 - 15:25:02: "Spitter<22><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:25:10: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><35+46><setpos_exact -13488.06 -5323.97 -193.97; setang 36.89 24.43 0.00><Area 20576>" killed "Jockey<24><BOT><Infected><JOCKEY><DEAD><1+0><setpos -13434.39 -5299.58 -255.97; setang 295.43 204.44 0.00><Area 9907>" with "dual_pistols"
+L 05/09/2013 - 15:25:17: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<23><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -13448.74 -5287.97 -193.97; setang 2.14 301.64 0.00><Area 9907>". Victim:"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><51+0><setpos_exact -13282.55 -5583.95 -194.46; setang 360.14 345.17 0.00><Area 20528>".
+L 05/09/2013 - 15:25:18: "WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><35+0><setpos_exact -13124.61 -5634.79 -197.46; setang 14.94 0.29 0.00><Area 28366>" used adrenaline
+L 05/09/2013 - 15:25:18: (TONGUE) Tongue launching towards victim.  Smoker:"Smoker<23><BOT><Infected><SMOKER><ALIVE><193+0><setpos_exact -13397.73 -5281.99 -193.97; setang 5.17 291.33 0.00><Area 20519>". Victim:"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><51+0><setpos_exact -13280.36 -5582.53 -194.46; setang 2.20 111.33 0.00><Area 20528>".
+L 05/09/2013 - 15:25:19: (TONGUE) Tongue grab starting.  Smoker:"Smoker<23><BOT><Infected><SMOKER><ALIVE><128+0><setpos_exact -13397.73 -5281.99 -193.97; setang 3.76 303.69 0.00><Area 20519>". Victim:"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><51+0><setpos_exact -13275.99 -5591.35 -197.46; setang 359.68 111.48 0.00><Area 20528>".
+L 05/09/2013 - 15:25:19: "Jockey<24><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:25:20: (TONGUE) Tongue took 29.548080 damage (was 100.000000/100.000000).  Smoker:"Smoker<23><BOT><Infected><SMOKER><ALIVE><101+0><setpos_exact -13397.73 -5281.99 -193.97; setang 1.22 332.12 0.00><Area 20519>". Victim:"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><51+0><setpos_exact -13286.86 -5580.85 -194.46; setang 0.20 110.35 0.00><Area 20528>".
+L 05/09/2013 - 15:25:20: (TONGUE) Tongue letting go for taking too much damage.  Smoker:"Smoker<23><BOT><Infected><SMOKER><ALIVE><74+0><setpos_exact -13397.73 -5281.99 -193.97; setang 1.01 332.71 0.00><Area 20519>". Victim:"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><51+0><setpos_exact -13286.97 -5580.85 -194.46; setang 0.20 110.33 0.00><Area 20528>".
+L 05/09/2013 - 15:25:20: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><35+43><setpos_exact -13174.66 -5658.78 -215.46; setang 357.46 120.36 0.00><Area 25376>" killed "Smoker<23><BOT><Infected><SMOKER><DEAD><1+0><setpos -13397.73 -5281.99 -255.97; setang 346.82 300.63 0.00><Area 20519>" with "dual_pistols"
+L 05/09/2013 - 15:25:21: 542.73: (MOB) SpawnMob requested of size 21.
+L 05/09/2013 - 15:25:21: 542.73: (MOB) SpawnMob pending count is now 21.
+L 05/09/2013 - 15:25:21: 542.73: (MOB) Mob zombie spawned, 20 remain.
+L 05/09/2013 - 15:25:21: 542.73: (MOB) Mob zombie spawned, 19 remain.
+L 05/09/2013 - 15:25:21: 542.77: (MOB) Mob zombie spawned, 18 remain.
+L 05/09/2013 - 15:25:21: 542.77: (MOB) Mob zombie spawned, 17 remain.
+L 05/09/2013 - 15:25:21: 542.80: (MOB) Mob zombie spawned, 16 remain.
+L 05/09/2013 - 15:25:21: 542.80: (MOB) Mob zombie spawned, 15 remain.
+L 05/09/2013 - 15:25:21: 542.80: (MOB) Mob zombie spawned, 14 remain.
+L 05/09/2013 - 15:25:21: 542.80: (MOB) Mob zombie spawned, 13 remain.
+L 05/09/2013 - 15:25:21: 542.83: (MOB) Mob zombie spawned, 12 remain.
+L 05/09/2013 - 15:25:21: 542.83: (MOB) Mob zombie spawned, 11 remain.
+L 05/09/2013 - 15:25:21: 542.83: (MOB) Mob zombie spawned, 10 remain.
+L 05/09/2013 - 15:25:21: 542.83: (MOB) Mob zombie spawned, 9 remain.
+L 05/09/2013 - 15:25:21: 542.87: (MOB) Mob zombie spawned, 8 remain.
+L 05/09/2013 - 15:25:21: 542.87: (MOB) Mob zombie spawned, 7 remain.
+L 05/09/2013 - 15:25:21: 542.87: (MOB) Mob zombie spawned, 6 remain.
+L 05/09/2013 - 15:25:21: 542.87: (MOB) Mob zombie spawned, 5 remain.
+L 05/09/2013 - 15:25:21: 542.90: (MOB) Mob zombie spawned, 4 remain.
+L 05/09/2013 - 15:25:21: 542.90: (MOB) Mob zombie spawned, 3 remain.
+L 05/09/2013 - 15:25:21: 542.90: (MOB) Mob zombie spawned, 2 remain.
+L 05/09/2013 - 15:25:21: 542.90: (MOB) Mob zombie spawned, 1 remain.
+L 05/09/2013 - 15:25:21: 542.93: (MOB) Mob zombie spawned, 0 remain.
+L 05/09/2013 - 15:25:21: 542.93: (MOB) Pending mob done.
+L 05/09/2013 - 15:25:26: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><51+0><setpos_exact -12486.32 -5567.74 -111.84; setang 18.19 176.57 0.00><Area 28446>" killed "infected<262><><Infected><infected><DEAD><-6><setpos_exact -12880.76 -5545.43 -252.83; setang 0.00 -0.00 0.00><Area 8909>" with "pistol"
+L 05/09/2013 - 15:25:26: Pipe bomb projectile spawned at -12258.616211 -5622.053223 -10.674170, velocity 691.119263 178.391129 175.541748
+L 05/09/2013 - 15:25:26: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><51+0><setpos_exact -12449.87 -5573.90 -87.54; setang 20.09 175.53 0.00><Area 28446>" killed "infected<258><><Infected><infected><DEAD><-5><setpos_exact -12892.48 -5530.04 -279.11; setang 0.00 -0.00 0.00><Area 9097>" with "pistol"
+L 05/09/2013 - 15:25:29: "Smoker<23><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:25:32: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><28+21><setpos_exact -12034.39 -5354.80 14.89; setang 3.06 -11.95 0.00><Area 25937>" killed "infected<260><><Infected><infected><DEAD><-51><setpos_exact -12030.94 -5566.32 -50.25; setang 0.00 11.03 0.00><Area 25418>" with "pipe_bomb"
+L 05/09/2013 - 15:25:32: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><28+21><setpos_exact -12034.39 -5354.80 14.89; setang 3.06 -11.95 0.00><Area 25937>" killed "infected<277><><Infected><infected><DEAD><-51><setpos_exact -11858.09 -5502.98 -5.67; setang 0.00 304.96 0.00><Area 20638>" with "pipe_bomb"
+L 05/09/2013 - 15:25:32: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><28+21><setpos_exact -12034.39 -5354.80 14.89; setang 3.06 -11.95 0.00><Area 25937>" killed "infected<276><><Infected><infected><DEAD><-51><setpos_exact -11834.69 -5508.33 -0.23; setang 0.00 260.55 0.00><Area 20638>" with "pipe_bomb"
+L 05/09/2013 - 15:25:32: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><28+21><setpos_exact -12034.39 -5354.80 14.89; setang 3.06 -11.95 0.00><Area 25937>" killed "infected<269><><Infected><infected><DEAD><-51><setpos_exact -11851.67 -5560.64 -3.72; setang 0.00 67.50 0.00><Area 20745>" with "pipe_bomb"
+L 05/09/2013 - 15:25:32: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><28+21><setpos_exact -12034.39 -5354.80 14.89; setang 3.06 -11.95 0.00><Area 25937>" killed "infected<173><><Infected><infected><DEAD><-51><setpos_exact -11869.99 -5533.55 -9.16; setang 0.00 8.79 0.00><Area 20625>" with "pipe_bomb"
+L 05/09/2013 - 15:25:32: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><28+21><setpos_exact -12034.39 -5354.80 14.89; setang 3.06 -11.95 0.00><Area 25937>" killed "infected<171><><Infected><infected><DEAD><-51><setpos_exact -11869.92 -5541.83 -8.94; setang 0.00 22.56 0.00><Area 20638>" with "pipe_bomb"
+L 05/09/2013 - 15:25:32: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><28+21><setpos_exact -12034.39 -5354.80 14.89; setang 3.06 -11.95 0.00><Area 25937>" killed "infected<124><><Infected><infected><DEAD><-51><setpos_exact -11826.42 -5515.87 1.93; setang 0.00 227.01 0.00><Area 20638>" with "pipe_bomb"
+L 05/09/2013 - 15:25:32: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><28+21><setpos_exact -12034.39 -5354.80 14.89; setang 3.06 -11.95 0.00><Area 25937>" killed "infected<278><><Infected><infected><DEAD><-51><setpos_exact -11848.54 -5524.63 -1.87; setang 0.00 337.54 0.00><Area 20638>" with "pipe_bomb"
+L 05/09/2013 - 15:25:34: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><35+40><setpos_exact -12236.45 -5601.25 -10.81; setang 0.31 19.05 0.00><Area 20628>" killed "infected<202><><Infected><infected><DEAD><-14><setpos_exact -12047.86 -5541.76 -55.22; setang 0.00 4.28 0.00><Area 25418>" with "dual_pistols"
+L 05/09/2013 - 15:25:35: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><50+0><setpos_exact -12238.22 -5548.33 -11.19; setang 355.76 78.51 0.00><Area 20628>" killed "infected<106><><Infected><infected><DEAD><16><setpos_exact -12227.79 -5468.96 -61.34; setang -0.00 355.02 0.00><Area 20631>" with "pistol" (headshot)
+L 05/09/2013 - 15:25:36: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><35+39><setpos_exact -11918.57 -5340.28 27.49; setang 4.21 197.89 0.00><Area 20634>" killed "infected<123><><Infected><infected><DEAD><-3><setpos_exact -12290.97 -5476.59 -44.06; setang -0.00 18.08 0.00><Area 20631>" with "dual_pistols"
+L 05/09/2013 - 15:25:37: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><28+19><setpos_exact -11339.65 -5287.09 20.01; setang 4.48 -15.74 0.00><Area 26060>" killed "infected<280><><Infected><infected><DEAD><-2><setpos_exact -10992.22 -5386.52 -52.15; setang -0.00 -154.24 0.00><Area 11451>" with "smg" (headshot)
+L 05/09/2013 - 15:25:38: "Charger<25><BOT><>" connected, address "none"
+L 05/09/2013 - 15:25:38: FinishClientPutInServer (25): looking for bots to take over
+L 05/09/2013 - 15:25:38: "Charger<25><BOT><>" entered the game
+L 05/09/2013 - 15:25:38: "Charger<25><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:25:38: Charger spawned as a CHARGER
+L 05/09/2013 - 15:25:38: "Charger<25><BOT><Infected><CHARGER><ALIVE><600+0><setpos_exact -10612.50 -4912.50 511.23; setang 0.00 0.00 0.00><Area 28133>" spawned
+L 05/09/2013 - 15:25:38: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><72+0><setpos_exact -11947.43 -5358.31 27.19; setang 8.94 235.82 0.00><Area 25935>" killed "infected<255><><Infected><infected><DEAD><-11><setpos_exact -12156.07 -5626.65 -65.29; setang 0.00 362.04 0.00><Area 25417>" with "pistol" (headshot)
+L 05/09/2013 - 15:25:39: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><72+0><setpos_exact -11747.18 -5317.75 37.04; setang 5.76 230.48 0.00><Area 20627>" killed "infected<215><><Infected><infected><DEAD><-29><setpos_exact -11966.94 -5570.13 -34.04; setang 0.00 431.68 0.00><Area 28599>" with "pistol"
+L 05/09/2013 - 15:25:39: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><72+0><setpos_exact -11747.18 -5317.75 37.04; setang 5.76 230.48 0.00><Area 20627>" killed "infected<203><><Infected><infected><DEAD><-2><setpos_exact -11973.76 -5603.99 -33.29; setang 0.00 77.10 0.00><Area 20640>" with "pistol"
+L 05/09/2013 - 15:25:41: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><35+38><setpos_exact -11306.00 -5309.85 -4.75; setang 357.31 281.16 0.00><Area 26060>" killed "infected<164><><Infected><infected><DEAD><-5><setpos_exact -11213.98 -5755.88 -25.92; setang 0.00 112.50 0.00><Area 9764>" with "dual_pistols"
+L 05/09/2013 - 15:25:44: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><48+0><setpos_exact -11312.01 -5260.84 11.08; setang 15.82 102.57 0.00><Area 26060>" killed "Charger<25><BOT><Infected><CHARGER><DEAD><1+0><setpos -11300.57 -5206.84 -57.86; setang 292.86 258.04 0.00><Area 26072>" with "pistol"
+L 05/09/2013 - 15:25:45: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><72+0><setpos_exact -11044.27 -5315.92 -11.42; setang 356.13 165.66 0.00><Area 26742>" killed "infected<125><><Infected><infected><DEAD><-3><setpos_exact -11369.50 -5231.92 -40.97; setang -0.00 337.96 0.00><Area 26060>" with "pistol"
+L 05/09/2013 - 15:25:45: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><33+36><setpos_exact -11147.16 -5339.36 -11.52; setang 359.17 152.09 0.00><Area 11817>" killed "infected<198><><Infected><infected><DEAD><-7><setpos_exact -11337.27 -5251.56 -47.10; setang 0.00 50.49 0.00><Area 26060>" with "dual_pistols"
+L 05/09/2013 - 15:25:46: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><72+0><setpos_exact -11044.27 -5315.92 -11.42; setang 20.34 197.83 0.00><Area 26742>" killed "infected<194><><Infected><infected><DEAD><-19><setpos_exact -11110.32 -5337.13 -77.97; setang 0.00 183.51 0.00><Area 11817>" with "pistol"
+L 05/09/2013 - 15:25:47: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><72+0><setpos_exact -10981.00 -5337.82 15.35; setang 20.20 198.05 0.00><Area 26742>" killed "infected<258><><Infected><infected><DEAD><-17><setpos_exact -11116.89 -5368.23 -78.00; setang 0.00 138.31 0.00><Area 11817>" with "pistol"
+L 05/09/2013 - 15:25:47: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><32+36><setpos_exact -11147.16 -5341.22 -11.51; setang 359.47 135.18 0.00><Area 11817>" killed "infected<159><><Infected><infected><DEAD><-6><setpos_exact -11271.83 -5205.77 -64.82; setang -0.00 325.76 0.00><Area 26072>" with "dual_pistols" (headshot)
+L 05/09/2013 - 15:25:49: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><16+16><setpos_exact -11290.17 -5251.35 4.86; setang -4.35 172.99 0.00><Area 26060>" killed "infected<167><><Infected><infected><DEAD><-8><setpos_exact -11327.60 -5257.36 -48.24; setang 0.00 9.22 0.00><Area 26060>" with "smg"
+L 05/09/2013 - 15:25:50: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><16+16><setpos_exact -11290.17 -5251.35 4.86; setang 2.15 -167.12 0.00><Area 26060>" killed "infected<216><><Infected><infected><DEAD><-4><setpos_exact -11581.24 -5299.64 -13.97; setang -0.00 4.19 0.00><Area 26730>" with "smg"
+L 05/09/2013 - 15:25:51: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><16+16><setpos_exact -11286.33 -5272.84 5.51; setang -6.20 -175.46 0.00><Area 26060>" killed "infected<214><><Infected><infected><DEAD><-6><setpos_exact -11411.91 -5268.15 -29.28; setang -0.00 -1.21 0.00><Area 26731>" with "smg"
+L 05/09/2013 - 15:25:51: ------------------------------ Director state change BUILD_UP -> SUSTAIN_PEAK
+L 05/09/2013 - 15:25:51: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><32+35><setpos_exact -10990.13 -5330.81 10.69; setang 15.75 239.29 0.00><Area 26742>" killed "infected<172><><Infected><infected><DEAD><-17><setpos_exact -11045.68 -5415.02 -72.72; setang -0.00 59.79 0.00><Area 10648>" with "dual_pistols" (headshot)
+L 05/09/2013 - 15:25:51: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><16+16><setpos_exact -11286.20 -5272.85 5.47; setang -5.67 173.25 0.00><Area 26060>" killed "infected<197><><Infected><infected><DEAD><-7><setpos_exact -11418.57 -5250.54 -30.95; setang -0.00 347.32 0.00><Area 26731>" with "smg"
+L 05/09/2013 - 15:25:53: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><72+0><setpos_exact -11056.22 -5316.22 -16.07; setang 334.54 27.41 0.00><Area 26742>" killed "infected<279><><Infected><infected><DEAD><-13><setpos_exact -10940.37 -5251.85 -13.32; setang -0.00 201.62 0.00><Area 11987>" with "pistol"
+L 05/09/2013 - 15:25:53: "Charger<25><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:25:54: (DEATH)"Bill<3><BOT><Survivor><NamVet><ALIVE><72+0><setpos_exact -10929.48 -5324.76 48.77; setang 334.51 358.00 0.00><Area 11987>" killed "infected<255><><Infected><infected><DEAD><-19><setpos_exact -10856.67 -5334.37 28.51; setang -0.00 101.09 0.00><Area 28142>" with "pistol"
+L 05/09/2013 - 15:25:54: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><16+15><setpos_exact -11168.89 -5247.77 -13.28; setang -2.84 169.09 0.00><Area 11395>" killed "infected<261><><Infected><infected><DEAD><-18><setpos_exact -11449.24 -5193.28 -37.44; setang -0.00 74.92 0.00><Area 26731>" with "pistol_magnum"
+L 05/09/2013 - 15:25:55: "Boomer<26><BOT><>" connected, address "none"
+L 05/09/2013 - 15:25:55: FinishClientPutInServer (26): looking for bots to take over
+L 05/09/2013 - 15:25:55: "Boomer<26><BOT><>" entered the game
+L 05/09/2013 - 15:25:55: "Boomer<26><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:25:55: Boomer spawned as a BOOMER
+L 05/09/2013 - 15:25:55: "Boomer<26><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact -10650.00 -5175.00 354.62; setang 0.00 0.00 0.00><Area 10721>" spawned
+L 05/09/2013 - 15:25:55: (DEATH)"WiltzuTM<2><STEAM_1:1:8763726><Survivor><Biker><ALIVE><14+14><setpos_exact -11172.99 -5297.96 -11.41; setang 6.97 175.76 0.00><Area 11395>" killed "infected<109><><Infected><infected><DEAD><-28><setpos_exact -11205.59 -5306.48 -71.70; setang -0.00 -8.85 0.00><Area 20870>" with "pistol_magnum"
+L 05/09/2013 - 15:25:56: ------------------------------ Director state change SUSTAIN_PEAK -> PEAK_FADE
+L 05/09/2013 - 15:25:56: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><32+34><setpos_exact -10998.47 -5322.55 6.44; setang 6.94 275.58 0.00><Area 26742>" killed "infected<193><><Infected><infected><DEAD><-15><setpos_exact -10996.45 -5433.69 -54.52; setang 0.00 40.57 0.00><Area 28356>" with "dual_pistols"
+L 05/09/2013 - 15:25:58: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><45+0><setpos_exact -10811.54 -5505.65 64.16; setang 350.32 62.56 0.00><Area 10609>" killed "infected<106><><Infected><infected><DEAD><-12><setpos_exact -10777.65 -5416.52 45.55; setang 0.00 172.63 0.00><Area 26278>" with "pistol"
+L 05/09/2013 - 15:26:00: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><45+0><setpos_exact -10634.67 -5392.15 179.13; setang 321.38 87.02 0.00><Area 25426>" killed "Boomer<26><BOT><Infected><BOOMER><DEAD><1+0><setpos -10623.65 -5180.57 288.03; setang 12.48 267.02 0.00><Area 11881>" with "pistol" (headshot)
+L 05/09/2013 - 15:26:04: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><32+31><setpos_exact -10709.39 -5139.53 350.03; setang 14.46 352.08 0.00><Area 28115>" killed "infected<259><><Infected><infected><DEAD><-15><setpos_exact -10583.97 -5160.58 282.73; setang 0.00 186.83 0.00><Area 11881>" with "dual_pistols"
+L 05/09/2013 - 15:26:06: (DEATH)"Zoey<4><BOT><Survivor><TeenGirl><ALIVE><45+0><setpos_exact -10573.98 -5270.68 278.98; setang 44.46 249.00 0.00><Area 11525>" killed "infected<338><><Infected><infected><DEAD><-13><setpos_exact -10606.66 -5361.04 142.49; setang 0.00 271.07 0.00><Area 11526>" with "pistol"
+L 05/09/2013 - 15:26:09: "Boomer<26><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:26:14: ------------------------------ Director state change PEAK_FADE -> RELAX
+L 05/09/2013 - 15:26:32: Preparing player entities for changelevel
+L 05/09/2013 - 15:26:32: Saving WiltzuTM for transition at -10730.031250 -5048.422363 288.031250
+L 05/09/2013 - 15:26:32: (SKIN) WiltzuTM saved model [models/survivors/survivor_biker.mdl] via PlayerSaveData
+L 05/09/2013 - 15:26:32: Saving NORMAL for map transition at -11067,-5068,288
+L 05/09/2013 - 15:26:32: (SKIN) Bill saved model [models/survivors/survivor_namvet.mdl] via PlayerSaveData
+L 05/09/2013 - 15:26:32: Saving NORMAL for map transition at -11025,-5090,288
+L 05/09/2013 - 15:26:32: (SKIN) Zoey saved model [models/survivors/survivor_teenangst.mdl] via PlayerSaveData
+L 05/09/2013 - 15:26:32: Saving NORMAL for map transition at -11102,-5104,288
+L 05/09/2013 - 15:26:32: (SKIN) Louis saved model [models/survivors/survivor_manager.mdl] via PlayerSaveData
+L 05/09/2013 - 15:26:41: Log file closed

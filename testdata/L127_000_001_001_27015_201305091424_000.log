@@ -1,0 +1,104 @@
+L 05/09/2013 - 14:24:01: Log file started (file "logs/L127_000_001_001_27015_201305091424_000.log") (game "/home/tf/srv/l4d2_beta/left4dead2_beta") (version "5289")
+L 05/09/2013 - 14:24:01: "Nightgunner5 😻 KritzKast.com<2><STEAM_1:0:26649930><>" connected, address "192.168.1.100:27005"
+L 05/09/2013 - 14:24:01: World triggered "Round_Start"
+L 05/09/2013 - 14:24:03: "Nightgunner5 😻 KritzKast.com<2><STEAM_1:0:26649930><>" STEAM USERID validated
+L 05/09/2013 - 14:25:24: FinishClientPutInServer Nightgunner5 😻 KritzKast.com(2): looking for bots to take over
+L 05/09/2013 - 14:25:24: "Nightgunner5 😻 KritzKast.com<2><STEAM_1:0:26649930><>" entered the game
+L 05/09/2013 - 14:25:33: "Nightgunner5 😻 KritzKast.com<2><STEAM_1:0:26649930><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 14:25:33: SetModelFromClass: Survivor Nightgunner5 😻 KritzKast.com changed model from  to models/survivors/survivor_mechanic.mdl via SetModelFromClass
+L 05/09/2013 - 14:25:33: (SKIN) SetCharacter: Survivor Nightgunner5 😻 KritzKast.com chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 14:25:33: Nightgunner5 😻 KritzKast.com spawned as a Mechanic
+L 05/09/2013 - 14:25:33: "Nightgunner5 😻 KritzKast.com<2><STEAM_1:0:26649930><Survivor><Mechanic><ALIVE><100+0><setpos_exact 515.59 5552.39 2910.00; setang 0.00 172.48 0.00><Area 68359>" spawned
+L 05/09/2013 - 14:25:33: "Coach<3><BOT><>" connected, address "none"
+L 05/09/2013 - 14:25:33: FinishClientPutInServer (3): looking for bots to take over
+L 05/09/2013 - 14:25:33: "Coach<3><BOT><>" entered the game
+L 05/09/2013 - 14:25:33: "Coach<3><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 14:25:33: SetModelFromClass: Survivor Coach changed model from  to models/survivors/survivor_coach.mdl via SetModelFromClass
+L 05/09/2013 - 14:25:33: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 14:25:33: Coach spawned as a Coach
+L 05/09/2013 - 14:25:33: "Coach<3><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 556.14 5504.90 2910.00; setang 0.00 181.79 0.00><Area 65988>" spawned
+L 05/09/2013 - 14:25:33: (SKIN) Survivor Coach changed model from models/survivors/survivor_coach.mdl to models/survivors/survivor_coach.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 14:25:33: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 14:25:33: "Rochelle<4><BOT><>" connected, address "none"
+L 05/09/2013 - 14:25:33: FinishClientPutInServer (4): looking for bots to take over
+L 05/09/2013 - 14:25:33: "Rochelle<4><BOT><>" entered the game
+L 05/09/2013 - 14:25:33: "Rochelle<4><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 14:25:33: SetModelFromClass: Survivor Rochelle changed model from  to models/survivors/survivor_producer.mdl via SetModelFromClass
+L 05/09/2013 - 14:25:33: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 14:25:33: Rochelle spawned as a Producer
+L 05/09/2013 - 14:25:33: "Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 515.59 5552.39 2910.00; setang 0.00 172.48 0.00><Area 68359>" spawned
+L 05/09/2013 - 14:25:33: (SKIN) Survivor Rochelle changed model from models/survivors/survivor_producer.mdl to models/survivors/survivor_producer.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 14:25:33: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 14:25:33: "Nick<5><BOT><>" connected, address "none"
+L 05/09/2013 - 14:25:33: FinishClientPutInServer (5): looking for bots to take over
+L 05/09/2013 - 14:25:33: "Nick<5><BOT><>" entered the game
+L 05/09/2013 - 14:25:33: "Nick<5><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 14:25:33: SetModelFromClass: Survivor Nick changed model from  to models/survivors/survivor_gambler.mdl via SetModelFromClass
+L 05/09/2013 - 14:25:33: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 14:25:33: Nick spawned as a Gambler
+L 05/09/2013 - 14:25:33: "Nick<5><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 556.14 5504.90 2910.00; setang 0.00 181.79 0.00><Area 65988>" spawned
+L 05/09/2013 - 14:25:33: (SKIN) Survivor Nick changed model from models/survivors/survivor_gambler.mdl to models/survivors/survivor_gambler.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 14:25:33: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 14:25:33: CDirector::RunScript, C1m1_reserved_wanderers, level: 2
+L 05/09/2013 - 14:25:35: (DEATH)"trigger_hurt<41><><Unassigned><trigger_hurt><ALIVE><0><setpos_exact 2080.00 6592.01 2720.00; setang 0.00 0.00 0.00><Area 0>" killed "infected<411><><Infected><infected><DEAD><-2><setpos_exact 2141.96 6599.36 2656.03; setang 0.00 -3.57 0.00><Area 56320>" with "trigger_hurt"
+L 05/09/2013 - 14:25:36: (DEATH)"trigger_hurt<41><><Unassigned><trigger_hurt><ALIVE><0><setpos_exact 2080.00 6592.01 2720.00; setang 0.00 0.00 0.00><Area 0>" killed "infected<413><><Infected><infected><DEAD><-2><setpos_exact 2108.71 6588.52 2656.03; setang 0.00 365.00 0.00><Area 56320>" with "trigger_hurt"
+L 05/09/2013 - 14:26:21: Allowing spawning - "Nightgunner5 😻 KritzKast.com<2><STEAM_1:0:26649930><Survivor><Mechanic><ALIVE><100+0><setpos_exact 266.47 5838.48 2822.03; setang 29.24 51.92 0.00><Area 64655>" left safe area
+L 05/09/2013 - 14:26:24: (DEATH)"Nightgunner5 😻 KritzKast.com<2><STEAM_1:0:26649930><Survivor><Mechanic><ALIVE><100+0><setpos_exact 333.17 5620.76 2718.03; setang 1.91 13.84 0.00><Area 64637>" killed "infected<422><><Infected><infected><DEAD><-11><setpos_exact 612.80 5698.29 2656.03; setang 0.00 538.72 0.00><Area 60802>" with "dual_pistols"
+L 05/09/2013 - 14:26:27: (DEATH)"Nightgunner5 😻 KritzKast.com<2><STEAM_1:0:26649930><Survivor><Mechanic><ALIVE><100+0><setpos_exact 431.46 5629.65 2718.03; setang 3.50 -11.77 0.00><Area 12877>" killed "infected<423><><Infected><infected><DEAD><-11><setpos_exact 703.37 5576.45 2656.03; setang 0.00 508.42 0.00><Area 33998>" with "dual_pistols"
+L 05/09/2013 - 14:26:27: (DEATH)"Nightgunner5 😻 KritzKast.com<2><STEAM_1:0:26649930><Survivor><Mechanic><ALIVE><100+0><setpos_exact 431.46 5629.65 2718.03; setang 3.50 -11.77 0.00><Area 12877>" killed "infected<447><><Infected><infected><DEAD><-8><setpos_exact 782.62 5556.16 2656.03; setang 0.00 545.13 0.00><Area 12077>" with "dual_pistols"
+L 05/09/2013 - 14:26:30: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 356.06 5631.55 2718.03; setang 1.40 5.57 0.00><Area 64637>" killed "infected<428><><Infected><infected><DEAD><-15><setpos_exact 530.13 5645.91 2656.03; setang -0.00 208.92 0.00><Area 12877>" with "dual_pistols" (headshot)
+L 05/09/2013 - 14:26:30: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 356.06 5631.55 2718.03; setang 9.32 355.64 0.00><Area 64637>" killed "infected<468><><Infected><infected><DEAD><-14><setpos_exact 522.94 5622.43 2656.03; setang 0.00 181.56 0.00><Area 12877>" with "dual_pistols"
+L 05/09/2013 - 14:26:30: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 330.27 5672.13 2718.03; setang 2.70 343.88 0.00><Area 64637>" killed "infected<433><><Infected><infected><DEAD><-5><setpos_exact 767.83 5544.24 2656.03; setang 0.00 154.76 0.00><Area 12883>" with "dual_pistols"
+L 05/09/2013 - 14:26:32: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 363.14 5603.97 2718.03; setang 5.74 4.49 0.00><Area 64637>" killed "infected<432><><Infected><infected><DEAD><-13><setpos_exact 609.90 5622.09 2656.03; setang 0.00 180.45 0.00><Area 33998>" with "dual_pistols"
+L 05/09/2013 - 14:26:33: (DEATH)"Coach<3><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 403.70 5639.03 2718.03; setang 3.67 355.22 0.00><Area 12877>" killed "infected<431><><Infected><infected><DEAD><-7><setpos_exact 770.00 5610.06 2656.03; setang 0.00 177.78 0.00><Area 12077>" with "dual_pistols"
+L 05/09/2013 - 14:26:37: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 582.11 5597.94 2718.03; setang 4.25 62.30 0.00><Area 33998>" killed "infected<424><><Infected><infected><DEAD><-19><setpos_exact 611.56 5672.54 2656.03; setang -0.00 280.07 0.00><Area 60802>" with "dual_pistols" (headshot)
+L 05/09/2013 - 14:26:38: (DEATH)"Nightgunner5 😻 KritzKast.com<2><STEAM_1:0:26649930><Survivor><Mechanic><ALIVE><100+0><setpos_exact 783.08 5519.94 2718.03; setang 6.77 -78.00 0.00><Area 12063>" killed "infected<455><><Infected><infected><DEAD><-13><setpos_exact 833.69 5300.24 2656.03; setang 0.00 178.51 0.00><Area 12198>" with "dual_pistols"
+L 05/09/2013 - 14:26:41: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 797.54 5594.43 2718.03; setang 0.92 292.68 0.00><Area 12077>" killed "infected<466><><Infected><infected><DEAD><19><setpos_exact 880.62 5379.09 2656.03; setang -0.00 135.49 0.00><Area 12101>" with "dual_pistols" (headshot)
+L 05/09/2013 - 14:26:42: (DEATH)"Coach<3><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 812.12 5473.66 2718.03; setang 7.21 94.11 0.00><Area 12063>" killed "infected<425><><Infected><infected><DEAD><-15><setpos_exact 806.51 5650.53 2656.03; setang -0.00 257.37 0.00><Area 12077>" with "dual_pistols"
+L 05/09/2013 - 14:26:43: (DEATH)"Coach<3><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 812.12 5473.66 2718.03; setang 7.37 94.34 0.00><Area 12063>" killed "infected<426><><Infected><infected><DEAD><-17><setpos_exact 808.04 5598.97 2656.03; setang 0.00 296.69 0.00><Area 12077>" with "dual_pistols"
+L 05/09/2013 - 14:26:43: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 842.94 5521.49 2718.03; setang 26.63 94.14 0.00><Area 12063>" killed "infected<473><><Infected><infected><DEAD><-18><setpos_exact 829.15 5579.43 2656.03; setang 0.00 290.43 0.00><Area 12077>" with "dual_pistols"
+L 05/09/2013 - 14:26:44: (DEATH)"Coach<3><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 812.12 5473.66 2718.03; setang 14.05 87.65 0.00><Area 12063>" killed "infected<451><><Infected><infected><DEAD><-18><setpos_exact 828.67 5556.73 2656.03; setang 0.00 297.44 0.00><Area 12077>" with "dual_pistols"
+L 05/09/2013 - 14:26:44: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><98+0><setpos_exact 806.89 5411.17 2718.03; setang 1.34 315.03 0.00><Area 12063>" killed "infected<454><><Infected><infected><DEAD><17><setpos_exact 882.38 5334.11 2656.03; setang -0.00 134.09 0.00><Area 12101>" with "dual_pistols" (headshot)
+L 05/09/2013 - 14:26:45: (DEATH)"Coach<3><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 830.02 5459.67 2718.03; setang 31.32 102.26 0.00><Area 12063>" killed "infected<453><><Infected><infected><DEAD><-17><setpos_exact 799.63 5523.43 2656.03; setang 0.00 270.59 0.00><Area 12077>" with "dual_pistols"
+L 05/09/2013 - 14:26:45: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><98+0><setpos_exact 806.51 5409.53 2718.03; setang 1.85 315.43 0.00><Area 12063>" killed "infected<423><><Infected><infected><DEAD><-13><setpos_exact 972.26 5239.24 2685.97; setang 0.00 195.00 0.00><Area 12939>" with "dual_pistols"
+L 05/09/2013 - 14:26:45: (DEATH)"Coach<3><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 814.19 5424.42 2718.03; setang 4.19 92.73 0.00><Area 12063>" killed "infected<444><><Infected><infected><DEAD><-17><setpos_exact 807.69 5574.40 2656.03; setang -0.00 286.57 0.00><Area 12077>" with "dual_pistols"
+L 05/09/2013 - 14:26:46: (DEATH)"Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 854.98 5396.05 2718.03; setang 14.67 215.23 0.00><Area 12063>" killed "infected<467><><Infected><infected><DEAD><-18><setpos_exact 788.84 5349.33 2656.03; setang -0.00 81.94 0.00><Area 12198>" with "dual_pistols"
+L 05/09/2013 - 14:26:48: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><96+0><setpos_exact 792.95 5378.36 2718.03; setang 7.28 307.36 0.00><Area 12063>" killed "infected<432><><Infected><infected><DEAD><-12><setpos_exact 893.48 5246.50 2656.03; setang 0.00 354.82 0.00><Area 57686>" with "dual_pistols"
+L 05/09/2013 - 14:26:51: "Hunter<6><BOT><>" connected, address "none"
+L 05/09/2013 - 14:26:51: FinishClientPutInServer (6): looking for bots to take over
+L 05/09/2013 - 14:26:51: "Hunter<6><BOT><>" entered the game
+L 05/09/2013 - 14:26:51: "Hunter<6><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 14:26:51: Hunter spawned as a HUNTER
+L 05/09/2013 - 14:26:51: "Hunter<6><BOT><Infected><HUNTER><ALIVE><250+0><setpos_exact 1232.04 5875.00 2718.03; setang 0.00 0.00 0.00><Area 45085>" spawned
+L 05/09/2013 - 14:26:56: (DEATH)"Coach<3><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 602.16 5607.71 2718.03; setang 2.15 1.32 0.00><Area 33998>" killed "infected<447><><Infected><infected><DEAD><-1><setpos_exact 1163.36 5613.51 2656.03; setang 0.00 145.00 0.00><Area 42410>" with "dual_pistols"
+L 05/09/2013 - 14:26:56: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><96+0><setpos_exact 579.94 5647.00 2718.03; setang 2.87 88.64 0.00><Area 34000>" killed "infected<445><><Infected><infected><DEAD><-11><setpos_exact 599.72 6093.04 2656.03; setang 0.00 267.45 0.00><Area 58025>" with "pistol_magnum"
+L 05/09/2013 - 14:26:57: "Nightgunner5 😻 KritzKast.com<2><STEAM_1:0:26649930><Survivor>" disconnected (reason "Disconnect by user.")
+L 05/09/2013 - 14:26:57: "Ellis<7><BOT><>" connected, address "none"
+L 05/09/2013 - 14:26:57: FinishClientPutInServer (7): looking for bots to take over
+L 05/09/2013 - 14:26:57: "Ellis<7><BOT><>" entered the game
+L 05/09/2013 - 14:26:57: "Ellis<7><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 14:26:57: SetModelFromClass: Survivor Ellis changed model from  to models/survivors/survivor_mechanic.mdl via SetModelFromClass
+L 05/09/2013 - 14:26:57: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 14:26:57: Ellis spawned as a Mechanic
+L 05/09/2013 - 14:26:57: "Ellis<7><BOT><Survivor><Mechanic><ALIVE><100+0><setpos_exact 518.00 5631.93 2910.00; setang 0.00 155.00 0.00><Area 68359>" spawned
+L 05/09/2013 - 14:26:57: (SKIN) Survivor Ellis changed model from models/survivors/survivor_mechanic.mdl to models/survivors/survivor_mechanic.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 14:26:57: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 14:26:57: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 14:26:57: Ellis spawned as a Mechanic
+L 05/09/2013 - 14:26:57: "Ellis<7><BOT><Survivor><Mechanic><ALIVE><100+0><setpos_exact 556.14 5504.90 2910.00; setang 0.00 181.79 0.00><Area 65988>" spawned
+L 05/09/2013 - 14:26:57: Staying on original map c1m1_hotel
+L 05/09/2013 - 14:26:57: CDirector::RunScript, scriptedmode, level: 1
+L 05/09/2013 - 14:26:57: CDirector::RunScript, director_base, level: 0
+L 05/09/2013 - 14:26:57: Preventing spawning
+L 05/09/2013 - 14:26:57: CDirector::RunScript, scriptedmode, level: 1
+L 05/09/2013 - 14:26:57: CDirector::RunScript, director_base, level: 0
+L 05/09/2013 - 14:26:57: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 14:26:57: Coach spawned as a Coach
+L 05/09/2013 - 14:26:57: "Coach<3><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 585.86 5597.71 2910.00; setang 0.00 165.72 0.00><Area 65990>" spawned
+L 05/09/2013 - 14:26:57: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 14:26:57: Rochelle spawned as a Producer
+L 05/09/2013 - 14:26:57: "Rochelle<4><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 515.59 5552.39 2910.00; setang 0.00 172.48 0.00><Area 68359>" spawned
+L 05/09/2013 - 14:26:57: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 14:26:57: Nick spawned as a Gambler
+L 05/09/2013 - 14:26:57: "Nick<5><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 518.00 5631.93 2910.00; setang 0.00 155.00 0.00><Area 68359>" spawned
+L 05/09/2013 - 14:26:57: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3

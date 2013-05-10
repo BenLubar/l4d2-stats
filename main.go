@@ -1,29 +1,59 @@
 package main
 
 import (
-	"os"
 	"fmt"
+	"github.com/dustin/go-couchbase"
 	"io"
+	"os"
+	"path/filepath"
+	"sync"
 )
 
 func main() {
-	f, err := os.Open(os.Args[1])
+	bucket, err := couchbase.GetBucket("http://localhost:8091/", "default", "default")
 	if err != nil {
 		panic(err)
 	}
-	defer f.Close()
+	defer bucket.Close()
 
-	read := LogReader(f)
+	var wg sync.WaitGroup
+	wg.Add(len(os.Args) - 1)
 
-	for {
-		ln, line, err := read()
-		if err != nil {
-			if err != io.EOF {
-				fmt.Printf("ERROR:%d: %s\n", ln, err)
+	for i := 1; i < len(os.Args); i++ {
+		go func(i int) {
+			defer wg.Done()
+			filename, err := filepath.Abs(os.Args[i])
+			if err != nil {
+				panic(err)
 			}
-			return
-		}
 
-		fmt.Printf("%d %#v\n", ln, line)
+			f, err := os.Open(filename)
+			if err != nil {
+				panic(err)
+			}
+			defer f.Close()
+
+			base := filepath.Base(filename)
+
+			read := LogReader(f)
+
+			for {
+				ln, line, err := read()
+				if err != nil {
+					if err != io.EOF {
+						panic(err)
+					}
+					return
+				}
+
+				line["Base"] = base
+				_, err = bucket.Add(fmt.Sprintf("%s+%d", base, ln), 0, line)
+				if err != nil {
+					panic(err)
+				}
+			}
+		}(i)
 	}
+
+	wg.Wait()
 }

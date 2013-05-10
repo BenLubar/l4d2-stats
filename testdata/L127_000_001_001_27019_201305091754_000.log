@@ -1,0 +1,166 @@
+L 05/09/2013 - 17:54:02: Log file started (file "logs/L127_000_001_001_27019_201305091754_000.log") (game "/home/tf/srv/l4d2_beta/left4dead2_beta") (version "5289")
+L 05/09/2013 - 17:54:02: CDirector::RunScript, C1M2_reserved_wanderers, level: 2
+L 05/09/2013 - 17:54:21: OnEndChangelevel Rowdy Dowdy(3): 2 saved players:
+L 05/09/2013 - 17:54:21: 	UrstMcRedhead(2), state 0
+L 05/09/2013 - 17:54:21: 	Rowdy Dowdy(3), state 0
+L 05/09/2013 - 17:54:21: Restoring player Rowdy Dowdy(3) after changelevel
+L 05/09/2013 - 17:54:21: "Rowdy Dowdy<3><STEAM_1:0:6044619><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 17:54:21: SetModelFromClass: Survivor Rowdy Dowdy changed model from  to models/survivors/survivor_gambler.mdl via SetModelFromClass
+L 05/09/2013 - 17:54:21: (SKIN) SetCharacter: Survivor Rowdy Dowdy chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 17:54:21: Rowdy Dowdy spawned as a Gambler
+L 05/09/2013 - 17:54:21: "Rowdy Dowdy<3><STEAM_1:0:6044619><Survivor><Gambler><ALIVE><100+0><setpos_exact 2301.58 5048.69 510.03; setang 0.00 316.03 0.00><Area 222002>" spawned
+L 05/09/2013 - 17:54:21: Respawning Rowdy Dowdy
+L 05/09/2013 - 17:54:21: (SKIN) SetCharacter: Survivor Rowdy Dowdy chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 17:54:21: Rowdy Dowdy spawned as a Gambler
+L 05/09/2013 - 17:54:21: "Rowdy Dowdy<3><STEAM_1:0:6044619><Survivor><Gambler><ALIVE><100+0><setpos_exact 2271.98 5240.89 510.03; setang 0.00 292.42 0.00><Area 331799>" spawned
+L 05/09/2013 - 17:54:21: (SKIN) SetCharacter: Survivor Rowdy Dowdy chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 17:54:21: (SKIN) SetCharacter: Survivor Rowdy Dowdy chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 17:54:21: (SKIN) Survivor Rowdy Dowdy changed model to models/survivors/survivor_gambler.mdl (wanted models/survivors/survivor_gambler.mdl) via RestoreModelData
+L 05/09/2013 - 17:54:21: Rowdy Dowdy wants to respawn at 2300.920898 5228.912109 448.031250
+L 05/09/2013 - 17:54:21: GetSafeSpawnPos: Rowdy Dowdy ideal pos (2300.920898, 5228.912109, 448.031250) is clear
+L 05/09/2013 - 17:54:21: Rowdy Dowdy gets respawn pos 2300.920898 5228.912109 448.031250
+L 05/09/2013 - 17:54:21: "Rowdy Dowdy<3><STEAM_1:0:6044619><>" entered the game
+L 05/09/2013 - 17:54:21: Preparing to restore 2 survivor bots after map transition...
+L 05/09/2013 - 17:54:21: Attempting to spawn a survivor bot
+L 05/09/2013 - 17:54:21: "Rochelle<22><BOT><>" connected, address "none"
+L 05/09/2013 - 17:54:21: OnEndChangelevel (22): 2 saved players:
+L 05/09/2013 - 17:54:21: 	UrstMcRedhead(2), state 0
+L 05/09/2013 - 17:54:21: 	Rowdy Dowdy(3), state 2
+L 05/09/2013 - 17:54:21: "Rochelle<22><BOT><>" entered the game
+L 05/09/2013 - 17:54:21: "Rochelle<22><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 17:54:21: SetModelFromClass: Survivor Rochelle changed model from  to models/survivors/survivor_producer.mdl via SetModelFromClass
+L 05/09/2013 - 17:54:21: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 17:54:21: Rochelle spawned as a Producer
+L 05/09/2013 - 17:54:21: "Rochelle<22><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 2508.50 5085.29 510.03; setang 0.00 317.10 0.00><Area 311893>" spawned
+L 05/09/2013 - 17:54:21: (SKIN) Survivor Rochelle changed model from models/survivors/survivor_producer.mdl to models/survivors/survivor_producer.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 17:54:21: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 17:54:21: Restoring player Rochelle(22) after changelevel
+L 05/09/2013 - 17:54:21: Respawning Rochelle
+L 05/09/2013 - 17:54:21: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 17:54:21: Rochelle spawned as a Producer
+L 05/09/2013 - 17:54:21: "Rochelle<22><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 2333.77 5240.88 510.03; setang 0.00 280.50 0.00><Area 311896>" spawned
+L 05/09/2013 - 17:54:21: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 17:54:21: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 17:54:21: (SKIN) Survivor Rochelle changed model to models/survivors/survivor_producer.mdl (wanted models/survivors/survivor_producer.mdl) via RestoreModelData
+L 05/09/2013 - 17:54:21: Rochelle wants to respawn at 2526.795898 5130.466309 448.031250
+L 05/09/2013 - 17:54:21: GetSafeSpawnPos: Rochelle ideal pos (2526.795898, 5130.466309, 448.031250) is clear
+L 05/09/2013 - 17:54:21: Rochelle gets respawn pos 2526.795898 5130.466309 448.031250
+L 05/09/2013 - 17:54:21: Survivor bot restored after map transition at 2527,5130,448!
+L 05/09/2013 - 17:54:21: Attempting to spawn a survivor bot
+L 05/09/2013 - 17:54:21: "Coach<23><BOT><>" connected, address "none"
+L 05/09/2013 - 17:54:21: OnEndChangelevel (23): 2 saved players:
+L 05/09/2013 - 17:54:21: 	UrstMcRedhead(2), state 0
+L 05/09/2013 - 17:54:21: 	Rowdy Dowdy(3), state 2
+L 05/09/2013 - 17:54:21: "Coach<23><BOT><>" entered the game
+L 05/09/2013 - 17:54:21: "Coach<23><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 17:54:21: SetModelFromClass: Survivor Coach changed model from  to models/survivors/survivor_coach.mdl via SetModelFromClass
+L 05/09/2013 - 17:54:21: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 17:54:21: Coach spawned as a Coach
+L 05/09/2013 - 17:54:21: "Coach<23><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 2632.53 5132.76 510.03; setang 0.00 221.67 0.00><Area 222102>" spawned
+L 05/09/2013 - 17:54:21: (SKIN) Survivor Coach changed model from models/survivors/survivor_coach.mdl to models/survivors/survivor_coach.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 17:54:21: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 17:54:21: Restoring player Coach(23) after changelevel
+L 05/09/2013 - 17:54:21: Respawning Coach
+L 05/09/2013 - 17:54:21: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 17:54:21: Coach spawned as a Coach
+L 05/09/2013 - 17:54:21: "Coach<23><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 2506.38 4987.37 510.03; setang 0.00 11.66 0.00><Area 222260>" spawned
+L 05/09/2013 - 17:54:21: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 17:54:21: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 17:54:21: (SKIN) Survivor Coach changed model to models/survivors/survivor_coach.mdl (wanted models/survivors/survivor_coach.mdl) via RestoreModelData
+L 05/09/2013 - 17:54:21: Coach wants to respawn at 2493.273926 5125.224121 448.031250
+L 05/09/2013 - 17:54:21: GetSafeSpawnPos: Coach ideal pos (2493.273926, 5125.224121, 448.031250) is clear
+L 05/09/2013 - 17:54:21: Coach gets respawn pos 2493.273926 5125.224121 448.031250
+L 05/09/2013 - 17:54:21: Survivor bot restored after map transition at 2493,5125,448!
+L 05/09/2013 - 17:54:24: OnEndChangelevel UrstMcRedhead(2): 2 saved players:
+L 05/09/2013 - 17:54:24: 	UrstMcRedhead(2), state 0
+L 05/09/2013 - 17:54:24: Restoring player UrstMcRedhead(2) after changelevel
+L 05/09/2013 - 17:54:24: "UrstMcRedhead<2><STEAM_1:1:6340623><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 17:54:24: SetModelFromClass: Survivor UrstMcRedhead changed model from  to models/survivors/survivor_mechanic.mdl via SetModelFromClass
+L 05/09/2013 - 17:54:24: (SKIN) SetCharacter: Survivor UrstMcRedhead chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 17:54:24: UrstMcRedhead spawned as a Mechanic
+L 05/09/2013 - 17:54:24: "UrstMcRedhead<2><STEAM_1:1:6340623><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2264.63 5220.24 510.03; setang 0.00 295.37 0.00><Area 331799>" spawned
+L 05/09/2013 - 17:54:24: Respawning UrstMcRedhead
+L 05/09/2013 - 17:54:24: (SKIN) SetCharacter: Survivor UrstMcRedhead chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 17:54:24: UrstMcRedhead spawned as a Mechanic
+L 05/09/2013 - 17:54:24: "UrstMcRedhead<2><STEAM_1:1:6340623><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2637.69 5295.86 510.03; setang 0.00 248.93 0.00><Area 222184>" spawned
+L 05/09/2013 - 17:54:24: (SKIN) SetCharacter: Survivor UrstMcRedhead chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 17:54:24: (SKIN) SetCharacter: Survivor UrstMcRedhead chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 17:54:24: (SKIN) Survivor UrstMcRedhead changed model to models/survivors/survivor_mechanic.mdl (wanted models/survivors/survivor_mechanic.mdl) via RestoreModelData
+L 05/09/2013 - 17:54:24: UrstMcRedhead wants to respawn at 2329.544922 5243.797852 448.031250
+L 05/09/2013 - 17:54:24: FindNearbySpawnSpot: Moving UrstMcRedhead from (2329.544922, 5243.797852, 448.031250) to (2401.948975, 5158.873047, 458.428253) in a nearby nav area (222002) with max range of 150.000000
+L 05/09/2013 - 17:54:24: UrstMcRedhead gets respawn pos 2401.948975 5158.873047 458.428253
+L 05/09/2013 - 17:54:24: "UrstMcRedhead<2><STEAM_1:1:6340623><>" entered the game
+L 05/09/2013 - 17:54:24: ------------------------------ Director state change RELAX -> BUILD_UP
+L 05/09/2013 - 17:54:26: Skipping saved player UrstMcRedhead(2) - restore was already done
+L 05/09/2013 - 17:54:26: Skipping saved player Rowdy Dowdy(3) - restore was already done
+L 05/09/2013 - 17:54:27: (DEATH)"Rochelle<22><BOT><Survivor><Producer><ALIVE><83+0><setpos_exact 2417.94 5010.70 510.03; setang 7.15 214.15 0.00><Area 222002>" killed "infected<244><><Infected><infected><DEAD><-19><setpos_exact 2225.02 4878.35 448.03; setang 0.00 249.43 0.00><Area 222122>" with "smg_silenced"
+L 05/09/2013 - 17:54:28: (DEATH)"Rochelle<22><BOT><Survivor><Producer><ALIVE><83+0><setpos_exact 2419.41 5071.50 510.03; setang 7.97 236.94 0.00><Area 222002>" killed "infected<272><><Infected><infected><DEAD><-20><setpos_exact 2327.77 4927.47 448.03; setang 0.00 90.00 0.00><Area 223000>" with "smg_silenced"
+L 05/09/2013 - 17:54:32: (DEATH)"Rochelle<22><BOT><Survivor><Producer><ALIVE><83+0><setpos_exact 2378.85 5210.79 510.03; setang 6.07 260.79 0.00><Area 311895>" killed "infected<247><><Infected><infected><DEAD><-18><setpos_exact 2330.93 4927.47 448.03; setang 0.00 50.66 0.00><Area 222012>" with "smg_silenced"
+L 05/09/2013 - 17:54:36: (DEATH)"Coach<23><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2317.61 5166.04 510.03; setang 6.34 266.34 0.00><Area 222002>" killed "infected<254><><Infected><infected><DEAD><-19><setpos_exact 2305.09 4927.47 448.03; setang 0.00 90.00 0.00><Area 223000>" with "smg_silenced"
+L 05/09/2013 - 17:54:37: (DEATH)"Coach<23><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2265.10 5225.19 510.03; setang 3.97 284.24 0.00><Area 331799>" killed "infected<311><><Infected><infected><DEAD><-11><setpos_exact 2392.93 4699.24 448.03; setang 0.00 94.34 0.00><Area 223298>" with "smg_silenced"
+L 05/09/2013 - 17:54:39: (DEATH)"Coach<23><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2265.10 5225.19 510.03; setang 4.81 283.40 0.00><Area 331799>" killed "infected<284><><Infected><infected><DEAD><-17><setpos_exact 2336.03 4927.47 448.03; setang 0.00 90.00 0.00><Area 222012>" with "smg_silenced"
+L 05/09/2013 - 17:54:39: (DEATH)"Coach<23><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2265.10 5225.19 510.03; setang 4.35 277.66 0.00><Area 331799>" killed "infected<285><><Infected><infected><DEAD><-17><setpos_exact 2305.18 4927.47 448.03; setang 0.00 90.00 0.00><Area 223000>" with "smg_silenced"
+L 05/09/2013 - 17:54:40: (DEATH)"Coach<23><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2264.61 5228.86 510.03; setang 4.71 283.14 0.00><Area 331799>" killed "infected<281><><Infected><infected><DEAD><-17><setpos_exact 2336.03 4922.95 448.03; setang 0.00 90.00 0.00><Area 222012>" with "smg_silenced"
+L 05/09/2013 - 17:54:44: (DEATH)"UrstMcRedhead<2><STEAM_1:1:6340623><Survivor><Mechanic><ALIVE><72+17><setpos_exact 2338.68 4960.03 510.03; setang 3.47 -114.42 0.00><Area 311912>" killed "infected<304><><Infected><infected><DEAD><126><setpos_exact 2338.99 4922.48 448.03; setang 0.00 49.40 0.00><Area 222012>" with "smg_silenced" (headshot)
+L 05/09/2013 - 17:54:46: (DEATH)"UrstMcRedhead<2><STEAM_1:1:6340623><Survivor><Mechanic><ALIVE><72+16><setpos_exact 2338.68 4960.03 510.03; setang 2.23 -118.75 0.00><Area 311912>" killed "infected<252><><Infected><infected><DEAD><-3><setpos_exact 2074.47 4529.64 456.97; setang -0.00 -135.01 0.00><Area 222018>" with "smg_silenced"
+L 05/09/2013 - 17:54:46: (DEATH)"Rochelle<22><BOT><Survivor><Producer><ALIVE><94+0><setpos_exact 2319.42 4994.26 510.03; setang 5.31 281.00 0.00><Area 311912>" killed "infected<343><><Infected><infected><DEAD><-15><setpos_exact 2382.34 4761.08 448.03; setang 0.00 91.80 0.00><Area 223299>" with "smg_silenced"
+L 05/09/2013 - 17:54:47: (DEATH)"Rochelle<22><BOT><Survivor><Producer><ALIVE><94+0><setpos_exact 2319.42 4994.26 510.03; setang 357.73 267.15 0.00><Area 311912>" killed "infected<169><><Infected><infected><DEAD><-3><setpos_exact 2280.49 4164.24 514.44; setang 0.00 68.04 0.00><Area 309990>" with "smg_silenced"
+L 05/09/2013 - 17:55:01: (DEATH)"Coach<23><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2264.61 5228.86 510.03; setang 9.08 280.89 0.00><Area 331799>" killed "infected<309><><Infected><infected><DEAD><-10><setpos_exact 2337.78 4889.80 448.03; setang 0.00 134.96 0.00><Area 222012>" with "smg_silenced"
+L 05/09/2013 - 17:55:10: (DEATH)"Rochelle<22><BOT><Survivor><Producer><ALIVE><90+0><setpos_exact 2306.76 4990.79 510.03; setang 5.17 262.81 0.00><Area 311912>" killed "infected<249><><Infected><infected><DEAD><-19><setpos_exact 2273.28 4745.80 448.03; setang 0.00 310.02 0.00><Area 222925>" with "smg_silenced"
+L 05/09/2013 - 17:55:11: "Nick<24><BOT><>" connected, address "none"
+L 05/09/2013 - 17:55:11: OnEndChangelevel (24): 2 saved players:
+L 05/09/2013 - 17:55:11: 	UrstMcRedhead(2), state 2
+L 05/09/2013 - 17:55:11: 	Rowdy Dowdy(3), state 2
+L 05/09/2013 - 17:55:11: "Nick<24><BOT><>" entered the game
+L 05/09/2013 - 17:55:11: "Nick<24><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 17:55:11: SetModelFromClass: Survivor Nick changed model from  to models/survivors/survivor_gambler.mdl via SetModelFromClass
+L 05/09/2013 - 17:55:11: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 17:55:11: Nick spawned as a Gambler
+L 05/09/2013 - 17:55:11: "Nick<24><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2620.14 5084.57 510.03; setang 0.00 203.63 0.00><Area 222131>" spawned
+L 05/09/2013 - 17:55:11: (SKIN) Survivor Nick changed model from models/survivors/survivor_gambler.mdl to models/survivors/survivor_gambler.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 17:55:11: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 17:55:11: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 17:55:11: Nick spawned as a Gambler
+L 05/09/2013 - 17:55:11: "Nick<24><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2413.35 5253.81 510.03; setang 0.00 302.66 0.00><Area 311895>" spawned
+L 05/09/2013 - 17:55:11: "Rowdy Dowdy<3><STEAM_1:0:6044619><Survivor>" joined team "Spectator"
+L 05/09/2013 - 17:55:31: "Rowdy Dowdy<3><STEAM_1:0:6044619><Spectator>" disconnected (reason "Rowdy Dowdy timed out")
+L 05/09/2013 - 17:55:35: (DEATH)"Nick<24><BOT><Survivor><Gambler><ALIVE><85+0><setpos_exact 2467.01 5029.67 510.03; setang 6.44 217.79 0.00><Area 311893>" killed "infected<280><><Infected><infected><DEAD><-14><setpos_exact 2130.77 4781.54 448.03; setang 0.00 21.02 0.00><Area 222004>" with "smg_silenced"
+L 05/09/2013 - 17:56:07: (DEATH)"Coach<23><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2421.81 5133.33 510.03; setang 1.38 244.75 0.00><Area 222002>" killed "infected<271><><Infected><infected><DEAD><-8><setpos_exact 2136.46 4507.43 459.19; setang 0.00 92.90 0.00><Area 222001>" with "smg_silenced"
+L 05/09/2013 - 17:56:10: (DEATH)"Coach<23><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2421.81 5133.33 510.03; setang 1.02 240.29 0.00><Area 222002>" killed "infected<250><><Infected><infected><DEAD><-11><setpos_exact 2078.06 4528.65 456.94; setang 0.00 94.16 0.00><Area 222018>" with "smg_silenced"
+L 05/09/2013 - 17:56:10: (DEATH)"Coach<23><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2421.81 5133.33 510.03; setang 4.91 239.44 0.00><Area 222002>" killed "infected<248><><Infected><infected><DEAD><-18><setpos_exact 2291.20 4914.39 448.03; setang 0.00 23.21 0.00><Area 222012>" with "smg_silenced"
+L 05/09/2013 - 17:57:14: (DEATH)"Nick<24><BOT><Survivor><Gambler><ALIVE><85+0><setpos_exact 2370.45 5134.06 510.03; setang 1.20 252.13 0.00><Area 222002>" killed "infected<256><><Infected><infected><DEAD><-14><setpos_exact 2178.52 4539.10 456.33; setang 0.00 240.68 0.00><Area 222001>" with "smg_silenced"
+L 05/09/2013 - 17:58:24: (DEATH)"Rochelle<22><BOT><Survivor><Producer><ALIVE><90+0><setpos_exact 2306.76 4990.79 510.03; setang 4.97 264.71 0.00><Area 311912>" killed "infected<202><><Infected><infected><DEAD><-1><setpos_exact 2256.12 4426.02 471.09; setang 0.00 -579.64 0.00><Area 222001>" with "smg_silenced"
+L 05/09/2013 - 17:58:43: (DEATH)"Rochelle<22><BOT><Survivor><Producer><ALIVE><90+0><setpos_exact 2306.76 4990.79 510.03; setang 357.89 276.49 0.00><Area 311912>" killed "infected<282><><Infected><infected><DEAD><-9><setpos_exact 2366.70 4410.76 473.28; setang 0.00 81.96 0.00><Area 222042>" with "smg_silenced" (headshot)
+L 05/09/2013 - 17:58:44: (DEATH)"Rochelle<22><BOT><Survivor><Producer><ALIVE><90+0><setpos_exact 2306.76 4990.79 510.03; setang 358.68 276.45 0.00><Area 311912>" killed "infected<254><><Infected><infected><DEAD><-2><setpos_exact 2412.08 4075.09 514.65; setang 0.00 89.50 0.00><Area 222022>" with "smg_silenced"
+L 05/09/2013 - 17:59:53: (DEATH)"Rochelle<22><BOT><Survivor><Producer><ALIVE><90+0><setpos_exact 2306.76 4990.79 510.03; setang 2.60 281.13 0.00><Area 311912>" killed "infected<281><><Infected><infected><DEAD><-12><setpos_exact 2411.00 4460.80 465.37; setang 0.00 266.28 0.00><Area 222042>" with "smg_silenced"
+L 05/09/2013 - 18:00:34: "UrstMcRedhead<2><STEAM_1:1:6340623><Survivor>" disconnected (reason "Kicked by Console : All players idle")
+L 05/09/2013 - 18:00:34: "Ellis<25><BOT><>" connected, address "none"
+L 05/09/2013 - 18:00:34: OnEndChangelevel (25): 2 saved players:
+L 05/09/2013 - 18:00:34: 	UrstMcRedhead(2), state 2
+L 05/09/2013 - 18:00:34: 	Rowdy Dowdy(3), state 2
+L 05/09/2013 - 18:00:34: "Ellis<25><BOT><>" entered the game
+L 05/09/2013 - 18:00:34: "Ellis<25><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 18:00:34: SetModelFromClass: Survivor Ellis changed model from  to models/survivors/survivor_mechanic.mdl via SetModelFromClass
+L 05/09/2013 - 18:00:34: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 18:00:34: Ellis spawned as a Mechanic
+L 05/09/2013 - 18:00:34: "Ellis<25><BOT><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2255.70 5162.75 510.03; setang 0.00 338.77 0.00><Area 222002>" spawned
+L 05/09/2013 - 18:00:34: (SKIN) Survivor Ellis changed model from models/survivors/survivor_mechanic.mdl to models/survivors/survivor_mechanic.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 18:00:34: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 18:00:34: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 18:00:34: Ellis spawned as a Mechanic
+L 05/09/2013 - 18:00:34: "Ellis<25><BOT><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2343.82 5227.15 510.03; setang 0.00 318.56 0.00><Area 311896>" spawned
+L 05/09/2013 - 18:00:34: Reloading original map c1m1_hotel
+L 05/09/2013 - 18:00:34: Preparing player entities for changelevel
+L 05/09/2013 - 18:00:34: Saving NORMAL for map transition at 2562,5062,492
+L 05/09/2013 - 18:00:34: (SKIN) Ellis saved model [models/survivors/survivor_mechanic.mdl] via PlayerSaveData
+L 05/09/2013 - 18:00:34: Saving NORMAL for map transition at 2489,5068,448
+L 05/09/2013 - 18:00:34: (SKIN) Rochelle saved model [models/survivors/survivor_producer.mdl] via PlayerSaveData
+L 05/09/2013 - 18:00:34: Saving NORMAL for map transition at 2613,5224,448
+L 05/09/2013 - 18:00:34: (SKIN) Coach saved model [models/survivors/survivor_coach.mdl] via PlayerSaveData
+L 05/09/2013 - 18:00:34: Saving NORMAL for map transition at 2314,5131,448
+L 05/09/2013 - 18:00:34: (SKIN) Nick saved model [models/survivors/survivor_gambler.mdl] via PlayerSaveData
+L 05/09/2013 - 18:00:34: "Ellis<25><BOT><Survivor>" disconnected (reason "Kicked by Console")
+L 05/09/2013 - 18:00:34: "Nick<24><BOT><Survivor>" disconnected (reason "Kicked by Console")
+L 05/09/2013 - 18:00:34: "Rochelle<22><BOT><Survivor>" disconnected (reason "Kicked by Console")
+L 05/09/2013 - 18:00:34: "Coach<23><BOT><Survivor>" disconnected (reason "Kicked by Console")
+L 05/09/2013 - 18:00:34: Log file closed

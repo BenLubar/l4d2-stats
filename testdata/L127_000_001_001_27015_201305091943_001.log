@@ -1,0 +1,240 @@
+L 05/09/2013 - 19:43:07: Log file started (file "logs/L127_000_001_001_27015_201305091943_001.log") (game "/home/tf/srv/l4d2_beta/left4dead2_beta") (version "5289")
+L 05/09/2013 - 19:43:07: "MetaNova [ArchLinux]<2><STEAM_1:0:53857362><>" connected, address "66.6.1.213:27005"
+L 05/09/2013 - 19:43:07: World triggered "Round_Start"
+L 05/09/2013 - 19:43:07: CDirector::RunScript, reserved_wanderers, level: 2
+L 05/09/2013 - 19:43:10: "MetaNova [ArchLinux]<2><STEAM_1:0:53857362><>" STEAM USERID validated
+L 05/09/2013 - 19:43:30: ------------------------------ Director state change RELAX -> BUILD_UP
+L 05/09/2013 - 19:43:32: FinishClientPutInServer MetaNova [ArchLinux](2): looking for bots to take over
+L 05/09/2013 - 19:43:32: "MetaNova [ArchLinux]<2><STEAM_1:0:53857362><>" entered the game
+L 05/09/2013 - 19:43:40: "MetaNova [ArchLinux]<2><STEAM_1:0:53857362><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 19:43:40: SetModelFromClass: Survivor MetaNova [ArchLinux] changed model from  to models/survivors/survivor_producer.mdl via SetModelFromClass
+L 05/09/2013 - 19:43:40: (SKIN) SetCharacter: Survivor MetaNova [ArchLinux] chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 19:43:40: MetaNova [ArchLinux] spawned as a Producer
+L 05/09/2013 - 19:43:40: "MetaNova [ArchLinux]<2><STEAM_1:0:53857362><Survivor><Producer><ALIVE><100+0><setpos_exact -6965.56 7870.30 166.94; setang 0.00 323.00 0.00><Area 531315>" spawned
+L 05/09/2013 - 19:43:40: "Ellis<3><BOT><>" connected, address "none"
+L 05/09/2013 - 19:43:40: FinishClientPutInServer (3): looking for bots to take over
+L 05/09/2013 - 19:43:40: "Ellis<3><BOT><>" entered the game
+L 05/09/2013 - 19:43:40: "Ellis<3><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 19:43:40: SetModelFromClass: Survivor Ellis changed model from  to models/survivors/survivor_mechanic.mdl via SetModelFromClass
+L 05/09/2013 - 19:43:40: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 19:43:40: Ellis spawned as a Mechanic
+L 05/09/2013 - 19:43:40: "Ellis<3><BOT><Survivor><Mechanic><ALIVE><100+0><setpos_exact -6991.08 7804.69 165.80; setang 0.00 15.00 0.00><Area 531315>" spawned
+L 05/09/2013 - 19:43:40: (SKIN) Survivor Ellis changed model from models/survivors/survivor_mechanic.mdl to models/survivors/survivor_mechanic.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 19:43:40: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 19:43:40: "Coach<4><BOT><>" connected, address "none"
+L 05/09/2013 - 19:43:40: FinishClientPutInServer (4): looking for bots to take over
+L 05/09/2013 - 19:43:40: "Coach<4><BOT><>" entered the game
+L 05/09/2013 - 19:43:40: "Coach<4><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 19:43:40: SetModelFromClass: Survivor Coach changed model from  to models/survivors/survivor_coach.mdl via SetModelFromClass
+L 05/09/2013 - 19:43:40: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 19:43:40: Coach spawned as a Coach
+L 05/09/2013 - 19:43:40: "Coach<4><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -6965.56 7870.30 167.00; setang 0.00 323.00 0.00><Area 531315>" spawned
+L 05/09/2013 - 19:43:40: (SKIN) Survivor Coach changed model from models/survivors/survivor_coach.mdl to models/survivors/survivor_coach.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 19:43:40: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 19:43:40: "Nick<5><BOT><>" connected, address "none"
+L 05/09/2013 - 19:43:40: FinishClientPutInServer (5): looking for bots to take over
+L 05/09/2013 - 19:43:40: "Nick<5><BOT><>" entered the game
+L 05/09/2013 - 19:43:40: "Nick<5><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 19:43:40: SetModelFromClass: Survivor Nick changed model from  to models/survivors/survivor_gambler.mdl via SetModelFromClass
+L 05/09/2013 - 19:43:40: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 19:43:40: Nick spawned as a Gambler
+L 05/09/2013 - 19:43:40: "Nick<5><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact -6991.08 7804.69 167.00; setang 0.00 15.00 0.00><Area 531315>" spawned
+L 05/09/2013 - 19:43:40: (SKIN) Survivor Nick changed model from models/survivors/survivor_gambler.mdl to models/survivors/survivor_gambler.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 19:43:40: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 19:43:40: ChangeFinaleStage: 18
+L 05/09/2013 - 19:44:09: (DEATH)"MetaNova [ArchLinux]<2><STEAM_1:0:53857362><Survivor><Producer><ALIVE><100+0><setpos_exact -6413.91 7454.73 158.03; setang 0.11 1.96 0.00><Area 215644>" killed "infected<115><><Infected><infected><DEAD><-14><setpos_exact -6023.38 7464.48 104.03; setang 0.00 156.65 0.00><Area 460197>" with "pistol_magnum"
+L 05/09/2013 - 19:44:10: (DEATH)"MetaNova [ArchLinux]<2><STEAM_1:0:53857362><Survivor><Producer><ALIVE><100+0><setpos_exact -6413.91 7454.73 158.03; setang 5.50 15.44 0.00><Area 215644>" killed "infected<134><><Infected><infected><DEAD><-25><setpos_exact -6314.76 7489.49 104.03; setang -0.00 -158.68 0.00><Area 215659>" with "pistol_magnum"
+L 05/09/2013 - 19:44:12: (DEATH)"Coach<4><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -7036.95 7725.64 178.96; setang 1.24 4.53 0.00><Area 516782>" killed "infected<127><><Infected><infected><DEAD><0><setpos_exact -5568.31 7842.16 106.13; setang 0.00 322.65 0.00><Area 341>" with "pistol_magnum"
+L 05/09/2013 - 19:44:12: (DEATH)"MetaNova [ArchLinux]<2><STEAM_1:0:53857362><Survivor><Producer><ALIVE><100+0><setpos_exact -6381.03 7444.23 158.03; setang 3.26 6.68 0.00><Area 215644>" killed "infected<124><><Infected><infected><DEAD><-20><setpos_exact -6155.16 7471.18 104.03; setang -0.00 -167.25 0.00><Area 1508>" with "pistol_magnum"
+L 05/09/2013 - 19:44:13: (DEATH)"MetaNova [ArchLinux]<2><STEAM_1:0:53857362><Survivor><Producer><ALIVE><100+0><setpos_exact -6381.03 7444.23 158.03; setang 3.37 6.90 0.00><Area 215644>" killed "infected<172><><Infected><infected><DEAD><-20><setpos_exact -6153.44 7470.82 104.03; setang -0.00 167.10 0.00><Area 1508>" with "pistol_magnum"
+L 05/09/2013 - 19:44:16: Allowing spawning - "MetaNova [ArchLinux]<2><STEAM_1:0:53857362><Survivor><Producer><ALIVE><100+0><setpos_exact -6336.23 7465.24 166.03; setang 6.51 27.34 0.00><Area 2649>" left safe area
+L 05/09/2013 - 19:44:16: (DEATH)"MetaNova [ArchLinux]<2><STEAM_1:0:53857362><Survivor><Producer><ALIVE><100+0><setpos_exact -6287.05 7467.08 166.03; setang 8.76 43.85 0.00><Area 2649>" killed "infected<118><><Infected><infected><DEAD><-20><setpos_exact -6112.08 7629.12 104.03; setang 0.00 448.68 0.00><Area 8041>" with "pistol_magnum"
+L 05/09/2013 - 19:44:19: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact -6443.75 7556.30 158.03; setang 12.20 301.92 0.00><Area 216514>" killed "infected<202><><Infected><infected><DEAD><-24><setpos_exact -6387.67 7450.87 96.03; setang 0.00 216.82 0.00><Area 215644>" with "pistol_magnum"
+L 05/09/2013 - 19:44:19: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact -6443.75 7556.30 158.03; setang 12.68 302.96 0.00><Area 216514>" killed "infected<123><><Infected><infected><DEAD><-23><setpos_exact -6341.21 7430.11 104.03; setang 0.00 90.16 0.00><Area 2649>" with "pistol_magnum"
+L 05/09/2013 - 19:44:31: (DEATH)"Coach<4><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -6425.39 7413.75 158.03; setang 3.49 42.71 0.00><Area 7583>" killed "infected<116><><Infected><infected><DEAD><-20><setpos_exact -6266.57 7560.40 104.03; setang 0.00 148.80 0.00><Area 216497>" with "pistol_magnum"
+L 05/09/2013 - 19:44:36: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact -6243.24 7492.45 166.03; setang 5.48 72.52 0.00><Area 215646>" killed "infected<110><><Infected><infected><DEAD><-20><setpos_exact -6190.88 7705.72 104.03; setang 0.00 -123.03 0.00><Area 216510>" with "pistol_magnum"
+L 05/09/2013 - 19:44:39: (DEATH)"MetaNova [ArchLinux]<2><STEAM_1:0:53857362><Survivor><Producer><ALIVE><97+0><setpos_exact -6220.31 7404.83 166.03; setang 3.03 -34.19 0.00><Area 1184>" killed "infected<190><><Infected><infected><DEAD><-15><setpos_exact -5954.63 7199.05 104.03; setang 0.00 43.58 0.00><Area 1507>" with "pistol_magnum" (headshot)
+L 05/09/2013 - 19:44:40: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact -6235.31 7463.03 166.03; setang 3.11 283.27 0.00><Area 1963>" killed "infected<126><><Infected><infected><DEAD><-25><setpos_exact -6207.91 7350.39 104.03; setang -0.00 108.34 0.00><Area 1184>" with "pistol_magnum" (headshot)
+L 05/09/2013 - 19:44:43: (DEATH)"Coach<4><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -6201.69 7428.03 166.03; setang 1.61 354.51 0.00><Area 1963>" killed "infected<205><><Infected><infected><DEAD><0><setpos_exact -5376.65 7348.82 101.83; setang 0.00 671.18 0.00><Area 290870>" with "pistol_magnum"
+L 05/09/2013 - 19:44:43: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact -6056.08 7440.45 166.03; setang 4.41 236.34 0.00><Area 1508>" killed "infected<209><><Infected><infected><DEAD><-26><setpos_exact -6091.24 7380.08 104.03; setang -0.00 52.15 0.00><Area 16196>" with "pistol_magnum" (headshot)
+L 05/09/2013 - 19:44:45: (DEATH)"Ellis<3><BOT><Survivor><Mechanic><ALIVE><100+0><setpos_exact -6035.75 7654.18 166.03; setang 15.25 88.42 0.00><Area 1182>" killed "infected<108><><Infected><infected><DEAD><0><setpos_exact -6041.54 7731.68 104.03; setang 0.00 291.86 0.00><Area 1182>" with "pistol_magnum"
+L 05/09/2013 - 19:44:46: (DEATH)"Coach<4><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -6088.08 7480.48 166.03; setang 2.90 87.27 0.00><Area 1508>" killed "infected<125><><Infected><infected><DEAD><-8><setpos_exact -6061.16 8045.54 96.53; setang 0.00 -93.61 0.00><Area 103>" with "pistol_magnum"
+L 05/09/2013 - 19:44:51: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact -6076.10 7535.80 202.27; setang 10.10 334.96 0.00><Area 3769>" killed "infected<207><><Infected><infected><DEAD><-15><setpos_exact -5780.63 7392.92 104.03; setang 0.00 109.10 0.00><Area 216569>" with "pistol_magnum"
+L 05/09/2013 - 19:44:51: "Boomer<6><BOT><>" connected, address "none"
+L 05/09/2013 - 19:44:51: FinishClientPutInServer (6): looking for bots to take over
+L 05/09/2013 - 19:44:51: "Boomer<6><BOT><>" entered the game
+L 05/09/2013 - 19:44:51: "Boomer<6><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 19:44:51: Boomer spawned as a BOOMER
+L 05/09/2013 - 19:44:51: "Boomer<6><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact -5664.00 7312.00 368.03; setang 0.00 0.00 0.00><Area 389673>" spawned
+L 05/09/2013 - 19:44:54: (DEATH)"MetaNova [ArchLinux]<2><STEAM_1:0:53857362><Survivor><Producer><ALIVE><97+0><setpos_exact -5702.10 7462.87 166.03; setang 5.17 9.94 0.00><Area 216567>" killed "infected<208><><Infected><infected><DEAD><-21><setpos_exact -5515.43 7487.93 105.07; setang -0.00 -162.18 0.00><Area 389735>" with "pistol_magnum"
+L 05/09/2013 - 19:44:56: (DEATH)"Coach<4><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -5862.45 7415.18 166.03; setang 4.28 6.83 0.00><Area 216570>" killed "infected<204><><Infected><infected><DEAD><-25><setpos_exact -5756.03 7423.77 104.03; setang -0.00 81.39 0.00><Area 297756>" with "pistol_magnum"
+L 05/09/2013 - 19:44:56: "(1)Boomer<7><BOT><>" connected, address "none"
+L 05/09/2013 - 19:44:56: FinishClientPutInServer (7): looking for bots to take over
+L 05/09/2013 - 19:44:56: "(1)Boomer<7><BOT><>" entered the game
+L 05/09/2013 - 19:44:56: "(1)Boomer<7><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 19:44:56: (1)Boomer spawned as a BOOMER
+L 05/09/2013 - 19:44:56: "(1)Boomer<7><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact -4688.24 7032.91 157.99; setang 0.00 0.00 0.00><Area 195592>" spawned
+L 05/09/2013 - 19:44:56: "(2)Boomer<8><BOT><>" connected, address "none"
+L 05/09/2013 - 19:44:56: FinishClientPutInServer (8): looking for bots to take over
+L 05/09/2013 - 19:44:56: "(2)Boomer<8><BOT><>" entered the game
+L 05/09/2013 - 19:44:56: "(2)Boomer<8><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 19:44:56: (2)Boomer spawned as a BOOMER
+L 05/09/2013 - 19:44:56: "(2)Boomer<8><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact -4312.50 7037.50 159.10; setang 0.00 0.00 0.00><Area 509794>" spawned
+L 05/09/2013 - 19:44:56: "(3)Boomer<9><BOT><>" connected, address "none"
+L 05/09/2013 - 19:44:56: FinishClientPutInServer (9): looking for bots to take over
+L 05/09/2013 - 19:44:56: "(3)Boomer<9><BOT><>" entered the game
+L 05/09/2013 - 19:44:56: "(3)Boomer<9><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 19:44:56: (3)Boomer spawned as a BOOMER
+L 05/09/2013 - 19:44:56: "(3)Boomer<9><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact -4387.50 6887.50 158.03; setang 0.00 0.00 0.00><Area 253536>" spawned
+L 05/09/2013 - 19:44:56: "(4)Boomer<10><BOT><>" connected, address "none"
+L 05/09/2013 - 19:44:56: FinishClientPutInServer (10): looking for bots to take over
+L 05/09/2013 - 19:44:56: "(4)Boomer<10><BOT><>" entered the game
+L 05/09/2013 - 19:44:56: "(4)Boomer<10><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 19:44:56: (4)Boomer spawned as a BOOMER
+L 05/09/2013 - 19:44:56: "(4)Boomer<10><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact -4500.00 6962.50 165.01; setang 0.00 0.00 0.00><Area 516832>" spawned
+L 05/09/2013 - 19:44:56: "(5)Boomer<11><BOT><>" connected, address "none"
+L 05/09/2013 - 19:44:56: FinishClientPutInServer (11): looking for bots to take over
+L 05/09/2013 - 19:44:56: "(5)Boomer<11><BOT><>" entered the game
+L 05/09/2013 - 19:44:56: "(5)Boomer<11><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 19:44:56: (5)Boomer spawned as a BOOMER
+L 05/09/2013 - 19:44:56: "(5)Boomer<11><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact -4537.50 7400.00 157.54; setang 0.00 0.00 0.00><Area 203271>" spawned
+L 05/09/2013 - 19:44:58: (DEATH)"Coach<4><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -5862.45 7415.18 166.03; setang 1.54 31.81 0.00><Area 216570>" killed "infected<123><><Infected><infected><DEAD><0><setpos_exact -4944.33 7984.80 96.03; setang 0.00 135.51 0.00><Area 196227>" with "pistol_magnum"
+L 05/09/2013 - 19:44:59: (DEATH)"Coach<4><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -5831.34 7474.42 166.03; setang 1.35 346.83 0.00><Area 216566>" killed "infected<127><><Infected><infected><DEAD><0><setpos_exact -4750.80 7244.62 100.64; setang 0.00 150.71 0.00><Area 203262>" with "pistol_magnum"
+L 05/09/2013 - 19:45:01: "(6)Boomer<12><BOT><>" connected, address "none"
+L 05/09/2013 - 19:45:01: FinishClientPutInServer (12): looking for bots to take over
+L 05/09/2013 - 19:45:01: "(6)Boomer<12><BOT><>" entered the game
+L 05/09/2013 - 19:45:01: "(6)Boomer<12><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 19:45:01: (6)Boomer spawned as a BOOMER
+L 05/09/2013 - 19:45:01: "(6)Boomer<12><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact -4250.00 7037.50 160.14; setang 0.00 0.00 0.00><Area 581760>" spawned
+L 05/09/2013 - 19:45:02: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact -5684.03 7425.24 166.03; setang 357.17 353.29 0.00><Area 216567>" killed "(1)Boomer<7><BOT><Infected><BOOMER><DEAD><1+0><setpos -5258.04 7373.68 153.14; setang 352.45 173.10 0.00><Area 290870>" with "pistol_magnum"
+L 05/09/2013 - 19:45:02: (DEATH)"MetaNova [ArchLinux]<2><STEAM_1:0:53857362><Survivor><Producer><ALIVE><97+0><setpos_exact -5572.02 7512.05 166.91; setang 6.40 -98.42 0.00><Area 15521>" killed "infected<101><><Infected><infected><DEAD><-21><setpos_exact -5588.28 7320.46 102.54; setang -0.00 111.87 0.00><Area 195828>" with "pistol_magnum"
+L 05/09/2013 - 19:45:04: (MOB) 21 wanderers grabbed for an IT mob of desired size 30.
+L 05/09/2013 - 19:45:04: 117.60: (MOB) SpawnITMob requested of size 9.
+L 05/09/2013 - 19:45:04: 117.60: (MOB) SpawnITMob will make 9.
+L 05/09/2013 - 19:45:04: 117.63: (MOB) Mob zombie spawned, 8 remain.
+L 05/09/2013 - 19:45:04: 117.63: (MOB) Mob zombie spawned, 7 remain.
+L 05/09/2013 - 19:45:04: 117.63: (MOB) Mob zombie spawned, 6 remain.
+L 05/09/2013 - 19:45:04: 117.63: (MOB) Mob zombie spawned, 5 remain.
+L 05/09/2013 - 19:45:04: 117.67: (MOB) Mob zombie spawned, 4 remain.
+L 05/09/2013 - 19:45:04: 117.67: (MOB) Mob zombie spawned, 3 remain.
+L 05/09/2013 - 19:45:04: 117.67: (MOB) Mob zombie spawned, 2 remain.
+L 05/09/2013 - 19:45:04: 117.67: (MOB) Mob zombie spawned, 1 remain.
+L 05/09/2013 - 19:45:04: 117.70: (MOB) Mob zombie spawned, 0 remain.
+L 05/09/2013 - 19:45:04: 117.70: (MOB) Pending mob done.
+L 05/09/2013 - 19:45:06: (DEATH)"MetaNova [ArchLinux]<2><STEAM_1:0:53857362><Survivor><Producer><ALIVE><97+0><setpos_exact -5043.37 7859.55 158.03; setang -2.58 -119.64 0.00><Area 196033>" killed "(3)Boomer<9><BOT><Infected><BOOMER><DEAD><1+0><setpos -5291.84 7418.36 146.56; setang 351.74 60.61 0.00><Area 290870>" with "pistol_magnum"
+L 05/09/2013 - 19:45:08: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact -5341.76 7872.29 163.03; setang 7.28 348.50 0.00><Area 196025>" killed "infected<106><><Infected><infected><DEAD><-25><setpos_exact -5236.01 7851.41 94.65; setang -0.00 173.91 0.00><Area 196025>" with "pistol_magnum" (headshot)
+L 05/09/2013 - 19:45:08: (DEATH)"MetaNova [ArchLinux]<2><STEAM_1:0:53857362><Survivor><Producer><ALIVE><97+0><setpos_exact -5108.05 7849.91 158.03; setang 13.14 -97.75 0.00><Area 196025>" killed "infected<118><><Infected><infected><DEAD><-21><setpos_exact -5137.66 7658.12 96.03; setang -0.00 91.38 0.00><Area 24634>" with "pistol_magnum"
+L 05/09/2013 - 19:45:09: (DEATH)"Coach<4><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -5254.11 7885.12 161.49; setang 353.28 236.35 0.00><Area 196025>" killed "Boomer<6><BOT><Infected><BOOMER><DEAD><1+0><setpos -5452.71 7562.69 145.61; setang 348.38 58.37 0.00><Area 290873>" with "pistol_magnum" (headshot)
+L 05/09/2013 - 19:45:10: (DEATH)"Ellis<3><BOT><Survivor><Mechanic><ALIVE><97+0><setpos_exact -5257.58 7768.90 162.03; setang 4.30 9.21 0.00><Area 15891>" killed "infected<285><><Infected><infected><DEAD><0><setpos_exact -5126.05 7795.25 96.03; setang -0.00 190.25 0.00><Area 15891>" with "pistol_magnum"
+L 05/09/2013 - 19:45:11: "(1)Boomer<7><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 19:45:11: (DEATH)"Coach<4><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -5243.09 7841.38 159.77; setang 18.64 239.08 0.00><Area 15891>" killed "infected<291><><Infected><infected><DEAD><-24><setpos_exact -5304.91 7731.81 101.03; setang 0.00 32.31 0.00><Area 434549>" with "pistol_magnum"
+L 05/09/2013 - 19:45:11: (DEATH)"Coach<4><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -5229.64 7798.01 158.03; setang 13.60 231.80 0.00><Area 15891>" killed "infected<153><><Infected><infected><DEAD><-26><setpos_exact -5274.53 7738.97 101.03; setang 0.00 60.53 0.00><Area 290879>" with "pistol_magnum"
+L 05/09/2013 - 19:45:12: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact -5222.48 7851.80 158.03; setang 12.78 225.58 0.00><Area 196025>" killed "infected<115><><Infected><infected><DEAD><-27><setpos_exact -5272.58 7800.84 101.03; setang 0.00 295.05 0.00><Area 15891>" with "pistol_magnum"
+L 05/09/2013 - 19:45:12: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact -5222.48 7851.80 158.03; setang 12.78 225.58 0.00><Area 196025>" killed "infected<157><><Infected><infected><DEAD><-23><setpos_exact -5314.72 7744.49 101.03; setang 0.00 29.20 0.00><Area 434549>" with "pistol_magnum"
+L 05/09/2013 - 19:45:12: (DEATH)"Ellis<3><BOT><Survivor><Mechanic><ALIVE><91+0><setpos_exact -5257.65 7768.90 162.04; setang 38.59 346.28 0.00><Area 15891>" killed "infected<287><><Infected><infected><DEAD><0><setpos_exact -5228.62 7756.30 96.03; setang 0.00 166.77 0.00><Area 15891>" with "pistol_magnum"
+L 05/09/2013 - 19:45:13: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact -5222.48 7851.80 158.03; setang 7.67 224.38 0.00><Area 196025>" killed "infected<293><><Infected><infected><DEAD><-24><setpos_exact -5318.33 7761.34 101.03; setang 0.00 8.44 0.00><Area 15891>" with "pistol_magnum"
+L 05/09/2013 - 19:45:14: (DEATH)"MetaNova [ArchLinux]<2><STEAM_1:0:53857362><Survivor><Producer><ALIVE><97+0><setpos_exact -5091.30 7622.05 158.03; setang 7.64 109.99 0.00><Area 24634>" killed "infected<292><><Infected><infected><DEAD><-22><setpos_exact -5178.44 7775.04 96.03; setang -0.00 -176.17 0.00><Area 15891>" with "pistol_magnum"
+L 05/09/2013 - 19:45:14: (DEATH)"Ellis<3><BOT><Survivor><Mechanic><ALIVE><88+0><setpos_exact -5257.65 7768.90 162.04; setang 36.77 360.16 0.00><Area 15891>" killed "infected<211><><Infected><infected><DEAD><-27><setpos_exact -5217.43 7774.26 96.03; setang -0.00 180.10 0.00><Area 15891>" with "pistol_magnum"
+L 05/09/2013 - 19:45:14: (DEATH)"Ellis<3><BOT><Survivor><Mechanic><ALIVE><88+0><setpos_exact -5257.65 7768.90 162.04; setang 36.77 360.16 0.00><Area 15891>" killed "infected<172><><Infected><infected><DEAD><-23><setpos_exact -5132.76 7761.56 96.03; setang -0.00 172.13 0.00><Area 15891>" with "pistol_magnum"
+L 05/09/2013 - 19:45:14: (DEATH)"Coach<4><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -5225.41 7805.02 158.03; setang 15.64 189.35 0.00><Area 15891>" killed "infected<134><><Infected><infected><DEAD><-26><setpos_exact -5291.71 7789.17 101.03; setang 0.00 336.92 0.00><Area 15891>" with "pistol_magnum"
+L 05/09/2013 - 19:45:14: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact -5196.48 7830.78 158.03; setang 11.85 226.21 0.00><Area 15891>" killed "infected<168><><Infected><infected><DEAD><-24><setpos_exact -5291.40 7747.87 101.03; setang 0.00 32.05 0.00><Area 290879>" with "pistol_magnum"
+L 05/09/2013 - 19:45:14: (DEATH)"MetaNova [ArchLinux]<2><STEAM_1:0:53857362><Survivor><Producer><ALIVE><97+0><setpos_exact -5112.99 7721.97 158.03; setang 10.44 100.78 0.00><Area 24634>" killed "infected<295><><Infected><infected><DEAD><-25><setpos_exact -5131.99 7823.78 96.03; setang -0.00 205.88 0.00><Area 196455>" with "pistol_magnum"
+L 05/09/2013 - 19:45:14: ------------------------------ Director state change BUILD_UP -> SUSTAIN_PEAK
+L 05/09/2013 - 19:45:14: (DEATH)"Coach<4><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -5187.93 7811.07 158.03; setang 10.03 187.89 0.00><Area 15891>" killed "infected<103><><Infected><infected><DEAD><-24><setpos_exact -5290.86 7797.56 101.03; setang 0.00 319.26 0.00><Area 15891>" with "pistol_magnum"
+L 05/09/2013 - 19:45:15: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact -5199.60 7848.78 158.03; setang 10.05 233.82 0.00><Area 15891>" killed "infected<212><><Infected><infected><DEAD><-22><setpos_exact -5298.40 7727.81 101.03; setang 0.00 44.77 0.00><Area 290879>" with "pistol_magnum"
+L 05/09/2013 - 19:45:15: (DEATH)"Coach<4><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -5081.85 7841.44 158.03; setang 4.49 194.27 0.00><Area 196455>" killed "infected<286><><Infected><infected><DEAD><-20><setpos_exact -5284.15 7776.48 101.03; setang 0.00 350.32 0.00><Area 15891>" with "pistol_magnum"
+L 05/09/2013 - 19:45:15: "(3)Boomer<9><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 19:45:15: (MOB) 23 wanderers grabbed for an IT mob of desired size 30.
+L 05/09/2013 - 19:45:15: 128.80: (MOB) SpawnITMob requested of size 7.
+L 05/09/2013 - 19:45:15: 128.80: (MOB) SpawnITMob will make 7.
+L 05/09/2013 - 19:45:15: 128.83: (MOB) Mob zombie spawned, 6 remain.
+L 05/09/2013 - 19:45:15: 128.83: (MOB) Mob zombie spawned, 5 remain.
+L 05/09/2013 - 19:45:15: 128.83: (MOB) Mob zombie spawned, 4 remain.
+L 05/09/2013 - 19:45:15: 128.83: (MOB) Mob zombie spawned, 3 remain.
+L 05/09/2013 - 19:45:15: 128.87: (MOB) Mob zombie spawned, 2 remain.
+L 05/09/2013 - 19:45:15: 128.87: (MOB) Mob zombie spawned, 1 remain.
+L 05/09/2013 - 19:45:15: 128.87: (MOB) Mob zombie spawned, 0 remain.
+L 05/09/2013 - 19:45:15: 128.87: (MOB) Pending mob done.
+L 05/09/2013 - 19:45:16: (DEATH)"Coach<4><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -5049.23 7800.30 158.03; setang 3.90 181.57 0.00><Area 196455>" killed "infected<288><><Infected><infected><DEAD><-20><setpos_exact -5259.78 7778.69 101.03; setang 0.00 340.75 0.00><Area 15891>" with "pistol_magnum"
+L 05/09/2013 - 19:45:17: (DEATH)"Coach<4><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -5048.01 7800.45 158.03; setang 4.44 186.90 0.00><Area 196455>" killed "infected<117><><Infected><infected><DEAD><-20><setpos_exact -5265.24 7763.25 100.43; setang 0.00 7.23 0.00><Area 15891>" with "pistol_magnum"
+L 05/09/2013 - 19:45:17: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><98+0><setpos_exact -5105.46 7735.69 158.03; setang 12.08 182.98 0.00><Area 24634>" killed "infected<133><><Infected><infected><DEAD><-24><setpos_exact -5228.34 7733.80 95.00; setang 0.00 11.94 0.00><Area 290879>" with "pistol_magnum"
+L 05/09/2013 - 19:45:17: (DEATH)"Ellis<3><BOT><Survivor><Mechanic><ALIVE><83+0><setpos_exact -5179.44 7755.79 158.03; setang 11.69 279.75 0.00><Area 15891>" killed "infected<290><><Infected><infected><DEAD><-24><setpos_exact -5143.76 7632.98 96.03; setang -0.00 357.57 0.00><Area 24634>" with "pistol_magnum"
+L 05/09/2013 - 19:45:18: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><98+0><setpos_exact -5031.38 7667.59 158.03; setang 6.03 158.10 0.00><Area 24634>" killed "infected<128><><Infected><infected><DEAD><-20><setpos_exact -5231.69 7749.53 95.10; setang 0.00 325.59 0.00><Area 15891>" with "pistol_magnum"
+L 05/09/2013 - 19:45:18: "Boomer<6><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 19:45:18: (DEATH)"Coach<4><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -5015.48 7641.62 158.03; setang 7.94 198.58 0.00><Area 196457>" killed "infected<110><><Infected><infected><DEAD><-22><setpos_exact -5176.46 7600.44 96.03; setang -0.00 13.93 0.00><Area 24634>" with "pistol_magnum"
+L 05/09/2013 - 19:45:18: ------------------------------ Director state change SUSTAIN_PEAK -> PEAK_FADE
+L 05/09/2013 - 19:45:20: (DEATH)"Ellis<3><BOT><Survivor><Mechanic><ALIVE><83+0><setpos_exact -5091.37 7408.47 158.03; setang 0.55 277.40 0.00><Area 24633>" killed "(6)Boomer<12><BOT><Infected><BOOMER><DEAD><1+0><setpos -5068.57 7249.00 96.03; setang 322.41 98.14 0.00><Area 195826>" with "pistol_magnum" (headshot)
+L 05/09/2013 - 19:45:20: (MOB) 23 wanderers grabbed for an IT mob of desired size 30.
+L 05/09/2013 - 19:45:20: 133.43: (MOB) SpawnITMob requested of size 7.
+L 05/09/2013 - 19:45:20: 133.43: (MOB) SpawnITMob will make 7.
+L 05/09/2013 - 19:45:20: (MOB) 23 wanderers grabbed for an IT mob of desired size 30.
+L 05/09/2013 - 19:45:20: 133.43: (MOB) SpawnITMob requested of size 7.
+L 05/09/2013 - 19:45:20: 133.43: (MOB) SpawnITMob will make 7.
+L 05/09/2013 - 19:45:20: 133.37: (MOB) Mob zombie spawned, 6 remain.
+L 05/09/2013 - 19:45:20: 133.37: (MOB) Mob zombie spawned, 5 remain.
+L 05/09/2013 - 19:45:20: 133.37: (MOB) Mob zombie spawned, 4 remain.
+L 05/09/2013 - 19:45:20: 133.40: (MOB) Mob zombie spawned, 3 remain.
+L 05/09/2013 - 19:45:20: 133.40: (MOB) Mob zombie spawned, 2 remain.
+L 05/09/2013 - 19:45:20: 133.40: (MOB) Mob zombie spawned, 1 remain.
+L 05/09/2013 - 19:45:20: 133.43: (MOB) Mob zombie spawned, 0 remain.
+L 05/09/2013 - 19:45:20: 133.43: (MOB) Pending mob done.
+L 05/09/2013 - 19:45:25: (DEATH)"MetaNova [ArchLinux]<2><STEAM_1:0:53857362><Survivor><Producer><ALIVE><95+0><setpos_exact -5100.37 6977.58 158.03; setang 9.99 30.27 0.00><Area 195585>" killed "(5)Boomer<11><BOT><Infected><BOOMER><DEAD><1+0><setpos -5053.00 7018.13 96.03; setang 296.70 220.56 0.00><Area 195586>" with "pistol_magnum"
+L 05/09/2013 - 19:45:28: (DEATH)"MetaNova [ArchLinux]<2><STEAM_1:0:53857362><Survivor><Producer><ALIVE><93+0><setpos_exact -5213.68 6753.11 158.03; setang 31.44 -27.22 0.00><Area 216622>" killed "infected<275><><Infected><infected><DEAD><-27><setpos_exact -5176.27 6742.62 96.03; setang -0.00 176.44 0.00><Area 216622>" with "pistol_magnum"
+L 05/09/2013 - 19:45:29: "(6)Boomer<12><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 19:45:30: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><96+0><setpos_exact -5332.59 6834.54 163.03; setang 6.70 183.09 0.00><Area 216625>" killed "infected<101><><Infected><infected><DEAD><73><setpos_exact -5398.07 6846.52 101.03; setang 0.00 265.15 0.00><Area 216635>" with "pistol_magnum" (headshot)
+L 05/09/2013 - 19:45:30: (DEATH)"Ellis<3><BOT><Survivor><Mechanic><ALIVE><79+0><setpos_exact -5200.26 6919.00 158.03; setang 358.63 201.80 0.00><Area 195583>" killed "infected<190><><Infected><infected><DEAD><-1><setpos_exact -5235.35 6919.16 95.76; setang 0.00 339.78 0.00><Area 195583>" with "pistol_magnum"
+L 05/09/2013 - 19:45:31: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><96+0><setpos_exact -5187.06 6833.40 158.03; setang 7.70 121.88 0.00><Area 358209>" killed "infected<212><><Infected><infected><DEAD><80><setpos_exact -5293.83 7028.29 101.03; setang -0.00 312.25 0.00><Area 195583>" with "pistol_magnum" (headshot)
+L 05/09/2013 - 19:45:32: (DEATH)"Ellis<3><BOT><Survivor><Mechanic><ALIVE><75+0><setpos_exact -5199.48 6918.16 158.03; setang 15.06 149.85 0.00><Area 195583>" killed "infected<278><><Infected><infected><DEAD><-26><setpos_exact -5237.47 6959.65 96.03; setang 0.00 312.29 0.00><Area 195583>" with "pistol_magnum"
+L 05/09/2013 - 19:45:32: (DEATH)"Coach<4><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -5217.53 6769.45 158.03; setang 19.89 120.24 0.00><Area 216622>" killed "infected<255><><Infected><infected><DEAD><0><setpos_exact -5273.92 6852.71 97.31; setang -0.00 295.27 0.00><Area 195606>" with "pistol_magnum"
+L 05/09/2013 - 19:45:32: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><96+0><setpos_exact -5185.93 6832.94 158.03; setang 8.04 112.85 0.00><Area 358209>" killed "infected<262><><Infected><infected><DEAD><-23><setpos_exact -5231.80 6974.33 96.03; setang 0.00 301.49 0.00><Area 195583>" with "pistol_magnum"
+L 05/09/2013 - 19:45:32: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><96+0><setpos_exact -5135.38 6822.81 158.03; setang 6.75 120.89 0.00><Area 195590>" killed "infected<216><><Infected><infected><DEAD><-26><setpos_exact -5170.72 6895.40 96.03; setang 0.00 145.41 0.00><Area 195583>" with "pistol_magnum"
+L 05/09/2013 - 19:45:33: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><96+0><setpos_exact -5121.63 6822.65 158.03; setang 8.21 116.89 0.00><Area 195590>" killed "infected<123><><Infected><infected><DEAD><-24><setpos_exact -5170.52 6928.32 96.03; setang 0.00 198.86 0.00><Area 195583>" with "pistol_magnum"
+L 05/09/2013 - 19:45:33: (DEATH)"Ellis<3><BOT><Survivor><Mechanic><ALIVE><71+0><setpos_exact -5200.53 6917.26 158.03; setang 50.49 107.68 0.00><Area 195583>" killed "infected<257><><Infected><infected><DEAD><0><setpos_exact -5206.02 6951.34 96.03; setang 0.00 273.01 0.00><Area 195583>" with "pistol_magnum"
+L 05/09/2013 - 19:45:33: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><96+0><setpos_exact -5121.63 6822.65 158.03; setang 11.92 114.28 0.00><Area 195590>" killed "infected<213><><Infected><infected><DEAD><-18><setpos_exact -5232.68 7037.10 96.03; setang -0.00 286.69 0.00><Area 195583>" with "pistol_magnum"
+L 05/09/2013 - 19:45:33: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><96+0><setpos_exact -5121.63 6822.65 158.03; setang 11.51 115.53 0.00><Area 195590>" killed "infected<235><><Infected><infected><DEAD><-26><setpos_exact -5167.05 6910.47 96.03; setang 0.00 170.29 0.00><Area 195583>" with "pistol_magnum"
+L 05/09/2013 - 19:45:34: "(5)Boomer<11><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 19:45:34: (DEATH)"MetaNova [ArchLinux]<2><STEAM_1:0:53857362><Survivor><Producer><ALIVE><89+0><setpos_exact -5031.09 6994.95 158.03; setang 26.84 150.53 0.00><Area 195585>" killed "infected<207><><Infected><infected><DEAD><-28><setpos_exact -5060.46 7000.94 96.03; setang -0.00 -14.11 0.00><Area 195585>" with "pistol_magnum"
+L 05/09/2013 - 19:45:35: (DEATH)"Ellis<3><BOT><Survivor><Mechanic><ALIVE><68+0><setpos_exact -5198.93 6937.93 158.03; setang 3.18 166.50 0.00><Area 195583>" killed "infected<210><><Infected><infected><DEAD><0><setpos_exact -5284.95 6955.58 101.38; setang -0.00 344.13 0.00><Area 195583>" with "pistol_magnum"
+L 05/09/2013 - 19:45:35: (DEATH)"Coach<4><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -5235.10 6916.72 158.03; setang 6.86 289.47 0.00><Area 195583>" killed "infected<108><><Infected><infected><DEAD><-27><setpos_exact -5212.35 6857.27 96.03; setang -0.00 76.97 0.00><Area 195607>" with "pistol_magnum" (headshot)
+L 05/09/2013 - 19:45:36: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><96+0><setpos_exact -5121.63 6822.65 158.03; setang 8.57 109.64 0.00><Area 195590>" killed "infected<205><><Infected><infected><DEAD><-24><setpos_exact -5168.87 6955.06 96.03; setang 0.00 209.73 0.00><Area 195583>" with "pistol_magnum"
+L 05/09/2013 - 19:45:36: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><96+0><setpos_exact -5121.63 6822.65 158.03; setang 8.57 109.64 0.00><Area 195590>" killed "infected<256><><Infected><infected><DEAD><0><setpos_exact -5199.88 7071.67 96.03; setang -0.00 270.31 0.00><Area 195583>" with "pistol_magnum"
+L 05/09/2013 - 19:45:37: (DEATH)"(4)Boomer<10><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact -4960.36 7079.28 158.03; setang 28.28 240.94 0.00><Area 195591>" killed "infected<261><><Infected><infected><DEAD><0><setpos_exact -4987.11 7052.82 96.03; setang 0.00 356.43 0.00><Area 195586>" with "boomer_claw"
+L 05/09/2013 - 19:45:37: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><96+0><setpos_exact -5062.51 6914.45 158.03; setang 5.08 58.51 0.00><Area 195585>" killed "(4)Boomer<10><BOT><Infected><BOOMER><DEAD><1+0><setpos -4960.36 7079.28 96.03; setang 327.40 238.21 0.00><Area 195591>" with "pistol_magnum"
+L 05/09/2013 - 19:45:38: (DEATH)"Ellis<3><BOT><Survivor><Mechanic><ALIVE><67+0><setpos_exact -5100.84 7017.26 158.03; setang 11.27 291.53 0.00><Area 195585>" killed "infected<238><><Infected><infected><DEAD><-20><setpos_exact -5004.27 6828.89 96.03; setang -0.00 113.04 0.00><Area 195598>" with "pistol_magnum"
+L 05/09/2013 - 19:45:39: (DEATH)"Coach<4><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -5141.61 7047.33 158.03; setang 1.40 20.24 0.00><Area 195583>" killed "infected<127><><Infected><infected><DEAD><-24><setpos_exact -5015.75 7090.82 96.03; setang -0.00 194.95 0.00><Area 195586>" with "pistol_magnum"
+L 05/09/2013 - 19:45:40: (DEATH)"Ellis<3><BOT><Survivor><Mechanic><ALIVE><67+0><setpos_exact -4917.24 7094.57 158.03; setang 52.31 113.59 0.00><Area 195591>" killed "infected<215><><Infected><infected><DEAD><-1><setpos_exact -4946.90 7123.60 96.03; setang -0.00 225.54 0.00><Area 195591>" with "pistol_magnum"
+L 05/09/2013 - 19:45:40: (DEATH)"Coach<4><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -5172.82 6998.42 158.03; setang 34.89 107.05 0.00><Area 195583>" killed "infected<236><><Infected><infected><DEAD><-28><setpos_exact -5179.78 7033.41 96.03; setang 0.00 249.17 0.00><Area 195583>" with "pistol_magnum"
+L 05/09/2013 - 19:45:40: (DEATH)"MetaNova [ArchLinux]<2><STEAM_1:0:53857362><Survivor><Producer><ALIVE><85+0><setpos_exact -4532.12 6988.26 154.26; setang 7.97 -165.78 0.00><Area 516809>" killed "infected<172><><Infected><infected><DEAD><-20><setpos_exact -4766.77 6925.55 101.03; setang -0.00 140.34 0.00><Area 625>" with "pistol_magnum"
+L 05/09/2013 - 19:45:41: (DEATH)"MetaNova [ArchLinux]<2><STEAM_1:0:53857362><Survivor><Producer><ALIVE><85+0><setpos_exact -4447.58 6888.03 158.03; setang 10.89 145.71 0.00><Area 253532>" killed "infected<211><><Infected><infected><DEAD><-24><setpos_exact -4551.04 6961.65 93.94; setang 0.00 -49.27 0.00><Area 120369>" with "pistol_magnum"
+L 05/09/2013 - 19:45:43: (DEATH)"Ellis<3><BOT><Survivor><Mechanic><ALIVE><67+0><setpos_exact -4885.59 7119.41 158.42; setang 0.82 319.21 0.00><Area 195638>" killed "infected<209><><Infected><infected><DEAD><-25><setpos_exact -4811.63 7063.14 101.03; setang -0.00 231.60 0.00><Area 195588>" with "pistol_magnum"
+L 05/09/2013 - 19:45:44: (DEATH)"Ellis<3><BOT><Survivor><Mechanic><ALIVE><67+0><setpos_exact -4860.10 7120.80 162.37; setang 1.48 318.65 0.00><Area 195621>" killed "(2)Boomer<8><BOT><Infected><BOOMER><DEAD><1+0><setpos -4622.53 6927.38 97.18; setang 337.45 140.85 0.00><Area 625>" with "pistol_magnum" (headshot)
+L 05/09/2013 - 19:45:46: "(4)Boomer<10><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 19:45:47: (DEATH)"Ellis<3><BOT><Survivor><Mechanic><ALIVE><67+0><setpos_exact -4608.92 6995.28 154.76; setang 7.50 176.19 0.00><Area 516805>" killed "infected<247><><Infected><infected><DEAD><-24><setpos_exact -4719.64 7019.03 98.29; setang 0.00 243.12 0.00><Area 195592>" with "pistol_magnum"
+L 05/09/2013 - 19:45:51: (DEATH)"Ellis<3><BOT><Survivor><Mechanic><ALIVE><67+0><setpos_exact -4901.94 7036.80 158.03; setang 0.76 1.63 0.00><Area 195591>" killed "infected<259><><Infected><infected><DEAD><-26><setpos_exact -4828.72 7046.61 101.03; setang -0.00 278.01 0.00><Area 195588>" with "pistol_magnum"
+L 05/09/2013 - 19:45:53: "(2)Boomer<8><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 19:45:59: ------------------------------ Director state change PEAK_FADE -> RELAX
+L 05/09/2013 - 19:46:02: (DEATH)"MetaNova [ArchLinux]<2><STEAM_1:0:53857362><Survivor><Producer><ALIVE><85+0><setpos_exact -4110.39 7209.01 244.75; setang 6.96 1.76 0.00><Area 581682>" killed "infected<118><><Infected><infected><DEAD><-1><setpos_exact -3355.78 7228.92 104.62; setang 0.00 90.00 0.00><Area 16158>" with "pistol_magnum"
+L 05/09/2013 - 19:46:04: (DEATH)"Ellis<3><BOT><Survivor><Mechanic><ALIVE><67+0><setpos_exact -4178.57 7194.30 245.01; setang 11.05 20.44 0.00><Area 581763>" killed "infected<125><><Infected><infected><DEAD><-8><setpos_exact -3669.41 7394.38 102.34; setang 0.00 202.80 0.00><Area 24637>" with "pistol_magnum"
+L 05/09/2013 - 19:46:05: (DEATH)"Coach<4><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -4153.84 7226.51 260.03; setang 1.56 24.43 0.00><Area 581763>" killed "infected<123><><Infected><infected><DEAD><-2><setpos_exact -3485.47 7516.48 207.72; setang 0.00 302.21 0.00><Area 6508>" with "pistol_magnum"
+L 05/09/2013 - 19:46:12: (DEATH)"Nick<5><BOT><Survivor><Gambler><ALIVE><96+0><setpos_exact -4180.44 7260.37 243.21; setang 6.75 332.47 0.00><Area 581763>" killed "infected<115><><Infected><infected><DEAD><0><setpos_exact -3393.96 6850.37 97.37; setang 0.00 78.16 0.00><Area 120479>" with "pistol_magnum"
+L 05/09/2013 - 19:46:14: (DEATH)"MetaNova [ArchLinux]<2><STEAM_1:0:53857362><Survivor><Producer><ALIVE><85+0><setpos_exact -4074.14 7251.49 200.26; setang 3.82 -38.56 0.00><Area 581682>" killed "infected<106><><Infected><infected><DEAD><-2><setpos_exact -3510.67 6811.98 96.03; setang 0.00 -73.31 0.00><Area 120346>" with "pistol_magnum"
+L 05/09/2013 - 19:46:27: "MetaNova [ArchLinux]<2><STEAM_1:0:53857362><Survivor>" disconnected (reason "Disconnect by user.")
+L 05/09/2013 - 19:46:27: "Rochelle<13><BOT><>" connected, address "none"
+L 05/09/2013 - 19:46:27: FinishClientPutInServer (13): looking for bots to take over
+L 05/09/2013 - 19:46:27: "Rochelle<13><BOT><>" entered the game
+L 05/09/2013 - 19:46:27: "Rochelle<13><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 19:46:27: (SKIN) Survivor Rochelle changed model from  to models/survivors/survivor_producer.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 19:46:27: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 19:46:27: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 19:46:27: Rochelle spawned as a Producer
+L 05/09/2013 - 19:46:27: "Rochelle<13><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact -7013.77 7848.61 166.57; setang 0.00 344.00 0.00><Area 531315>" spawned
+L 05/09/2013 - 19:46:27: Staying on original map c4m1_milltown_a
+L 05/09/2013 - 19:46:27: CDirector::RunScript, scriptedmode, level: 1
+L 05/09/2013 - 19:46:27: CDirector::RunScript, director_base, level: 0
+L 05/09/2013 - 19:46:27: Preventing spawning
+L 05/09/2013 - 19:46:27: CDirector::RunScript, scriptedmode, level: 1
+L 05/09/2013 - 19:46:27: CDirector::RunScript, director_base, level: 0
+L 05/09/2013 - 19:46:27: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 19:46:27: Ellis spawned as a Mechanic
+L 05/09/2013 - 19:46:27: "Ellis<3><BOT><Survivor><Mechanic><ALIVE><100+0><setpos_exact -6965.56 7870.30 166.94; setang 0.00 323.00 0.00><Area 531315>" spawned
+L 05/09/2013

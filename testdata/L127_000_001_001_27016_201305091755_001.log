@@ -1,0 +1,695 @@
+L 05/09/2013 - 17:55:26: Log file started (file "logs/L127_000_001_001_27016_201305091755_001.log") (game "/home/tf/srv/l4d2_beta/left4dead2_beta") (version "5289")
+L 05/09/2013 - 17:55:26: Pipe bomb projectile spawned at -1278.066162 -8499.196289 355.037842, velocity 0.000000 0.000000 0.000000
+L 05/09/2013 - 17:55:26: Explosion prop detonated -1278,-8499,355.  Breaker:. Attacker:"prop_physics<109><><Unassigned><prop_physics><ALIVE><20><setpos_exact -1261.19 -8497.06 353.12; setang 86.48 278.04 90.35><Area 0>".
+L 05/09/2013 - 17:55:26: Pipe bomb projectile spawned at -1268.470825 -8475.249023 611.003235, velocity 0.000000 0.000000 0.000000
+L 05/09/2013 - 17:55:26: Explosion prop detonated -1268,-8475,611.  Breaker:. Attacker:"prop_physics<110><><Unassigned><prop_physics><ALIVE><20><setpos_exact -1284.94 -8479.66 612.59; setang 303.49 281.34 270.00><Area 0>".
+L 05/09/2013 - 17:55:26: Pipe bomb projectile spawned at -35.163979 -8011.394043 99.549881, velocity 0.000000 0.000000 0.000000
+L 05/09/2013 - 17:55:26: Explosion prop detonated -35,-8011,100.  Breaker:. Attacker:"prop_physics<118><><Unassigned><prop_physics><ALIVE><20><setpos_exact -51.59 -8015.91 97.88; setang 87.58 264.90 249.70><Area 0>".
+L 05/09/2013 - 17:55:26: Pipe bomb projectile spawned at -1076.651611 -10065.126953 97.647049, velocity 0.000000 0.000000 0.000000
+L 05/09/2013 - 17:55:26: Explosion prop detonated -1077,-10065,98.  Breaker:. Attacker:"prop_physics<125><><Unassigned><prop_physics><ALIVE><20><setpos_exact -1069.34 -10080.56 98.84; setang 356.92 19.07 266.22><Area 0>".
+L 05/09/2013 - 17:55:26: Pipe bomb projectile spawned at 3655.270996 -5526.933594 124.010880, velocity 0.000000 0.000000 0.000000
+L 05/09/2013 - 17:55:26: Explosion prop detonated 3655,-5527,124.  Breaker:. Attacker:"prop_physics<152><><Unassigned><prop_physics><ALIVE><20><setpos_exact 3658.19 -5517.31 123.06; setang 0.83 119.97 359.96><Area 0>".
+L 05/09/2013 - 17:55:26: Pipe bomb projectile spawned at 3640.809570 -2028.711304 116.282478, velocity 0.000000 0.000000 0.000000
+L 05/09/2013 - 17:55:26: Explosion prop detonated 3641,-2029,116.  Breaker:. Attacker:"prop_physics<153><><Unassigned><prop_physics><ALIVE><20><setpos_exact 3648.16 -2021.81 115.66; setang 0.26 90.09 357.98><Area 0>".
+L 05/09/2013 - 17:55:26: Pipe bomb projectile spawned at -971.533630 -9455.583008 371.709473, velocity 0.000000 0.000000 0.000000
+L 05/09/2013 - 17:55:26: Pipe bomb projectile spawned at -1004.440063 -9456.725586 369.630310, velocity 0.000000 0.000000 0.000000
+L 05/09/2013 - 17:55:26: Explosion prop detonated -1004,-9457,370.  Breaker:"pipe_bomb_projectile<222><><Unassigned><pipe_bomb_projectile><ALIVE><0><setpos_exact -971.57 -9455.54 360.23; setang 357.28 359.43 354.38><Area 0>". Attacker:"pipe_bomb_projectile<222><><Unassigned><pipe_bomb_projectile><ALIVE><0><setpos_exact -971.57 -9455.54 360.23; setang 357.28 359.43 354.38><Area 0>".
+L 05/09/2013 - 17:55:26: Explosion prop detonated -972,-9456,372.  Breaker:. Attacker:"prop_physics<185><><Unassigned><prop_physics><ALIVE><20><setpos_exact -964.72 -9463.03 371.91; setang 357.28 359.43 354.38><Area 0>".
+L 05/09/2013 - 17:55:26: Pipe bomb projectile spawned at -1004.440063 -9456.725586 369.630310, velocity 0.000000 0.000000 0.000000
+L 05/09/2013 - 17:55:26: Explosion prop detonated -1004,-9457,370.  Breaker:. Attacker:"pipe_bomb_projectile<222><><Unassigned><pipe_bomb_projectile><ALIVE><0><setpos_exact -971.57 -9455.54 360.23; setang 357.28 359.43 354.38><Area 0>".
+L 05/09/2013 - 17:55:26: CDirector::RunScript, director_c4_storm, level: 2
+L 05/09/2013 - 17:55:38: OnEndChangelevel Say_It_With_Bullets™(49): 4 saved players:
+L 05/09/2013 - 17:55:38: 	Hisaki(42), state 0
+L 05/09/2013 - 17:55:38: 	Nemesis(31), state 0
+L 05/09/2013 - 17:55:38: 	Say_It_With_Bullets™(49), state 0
+L 05/09/2013 - 17:55:38: Restoring player Say_It_With_Bullets™(49) after changelevel
+L 05/09/2013 - 17:55:38: "Say_It_With_Bullets™<49><STEAM_1:1:856182><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 17:55:38: SetModelFromClass: Survivor Say_It_With_Bullets™ changed model from  to models/survivors/survivor_mechanic.mdl via SetModelFromClass
+L 05/09/2013 - 17:55:38: (SKIN) SetCharacter: Survivor Say_It_With_Bullets™ chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 17:55:38: Say_It_With_Bullets™ spawned as a Mechanic
+L 05/09/2013 - 17:55:38: "Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><100+0><setpos_exact -1794.52 -13727.72 192.03; setang 0.00 330.33 0.00><Area 222>" spawned
+L 05/09/2013 - 17:55:38: Respawning Say_It_With_Bullets™
+L 05/09/2013 - 17:55:38: (SKIN) SetCharacter: Survivor Say_It_With_Bullets™ chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 17:55:38: Say_It_With_Bullets™ spawned as a Mechanic
+L 05/09/2013 - 17:55:38: "Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><100+0><setpos_exact -1763.65 -13604.10 192.03; setang 0.00 212.92 0.00><Area 222>" spawned
+L 05/09/2013 - 17:55:38: (SKIN) SetCharacter: Survivor Say_It_With_Bullets™ chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 17:55:38: (SKIN) SetCharacter: Survivor Say_It_With_Bullets™ chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 17:55:38: (SKIN) Survivor Say_It_With_Bullets™ changed model to models/survivors/survivor_mechanic.mdl (wanted models/survivors/survivor_mechanic.mdl) via RestoreModelData
+L 05/09/2013 - 17:55:38: Say_It_With_Bullets™ wants to respawn at -1782.153931 -13628.303711 130.031250
+L 05/09/2013 - 17:55:38: GetSafeSpawnPos: Say_It_With_Bullets™ ideal pos (-1782.153931, -13628.303711, 130.031250) is clear
+L 05/09/2013 - 17:55:38: Say_It_With_Bullets™ gets respawn pos -1782.153931 -13628.303711 130.031250
+L 05/09/2013 - 17:55:38: "Say_It_With_Bullets™<49><STEAM_1:1:856182><>" entered the game
+L 05/09/2013 - 17:55:39: "Rochelle<73><BOT><>" connected, address "none"
+L 05/09/2013 - 17:55:39: OnEndChangelevel (73): 4 saved players:
+L 05/09/2013 - 17:55:39: 	Hisaki(42), state 0
+L 05/09/2013 - 17:55:39: 	Nemesis(31), state 0
+L 05/09/2013 - 17:55:39: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 17:55:39: 	Purple Magic(50), state 0
+L 05/09/2013 - 17:55:39: "Rochelle<73><BOT><>" entered the game
+L 05/09/2013 - 17:55:39: CREATING BOT Rochelle FOR Hisaki(42)
+L 05/09/2013 - 17:55:39: "Rochelle<73><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 17:55:39: SetModelFromClass: Survivor Rochelle changed model from  to models/survivors/survivor_producer.mdl via SetModelFromClass
+L 05/09/2013 - 17:55:39: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 17:55:39: Rochelle spawned as a Producer
+L 05/09/2013 - 17:55:39: "Rochelle<73><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact -1821.75 -13709.49 192.03; setang 0.00 109.02 0.00><Area 222>" spawned
+L 05/09/2013 - 17:55:39: (SKIN) Survivor Rochelle changed model from models/survivors/survivor_producer.mdl to models/survivors/survivor_producer.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 17:55:39: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 17:55:39: Restoring player Rochelle(73) after changelevel
+L 05/09/2013 - 17:55:39: Respawning Rochelle
+L 05/09/2013 - 17:55:39: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 17:55:39: Rochelle spawned as a Producer
+L 05/09/2013 - 17:55:39: "Rochelle<73><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact -1812.13 -13602.52 192.28; setang 0.00 240.88 0.00><Area 222>" spawned
+L 05/09/2013 - 17:55:39: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 17:55:39: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 17:55:39: (SKIN) Survivor Rochelle changed model to models/survivors/survivor_producer.mdl (wanted models/survivors/survivor_producer.mdl) via RestoreModelData
+L 05/09/2013 - 17:55:39: Rochelle wants to respawn at -1794.062012 -13767.845703 130.031250
+L 05/09/2013 - 17:55:39: FindNearbySpawnSpot: Moving Rochelle from (-1794.062012, -13767.845703, 130.031250) to (-1700.000000, -13626.073242, 140.281250) in a nearby nav area (1530) with max range of 150.000000
+L 05/09/2013 - 17:55:39: Rochelle gets respawn pos -1700.000000 -13626.073242 140.281250
+L 05/09/2013 - 17:55:39: "Nick<74><BOT><>" connected, address "none"
+L 05/09/2013 - 17:55:39: OnEndChangelevel (74): 4 saved players:
+L 05/09/2013 - 17:55:39: 	Hisaki(42), state 0
+L 05/09/2013 - 17:55:39: 	Nemesis(31), state 0
+L 05/09/2013 - 17:55:39: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 17:55:39: 	Purple Magic(50), state 0
+L 05/09/2013 - 17:55:39: "Nick<74><BOT><>" entered the game
+L 05/09/2013 - 17:55:39: CREATING BOT Nick FOR Nemesis(31)
+L 05/09/2013 - 17:55:39: "Nick<74><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 17:55:39: SetModelFromClass: Survivor Nick changed model from  to models/survivors/survivor_gambler.mdl via SetModelFromClass
+L 05/09/2013 - 17:55:39: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 17:55:39: Nick spawned as a Gambler
+L 05/09/2013 - 17:55:39: "Nick<74><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact -1751.26 -13607.11 192.28; setang 0.00 207.67 0.00><Area 222>" spawned
+L 05/09/2013 - 17:55:39: (SKIN) Survivor Nick changed model from models/survivors/survivor_gambler.mdl to models/survivors/survivor_gambler.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 17:55:39: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 17:55:39: Restoring player Nick(74) after changelevel
+L 05/09/2013 - 17:55:39: Respawning Nick
+L 05/09/2013 - 17:55:39: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 17:55:39: Nick spawned as a Gambler
+L 05/09/2013 - 17:55:39: "Nick<74><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact -1877.04 -13640.62 192.03; setang 0.00 339.60 0.00><Area 14402>" spawned
+L 05/09/2013 - 17:55:39: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 17:55:39: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 17:55:39: (SKIN) Survivor Nick changed model to models/survivors/survivor_gambler.mdl (wanted models/survivors/survivor_gambler.mdl) via RestoreModelData
+L 05/09/2013 - 17:55:39: Nick wants to respawn at -1788.214478 -13722.331055 130.031250
+L 05/09/2013 - 17:55:39: GetSafeSpawnPos: Nick ideal pos (-1788.214478, -13722.331055, 130.031250) is clear
+L 05/09/2013 - 17:55:39: Nick gets respawn pos -1788.214478 -13722.331055 130.031250
+L 05/09/2013 - 17:55:39: Skipping saved player Say_It_With_Bullets™(49) - restore was already done
+L 05/09/2013 - 17:55:39: "Coach<75><BOT><>" connected, address "none"
+L 05/09/2013 - 17:55:39: OnEndChangelevel (75): 4 saved players:
+L 05/09/2013 - 17:55:39: 	Hisaki(42), state 0
+L 05/09/2013 - 17:55:39: 	Nemesis(31), state 0
+L 05/09/2013 - 17:55:39: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 17:55:39: 	Purple Magic(50), state 0
+L 05/09/2013 - 17:55:39: "Coach<75><BOT><>" entered the game
+L 05/09/2013 - 17:55:39: CREATING BOT Coach FOR Purple Magic(50)
+L 05/09/2013 - 17:55:39: "Coach<75><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 17:55:39: SetModelFromClass: Survivor Coach changed model from  to models/survivors/survivor_coach.mdl via SetModelFromClass
+L 05/09/2013 - 17:55:39: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 17:55:39: Coach spawned as a Coach
+L 05/09/2013 - 17:55:39: "Coach<75><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -1793.53 -13763.10 192.28; setang 0.00 212.87 0.00><Area 222>" spawned
+L 05/09/2013 - 17:55:39: (SKIN) Survivor Coach changed model from models/survivors/survivor_coach.mdl to models/survivors/survivor_coach.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 17:55:39: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 17:55:39: Restoring player Coach(75) after changelevel
+L 05/09/2013 - 17:55:39: Respawning Coach
+L 05/09/2013 - 17:55:39: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 17:55:39: Coach spawned as a Coach
+L 05/09/2013 - 17:55:39: "Coach<75><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -1806.63 -13617.32 192.28; setang 0.00 227.05 0.00><Area 222>" spawned
+L 05/09/2013 - 17:55:39: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 17:55:39: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 17:55:39: (SKIN) Survivor Coach changed model to models/survivors/survivor_coach.mdl (wanted models/survivors/survivor_coach.mdl) via RestoreModelData
+L 05/09/2013 - 17:55:39: Coach wants to respawn at -1748.203857 -13775.482422 130.031250
+L 05/09/2013 - 17:55:39: GetSafeSpawnPos: Coach ideal pos (-1748.203857, -13775.482422, 130.031250) is clear
+L 05/09/2013 - 17:55:39: Coach gets respawn pos -1748.203857 -13775.482422 130.031250
+L 05/09/2013 - 17:55:43: OnEndChangelevel Purple Magic(50): 4 saved players:
+L 05/09/2013 - 17:55:43: 	Hisaki(42), state 0
+L 05/09/2013 - 17:55:43: 	Nemesis(31), state 0
+L 05/09/2013 - 17:55:43: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 17:55:43: 	Purple Magic(50), state 0
+L 05/09/2013 - 17:55:43: Restoring player Purple Magic(50) after changelevel
+L 05/09/2013 - 17:55:43: "Coach<75><BOT><Survivor>" joined team "Spectator"
+L 05/09/2013 - 17:55:43: "Purple Magic<50><STEAM_1:0:591373><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 17:55:43: SetModelFromClass: Survivor Purple Magic changed model from  to models/survivors/survivor_coach.mdl via SetModelFromClass
+L 05/09/2013 - 17:55:43: (SKIN) SetCharacter: Survivor Purple Magic chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 17:55:43: Purple Magic spawned as a Coach
+L 05/09/2013 - 17:55:43: "Purple Magic<50><STEAM_1:0:591373><Survivor><Coach><ALIVE><100+0><setpos_exact -1838.55 -13608.63 192.03; setang 0.00 267.10 0.00><Area 222>" spawned
+L 05/09/2013 - 17:55:43: (SKIN) Survivor Purple Magic changed model from models/survivors/survivor_coach.mdl to models/survivors/survivor_coach.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 17:55:43: (SKIN) SetCharacter: Survivor Purple Magic chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 17:55:43: (SKIN) SetCharacter: Survivor Purple Magic chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 17:55:43: Purple Magic spawned as a Coach
+L 05/09/2013 - 17:55:43: "Purple Magic<50><STEAM_1:0:591373><Survivor><Coach><ALIVE><100+0><setpos_exact -1819.66 -13607.69 192.03; setang 0.00 245.45 0.00><Area 222>" spawned
+L 05/09/2013 - 17:55:43: "Purple Magic<50><STEAM_1:0:591373><Survivor><Coach><ALIVE><66+0><setpos_exact -1748.20 -13775.48 192.03; setang 0.00 73.47 0.00><Area 222>" spawned
+L 05/09/2013 - 17:55:43: "Purple Magic<50><STEAM_1:0:591373><>" entered the game
+L 05/09/2013 - 17:55:43: Coach<75> STOPS BEING HELD BY NON-SPECTATOR Purple Magic
+L 05/09/2013 - 17:55:43: "Coach<75><BOT><Spectator>" disconnected (reason "Kicked by Console : survivor bot left the survivor team")
+L 05/09/2013 - 17:55:44: OnEndChangelevel Nemesis(31): 4 saved players:
+L 05/09/2013 - 17:55:44: 	Hisaki(42), state 0
+L 05/09/2013 - 17:55:44: 	Nemesis(31), state 0
+L 05/09/2013 - 17:55:44: Restoring player Nemesis(31) after changelevel
+L 05/09/2013 - 17:55:44: "Nick<74><BOT><Survivor>" joined team "Spectator"
+L 05/09/2013 - 17:55:44: "Nemesis<31><STEAM_1:1:46465796><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 17:55:44: SetModelFromClass: Survivor Nemesis changed model from  to models/survivors/survivor_gambler.mdl via SetModelFromClass
+L 05/09/2013 - 17:55:44: (SKIN) SetCharacter: Survivor Nemesis chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 17:55:44: Nemesis spawned as a Gambler
+L 05/09/2013 - 17:55:44: "Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><100+0><setpos_exact -1718.65 -13655.95 192.28; setang 0.00 302.10 0.00><Area 1530>" spawned
+L 05/09/2013 - 17:55:44: (SKIN) Survivor Nemesis changed model from models/survivors/survivor_gambler.mdl to models/survivors/survivor_gambler.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 17:55:44: (SKIN) SetCharacter: Survivor Nemesis chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 17:55:44: (SKIN) SetCharacter: Survivor Nemesis chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 17:55:44: Nemesis spawned as a Gambler
+L 05/09/2013 - 17:55:44: "Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><100+0><setpos_exact -1782.26 -13719.14 192.28; setang 0.00 320.02 0.00><Area 222>" spawned
+L 05/09/2013 - 17:55:44: "Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><50+0><setpos_exact -1788.21 -13722.33 192.03; setang 0.00 73.52 0.00><Area 222>" spawned
+L 05/09/2013 - 17:55:44: "Nemesis<31><STEAM_1:1:46465796><>" entered the game
+L 05/09/2013 - 17:55:44: Nick<74> STOPS BEING HELD BY NON-SPECTATOR Nemesis
+L 05/09/2013 - 17:55:44: "Nick<74><BOT><Spectator>" disconnected (reason "Kicked by Console : survivor bot left the survivor team")
+L 05/09/2013 - 17:55:54: OnEndChangelevel Hisaki(42): 4 saved players:
+L 05/09/2013 - 17:55:54: 	Hisaki(42), state 0
+L 05/09/2013 - 17:55:54: Restoring player Hisaki(42) after changelevel
+L 05/09/2013 - 17:55:54: "Rochelle<73><BOT><Survivor>" joined team "Spectator"
+L 05/09/2013 - 17:55:54: "Hisaki<42><STEAM_1:0:48202577><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 17:55:54: SetModelFromClass: Survivor Hisaki changed model from  to models/survivors/survivor_producer.mdl via SetModelFromClass
+L 05/09/2013 - 17:55:54: (SKIN) SetCharacter: Survivor Hisaki chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 17:55:54: Hisaki spawned as a Producer
+L 05/09/2013 - 17:55:54: "Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><100+0><setpos_exact -1780.92 -13702.35 192.03; setang 0.00 141.15 0.00><Area 222>" spawned
+L 05/09/2013 - 17:55:54: (SKIN) Survivor Hisaki changed model from models/survivors/survivor_producer.mdl to models/survivors/survivor_producer.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 17:55:54: (SKIN) SetCharacter: Survivor Hisaki chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 17:55:54: (SKIN) SetCharacter: Survivor Hisaki chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 17:55:54: Hisaki spawned as a Producer
+L 05/09/2013 - 17:55:54: "Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><100+0><setpos_exact -1723.11 -13767.32 192.28; setang 0.00 197.08 0.00><Area 3192>" spawned
+L 05/09/2013 - 17:55:54: "Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><80+0><setpos_exact -1700.00 -13626.07 192.03; setang 0.00 73.43 0.00><Area 1530>" spawned
+L 05/09/2013 - 17:55:54: "Hisaki<42><STEAM_1:0:48202577><>" entered the game
+L 05/09/2013 - 17:55:54: Rochelle<73> STOPS BEING HELD BY NON-SPECTATOR Hisaki
+L 05/09/2013 - 17:55:54: "Rochelle<73><BOT><Spectator>" disconnected (reason "Kicked by Console : survivor bot left the survivor team")
+L 05/09/2013 - 17:56:00: Allowing spawning - "Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><80+0><setpos_exact -1726.10 -13562.96 192.03; setang 9.68 61.54 0.00><Area 62154>" left safe area
+L 05/09/2013 - 17:56:02: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><80+0><setpos_exact -1443.36 -13447.26 216.49; setang 9.68 -7.98 0.00><Area 2118>" killed "infected<161><><Infected><infected><DEAD><-9><setpos_exact -1236.77 -13481.51 120.62; setang 0.00 -5.12 0.00><Area 1600>" with "autoshotgun"
+L 05/09/2013 - 17:56:03: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><80+0><setpos_exact -1312.28 -13472.43 230.20; setang 10.56 -8.86 0.00><Area 3391>" killed "infected<167><><Infected><infected><DEAD><-3><setpos_exact -1012.96 -13513.36 120.47; setang -0.00 2.29 0.00><Area 2142>" with "autoshotgun"
+L 05/09/2013 - 17:56:03: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><80+0><setpos_exact -1317.29 -13480.08 174.03; setang -0.44 -4.46 0.00><Area 3391>" killed "infected<165><><Infected><infected><DEAD><-13><setpos_exact -1031.01 -13487.75 126.03; setang 0.00 -107.53 0.00><Area 6836>" with "autoshotgun"
+L 05/09/2013 - 17:56:06: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><80+0><setpos_exact -1314.38 -13480.81 174.03; setang 1.32 -32.62 0.00><Area 3391>" killed "infected<168><><Infected><infected><DEAD><-7><setpos_exact -972.48 -13696.16 117.32; setang 0.00 137.04 0.00><Area 155>" with "dual_pistols"
+L 05/09/2013 - 17:56:07: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -1613.89 -13623.46 192.03; setang 16.02 -44.65 0.00><Area 838>" killed "infected<157><><Infected><infected><DEAD><0><setpos_exact -1606.81 -13652.49 130.03; setang -0.00 131.84 0.00><Area 838>" with "melee"
+L 05/09/2013 - 17:56:09: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><80+0><setpos_exact -1312.97 -13481.50 174.03; setang 1.76 37.34 0.00><Area 3391>" killed "infected<170><><Infected><infected><DEAD><-19><setpos_exact -688.74 -13012.08 114.55; setang 0.00 -62.49 0.00><Area 13664>" with "dual_pistols"
+L 05/09/2013 - 17:56:09: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><80+0><setpos_exact -1312.97 -13481.50 174.03; setang 1.76 37.34 0.00><Area 3391>" killed "infected<172><><Infected><infected><DEAD><-17><setpos_exact -662.72 -12990.31 118.30; setang 0.00 -113.38 0.00><Area 1132>" with "dual_pistols"
+L 05/09/2013 - 17:56:11: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><80+0><setpos_exact -1312.97 -13481.50 174.03; setang 1.76 53.18 0.00><Area 3391>" killed "infected<181><><Infected><infected><DEAD><-12><setpos_exact -733.47 -12719.70 117.22; setang 0.00 -4.52 0.00><Area 14>" with "dual_pistols"
+L 05/09/2013 - 17:56:11: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><80+0><setpos_exact -1312.97 -13481.50 174.03; setang 1.76 53.18 0.00><Area 3391>" killed "infected<182><><Infected><infected><DEAD><-8><setpos_exact -648.51 -12631.65 121.84; setang 0.00 62.15 0.00><Area 14>" with "dual_pistols"
+L 05/09/2013 - 17:56:15: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><80+0><setpos_exact -1295.26 -13466.39 206.78; setang 4.84 -15.90 0.00><Area 3391>" killed "infected<186><><Infected><infected><DEAD><61><setpos_exact -674.61 -13642.96 122.40; setang 0.00 155.11 0.00><Area 426>" with "dual_pistols" (headshot)
+L 05/09/2013 - 17:56:16: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><80+0><setpos_exact -1294.26 -13467.27 206.78; setang 3.96 4.34 0.00><Area 3391>" killed "infected<185><><Infected><infected><DEAD><-11><setpos_exact -706.22 -13405.65 126.03; setang -0.00 178.13 0.00><Area 90>" with "dual_pistols"
+L 05/09/2013 - 17:56:16: (DEATH)"Purple Magic<50><STEAM_1:0:591373><Survivor><Coach><ALIVE><66+0><setpos_exact -1350.33 -13413.77 192.03; setang 4.55 88.59 0.00><Area 13371>" killed "infected<171><><Infected><infected><DEAD><-14><setpos_exact -1346.62 -12956.76 117.59; setang 0.00 250.85 0.00><Area 13662>" with "rifle"
+L 05/09/2013 - 17:56:17: (DEATH)"Purple Magic<50><STEAM_1:0:591373><Survivor><Coach><ALIVE><66+0><setpos_exact -1350.33 -13413.77 192.03; setang 5.35 85.02 0.00><Area 13371>" killed "infected<178><><Infected><infected><DEAD><-13><setpos_exact -1308.76 -12781.97 121.03; setang 0.00 169.40 0.00><Area 252287>" with "rifle"
+L 05/09/2013 - 17:56:18: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><50+0><setpos_exact -1219.36 -13312.22 182.63; setang 3.43 90.62 0.00><Area 252314>" killed "infected<179><><Infected><infected><DEAD><-13><setpos_exact -1220.55 -12726.65 118.62; setang 0.00 679.16 0.00><Area 252287>" with "rifle"
+L 05/09/2013 - 17:56:20: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><50+0><setpos_exact -1219.26 -13162.74 179.41; setang 2.24 135.03 0.00><Area 252313>" killed "infected<175><><Infected><infected><DEAD><-14><setpos_exact -1577.40 -12808.96 122.13; setang -0.00 -150.58 0.00><Area 252283>" with "rifle"
+L 05/09/2013 - 17:56:20: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -1350.29 -13830.11 206.78; setang 7.52 -159.45 0.00><Area 15265>" killed "infected<173><><Infected><infected><DEAD><-7><setpos_exact -1561.87 -13916.57 121.26; setang 0.00 432.81 0.00><Area 6293>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 17:56:21: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><50+0><setpos_exact -1219.26 -13162.74 179.41; setang 2.05 149.62 0.00><Area 252313>" killed "infected<180><><Infected><infected><DEAD><-13><setpos_exact -1819.78 -12808.66 125.89; setang 0.00 138.86 0.00><Area 647>" with "rifle"
+L 05/09/2013 - 17:56:21: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><50+0><setpos_exact -1219.26 -13162.74 179.41; setang 2.71 153.32 0.00><Area 252313>" killed "infected<165><><Infected><infected><DEAD><-12><setpos_exact -2087.81 -12699.84 111.93; setang 0.00 240.00 0.00><Area 2025>" with "rifle"
+L 05/09/2013 - 17:56:23: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><50+0><setpos_exact -1219.26 -13162.74 179.41; setang 2.05 155.69 0.00><Area 252313>" killed "infected<223><><Infected><infected><DEAD><-12><setpos_exact -2129.27 -12763.14 122.83; setang -0.00 126.65 0.00><Area 389>" with "rifle"
+L 05/09/2013 - 17:56:23: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><80+0><setpos_exact -576.75 -13418.89 182.84; setang 5.28 -11.50 0.00><Area 90>" killed "infected<221><><Infected><infected><DEAD><-13><setpos_exact -332.95 -13473.32 117.82; setang -0.00 118.66 0.00><Area 229>" with "autoshotgun"
+L 05/09/2013 - 17:56:24: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -1346.73 -13841.76 206.78; setang 3.40 -176.20 0.00><Area 126644>" killed "infected<70><><Infected><infected><DEAD><-5><setpos_exact -2175.00 -13912.46 117.11; setang 0.00 96.36 0.00><Area 15254>" with "rifle_ak47"
+L 05/09/2013 - 17:56:25: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><80+0><setpos_exact -411.71 -13284.76 181.38; setang 29.48 136.78 0.00><Area 228>" killed "infected<224><><Infected><infected><DEAD><-1><setpos_exact -443.63 -13269.81 119.97; setang 0.00 202.29 0.00><Area 228>" with "autoshotgun"
+L 05/09/2013 - 17:56:27: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><80+0><setpos_exact -461.31 -13275.46 182.35; setang 22.00 48.34 0.00><Area 228>" killed "infected<222><><Infected><infected><DEAD><-12><setpos_exact -380.13 -13158.31 118.61; setang -0.00 247.61 0.00><Area 228>" with "autoshotgun"
+L 05/09/2013 - 17:56:29: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><80+0><setpos_exact -867.50 -13177.30 184.93; setang 10.56 176.82 0.00><Area 423>" killed "infected<163><><Infected><infected><DEAD><-12><setpos_exact -1012.75 -13174.54 121.06; setang -0.00 -0.19 0.00><Area 14446>" with "autoshotgun"
+L 05/09/2013 - 17:56:30: 64.53: (MOB) SpawnMob requested of size 30.
+L 05/09/2013 - 17:56:30: 64.53: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 17:56:30: 64.53: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 17:56:30: 64.53: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 17:56:30: 64.53: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 17:56:30: 64.53: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 17:56:31: 65.33: (MOB) Mob zombie spawned, 25 remain.
+L 05/09/2013 - 17:56:31: 65.33: (MOB) Mob zombie spawned, 24 remain.
+L 05/09/2013 - 17:56:31: 65.33: (MOB) Mob zombie spawned, 23 remain.
+L 05/09/2013 - 17:56:31: 65.33: (MOB) Mob zombie spawned, 22 remain.
+L 05/09/2013 - 17:56:32: 66.80: (MOB) Mob zombie spawned, 21 remain.
+L 05/09/2013 - 17:56:32: 66.80: (MOB) Mob zombie spawned, 20 remain.
+L 05/09/2013 - 17:56:32: 66.80: (MOB) Mob zombie spawned, 19 remain.
+L 05/09/2013 - 17:56:32: 66.80: (MOB) Mob zombie spawned, 18 remain.
+L 05/09/2013 - 17:56:32: 66.87: (MOB) Mob zombie spawned, 17 remain.
+L 05/09/2013 - 17:56:32: 66.87: (MOB) Mob zombie spawned, 16 remain.
+L 05/09/2013 - 17:56:32: 66.87: (MOB) Mob zombie spawned, 15 remain.
+L 05/09/2013 - 17:56:32: 66.87: (MOB) Mob zombie spawned, 14 remain.
+L 05/09/2013 - 17:56:32: 67.27: (MOB) Mob zombie spawned, 13 remain.
+L 05/09/2013 - 17:56:32: 67.27: (MOB) Mob zombie spawned, 12 remain.
+L 05/09/2013 - 17:56:32: 67.27: (MOB) Mob zombie spawned, 11 remain.
+L 05/09/2013 - 17:56:32: 67.27: (MOB) Mob zombie spawned, 10 remain.
+L 05/09/2013 - 17:56:33: 67.50: (MOB) Mob zombie spawned, 9 remain.
+L 05/09/2013 - 17:56:33: 67.50: (MOB) Mob zombie spawned, 8 remain.
+L 05/09/2013 - 17:56:33: 67.50: (MOB) Mob zombie spawned, 7 remain.
+L 05/09/2013 - 17:56:33: 67.50: (MOB) Mob zombie spawned, 6 remain.
+L 05/09/2013 - 17:56:33: "Jockey<76><BOT><>" connected, address "none"
+L 05/09/2013 - 17:56:33: OnEndChangelevel (76): 4 saved players:
+L 05/09/2013 - 17:56:33: 	Hisaki(42), state 1
+L 05/09/2013 - 17:56:33: 	Nemesis(31), state 1
+L 05/09/2013 - 17:56:33: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 17:56:33: 	Purple Magic(50), state 1
+L 05/09/2013 - 17:56:33: "Jockey<76><BOT><>" entered the game
+L 05/09/2013 - 17:56:33: "Jockey<76><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 17:56:33: Jockey spawned as a JOCKEY
+L 05/09/2013 - 17:56:33: "Jockey<76><BOT><Infected><JOCKEY><ALIVE><325+0><setpos_exact -2287.50 -10500.00 159.51; setang 0.00 0.00 0.00><Area 51867>" spawned
+L 05/09/2013 - 17:56:33: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><50+0><setpos_exact -1274.77 -13273.05 180.76; setang 8.78 -138.27 0.00><Area 252313>" killed "infected<166><><Infected><infected><DEAD><-15><setpos_exact -1346.58 -13337.01 121.03; setang 0.00 168.61 0.00><Area 416>" with "rifle"
+L 05/09/2013 - 17:56:33: (DEATH)"Purple Magic<50><STEAM_1:0:591373><Survivor><Coach><ALIVE><66+0><setpos_exact -841.46 -13163.47 166.85; setang 6.53 31.69 0.00><Area 684>" killed "infected<157><><Infected><infected><DEAD><-15><setpos_exact -782.92 -13128.65 119.54; setang -0.00 -147.56 0.00><Area 7074>" with "rifle"
+L 05/09/2013 - 17:56:34: (DEATH)"Purple Magic<50><STEAM_1:0:591373><Survivor><Coach><ALIVE><66+0><setpos_exact -841.46 -13163.47 166.85; setang 7.59 29.25 0.00><Area 684>" killed "infected<168><><Infected><infected><DEAD><-14><setpos_exact -601.06 -13044.52 112.95; setang 0.00 22.58 0.00><Area 13665>" with "rifle"
+L 05/09/2013 - 17:56:36: 70.57: (MOB) Mob zombie spawned, 5 remain.
+L 05/09/2013 - 17:56:36: 70.57: (MOB) Mob zombie spawned, 4 remain.
+L 05/09/2013 - 17:56:36: 70.57: (MOB) Mob zombie spawned, 3 remain.
+L 05/09/2013 - 17:56:36: 70.57: (MOB) Mob zombie spawned, 2 remain.
+L 05/09/2013 - 17:56:36: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -553.38 -13273.55 250.05; setang 16.26 151.21 0.00><Area 114989>" killed "infected<247><><Infected><infected><DEAD><-6><setpos_exact -806.17 -13161.12 122.84; setang -0.00 -170.23 0.00><Area 684>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 17:56:36: (DEATH)"Purple Magic<50><STEAM_1:0:591373><Survivor><Coach><ALIVE><65+0><setpos_exact -841.46 -13163.47 166.85; setang 4.42 63.57 0.00><Area 684>" killed "infected<248><><Infected><infected><DEAD><-5><setpos_exact -832.09 -13134.44 118.33; setang 0.00 239.00 0.00><Area 7074>" with "rifle"
+L 05/09/2013 - 17:56:36: (DEATH)"Purple Magic<50><STEAM_1:0:591373><Survivor><Coach><ALIVE><65+0><setpos_exact -841.46 -13163.47 166.85; setang 4.49 69.18 0.00><Area 684>" killed "infected<252><><Infected><infected><DEAD><-15><setpos_exact -840.02 -13134.45 119.41; setang 0.00 267.18 0.00><Area 7074>" with "rifle"
+L 05/09/2013 - 17:56:37: (DEATH)"Purple Magic<50><STEAM_1:0:591373><Survivor><Coach><ALIVE><65+0><setpos_exact -841.46 -13163.47 166.85; setang 3.89 25.23 0.00><Area 684>" killed "infected<227><><Infected><infected><DEAD><-15><setpos_exact -671.25 -13078.12 112.60; setang 0.00 277.95 0.00><Area 1132>" with "rifle"
+L 05/09/2013 - 17:56:37: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -553.38 -13273.55 250.05; setang 14.56 151.45 0.00><Area 114989>" killed "infected<180><><Infected><infected><DEAD><-6><setpos_exact -856.29 -13112.12 116.34; setang -0.00 -70.43 0.00><Area 1109>" with "rifle_ak47"
+L 05/09/2013 - 17:56:37: (DEATH)"Purple Magic<50><STEAM_1:0:591373><Survivor><Coach><ALIVE><63+0><setpos_exact -841.46 -13163.47 166.85; setang 4.82 117.96 0.00><Area 684>" killed "infected<250><><Infected><infected><DEAD><-29><setpos_exact -861.67 -13131.83 118.78; setang -0.00 -57.16 0.00><Area 423>" with "rifle"
+L 05/09/2013 - 17:56:38: (DEATH)"Purple Magic<50><STEAM_1:0:591373><Survivor><Coach><ALIVE><63+0><setpos_exact -841.46 -13163.47 166.85; setang 5.68 142.24 0.00><Area 684>" killed "infected<163><><Infected><infected><DEAD><-15><setpos_exact -882.10 -13134.43 118.38; setang -0.00 -37.68 0.00><Area 423>" with "rifle"
+L 05/09/2013 - 17:56:38: (DEATH)"Purple Magic<50><STEAM_1:0:591373><Survivor><Coach><ALIVE><61+0><setpos_exact -841.46 -13163.47 166.85; setang 5.41 -174.26 0.00><Area 684>" killed "infected<239><><Infected><infected><DEAD><-15><setpos_exact -870.50 -13167.55 122.52; setang 0.00 8.03 0.00><Area 423>" with "rifle"
+L 05/09/2013 - 17:56:38: 72.97: (MOB) Mob zombie spawned, 1 remain.
+L 05/09/2013 - 17:56:38: 72.97: (MOB) Mob zombie spawned, 0 remain.
+L 05/09/2013 - 17:56:38: 72.97: (MOB) Pending mob done.
+L 05/09/2013 - 17:56:39: "Smoker<77><BOT><>" connected, address "none"
+L 05/09/2013 - 17:56:39: OnEndChangelevel (77): 4 saved players:
+L 05/09/2013 - 17:56:39: 	Hisaki(42), state 1
+L 05/09/2013 - 17:56:39: 	Nemesis(31), state 1
+L 05/09/2013 - 17:56:39: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 17:56:39: 	Purple Magic(50), state 1
+L 05/09/2013 - 17:56:39: "Smoker<77><BOT><>" entered the game
+L 05/09/2013 - 17:56:39: "Smoker<77><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 17:56:39: Smoker spawned as a SMOKER
+L 05/09/2013 - 17:56:39: "Smoker<77><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -1947.06 -13324.82 376.03; setang 0.00 0.00 0.00><Area 288203>" spawned
+L 05/09/2013 - 17:56:40: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><80+0><setpos_exact -1715.64 -13564.35 192.03; setang 18.04 94.54 0.00><Area 62154>" killed "infected<169><><Infected><infected><DEAD><-42><setpos_exact -1728.27 -13488.58 130.03; setang -0.00 260.44 0.00><Area 273>" with "autoshotgun"
+L 05/09/2013 - 17:56:40: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -553.38 -13273.55 250.05; setang 20.87 153.15 0.00><Area 114989>" killed "infected<172><><Infected><infected><DEAD><-6><setpos_exact -805.96 -13151.48 121.87; setang 0.00 201.77 0.00><Area 684>" with "rifle_ak47"
+L 05/09/2013 - 17:56:42: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -553.38 -13273.55 250.05; setang 20.39 152.18 0.00><Area 114989>" killed "infected<181><><Infected><infected><DEAD><-7><setpos_exact -787.15 -13153.37 122.51; setang 0.00 193.85 0.00><Area 684>" with "rifle_ak47"
+L 05/09/2013 - 17:56:42: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -553.38 -13273.55 250.05; setang 16.02 163.10 0.00><Area 114989>" killed "infected<182><><Infected><infected><DEAD><-6><setpos_exact -831.78 -13179.67 123.20; setang -0.00 18.77 0.00><Area 684>" with "rifle_ak47"
+L 05/09/2013 - 17:56:45: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><50+0><setpos_exact -1456.11 -13307.43 192.03; setang 10.63 -49.37 0.00><Area 1532>" killed "infected<175><><Infected><infected><DEAD><-15><setpos_exact -1326.44 -13451.59 130.03; setang 0.00 298.94 0.00><Area 3391>" with "rifle"
+L 05/09/2013 - 17:56:45: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -553.38 -13273.55 250.05; setang 40.53 -165.34 0.00><Area 114989>" killed "infected<179><><Infected><infected><DEAD><-7><setpos_exact -625.05 -13287.53 120.89; setang 0.00 10.93 0.00><Area 3336>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 17:56:45: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -553.38 -13273.55 250.05; setang 40.53 -165.34 0.00><Area 114989>" killed "infected<246><><Infected><infected><DEAD><-22><setpos_exact -645.69 -13304.78 120.82; setang 0.00 18.69 0.00><Area 3336>" with "rifle_ak47"
+L 05/09/2013 - 17:56:47: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><48+0><setpos_exact -1456.11 -13306.65 192.03; setang 16.90 172.95 0.00><Area 1532>" killed "infected<222><><Infected><infected><DEAD><-15><setpos_exact -1485.14 -13297.65 130.03; setang -0.00 -18.76 0.00><Area 6626>" with "rifle"
+L 05/09/2013 - 17:56:47: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -553.38 -13273.55 250.05; setang 33.98 8.43 0.00><Area 114989>" killed "infected<165><><Infected><infected><DEAD><-7><setpos_exact -449.66 -13248.47 120.08; setang -0.00 168.95 0.00><Area 228>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 17:56:48: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><80+0><setpos_exact -710.45 -13112.60 179.38; setang 12.32 14.46 0.00><Area 687>" killed "infected<159><><Infected><infected><DEAD><-12><setpos_exact -552.42 -13095.50 114.31; setang -0.00 296.46 0.00><Area 857>" with "autoshotgun"
+L 05/09/2013 - 17:56:49: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><48+0><setpos_exact -1593.20 -13444.46 192.03; setang 8.18 -93.00 0.00><Area 273>" killed "infected<223><><Infected><infected><DEAD><-15><setpos_exact -1617.26 -13645.44 130.03; setang -0.00 77.38 0.00><Area 838>" with "rifle"
+L 05/09/2013 - 17:56:50: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><48+0><setpos_exact -1593.31 -13449.47 192.03; setang 7.52 -87.52 0.00><Area 273>" killed "infected<221><><Infected><infected><DEAD><85><setpos_exact -1599.39 -13518.86 130.03; setang 0.00 87.21 0.00><Area 273>" with "rifle" (headshot)
+L 05/09/2013 - 17:56:50: (DEATH)"Purple Magic<50><STEAM_1:0:591373><Survivor><Coach><ALIVE><58+0><setpos_exact -472.18 -13280.11 182.57; setang 17.82 44.53 0.00><Area 228>" killed "infected<229><><Infected><infected><DEAD><-24><setpos_exact -446.29 -13246.96 120.00; setang -0.00 -127.99 0.00><Area 228>" with "rifle"
+L 05/09/2013 - 17:56:50: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><80+0><setpos_exact -588.21 -12866.52 179.83; setang 10.12 141.18 0.00><Area 14>" killed "infected<251><><Infected><infected><DEAD><-7><setpos_exact -649.82 -12822.17 117.38; setang -0.00 -58.12 0.00><Area 14>" with "autoshotgun"
+L 05/09/2013 - 17:56:51: (DEATH)"Purple Magic<50><STEAM_1:0:591373><Survivor><Coach><ALIVE><58+0><setpos_exact -452.76 -13250.37 182.19; setang 10.56 64.86 0.00><Area 228>" killed "infected<161><><Infected><infected><DEAD><-3><setpos_exact -320.36 -12985.28 115.68; setang -0.00 287.75 0.00><Area 13666>" with "rifle"
+L 05/09/2013 - 17:56:51: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -553.38 -13273.55 250.05; setang 34.46 -155.15 0.00><Area 114989>" killed "infected<57><><Infected><infected><DEAD><-40><setpos_exact -663.99 -13310.92 120.94; setang -0.00 19.08 0.00><Area 7235>" with "rifle_ak47"
+L 05/09/2013 - 17:56:53: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><48+0><setpos_exact -1427.65 -13335.79 206.78; setang 20.33 26.86 0.00><Area 1532>" killed "infected<168><><Infected><infected><DEAD><-15><setpos_exact -1243.58 -13232.95 118.30; setang 0.00 29.35 0.00><Area 252313>" with "rifle"
+L 05/09/2013 - 17:56:54: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -553.38 -13273.55 250.05; setang 27.91 1.15 0.00><Area 114989>" killed "infected<249><><Infected><infected><DEAD><-7><setpos_exact -381.81 -13282.69 118.64; setang -0.00 152.75 0.00><Area 228>" with "rifle_ak47"
+L 05/09/2013 - 17:56:55: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -553.38 -13273.55 250.05; setang 36.41 46.78 0.00><Area 114989>" killed "infected<245><><Infected><infected><DEAD><-7><setpos_exact -468.36 -13196.54 120.42; setang 0.00 295.52 0.00><Area 228>" with "rifle_ak47"
+L 05/09/2013 - 17:56:56: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -553.38 -13273.55 250.05; setang 39.56 25.42 0.00><Area 114989>" killed "infected<177><><Infected><infected><DEAD><-7><setpos_exact -462.65 -13222.15 120.28; setang -0.00 -99.64 0.00><Area 228>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 17:56:57: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><48+0><setpos_exact -707.83 -13132.37 182.46; setang 7.19 15.70 0.00><Area 687>" killed "infected<171><><Infected><infected><DEAD><-15><setpos_exact -464.65 -13080.93 110.99; setang 0.00 -23.49 0.00><Area 228>" with "rifle"
+L 05/09/2013 - 17:56:59: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><46+0><setpos_exact -420.28 -13328.97 181.55; setang 7.85 93.91 0.00><Area 2193>" killed "infected<157><><Infected><infected><DEAD><18><setpos_exact -424.68 -13203.41 119.57; setang 0.00 285.64 0.00><Area 228>" with "rifle" (headshot)
+L 05/09/2013 - 17:57:08: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<77><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -1509.50 -11958.20 175.58; setang 0.21 333.25 0.00><Area 49871>". Victim:"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -818.28 -12335.08 184.25; setang 10.68 100.17 0.00><Area 49806>".
+L 05/09/2013 - 17:57:10: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><80+0><setpos_exact -1023.12 -9768.67 290.27; setang -7.04 88.82 0.00><Area 114987>" killed "infected<179><><Infected><infected><DEAD><-13><setpos_exact -1015.88 -9616.26 261.88; setang -0.00 178.68 0.00><Area 51944>" with "autoshotgun"
+L 05/09/2013 - 17:57:10: (TONGUE) Tongue launching towards victim.  Smoker:"Smoker<77><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -1476.34 -11975.46 179.90; setang 1.77 348.34 0.00><Area 49871>". Victim:"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -847.57 -12122.04 172.36; setang 5.82 95.56 0.00><Area 49814>".
+L 05/09/2013 - 17:57:11: (TONGUE) Tongue grab starting.  Smoker:"Smoker<77><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -1476.34 -11975.46 179.90; setang 1.37 359.84 0.00><Area 49871>". Victim:"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -857.66 -12010.10 177.44; setang 4.85 94.59 0.00><Area 49814>".
+L 05/09/2013 - 17:57:13: (TONGUE) Tongue letting go for a melee.  Smoker:"Smoker<77><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -1476.34 -11975.46 179.90; setang 0.00 155.46 0.00><Area 49871>". Victim:"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -1265.88 -11990.55 183.40; setang -0.97 173.96 0.00><Area 49871>".
+L 05/09/2013 - 17:57:15: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -1341.47 -11983.36 181.72; setang -0.24 168.37 0.00><Area 49871>" killed "Smoker<77><BOT><Infected><SMOKER><DEAD><1+0><setpos -1476.34 -11975.46 117.90; setang 317.04 356.65 0.00><Area 49871>" with "rifle_ak47" (headshot)
+L 05/09/2013 - 17:57:15: "Spitter<78><BOT><>" connected, address "none"
+L 05/09/2013 - 17:57:15: OnEndChangelevel (78): 4 saved players:
+L 05/09/2013 - 17:57:15: 	Hisaki(42), state 1
+L 05/09/2013 - 17:57:15: 	Nemesis(31), state 1
+L 05/09/2013 - 17:57:15: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 17:57:15: 	Purple Magic(50), state 1
+L 05/09/2013 - 17:57:15: "Spitter<78><BOT><>" entered the game
+L 05/09/2013 - 17:57:15: "Spitter<78><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 17:57:15: Spitter spawned as a SPITTER
+L 05/09/2013 - 17:57:15: "Spitter<78><BOT><Infected><SPITTER><ALIVE><100+0><setpos_exact -875.00 -9037.50 553.28; setang 0.00 0.00 0.00><Area 15222>" spawned
+L 05/09/2013 - 17:57:16: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><80+0><setpos_exact -1022.25 -9504.03 325.14; setang 51.48 -146.22 0.00><Area 51944>" killed "infected<243><><Infected><infected><DEAD><-63><setpos_exact -1051.29 -9511.50 283.16; setang 0.00 359.47 0.00><Area 51944>" with "autoshotgun"
+L 05/09/2013 - 17:57:19: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><80+0><setpos_exact -1022.25 -9504.03 325.14; setang 45.32 -116.74 0.00><Area 51944>" killed "infected<167><><Infected><infected><DEAD><-15><setpos_exact -1063.59 -9559.38 274.54; setang 0.00 359.47 0.00><Area 51944>" with "autoshotgun"
+L 05/09/2013 - 17:57:20: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><80+0><setpos_exact -1022.25 -9504.03 325.14; setang 16.28 -115.86 0.00><Area 51944>" killed "infected<182><><Infected><infected><DEAD><-5><setpos_exact -1150.90 -9773.65 223.07; setang 0.00 90.00 0.00><Area 51844>" with "autoshotgun"
+L 05/09/2013 - 17:57:20: ------------------------------ Director state change BUILD_UP -> SUSTAIN_PEAK
+L 05/09/2013 - 17:57:20: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -1197.95 -11552.01 190.03; setang 2.18 -94.30 0.00><Area 51729>" killed "Jockey<76><BOT><Infected><JOCKEY><DEAD><1+0><setpos -1265.51 -12125.12 126.84; setang 349.48 83.28 0.00><Area 159704>" with "rifle_ak47"
+L 05/09/2013 - 17:57:24: "Smoker<77><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 17:57:24: ------------------------------ Director state change SUSTAIN_PEAK -> PEAK_FADE
+L 05/09/2013 - 17:57:27: ------------------------------ Director state change PEAK_FADE -> RELAX
+L 05/09/2013 - 17:57:29: "Jockey<76><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 17:57:38: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -997.96 -9695.24 291.36; setang 24.51 -96.66 0.00><Area 51944>" killed "infected<229><><Infected><infected><DEAD><-7><setpos_exact -1014.63 -9922.61 154.16; setang 0.00 90.82 0.00><Area 114986>" with "rifle_ak47"
+L 05/09/2013 - 17:57:39: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -997.96 -9695.24 291.36; setang 20.39 -93.75 0.00><Area 51944>" killed "infected<239><><Infected><infected><DEAD><-6><setpos_exact -1019.08 -10011.23 136.27; setang -0.00 85.41 0.00><Area 51942>" with "rifle_ak47"
+L 05/09/2013 - 17:57:40: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><46+0><setpos_exact -1083.80 -9733.27 155.45; setang 15.31 -15.55 0.00><Area 50137>" killed "infected<228><><Infected><infected><DEAD><-15><setpos_exact -1004.72 -9741.03 96.03; setang -0.00 61.95 0.00><Area 50493>" with "rifle"
+L 05/09/2013 - 17:57:42: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -997.96 -9695.24 291.36; setang 44.66 -119.23 0.00><Area 51944>" killed "infected<166><><Infected><infected><DEAD><-40><setpos_exact -1076.00 -9821.74 91.76; setang 0.00 58.70 0.00><Area 49986>" with "rifle_ak47"
+L 05/09/2013 - 17:57:53: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><80+0><setpos_exact -1374.24 -9559.72 172.03; setang 32.12 105.10 0.00><Area 26318>" killed "witch<181><><Infected><witch><DEAD><-17><setpos_exact -1375.00 -9525.00 128.03; setang 0.00 284.39 0.00><Area 126615>" with "autoshotgun"
+L 05/09/2013 - 17:58:04: ------------------------------ Director state change RELAX -> BUILD_UP
+L 05/09/2013 - 17:58:04: "Hunter<79><BOT><>" connected, address "none"
+L 05/09/2013 - 17:58:04: OnEndChangelevel (79): 4 saved players:
+L 05/09/2013 - 17:58:04: 	Hisaki(42), state 1
+L 05/09/2013 - 17:58:04: 	Nemesis(31), state 1
+L 05/09/2013 - 17:58:04: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 17:58:04: 	Purple Magic(50), state 1
+L 05/09/2013 - 17:58:04: "Hunter<79><BOT><>" entered the game
+L 05/09/2013 - 17:58:04: "Hunter<79><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 17:58:04: Hunter spawned as a HUNTER
+L 05/09/2013 - 17:58:04: "Hunter<79><BOT><Infected><HUNTER><ALIVE><250+0><setpos_exact -299.14 -8291.57 158.03; setang 0.00 0.00 0.00><Area 31>" spawned
+L 05/09/2013 - 17:58:17: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -1438.03 -9575.54 584.03; setang -24.51 112.31 0.00><Area 294048>" killed "Spitter<78><BOT><Infected><SPITTER><DEAD><1+0><setpos -1474.49 -9474.48 624.03; setang 348.43 289.84 0.00><Area 120564>" with "rifle_ak47"
+L 05/09/2013 - 17:58:17: "Charger<80><BOT><>" connected, address "none"
+L 05/09/2013 - 17:58:17: OnEndChangelevel (80): 4 saved players:
+L 05/09/2013 - 17:58:17: 	Hisaki(42), state 1
+L 05/09/2013 - 17:58:17: 	Nemesis(31), state 1
+L 05/09/2013 - 17:58:17: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 17:58:17: 	Purple Magic(50), state 1
+L 05/09/2013 - 17:58:17: "Charger<80><BOT><>" entered the game
+L 05/09/2013 - 17:58:17: "Charger<80><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 17:58:17: Charger spawned as a CHARGER
+L 05/09/2013 - 17:58:17: "Charger<80><BOT><Infected><CHARGER><ALIVE><600+0><setpos_exact -812.50 -9025.00 542.03; setang 0.00 0.00 0.00><Area 8173>" spawned
+L 05/09/2013 - 17:58:26: "Spitter<78><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 17:58:28: (DEATH)"Purple Magic<50><STEAM_1:0:591373><Survivor><Coach><ALIVE><30+0><setpos_exact -1630.60 -9299.08 670.03; setang 6.34 -140.83 0.00><Area 110155>" killed "Charger<80><BOT><Infected><CHARGER><DEAD><1+0><setpos -1722.66 -9299.94 608.03; setang 306.59 0.54 0.00><Area 110155>" with "rifle"
+L 05/09/2013 - 17:58:38: "Charger<80><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 17:58:38: Hunter starting a lunge, 50 damage interrupts
+L 05/09/2013 - 17:58:39: Hunter ending a lunge
+L 05/09/2013 - 17:58:40: Hunter starting a lunge, 50 damage interrupts
+L 05/09/2013 - 17:58:40: Hunter ending a lunge
+L 05/09/2013 - 17:58:43: Hunter starting a lunge, 50 damage interrupts
+L 05/09/2013 - 17:58:43: Hunter ending a lunge
+L 05/09/2013 - 17:58:45: Hunter starting a lunge, 50 damage interrupts
+L 05/09/2013 - 17:58:46: Hunter ending a lunge
+L 05/09/2013 - 17:58:48: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -681.25 -8297.64 392.03; setang 17.47 -0.31 0.00><Area 13902>" killed "Hunter<79><BOT><Infected><HUNTER><DEAD><1+0><setpos 93.34 -8304.35 96.03; setang 335.36 179.50 0.00><Area 13360>" with "rifle_ak47"
+L 05/09/2013 - 17:58:50: 205.23: (MOB) SpawnMob requested of size 19.
+L 05/09/2013 - 17:58:50: 205.23: (MOB) SpawnMob pending count is now 19.
+L 05/09/2013 - 17:58:51: 205.47: (MOB) Mob zombie spawned, 18 remain.
+L 05/09/2013 - 17:58:51: 205.47: (MOB) Mob zombie spawned, 17 remain.
+L 05/09/2013 - 17:58:51: 205.47: (MOB) Mob zombie spawned, 16 remain.
+L 05/09/2013 - 17:58:51: 205.47: (MOB) Mob zombie spawned, 15 remain.
+L 05/09/2013 - 17:58:51: 205.63: (MOB) Mob zombie spawned, 14 remain.
+L 05/09/2013 - 17:58:51: 205.63: (MOB) Mob zombie spawned, 13 remain.
+L 05/09/2013 - 17:58:51: 205.63: (MOB) Mob zombie spawned, 12 remain.
+L 05/09/2013 - 17:58:51: 205.63: (MOB) Mob zombie spawned, 11 remain.
+L 05/09/2013 - 17:58:51: 205.73: (MOB) Mob zombie spawned, 10 remain.
+L 05/09/2013 - 17:58:51: 205.73: (MOB) Mob zombie spawned, 9 remain.
+L 05/09/2013 - 17:58:51: 205.73: (MOB) Mob zombie spawned, 8 remain.
+L 05/09/2013 - 17:58:51: 205.73: (MOB) Mob zombie spawned, 7 remain.
+L 05/09/2013 - 17:58:51: 205.97: (MOB) Mob zombie spawned, 6 remain.
+L 05/09/2013 - 17:58:51: 205.97: (MOB) Mob zombie spawned, 5 remain.
+L 05/09/2013 - 17:58:52: 206.67: (MOB) Mob zombie spawned, 4 remain.
+L 05/09/2013 - 17:58:52: 206.67: (MOB) Mob zombie spawned, 3 remain.
+L 05/09/2013 - 17:58:52: 206.67: (MOB) Mob zombie spawned, 2 remain.
+L 05/09/2013 - 17:58:52: 206.67: (MOB) Mob zombie spawned, 1 remain.
+L 05/09/2013 - 17:58:52: 206.90: (MOB) Mob zombie spawned, 0 remain.
+L 05/09/2013 - 17:58:52: 206.90: (MOB) Pending mob done.
+L 05/09/2013 - 17:58:54: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><78+0><setpos_exact -565.62 -7262.95 414.03; setang 7.48 101.50 0.00><Area 332901>" killed "infected<176><><Infected><infected><DEAD><-11><setpos_exact -592.89 -7108.92 352.03; setang 0.00 -131.99 0.00><Area 804>" with "autoshotgun"
+L 05/09/2013 - 17:58:56: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -722.06 -7704.57 159.16; setang 11.89 81.49 0.00><Area 1160>" killed "infected<246><><Infected><infected><DEAD><-7><setpos_exact -703.54 -7549.03 105.61; setang 0.00 375.23 0.00><Area 1180>" with "rifle_ak47"
+L 05/09/2013 - 17:58:56: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -717.05 -7694.24 160.09; setang 11.41 81.49 0.00><Area 1656>" killed "infected<163><><Infected><infected><DEAD><-7><setpos_exact -686.22 -7537.78 104.69; setang 0.00 108.45 0.00><Area 1180>" with "rifle_ak47"
+L 05/09/2013 - 17:58:57: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -683.59 -7631.15 161.96; setang 17.23 123.23 0.00><Area 1656>" killed "infected<244><><Infected><infected><DEAD><-7><setpos_exact -729.63 -7540.33 104.35; setang 0.00 -62.42 0.00><Area 126486>" with "rifle_ak47"
+L 05/09/2013 - 17:58:57: "Hunter<79><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 17:59:02: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><78+0><setpos_exact 435.84 -6287.03 418.03; setang 6.16 -3.22 0.00><Area 1952>" killed "infected<170><><Infected><infected><DEAD><-10><setpos_exact 630.31 -6291.04 356.03; setang 0.00 508.46 0.00><Area 15138>" with "autoshotgun"
+L 05/09/2013 - 17:59:02: "Boomer<81><BOT><>" connected, address "none"
+L 05/09/2013 - 17:59:02: OnEndChangelevel (81): 4 saved players:
+L 05/09/2013 - 17:59:02: 	Hisaki(42), state 1
+L 05/09/2013 - 17:59:02: 	Nemesis(31), state 1
+L 05/09/2013 - 17:59:02: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 17:59:02: 	Purple Magic(50), state 1
+L 05/09/2013 - 17:59:02: "Boomer<81><BOT><>" entered the game
+L 05/09/2013 - 17:59:02: "Boomer<81><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 17:59:02: Boomer spawned as a BOOMER
+L 05/09/2013 - 17:59:02: "Boomer<81><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact 2425.00 -5462.50 223.03; setang 0.00 0.00 0.00><Area 77963>" spawned
+L 05/09/2013 - 17:59:04: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><45+0><setpos_exact 132.81 -6476.71 414.03; setang 25.25 26.16 0.00><Area 800>" killed "infected<168><><Infected><infected><DEAD><-23><setpos_exact 356.23 -6369.69 268.03; setang -0.00 204.65 0.00><Area 1013>" with "rifle"
+L 05/09/2013 - 17:59:08: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -763.78 -7493.37 414.03; setang 41.50 -29.92 0.00><Area 126489>" killed "infected<228><><Infected><infected><DEAD><0><setpos_exact -717.70 -7539.53 348.57; setang 0.00 84.29 0.00><Area 126491>" with "melee"
+L 05/09/2013 - 17:59:08: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><61+0><setpos_exact -763.78 -7493.37 414.03; setang 41.50 -29.92 0.00><Area 126489>" killed "infected<223><><Infected><infected><DEAD><0><setpos_exact -716.52 -7518.64 344.74; setang -0.00 82.63 0.00><Area 126491>" with "melee"
+L 05/09/2013 - 17:59:12: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><45+0><setpos_exact 930.83 -5937.72 257.13; setang 13.50 27.02 0.00><Area 2460>" killed "infected<156><><Infected><infected><DEAD><-15><setpos_exact 1084.69 -5847.34 176.03; setang 0.00 74.64 0.00><Area 9585>" with "rifle"
+L 05/09/2013 - 17:59:13: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><45+0><setpos_exact 1011.19 -5942.31 238.03; setang 9.27 36.66 0.00><Area 207982>" killed "infected<159><><Infected><infected><DEAD><-13><setpos_exact 1110.80 -5846.27 189.60; setang -0.00 117.53 0.00><Area 9585>" with "rifle"
+L 05/09/2013 - 17:59:13: "Spitter<82><BOT><>" connected, address "none"
+L 05/09/2013 - 17:59:13: OnEndChangelevel (82): 4 saved players:
+L 05/09/2013 - 17:59:13: 	Hisaki(42), state 1
+L 05/09/2013 - 17:59:13: 	Nemesis(31), state 1
+L 05/09/2013 - 17:59:13: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 17:59:13: 	Purple Magic(50), state 1
+L 05/09/2013 - 17:59:13: "Spitter<82><BOT><>" entered the game
+L 05/09/2013 - 17:59:13: "Spitter<82><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 17:59:13: Spitter spawned as a SPITTER
+L 05/09/2013 - 17:59:13: "Spitter<82><BOT><Infected><SPITTER><ALIVE><100+0><setpos_exact 500.00 -4455.15 162.22; setang 0.00 0.00 0.00><Area 166023>" spawned
+L 05/09/2013 - 17:59:16: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><59+0><setpos_exact -39.12 -6630.53 414.03; setang 27.67 -32.34 0.00><Area 126476>" killed "infected<167><><Infected><infected><DEAD><0><setpos_exact -21.85 -6659.94 352.03; setang 0.00 120.43 0.00><Area 126472>" with "melee"
+L 05/09/2013 - 17:59:18: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><45+0><setpos_exact 1794.66 -5586.02 290.04; setang 7.49 3.19 0.00><Area 14752>" killed "infected<179><><Infected><infected><DEAD><-14><setpos_exact 2162.68 -5564.12 228.04; setang 0.00 4.50 0.00><Area 14709>" with "rifle"
+L 05/09/2013 - 17:59:27: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><78+0><setpos_exact 1648.14 -5140.50 264.03; setang 10.12 154.22 0.00><Area 14542>" killed "Spitter<82><BOT><Infected><SPITTER><DEAD><1+0><setpos 1059.26 -4840.27 100.07; setang 341.13 332.99 0.00><Area 905>" with "dual_pistols"
+L 05/09/2013 - 17:59:29: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><55+0><setpos_exact 716.27 -5969.69 400.03; setang 41.02 -137.92 0.00><Area 13838>" killed "infected<173><><Infected><infected><DEAD><-6><setpos_exact 492.64 -6176.76 99.58; setang -0.00 -7.76 0.00><Area 139898>" with "rifle_ak47"
+L 05/09/2013 - 17:59:31: "Tank<83><BOT><>" connected, address "none"
+L 05/09/2013 - 17:59:31: OnEndChangelevel (83): 4 saved players:
+L 05/09/2013 - 17:59:31: 	Hisaki(42), state 1
+L 05/09/2013 - 17:59:31: 	Nemesis(31), state 1
+L 05/09/2013 - 17:59:31: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 17:59:31: 	Purple Magic(50), state 1
+L 05/09/2013 - 17:59:31: "Tank<83><BOT><>" entered the game
+L 05/09/2013 - 17:59:31: "Tank<83><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 17:59:31: Spitter is updating line of scrimmage at tank battle start
+L 05/09/2013 - 17:59:31: Tank spawned as a TANK
+L 05/09/2013 - 17:59:31: "Tank<83><BOT><Infected><TANK><ALIVE><4000+0><setpos_exact 3787.50 -3212.50 178.03; setang 0.00 0.00 0.00><Area 476>" spawned
+L 05/09/2013 - 17:59:31: Tank offer: making a bot, and giving him to nobody
+L 05/09/2013 - 17:59:32: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><55+0><setpos_exact 716.27 -5969.69 400.03; setang 20.63 -138.65 0.00><Area 13838>" killed "infected<170><><Infected><infected><DEAD><-5><setpos_exact 209.30 -6412.55 100.81; setang -0.00 171.36 0.00><Area 139861>" with "rifle_ak47"
+L 05/09/2013 - 17:59:33: "Smoker<84><BOT><>" connected, address "none"
+L 05/09/2013 - 17:59:33: OnEndChangelevel (84): 4 saved players:
+L 05/09/2013 - 17:59:33: 	Hisaki(42), state 1
+L 05/09/2013 - 17:59:33: 	Nemesis(31), state 1
+L 05/09/2013 - 17:59:33: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 17:59:33: 	Purple Magic(50), state 1
+L 05/09/2013 - 17:59:33: "Smoker<84><BOT><>" entered the game
+L 05/09/2013 - 17:59:33: "Smoker<84><BOT><Unassigned>" joined team "Spectator"
+L 05/09/2013 - 17:59:33: Smoker spawned as a Unknown
+L 05/09/2013 - 17:59:33: "Smoker<84><BOT><Spectator><><DEAD><1+0><setpos -1717.21 -13756.91 192.28; setang 0.00 236.51 0.00><Area 3192>" spawned
+L 05/09/2013 - 17:59:33: "Jockey<85><BOT><>" connected, address "none"
+L 05/09/2013 - 17:59:33: OnEndChangelevel (85): 4 saved players:
+L 05/09/2013 - 17:59:33: 	Hisaki(42), state 1
+L 05/09/2013 - 17:59:33: 	Nemesis(31), state 1
+L 05/09/2013 - 17:59:33: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 17:59:33: 	Purple Magic(50), state 1
+L 05/09/2013 - 17:59:33: "Jockey<85><BOT><>" entered the game
+L 05/09/2013 - 17:59:33: "Jockey<85><BOT><Unassigned>" joined team "Spectator"
+L 05/09/2013 - 17:59:33: Jockey spawned as a Unknown
+L 05/09/2013 - 17:59:33: "Jockey<85><BOT><Spectator><><DEAD><1+0><setpos -1855.58 -13659.68 192.28; setang 0.00 20.80 0.00><Area 222>" spawned
+L 05/09/2013 - 17:59:33: "Charger<86><BOT><>" connected, address "none"
+L 05/09/2013 - 17:59:33: OnEndChangelevel (86): 4 saved players:
+L 05/09/2013 - 17:59:33: 	Hisaki(42), state 1
+L 05/09/2013 - 17:59:33: 	Nemesis(31), state 1
+L 05/09/2013 - 17:59:33: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 17:59:33: 	Purple Magic(50), state 1
+L 05/09/2013 - 17:59:33: "Charger<86><BOT><>" entered the game
+L 05/09/2013 - 17:59:33: "Charger<86><BOT><Unassigned>" joined team "Spectator"
+L 05/09/2013 - 17:59:33: Charger spawned as a Unknown
+L 05/09/2013 - 17:59:33: "Charger<86><BOT><Spectator><><DEAD><1+0><setpos -1838.70 -13747.29 192.03; setang 0.00 256.67 0.00><Area 222>" spawned
+L 05/09/2013 - 17:59:33: "Smoker<84><BOT><Spectator>" disconnected (reason "Kicked by Console : infected team is full")
+L 05/09/2013 - 17:59:33: "Jockey<85><BOT><Spectator>" disconnected (reason "Kicked by Console : infected team is full")
+L 05/09/2013 - 17:59:33: "Charger<86><BOT><Spectator>" disconnected (reason "Kicked by Console : infected team is full")
+L 05/09/2013 - 17:59:33: "Hunter<87><BOT><>" connected, address "none"
+L 05/09/2013 - 17:59:33: OnEndChangelevel (87): 4 saved players:
+L 05/09/2013 - 17:59:33: 	Hisaki(42), state 1
+L 05/09/2013 - 17:59:33: 	Nemesis(31), state 1
+L 05/09/2013 - 17:59:33: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 17:59:33: 	Purple Magic(50), state 1
+L 05/09/2013 - 17:59:33: "Hunter<87><BOT><>" entered the game
+L 05/09/2013 - 17:59:33: "Hunter<87><BOT><Unassigned>" joined team "Spectator"
+L 05/09/2013 - 17:59:33: Hunter spawned as a Unknown
+L 05/09/2013 - 17:59:33: "Hunter<87><BOT><Spectator><><DEAD><1+0><setpos -1845.94 -13690.11 192.03; setang 0.00 81.96 0.00><Area 222>" spawned
+L 05/09/2013 - 17:59:33: "Hunter<87><BOT><Spectator>" disconnected (reason "Kicked by Console : infected team is full")
+L 05/09/2013 - 17:59:36: "Spitter<82><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 17:59:37: "Purple Magic<50><STEAM_1:0:591373><Survivor><Coach><ALIVE><28+0><setpos_exact 742.00 -5912.70 407.86; setang 45.14 65.39 0.00><Area 5195>" used adrenaline
+L 05/09/2013 - 17:59:38: "Smoker<88><BOT><>" connected, address "none"
+L 05/09/2013 - 17:59:38: OnEndChangelevel (88): 4 saved players:
+L 05/09/2013 - 17:59:38: 	Hisaki(42), state 1
+L 05/09/2013 - 17:59:38: 	Nemesis(31), state 1
+L 05/09/2013 - 17:59:38: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 17:59:38: 	Purple Magic(50), state 1
+L 05/09/2013 - 17:59:38: "Smoker<88><BOT><>" entered the game
+L 05/09/2013 - 17:59:38: "Smoker<88><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 17:59:38: Smoker spawned as a SMOKER
+L 05/09/2013 - 17:59:38: "Smoker<88><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2688.44 -6275.00 505.40; setang 0.00 0.00 0.00><Area 1973>" spawned
+L 05/09/2013 - 17:59:40: (DEATH)"Purple Magic<50><STEAM_1:0:591373><Survivor><Coach><ALIVE><28+24><setpos_exact 1193.90 -5698.72 235.64; setang 8.38 32.39 0.00><Area 13450>" killed "infected<180><><Infected><infected><DEAD><0><setpos_exact 1173.77 -5726.42 104.03; setang 0.00 43.99 0.00><Area 13450>" with "rifle"
+L 05/09/2013 - 17:59:42: "Smoker<88><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2842.09 -5940.98 184.22; setang 0.94 179.07 0.00><Area 934>" landed
+L 05/09/2013 - 17:59:47: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><45+0><setpos_exact 2482.43 -4264.96 361.41; setang 29.40 -170.82 0.00><Area 14099>" killed "infected<168><><Infected><infected><DEAD><-15><setpos_exact 2337.01 -4266.77 285.18; setang 0.00 -0.00 0.00><Area 1293>" with "rifle"
+L 05/09/2013 - 17:59:58: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><78+0><setpos_exact 3511.48 -3814.50 418.03; setang -5.28 114.18 0.00><Area 126167>" killed "infected<168><><Infected><infected><DEAD><-16><setpos_exact 3376.59 -3510.76 419.80; setang 0.00 307.71 0.00><Area 12100>" with "shotgun_spas"
+L 05/09/2013 - 17:59:58: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><55+0><setpos_exact 2248.81 -5448.33 325.90; setang 54.37 29.30 0.00><Area 14938>" killed "infected<248><><Infected><infected><DEAD><-7><setpos_exact 2306.19 -5417.03 212.81; setang 0.00 180.00 0.00><Area 49780>" with "rifle_ak47"
+L 05/09/2013 - 17:59:59: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><55+0><setpos_exact 2248.81 -5448.33 325.90; setang 48.06 24.21 0.00><Area 14938>" killed "infected<250><><Infected><infected><DEAD><-7><setpos_exact 2339.14 -5393.41 194.03; setang -0.00 56.66 0.00><Area 233266>" with "rifle_ak47"
+L 05/09/2013 - 18:00:01: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><78+0><setpos_exact 3527.43 -3729.53 418.03; setang -3.96 75.90 0.00><Area 126168>" killed "infected<239><><Infected><infected><DEAD><-8><setpos_exact 3650.68 -3243.09 405.61; setang -0.00 -132.68 0.00><Area 12149>" with "shotgun_spas"
+L 05/09/2013 - 18:00:04: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><45+0><setpos_exact 3508.56 -3836.02 418.03; setang 25.64 -114.65 0.00><Area 12716>" killed "infected<227><><Infected><infected><DEAD><-15><setpos_exact 3491.33 -3869.03 360.03; setang 0.00 62.44 0.00><Area 4594>" with "rifle"
+L 05/09/2013 - 18:00:04: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><45+0><setpos_exact 3508.56 -3836.02 418.03; setang 21.68 -115.18 0.00><Area 12716>" killed "infected<173><><Infected><infected><DEAD><-15><setpos_exact 3463.88 -3922.56 360.03; setang 0.00 86.01 0.00><Area 40044>" with "rifle"
+L 05/09/2013 - 18:00:05: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><45+0><setpos_exact 3508.56 -3836.02 418.03; setang 22.08 -54.46 0.00><Area 12716>" killed "infected<223><><Infected><infected><DEAD><-15><setpos_exact 3541.72 -3886.16 355.98; setang 0.00 56.11 0.00><Area 12715>" with "rifle"
+L 05/09/2013 - 18:00:06: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<88><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2715.42 -5313.85 182.03; setang 1.15 164.16 0.00><Area 4106>". Victim:"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><55+0><setpos_exact 2436.14 -5309.68 256.03; setang 24.03 154.30 0.00><Area 45860>".
+L 05/09/2013 - 18:00:07: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<88><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2696.53 -5282.20 182.03; setang -2.83 159.26 0.00><Area 1811>". Victim:"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><55+0><setpos_exact 2418.03 -5304.61 256.03; setang 11.16 169.10 0.00><Area 13756>".
+L 05/09/2013 - 18:00:09: (TONGUE) Tongue launching towards victim.  Smoker:"Smoker<88><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2696.53 -5282.20 182.03; setang 349.85 182.94 0.00><Area 1811>". Victim:"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><55+0><setpos_exact 2352.03 -5299.93 249.37; setang 8.74 -3.95 0.00><Area 13755>".
+L 05/09/2013 - 18:00:09: (TONGUE) Tongue grab starting.  Smoker:"Smoker<88><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2696.53 -5282.20 182.03; setang 351.67 182.94 0.00><Area 1811>". Victim:"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><55+0><setpos_exact 2352.03 -5299.93 238.03; setang 11.89 1.39 0.00><Area 13755>".
+L 05/09/2013 - 18:00:09: (TONGUE) Tongue letting go for taking too much damage.  Smoker:"Smoker<88><BOT><Infected><SMOKER><ALIVE><180+0><setpos_exact 2696.53 -5282.20 182.03; setang 351.67 182.94 0.00><Area 1811>". Victim:"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><55+0><setpos_exact 2352.03 -5299.93 238.03; setang 11.65 2.85 0.00><Area 13755>".
+L 05/09/2013 - 18:00:09: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><55+0><setpos_exact 2352.03 -5299.93 238.03; setang 11.65 2.85 0.00><Area 13755>" killed "Smoker<88><BOT><Infected><SMOKER><DEAD><1+0><setpos 2696.53 -5282.20 120.03; setang 332.44 182.95 0.00><Area 1811>" with "rifle_ak47"
+L 05/09/2013 - 18:00:11: (DEATH)"Purple Magic<50><STEAM_1:0:591373><Survivor><Coach><ALIVE><25+15><setpos_exact 1247.52 -4600.33 146.51; setang 3.56 155.71 0.00><Area 11273>" killed "infected<184><><Infected><infected><DEAD><52><setpos_exact 1095.22 -4535.83 99.04; setang -0.00 338.01 0.00><Area 906>" with "rifle" (headshot)
+L 05/09/2013 - 18:00:11: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><45+0><setpos_exact 3606.80 -3525.46 310.03; setang 8.02 73.16 0.00><Area 2726>" killed "infected<157><><Infected><infected><DEAD><-15><setpos_exact 3648.32 -3376.22 248.03; setang -0.00 -154.98 0.00><Area 213>" with "rifle"
+L 05/09/2013 - 18:00:12: "Spitter<89><BOT><>" connected, address "none"
+L 05/09/2013 - 18:00:12: OnEndChangelevel (89): 4 saved players:
+L 05/09/2013 - 18:00:12: 	Hisaki(42), state 1
+L 05/09/2013 - 18:00:12: 	Nemesis(31), state 1
+L 05/09/2013 - 18:00:12: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 18:00:12: 	Purple Magic(50), state 1
+L 05/09/2013 - 18:00:12: "Spitter<89><BOT><>" entered the game
+L 05/09/2013 - 18:00:12: "Spitter<89><BOT><Unassigned>" joined team "Spectator"
+L 05/09/2013 - 18:00:12: Spitter spawned as a Unknown
+L 05/09/2013 - 18:00:12: "Spitter<89><BOT><Spectator><><DEAD><1+0><setpos -1813.26 -13712.73 192.03; setang 0.00 115.20 0.00><Area 222>" spawned
+L 05/09/2013 - 18:00:12: "Jockey<90><BOT><>" connected, address "none"
+L 05/09/2013 - 18:00:12: OnEndChangelevel (90): 4 saved players:
+L 05/09/2013 - 18:00:12: 	Hisaki(42), state 1
+L 05/09/2013 - 18:00:12: 	Nemesis(31), state 1
+L 05/09/2013 - 18:00:12: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 18:00:12: 	Purple Magic(50), state 1
+L 05/09/2013 - 18:00:12: "Jockey<90><BOT><>" entered the game
+L 05/09/2013 - 18:00:12: "Jockey<90><BOT><Unassigned>" joined team "Spectator"
+L 05/09/2013 - 18:00:12: Jockey spawned as a Unknown
+L 05/09/2013 - 18:00:12: "Jockey<90><BOT><Spectator><><DEAD><1+0><setpos -1760.11 -13628.03 192.03; setang 0.00 197.88 0.00><Area 222>" spawned
+L 05/09/2013 - 18:00:12: "Charger<91><BOT><>" connected, address "none"
+L 05/09/2013 - 18:00:12: OnEndChangelevel (91): 4 saved players:
+L 05/09/2013 - 18:00:12: 	Hisaki(42), state 1
+L 05/09/2013 - 18:00:12: 	Nemesis(31), state 1
+L 05/09/2013 - 18:00:12: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 18:00:12: 	Purple Magic(50), state 1
+L 05/09/2013 - 18:00:12: "Charger<91><BOT><>" entered the game
+L 05/09/2013 - 18:00:12: "Charger<91><BOT><Unassigned>" joined team "Spectator"
+L 05/09/2013 - 18:00:12: Charger spawned as a Unknown
+L 05/09/2013 - 18:00:12: "Charger<91><BOT><Spectator><><DEAD><1+0><setpos -1858.93 -13654.77 192.28; setang 0.00 2.17 0.00><Area 222>" spawned
+L 05/09/2013 - 18:00:12: "Hunter<92><BOT><>" connected, address "none"
+L 05/09/2013 - 18:00:12: OnEndChangelevel (92): 4 saved players:
+L 05/09/2013 - 18:00:12: 	Hisaki(42), state 1
+L 05/09/2013 - 18:00:12: 	Nemesis(31), state 1
+L 05/09/2013 - 18:00:12: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 18:00:12: 	Purple Magic(50), state 1
+L 05/09/2013 - 18:00:12: "Hunter<92><BOT><>" entered the game
+L 05/09/2013 - 18:00:12: "Hunter<92><BOT><Unassigned>" joined team "Spectator"
+L 05/09/2013 - 18:00:12: Hunter spawned as a Unknown
+L 05/09/2013 - 18:00:12: "Hunter<92><BOT><Spectator><><DEAD><1+0><setpos -1705.30 -13664.20 192.03; setang 0.00 295.20 0.00><Area 1530>" spawned
+L 05/09/2013 - 18:00:12: "Spitter<89><BOT><Spectator>" disconnected (reason "Kicked by Console : infected team is full")
+L 05/09/2013 - 18:00:12: "Jockey<90><BOT><Spectator>" disconnected (reason "Kicked by Console : infected team is full")
+L 05/09/2013 - 18:00:12: "Charger<91><BOT><Spectator>" disconnected (reason "Kicked by Console : infected team is full")
+L 05/09/2013 - 18:00:12: "Hunter<92><BOT><Spectator>" disconnected (reason "Kicked by Console : infected team is full")
+L 05/09/2013 - 18:00:14: (DEATH)"Purple Magic<50><STEAM_1:0:591373><Survivor><Coach><ALIVE><25+14><setpos_exact 1370.20 -4516.58 158.23; setang 7.46 -98.09 0.00><Area 453>" killed "infected<249><><Infected><infected><DEAD><-15><setpos_exact 1352.92 -4641.62 100.66; setang -0.00 10.52 0.00><Area 202153>" with "rifle"
+L 05/09/2013 - 18:00:17: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><78+0><setpos_exact 3619.85 -2712.49 162.11; setang 4.84 -169.18 0.00><Area 252358>" killed "infected<248><><Infected><infected><DEAD><-15><setpos_exact 3260.68 -2792.96 101.51; setang 0.00 332.12 0.00><Area 238548>" with "shotgun_spas"
+L 05/09/2013 - 18:00:18: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><78+0><setpos_exact 3617.12 -2596.01 159.67; setang 4.84 -91.30 0.00><Area 252359>" killed "infected<244><><Infected><infected><DEAD><-21><setpos_exact 3611.28 -2845.05 105.59; setang 0.00 275.03 0.00><Area 190294>" with "shotgun_spas"
+L 05/09/2013 - 18:00:18: "Smoker<88><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 18:00:19: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><43+0><setpos_exact 3638.04 -2866.34 167.55; setang 3.07 -179.90 0.00><Area 190264>" killed "infected<185><><Infected><infected><DEAD><-24><setpos_exact 3264.06 -2862.67 103.10; setang 0.00 117.03 0.00><Area 238548>" with "rifle"
+L 05/09/2013 - 18:00:21: (DEATH)"Purple Magic<50><STEAM_1:0:591373><Survivor><Coach><ALIVE><23+13><setpos_exact 1620.39 -4311.14 196.04; setang 35.05 35.69 0.00><Area 172561>" killed "infected<169><><Infected><infected><DEAD><-15><setpos_exact 1652.20 -4277.74 131.50; setang -0.00 -133.55 0.00><Area 182108>" with "rifle"
+L 05/09/2013 - 18:00:22: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><55+0><setpos_exact 1219.59 -5125.66 264.03; setang 8.01 169.34 0.00><Area 14533>" killed "infected<156><><Infected><infected><DEAD><-5><setpos_exact 381.67 -4968.46 96.03; setang 0.00 446.30 0.00><Area 132>" with "rifle_ak47"
+L 05/09/2013 - 18:00:25: Tank rock models/props_debris/concrete_chunk01a.mdl
+L 05/09/2013 - 18:00:27: "Spitter<93><BOT><>" connected, address "none"
+L 05/09/2013 - 18:00:27: OnEndChangelevel (93): 4 saved players:
+L 05/09/2013 - 18:00:27: 	Hisaki(42), state 1
+L 05/09/2013 - 18:00:27: 	Nemesis(31), state 1
+L 05/09/2013 - 18:00:27: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 18:00:27: 	Purple Magic(50), state 1
+L 05/09/2013 - 18:00:27: "Spitter<93><BOT><>" entered the game
+L 05/09/2013 - 18:00:27: "Spitter<93><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 18:00:27: Spitter spawned as a SPITTER
+L 05/09/2013 - 18:00:27: "Spitter<93><BOT><Infected><SPITTER><ALIVE><100+0><setpos_exact 4497.66 -3786.14 324.08; setang 0.00 0.00 0.00><Area 13693>" spawned
+L 05/09/2013 - 18:00:29: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><40+0><setpos_exact 3901.43 -2139.20 166.28; setang 18.18 -101.32 0.00><Area 598>" killed "infected<241><><Infected><infected><DEAD><-15><setpos_exact 3891.84 -2182.14 104.28; setang -0.00 77.17 0.00><Area 13348>" with "rifle"
+L 05/09/2013 - 18:00:30: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><40+0><setpos_exact 3899.95 -2135.33 166.28; setang 23.27 -43.97 0.00><Area 598>" killed "infected<166><><Infected><infected><DEAD><-15><setpos_exact 3939.74 -2158.39 104.28; setang -0.00 148.55 0.00><Area 598>" with "rifle"
+L 05/09/2013 - 18:00:32: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><40+0><setpos_exact 3890.00 -1998.03 166.28; setang 1.62 -87.00 0.00><Area 598>" killed "infected<243><><Infected><infected><DEAD><-15><setpos_exact 3903.01 -2254.59 104.28; setang -0.00 78.58 0.00><Area 597>" with "rifle" (headshot)
+L 05/09/2013 - 18:00:33: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><ALIVE><40+0><setpos_exact 3890.00 -1998.03 166.28; setang 4.85 -94.20 0.00><Area 598>" killed "infected<177><><Infected><infected><DEAD><20><setpos_exact 3877.16 -2163.75 104.28; setang 0.00 74.41 0.00><Area 598>" with "rifle" (headshot)
+L 05/09/2013 - 18:00:38: (INCAP) "Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><INCAP><16+0><setpos_exact 3870.11 -2184.03 166.28; setang -0.49 73.81 0.00><Area 13348>" is incapacitated
+L 05/09/2013 - 18:00:38: (INCAP)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><INCAP><300+0><setpos_exact 3870.11 -2184.03 166.28; setang -0.49 73.81 0.00><Area 13348>" was incapped by "Tank<83><BOT><Infected><TANK><ALIVE><2912+0><setpos_exact 3876.16 -2127.30 166.28; setang 11.68 261.99 0.00><Area 598>" with "tank_claw"
+L 05/09/2013 - 18:00:38: ------------------------------ Director state change BUILD_UP -> SUSTAIN_PEAK
+L 05/09/2013 - 18:00:39: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><INCAP><295+0><setpos_exact 3865.27 -2200.15 128.28; setang -28.99 80.85 0.00><Area 13348>" killed "infected<226><><Infected><infected><DEAD><-31><setpos_exact 3858.45 -2182.12 104.28; setang 0.00 -57.06 0.00><Area 13348>" with "dual_pistols"
+L 05/09/2013 - 18:00:40: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><INCAP><294+0><setpos_exact 3865.27 -2200.15 128.28; setang -32.01 107.68 0.00><Area 13348>" killed "infected<245><><Infected><infected><DEAD><-21><setpos_exact 3853.60 -2171.32 104.28; setang -0.00 116.75 0.00><Area 598>" with "dual_pistols"
+L 05/09/2013 - 18:00:42: (MOB) 14 wanderers grabbed for an IT mob of desired size 30.
+L 05/09/2013 - 18:00:42: 316.50: (MOB) SpawnITMob requested of size 16.
+L 05/09/2013 - 18:00:42: 316.50: (MOB) SpawnITMob will make 16.
+L 05/09/2013 - 18:00:42: 316.50: (MOB) Mob zombie spawned, 15 remain.
+L 05/09/2013 - 18:00:42: 316.50: (MOB) Mob zombie spawned, 14 remain.
+L 05/09/2013 - 18:00:42: 316.50: (MOB) Mob zombie spawned, 13 remain.
+L 05/09/2013 - 18:00:42: 316.50: (MOB) Mob zombie spawned, 12 remain.
+L 05/09/2013 - 18:00:42: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><INCAP><288+0><setpos_exact 3865.27 -2200.15 128.28; setang -16.87 131.64 0.00><Area 13348>" killed "infected<57><><Infected><infected><DEAD><-21><setpos_exact 3856.97 -2196.06 104.28; setang 0.00 167.14 0.00><Area 13348>" with "dual_pistols"
+L 05/09/2013 - 18:00:42: ------------------------------ Director state change SUSTAIN_PEAK -> PEAK_FADE
+L 05/09/2013 - 18:00:42: 317.10: (MOB) Mob zombie spawned, 11 remain.
+L 05/09/2013 - 18:00:42: 317.10: (MOB) Mob zombie spawned, 10 remain.
+L 05/09/2013 - 18:00:42: 317.10: (MOB) Mob zombie spawned, 9 remain.
+L 05/09/2013 - 18:00:42: 317.10: (MOB) Mob zombie spawned, 8 remain.
+L 05/09/2013 - 18:00:43: 317.83: (MOB) Mob zombie spawned, 7 remain.
+L 05/09/2013 - 18:00:43: 317.83: (MOB) Mob zombie spawned, 6 remain.
+L 05/09/2013 - 18:00:43: 317.83: (MOB) Mob zombie spawned, 5 remain.
+L 05/09/2013 - 18:00:43: 317.83: (MOB) Mob zombie spawned, 4 remain.
+L 05/09/2013 - 18:00:43: Tank rock models/props_debris/concrete_chunk01a.mdl
+L 05/09/2013 - 18:00:44: 318.77: (MOB) Mob zombie spawned, 3 remain.
+L 05/09/2013 - 18:00:44: 318.77: (MOB) Mob zombie spawned, 2 remain.
+L 05/09/2013 - 18:00:44: 318.77: (MOB) Mob zombie spawned, 1 remain.
+L 05/09/2013 - 18:00:44: 318.77: (MOB) Mob zombie spawned, 0 remain.
+L 05/09/2013 - 18:00:44: 318.77: (MOB) Pending mob done.
+L 05/09/2013 - 18:00:44: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><INCAP><249+0><setpos_exact 3865.27 -2200.15 128.28; setang -37.92 -51.65 0.00><Area 13348>" killed "infected<242><><Infected><infected><DEAD><-20><setpos_exact 3878.06 -2230.07 104.28; setang 0.00 113.15 0.00><Area 597>" with "dual_pistols"
+L 05/09/2013 - 18:00:45: (DEATH)"Boomer<81><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact 3850.19 -2249.20 166.28; setang 13.47 72.91 0.00><Area 597>" killed "infected<247><><Infected><infected><DEAD><0><setpos_exact 3874.89 -2236.35 104.28; setang 0.00 109.18 0.00><Area 597>" with "boomer_claw"
+L 05/09/2013 - 18:00:45: Spitter projectile spawned at 3865.639160 -2298.083496 163.871597, velocity -3.355947 895.709534 -87.710251
+L 05/09/2013 - 18:00:46: (DEATH)"Boomer<81><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact 3850.19 -2249.20 166.28; setang 13.47 72.91 0.00><Area 597>" killed "infected<257><><Infected><infected><DEAD><0><setpos_exact 3890.72 -2237.93 104.28; setang 0.00 113.06 0.00><Area 597>" with "boomer_claw"
+L 05/09/2013 - 18:00:47: (DEATH)"Boomer<81><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact 3847.98 -2246.37 166.28; setang 13.85 69.83 0.00><Area 597>" killed "infected<361><><Infected><infected><DEAD><0><setpos_exact 3884.55 -2240.09 104.28; setang 0.00 115.76 0.00><Area 597>" with "boomer_claw"
+L 05/09/2013 - 18:00:47: (DEATH)"Boomer<81><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact 3847.98 -2246.37 166.28; setang 13.85 69.83 0.00><Area 597>" killed "infected<254><><Infected><infected><DEAD><0><setpos_exact 3879.21 -2219.45 104.28; setang 0.00 125.83 0.00><Area 597>" with "boomer_claw"
+L 05/09/2013 - 18:00:47: (DEATH)"Boomer<81><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact 3847.98 -2246.37 166.28; setang 13.85 69.83 0.00><Area 597>" killed "infected<255><><Infected><infected><DEAD><0><setpos_exact 3901.88 -2231.51 104.28; setang 0.00 139.42 0.00><Area 597>" with "boomer_claw"
+L 05/09/2013 - 18:00:47: (DEATH)"Boomer<81><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact 3847.50 -2246.18 166.28; setang 13.99 69.48 0.00><Area 597>" killed "infected<256><><Infected><infected><DEAD><0><setpos_exact 3900.50 -2205.35 104.28; setang 0.00 171.60 0.00><Area 597>" with "boomer_claw"
+L 05/09/2013 - 18:00:47: (DEATH)"Boomer<81><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact 3847.50 -2246.18 166.28; setang 13.99 69.48 0.00><Area 597>" killed "infected<363><><Infected><infected><DEAD><0><setpos_exact 3867.87 -2204.30 104.28; setang 0.00 121.96 0.00><Area 597>" with "boomer_claw"
+L 05/09/2013 - 18:00:47: (DEATH)"Spitter<93><BOT><Infected><SPITTER><ALIVE><100+0><setpos_exact 3879.42 -2269.81 166.28; setang 9.66 97.89 0.00><Area 597>" killed "infected<362><><Infected><infected><DEAD><0><setpos_exact 3884.28 -2267.73 104.28; setang -0.00 100.41 0.00><Area 597>" with "spitter_claw"
+L 05/09/2013 - 18:00:48: (DEATH)"Boomer<81><BOT><Infected><BOOMER><ALIVE><48+0><setpos_exact 3846.51 -2245.75 166.28; setang 14.00 67.64 0.00><Area 597>" killed "infected<222><><Infected><infected><DEAD><0><setpos_exact 3873.65 -2235.43 104.28; setang 0.00 98.34 0.00><Area 597>" with "boomer_claw"
+L 05/09/2013 - 18:00:48: (DEATH)"Boomer<81><BOT><Infected><BOOMER><ALIVE><48+0><setpos_exact 3846.51 -2245.75 166.28; setang 14.00 67.64 0.00><Area 597>" killed "infected<163><><Infected><infected><DEAD><0><setpos_exact 3868.75 -2224.37 104.28; setang 0.00 98.18 0.00><Area 597>" with "boomer_claw"
+L 05/09/2013 - 18:00:48: (DEATH)"Boomer<81><BOT><Infected><BOOMER><ALIVE><48+0><setpos_exact 3846.51 -2245.75 166.28; setang 14.00 67.64 0.00><Area 597>" killed "infected<168><><Infected><infected><DEAD><0><setpos_exact 3881.76 -2241.10 104.28; setang 0.00 102.38 0.00><Area 597>" with "boomer_claw"
+L 05/09/2013 - 18:00:48: (DEATH)"Boomer<81><BOT><Infected><BOOMER><ALIVE><48+0><setpos_exact 3846.51 -2245.75 166.28; setang 14.00 67.64 0.00><Area 597>" killed "infected<250><><Infected><infected><DEAD><0><setpos_exact 3882.69 -2220.89 104.28; setang 0.00 130.02 0.00><Area 597>" with "boomer_claw"
+L 05/09/2013 - 18:00:48: (DEATH)"Boomer<81><BOT><Infected><BOOMER><ALIVE><48+0><setpos_exact 3846.51 -2245.75 166.28; setang 14.00 67.64 0.00><Area 597>" killed "infected<157><><Infected><infected><DEAD><0><setpos_exact 3891.72 -2224.38 104.28; setang 0.00 120.62 0.00><Area 597>" with "boomer_claw"
+L 05/09/2013 - 18:00:48: (DEATH)"Boomer<81><BOT><Infected><BOOMER><ALIVE><48+0><setpos_exact 3846.51 -2245.75 166.28; setang 14.00 67.64 0.00><Area 597>" killed "infected<252><><Infected><infected><DEAD><0><setpos_exact 3896.78 -2238.16 104.28; setang 0.00 129.65 0.00><Area 597>" with "boomer_claw"
+L 05/09/2013 - 18:00:49: (DEATH)"Spitter<93><BOT><Infected><SPITTER><ALIVE><98+0><setpos_exact 3858.50 -2194.19 166.28; setang 53.51 287.33 0.00><Area 13348>" killed "infected<364><><Infected><infected><DEAD><0><setpos_exact 3898.79 -2198.39 104.28; setang 0.00 180.66 0.00><Area 597>" with "spitter_claw"
+L 05/09/2013 - 18:00:49: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><INCAP><154+0><setpos_exact 3865.27 -2200.15 128.28; setang -41.30 -107.41 0.00><Area 13348>" killed "infected<182><><Infected><infected><DEAD><-21><setpos_exact 3857.61 -2217.63 104.28; setang 0.00 66.33 0.00><Area 597>" with "dual_pistols"
+L 05/09/2013 - 18:00:49: (DEATH)"Boomer<81><BOT><Infected><BOOMER><ALIVE><13+0><setpos_exact 3846.51 -2245.75 166.28; setang 14.00 67.64 0.00><Area 597>" killed "infected<251><><Infected><infected><DEAD><0><setpos_exact 3879.11 -2235.57 104.28; setang 0.00 111.34 0.00><Area 597>" with "boomer_claw"
+L 05/09/2013 - 18:00:49: (DEATH)"Boomer<81><BOT><Infected><BOOMER><ALIVE><13+0><setpos_exact 3846.51 -2245.75 166.28; setang 14.00 67.64 0.00><Area 597>" killed "infected<166><><Infected><infected><DEAD><0><setpos_exact 3881.64 -2223.00 104.28; setang 0.00 111.69 0.00><Area 597>" with "boomer_claw"
+L 05/09/2013 - 18:00:49: (DEATH)"Boomer<81><BOT><Infected><BOOMER><ALIVE><13+0><setpos_exact 3846.51 -2245.75 166.28; setang 14.00 67.64 0.00><Area 597>" killed "infected<167><><Infected><infected><DEAD><0><setpos_exact 3882.21 -2214.81 104.28; setang 0.00 139.12 0.00><Area 597>" with "boomer_claw"
+L 05/09/2013 - 18:00:50: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><INCAP><143+0><setpos_exact 3865.27 -2200.15 128.28; setang -38.54 -111.82 0.00><Area 13348>" killed "Spitter<93><BOT><Infected><SPITTER><DEAD><1+0><setpos 3866.28 -2195.88 104.28; setang 272.92 256.68 0.00><Area 13348>" with "dual_pistols"
+L 05/09/2013 - 18:00:52: (DEATH)"Boomer<81><BOT><Infected><BOOMER><ALIVE><13+0><setpos_exact 3846.51 -2245.75 166.28; setang 14.00 67.64 0.00><Area 597>" killed "infected<177><><Infected><infected><DEAD><0><setpos_exact 3880.46 -2230.53 104.28; setang 0.00 116.56 0.00><Area 597>" with "boomer_claw"
+L 05/09/2013 - 18:00:53: (DEATH)"Boomer<81><BOT><Infected><BOOMER><ALIVE><13+0><setpos_exact 3846.51 -2245.75 166.28; setang 14.00 67.64 0.00><Area 597>" killed "infected<241><><Infected><infected><DEAD><0><setpos_exact 3875.26 -2204.45 104.28; setang 0.00 156.69 0.00><Area 597>" with "boomer_claw"
+L 05/09/2013 - 18:00:53: (DEATH)"Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><INCAP><70+0><setpos_exact 3865.27 -2200.15 128.28; setang -2.96 -130.13 0.00><Area 13348>" killed "Boomer<81><BOT><Infected><BOOMER><DEAD><1+0><setpos 3846.51 -2245.75 104.28; setang 299.83 67.64 0.00><Area 597>" with "dual_pistols"
+L 05/09/2013 - 18:00:54: (INCAP) "Purple Magic<50><STEAM_1:0:591373><Survivor><Coach><INCAP><23+4><setpos_exact 2762.86 -4795.99 190.23; setang 19.14 -15.43 0.00><Area 953>" is incapacitated
+L 05/09/2013 - 18:00:54: (INCAP)"Purple Magic<50><STEAM_1:0:591373><Survivor><Coach><INCAP><300+4><setpos_exact 2762.86 -4795.99 190.23; setang 19.14 -15.43 0.00><Area 953>" was incapped from unknown attacker (probably World)
+L 05/09/2013 - 18:00:56: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><55+0><setpos_exact 3705.79 -3156.10 304.03; setang 18.45 104.30 0.00><Area 190330>" killed "infected<172><><Infected><infected><DEAD><-6><setpos_exact 3574.59 -2659.90 98.92; setang 0.00 141.72 0.00><Area 252358>" with "rifle_ak47"
+L 05/09/2013 - 18:00:59: "Spitter<93><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 18:00:59: (DEATH)"infected<223><><Infected><infected><ALIVE><50><setpos_exact 3882.15 -2244.91 104.28; setang 0.00 110.66 0.00><Area 597>" killed "Nemesis<31><STEAM_1:1:46465796><Survivor><Gambler><DEAD><1+0><setpos 3865.27 -2200.15 104.28; setang -5.29 78.17 0.00><Area 13348>" with "infected"
+L 05/09/2013 - 18:00:59: "Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><27+0><setpos_exact 3977.58 -2344.11 190.28; setang 11.44 102.45 0.00><Area 45858>" used adrenaline
+L 05/09/2013 - 18:01:00: "Purple Magic<50><STEAM_1:0:591373><Survivor>" disconnected (reason "Disconnect by user.")
+L 05/09/2013 - 18:01:00: "Coach<94><BOT><>" connected, address "none"
+L 05/09/2013 - 18:01:00: OnEndChangelevel (94): 4 saved players:
+L 05/09/2013 - 18:01:00: 	Hisaki(42), state 1
+L 05/09/2013 - 18:01:00: 	Nemesis(31), state 1
+L 05/09/2013 - 18:01:00: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 18:01:00: 	Purple Magic(50), state 1
+L 05/09/2013 - 18:01:00: "Coach<94><BOT><>" entered the game
+L 05/09/2013 - 18:01:00: "Coach<94><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 18:01:00: (SKIN) Survivor Coach changed model from  to models/survivors/survivor_coach.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 18:01:00: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 18:01:00: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 18:01:00: Coach spawned as a Coach
+L 05/09/2013 - 18:01:00: "Coach<94><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -1829.95 -13644.09 192.28; setang 0.00 222.52 0.00><Area 222>" spawned
+L 05/09/2013 - 18:01:00: Tank rock models/props_debris/concrete_chunk01a.mdl
+L 05/09/2013 - 18:01:00: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><27+24><setpos_exact 3951.82 -2346.27 166.28; setang 19.80 130.61 0.00><Area 1342>" killed "infected<223><><Infected><infected><DEAD><-6><setpos_exact 3881.36 -2243.92 104.28; setang 0.00 110.15 0.00><Area 597>" with "shotgun_spas"
+L 05/09/2013 - 18:01:01: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><55+0><setpos_exact 3710.67 -3141.76 304.03; setang 8.50 137.55 0.00><Area 190326>" killed "infected<185><><Infected><infected><DEAD><-4><setpos_exact 3068.47 -2541.40 141.25; setang 0.00 6.98 0.00><Area 272219>" with "rifle_ak47"
+L 05/09/2013 - 18:01:01: (DEATH)"Hisaki<42><STEAM_1:0:48202577><Survivor><Producer><ALIVE><27+24><setpos_exact 3964.11 -2351.81 191.18; setang 18.92 126.65 0.00><Area 45858>" killed "infected<156><><Infected><infected><DEAD><-22><setpos_exact 3834.44 -2193.57 104.28; setang -0.00 37.45 0.00><Area 597>" with "shotgun_spas"
+L 05/09/2013 - 18:01:02: "Boomer<81><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 18:01:09: (INCAP)"Tank<83><BOT><Infected><TANK><INCAP><50+0><setpos_exact 3551.24 -2391.90 166.28; setang 343.38 281.89 0.00><Area 775>" was incapped by "Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><55+0><setpos_exact 3708.32 -3138.03 304.03; setang 12.38 102.84 0.00><Area 190326>" with "rifle_ak47"
+L 05/09/2013 - 18:01:12: (DEATH)"Say_It_With_Bullets™<49><STEAM_1:1:856182><Survivor><Mechanic><ALIVE><55+0><setpos_exact 3680.89 -2963.55 169.07; setang 21.36 103.09 0.00><Area 190295>" killed "Tank<83><BOT><Infected><TANK><DEAD><1+0><setpos 3551.24 -2391.90 104.28; setang 340.79 281.89 -20.00><Area 775>" with "rifle_ak47"
+L 05/09/2013 - 18:01:12: ------------------------------ Director state change PEAK_FADE -> RELAX
+L 05/09/2013 - 18:01:21: "Tank<83><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 18:01:54: ------------------------------ Director state change RELAX -> BUILD_UP
+L 05/09/2013 - 18:01:54: "Smoker<95><BOT><>" connected, address "none"
+L 05/09/2013 - 18:01:54: OnEndChangelevel (95): 4 saved players:
+L 05/09/2013 - 18:01:54: 	Hisaki(42), state 1
+L 05/09/2013 - 18:01:54: 	Nemesis(31), state 1
+L 05/09/2013 - 18:01:54: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 18:01:54: 	Purple Magic(50), state 1
+L 05/09/2013 - 18:01:54: "Smoker<95><BOT><>" entered the game
+L 05/09/2013 - 18:01:54: "Smoker<95><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 18:01:54: Smoker spawned as a SMOKER
+L 05/09/2013 - 18:01:54: "Smoker<95><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 3571.21 -3575.00 468.27; setang 0.00 0.00 0.00><Area 14106>" spawned
+L 05/09/2013 - 18:01:54: "Charger<96><BOT><>" connected, address "none"
+L 05/09/2013 - 18:01:54: OnEndChangelevel (96): 4 saved players:
+L 05/09/2013 - 18:01:54: 	Hisaki(42), state 1
+L 05/09/2013 - 18:01:54: 	Nemesis(31), state 1
+L 05/09/2013 - 18:01:54: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 18:01:54: 	Purple Magic(50), state 1
+L 05/09/2013 - 18:01:54: "Charger<96><BOT><>" entered the game
+L 05/09/2013 - 18:01:54: "Charger<96><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 18:01:54: Charger spawned as a CHARGER
+L 05/09/2013 - 18:01:54: "Charger<96><BOT><Infected><CHARGER><ALIVE><600+0><setpos_exact 3112.50 -3500.00 158.88; setang 0.00 0.00 0.00><Area 139074>" spawned
+L 05/09/2013 - 18:01:56: (DEATH)"Smoker<95><BOT><Infected><SMOKER><DEAD><1+0><setpos 3514.34 -3278.86 406.27; setang 6.00 90.34 0.00><Area 201>" committed suicide with "world"
+L 05/09/2013 - 18:01:56: "Hunter<97><BOT><>" connected, address "none"
+L 05/09/2013 - 18:01:56: OnEndChangelevel (97): 4 saved players:
+L 05/09/2013 - 18:01:56: 	Hisaki(42), state 1
+L 05/09/2013 - 18:01:56: 	Nemesis(31), state 1
+L 05/09/2013 - 18:01:56: 	Say_It_With_Bullets™(49), state 2
+L 05/09/2013 - 18:01:56: 	Purple Magic(50), state 1
+L 05/09/2013 - 18:01:56: "Hunter<97><BOT><>" entered the game
+L 05/09/2013 - 18:01:56: "Hunter<97><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 18:01:56: Hunter spawned as a HUNTER
+L 05/09/2013 - 18:01:56: "Hunter<97><BOT><Infected><HUNTER><ALIVE><250+0><setpos_exact 4251.94 -3884.08 163.27; setang 0.00 0.00 0.00><Area 12988>" spawned
+L 05/09/2013 - 18:02:00: (RESCUE) Rescue spot at 2464, -3651, 100 (area 992) activated for Nemesis(31).
+L 05/09/2013 - 18:02:01: (DEATH)"Hunter<97><BOT><Infected><HUNTER><DEAD><1+0><setpos 4491.25 -3568.61 101.83; setang 356.96 107.50 0.00><Area 68>" committed suicide with "world"
+L 05/09/2013 - 18:02:05: "Smoker<95><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 18:02:06: "Charger<96><BOT><Infected><CHARGER><ALIVE><600+0><setpos_exact 3155.96 -3659.94 169.27; setang 357.28 70.38 0.00><Area 120>" landed
+L 05/09/2013 - 18:02:10: "Hunter<97><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 18:02:10: (DEATH)"Charger<96><BOT><Infected><CHARGER><DEAD><1+0><setpos 3290.32 -2905.76 124.84; setang 318.96 85.56 0.00><Area 126191>" committed suicide with "world"
+L 05/09/2013 - 18:02:19: "Charger<96><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 18:02:36: (DEATH)"Coach<94><BOT><Survivor><Coach><DEAD><1+0><setpos 2764.82 -4819.70 98.83; setang 0.00 164.56 -20.00><Area 953>" died from unknown attacker (probably World)
+L 05/09/2013 - 18:02:37: Preparing player entities for changelevel
+L 05/09/2013 - 18:02:37: Saving Hisaki for transition at 3511.051270 -1731.121216 262.474670
+L 05/09/2013 - 18:02:37: (SKIN) Hisaki saved model [models/survivors/survivor_producer.mdl] via PlayerSaveData
+L 05/09/2013 - 18:02:37: Saving Nemesis for transition at 3589.750732 -1614.574219 232.281250
+L 05/09/2013 - 18:02:37: (SKIN) Nemesis saved model [models/survivors/survivor_gambler.mdl] via PlayerSaveData
+L 05/09/2013 - 18:02:37: Saving NORMAL for map transition at 2765,-4820,99
+L 05/09/2013 - 18:02:37: (SKIN) Coach saved model [models/survivors/survivor_coach.mdl] via PlayerSaveData
+L 05/09/2013 - 18:02:37: Saving Say_It_With_Bullets™ for transition at 3589.750732 -1614.574219 232.281250
+L 05/09/2013 - 18:02:37: (SKIN) Say_It_With_Bullets™ saved model [models/survivors/survivor_mechanic.mdl] via PlayerSaveData
+L 05/09/2013 - 18:02:46: Log file closed

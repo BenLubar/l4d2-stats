@@ -1,0 +1,89 @@
+L 05/09/2013 - 14:26:11: Log file started (file "logs/L127_000_001_001_27021_201305091426_001.log") (game "/home/tf/srv/l4d2_beta/left4dead2_beta") (version "5289")
+L 05/09/2013 - 14:26:11: "Cheese kernals<2><STEAM_1:1:46063280><>" connected, address "72.49.73.71:50338"
+L 05/09/2013 - 14:26:11: World triggered "Round_Start"
+L 05/09/2013 - 14:26:11: "Cheese kernals<2><STEAM_1:1:46063280><>" disconnected (reason "Connection closing")
+L 05/09/2013 - 14:26:11: "Cheese kernals<3><STEAM_1:1:46063280><>" connected, address "72.49.73.71:50338"
+L 05/09/2013 - 14:26:11: CDirector::RunScript, c7m1_docks, level: 2
+L 05/09/2013 - 14:26:12: "Cheese kernals<3><STEAM_1:1:46063280><>" STEAM USERID validated
+L 05/09/2013 - 14:26:42: FinishClientPutInServer Cheese kernals(3): looking for bots to take over
+L 05/09/2013 - 14:26:42: "Cheese kernals<3><STEAM_1:1:46063280><>" entered the game
+L 05/09/2013 - 14:26:50: "Cheese kernals<3><STEAM_1:1:46063280><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 14:26:50: SetModelFromClass: Survivor Cheese kernals changed model from  to models/survivors/survivor_teenangst.mdl via SetModelFromClass
+L 05/09/2013 - 14:26:50: (SKIN) SetCharacter: Survivor Cheese kernals chose character TeenGirl(1) from model models/survivors/survivor_teenangst.mdl
+L 05/09/2013 - 14:26:50: Cheese kernals spawned as a TeenGirl
+L 05/09/2013 - 14:26:50: "Cheese kernals<3><STEAM_1:1:46063280><Survivor><TeenGirl><ALIVE><100+0><setpos_exact 13915.00 2567.00 94.18; setang 0.00 270.00 0.00><Area 56268>" spawned
+L 05/09/2013 - 14:26:50: "Francis<4><BOT><>" connected, address "none"
+L 05/09/2013 - 14:26:50: FinishClientPutInServer (4): looking for bots to take over
+L 05/09/2013 - 14:26:50: "Francis<4><BOT><>" entered the game
+L 05/09/2013 - 14:26:50: "Francis<4><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 14:26:50: SetModelFromClass: Survivor Francis changed model from  to models/survivors/survivor_biker.mdl via SetModelFromClass
+L 05/09/2013 - 14:26:50: (SKIN) SetCharacter: Survivor Francis chose character Biker(3) from model models/survivors/survivor_biker.mdl
+L 05/09/2013 - 14:26:50: Francis spawned as a Biker
+L 05/09/2013 - 14:26:50: "Francis<4><BOT><Survivor><Biker><ALIVE><100+0><setpos_exact 13806.50 2583.00 94.26; setang 0.00 270.00 0.00><Area 56265>" spawned
+L 05/09/2013 - 14:26:50: (SKIN) Survivor Francis changed model from models/survivors/survivor_biker.mdl to models/survivors/survivor_biker.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 14:26:50: (SKIN) SetCharacter: Survivor Francis chose character Biker(3) from model models/survivors/survivor_biker.mdl
+L 05/09/2013 - 14:26:50: "Louis<5><BOT><>" connected, address "none"
+L 05/09/2013 - 14:26:50: FinishClientPutInServer (5): looking for bots to take over
+L 05/09/2013 - 14:26:50: "Louis<5><BOT><>" entered the game
+L 05/09/2013 - 14:26:50: "Louis<5><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 14:26:50: SetModelFromClass: Survivor Louis changed model from  to models/survivors/survivor_manager.mdl via SetModelFromClass
+L 05/09/2013 - 14:26:50: (SKIN) SetCharacter: Survivor Louis chose character Manager(2) from model models/survivors/survivor_manager.mdl
+L 05/09/2013 - 14:26:50: Louis spawned as a Manager
+L 05/09/2013 - 14:26:50: "Louis<5><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 13915.00 2567.00 94.20; setang 0.00 270.00 0.00><Area 56268>" spawned
+L 05/09/2013 - 14:26:50: (SKIN) Survivor Louis changed model from models/survivors/survivor_manager.mdl to models/survivors/survivor_manager.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 14:26:50: (SKIN) SetCharacter: Survivor Louis chose character Manager(2) from model models/survivors/survivor_manager.mdl
+L 05/09/2013 - 14:26:50: "Bill<6><BOT><>" connected, address "none"
+L 05/09/2013 - 14:26:50: FinishClientPutInServer (6): looking for bots to take over
+L 05/09/2013 - 14:26:50: "Bill<6><BOT><>" entered the game
+L 05/09/2013 - 14:26:50: "Bill<6><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 14:26:50: SetModelFromClass: Survivor Bill changed model from  to models/survivors/survivor_namvet.mdl via SetModelFromClass
+L 05/09/2013 - 14:26:50: (SKIN) SetCharacter: Survivor Bill chose character NamVet(0) from model models/survivors/survivor_namvet.mdl
+L 05/09/2013 - 14:26:50: Bill spawned as a NamVet
+L 05/09/2013 - 14:26:50: "Bill<6><BOT><Survivor><NamVet><ALIVE><100+0><setpos_exact 13806.50 2583.00 95.00; setang 0.00 270.00 0.00><Area 56265>" spawned
+L 05/09/2013 - 14:26:50: (SKIN) Survivor Bill changed model from models/survivors/survivor_namvet.mdl to models/survivors/survivor_namvet.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 14:26:50: (SKIN) SetCharacter: Survivor Bill chose character NamVet(0) from model models/survivors/survivor_namvet.mdl
+L 05/09/2013 - 14:26:52: (DEATH)"env_weaponfire<928><><Unassigned><env_weaponfire><ALIVE><0><setpos_exact 12866.41 2697.96 165.03; setang 36.32 -63.23 6.64><Area 0>" killed "infected<62><><Infected><infected><DEAD><-11><setpos_exact 12854.52 2547.66 32.20; setang 0.00 176.19 0.00><Area 55176>" with "env_weaponfire"
+L 05/09/2013 - 14:26:52: (DEATH)"env_weaponfire<911><><Unassigned><env_weaponfire><ALIVE><0><setpos_exact 12965.51 2712.74 172.59; setang 1.35 -0.15 -1.73><Area 0>" killed "infected<45><><Infected><infected><DEAD><-11><setpos_exact 13168.72 2592.16 32.27; setang 0.00 213.02 0.00><Area 54172>" with "env_weaponfire"
+L 05/09/2013 - 14:26:54: (DEATH)"env_weaponfire<924><><Unassigned><env_weaponfire><ALIVE><0><setpos_exact 13032.58 2843.73 173.55; setang 38.49 91.28 0.80><Area 0>" killed "infected<61><><Infected><infected><DEAD><-10><setpos_exact 12938.21 2995.05 72.03; setang 0.00 189.24 0.00><Area 55297>" with "env_weaponfire"
+L 05/09/2013 - 14:26:55: (DEATH)"env_weaponfire<928><><Unassigned><env_weaponfire><ALIVE><0><setpos_exact 13050.67 2697.96 165.03; setang 36.32 -63.23 6.64><Area 0>" killed "infected<46><><Infected><infected><DEAD><-10><setpos_exact 12845.78 2598.44 32.28; setang 0.00 164.24 0.00><Area 55176>" with "env_weaponfire"
+L 05/09/2013 - 14:26:56: (DEATH)"env_weaponfire<924><><Unassigned><env_weaponfire><ALIVE><0><setpos_exact 13070.73 2843.73 173.55; setang 38.49 91.28 0.80><Area 0>" killed "infected<47><><Infected><infected><DEAD><-10><setpos_exact 12830.14 2875.48 32.67; setang 0.00 173.00 0.00><Area 55311>" with "env_weaponfire"
+L 05/09/2013 - 14:26:57: (DEATH)"env_weaponfire<924><><Unassigned><env_weaponfire><ALIVE><0><setpos_exact 13083.83 2843.73 173.55; setang 38.49 91.28 0.80><Area 0>" killed "infected<57><><Infected><infected><DEAD><-10><setpos_exact 13035.54 2867.25 64.03; setang 0.00 178.35 0.00><Area 55306>" with "env_weaponfire"
+L 05/09/2013 - 14:26:57: (DEATH)"env_weaponfire<912><><Unassigned><env_weaponfire><ALIVE><0><setpos_exact 13119.71 2823.31 172.59; setang 11.35 29.64 6.39><Area 0>" killed "infected<48><><Infected><infected><DEAD><-11><setpos_exact 13454.85 2795.75 44.10; setang 0.00 162.38 0.00><Area 54206>" with "env_weaponfire"
+L 05/09/2013 - 14:27:03: (DEATH)"trigger_hurt<982><><Unassigned><trigger_hurt><ALIVE><0><setpos_exact 13888.00 3104.00 112.00; setang 0.00 0.00 0.00><Area 0>" killed "infected<59><><Infected><infected><DEAD><-36><setpos_exact 12696.28 2893.98 164.22; setang 0.00 0.00 0.00><Area 55172>" with "trigger_hurt"
+L 05/09/2013 - 14:27:04: (DEATH)"trigger_hurt<982><><Unassigned><trigger_hurt><ALIVE><0><setpos_exact 13888.00 3104.00 112.00; setang 0.00 0.00 0.00><Area 0>" killed "infected<60><><Infected><infected><DEAD><-24><setpos_exact 12756.84 2607.15 44.03; setang 0.00 358.24 0.00><Area 55176>" with "trigger_hurt"
+L 05/09/2013 - 14:27:05: (DEATH)"trigger_hurt<982><><Unassigned><trigger_hurt><ALIVE><0><setpos_exact 13888.00 3104.00 112.00; setang 0.00 0.00 0.00><Area 0>" killed "infected<52><><Infected><infected><DEAD><-24><setpos_exact 12689.18 2642.26 171.30; setang 0.00 356.97 0.00><Area 55184>" with "trigger_hurt"
+L 05/09/2013 - 14:27:43: (DEATH)"infected<69><><Infected><infected><ALIVE><6><setpos_exact 12326.51 2488.67 46.01; setang 0.00 294.76 0.00><Area 55107>" killed "infected<71><><Infected><infected><DEAD><-2><setpos_exact 12338.45 2462.76 44.39; setang 0.00 114.82 0.00><Area 55107>" with "infected"
+L 05/09/2013 - 14:27:53: Allowing spawning - "Cheese kernals<3><STEAM_1:1:46063280><Survivor><TeenGirl><ALIVE><100+0><setpos_exact 13236.60 2075.82 -0.90; setang -26.28 -157.51 0.00><Area 55205>" left safe area
+L 05/09/2013 - 14:28:02: (DEATH)"Louis<5><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 12667.03 2131.40 2.59; setang 6.17 237.97 0.00><Area 40889>" killed "infected<57><><Infected><infected><DEAD><-8><setpos_exact 12545.70 1937.42 -62.95; setang 0.00 4.98 0.00><Area 40917>" with "shotgun_chrome"
+L 05/09/2013 - 14:28:02: (DEATH)"Bill<6><BOT><Survivor><NamVet><ALIVE><100+0><setpos_exact 12651.11 2068.56 2.05; setang 8.11 241.10 0.00><Area 40929>" killed "infected<59><><Infected><infected><DEAD><-7><setpos_exact 12493.40 1795.39 -63.32; setang -0.00 59.85 0.00><Area 30615>" with "shotgun_chrome"
+L 05/09/2013 - 14:28:02: (DEATH)"Bill<6><BOT><Survivor><NamVet><ALIVE><100+0><setpos_exact 12651.11 2068.56 2.05; setang 8.11 241.10 0.00><Area 40929>" killed "infected<46><><Infected><infected><DEAD><-1><setpos_exact 12576.07 1910.92 -63.43; setang 0.00 87.41 0.00><Area 40902>" with "shotgun_chrome"
+L 05/09/2013 - 14:28:12: "Cheese kernals<3><STEAM_1:1:46063280><Survivor>" disconnected (reason "Disconnect by user.")
+L 05/09/2013 - 14:28:12: "Zoey<7><BOT><>" connected, address "none"
+L 05/09/2013 - 14:28:12: FinishClientPutInServer (7): looking for bots to take over
+L 05/09/2013 - 14:28:12: "Zoey<7><BOT><>" entered the game
+L 05/09/2013 - 14:28:12: "Zoey<7><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 14:28:12: SetModelFromClass: Survivor Zoey changed model from  to models/survivors/survivor_teenangst.mdl via SetModelFromClass
+L 05/09/2013 - 14:28:12: (SKIN) SetCharacter: Survivor Zoey chose character TeenGirl(1) from model models/survivors/survivor_teenangst.mdl
+L 05/09/2013 - 14:28:12: Zoey spawned as a TeenGirl
+L 05/09/2013 - 14:28:12: "Zoey<7><BOT><Survivor><TeenGirl><ALIVE><100+0><setpos_exact 13915.00 2567.00 94.18; setang 0.00 270.00 0.00><Area 56268>" spawned
+L 05/09/2013 - 14:28:12: (SKIN) Survivor Zoey changed model from models/survivors/survivor_teenangst.mdl to models/survivors/survivor_teenangst.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 14:28:12: (SKIN) SetCharacter: Survivor Zoey chose character TeenGirl(1) from model models/survivors/survivor_teenangst.mdl
+L 05/09/2013 - 14:28:12: (SKIN) SetCharacter: Survivor Zoey chose character TeenGirl(1) from model models/survivors/survivor_teenangst.mdl
+L 05/09/2013 - 14:28:12: Zoey spawned as a TeenGirl
+L 05/09/2013 - 14:28:12: "Zoey<7><BOT><Survivor><TeenGirl><ALIVE><100+0><setpos_exact 13765.10 2545.00 94.20; setang 0.00 270.00 0.00><Area 55322>" spawned
+L 05/09/2013 - 14:28:12: Staying on original map c7m1_docks
+L 05/09/2013 - 14:28:12: CDirector::RunScript, scriptedmode, level: 1
+L 05/09/2013 - 14:28:12: CDirector::RunScript, director_base, level: 0
+L 05/09/2013 - 14:28:12: Preventing spawning
+L 05/09/2013 - 14:28:12: CDirector::RunScript, scriptedmode, level: 1
+L 05/09/2013 - 14:28:12: CDirector::RunScript, director_base, level: 0
+L 05/09/2013 - 14:28:12: (SKIN) SetCharacter: Survivor Francis chose character Biker(3) from model models/survivors/survivor_biker.mdl
+L 05/09/2013 - 14:28:12: Francis spawned as a Biker
+L 05/09/2013 - 14:28:12: "Francis<4><BOT><Survivor><Biker><ALIVE><100+0><setpos_exact 13806.50 2583.00 94.26; setang 0.00 270.00 0.00><Area 56265>" spawned
+L 05/09/2013 - 14:28:12: (SKIN) SetCharacter: Survivor Louis chose character Manager(2) from model models/survivors/survivor_manager.mdl
+L 05/09/2013 - 14:28:12: Louis spawned as a Manager
+L 05/09/2013 - 14:28:12: "Louis<5><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 13864.50 2593.20 94.03; setang 0.00 270.00 0.00><Area 56267>" spawned
+L 05/09/2013 - 14:28:12: (SKIN) SetCharacter: Survivor Bill chose character NamVet(0) from model models/survivors/survivor_namvet.mdl
+L 05/09/2013 - 14:28:12: Bill spawned as a NamVet
+L 05/09/2013 - 14:28:12: "Bill<6><BOT><Survivor><NamVet><ALIVE><100+0><setpos_exact 13915.00 2567.00 94.18; setang 0.00 270.00 0.00><Area 56268>" spawned
+L

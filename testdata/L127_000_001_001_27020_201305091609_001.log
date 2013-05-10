@@ -1,0 +1,587 @@
+L 05/09/2013 - 16:09:23: Log file started (file "logs/L127_000_001_001_27020_201305091609_001.log") (game "/home/tf/srv/l4d2_beta/left4dead2_beta") (version "5289")
+L 05/09/2013 - 16:09:30: OnEndChangelevel Piperoman[Spain](2): 1 saved players:
+L 05/09/2013 - 16:09:30: 	Piperoman[Spain](2), state 0
+L 05/09/2013 - 16:09:30: Restoring player Piperoman[Spain](2) after changelevel
+L 05/09/2013 - 16:09:30: "Piperoman[Spain]<2><STEAM_1:0:484244><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 16:09:30: SetModelFromClass: Survivor Piperoman[Spain] changed model from  to models/survivors/survivor_namvet.mdl via SetModelFromClass
+L 05/09/2013 - 16:09:30: (SKIN) SetCharacter: Survivor Piperoman[Spain] chose character NamVet(0) from model models/survivors/survivor_namvet.mdl
+L 05/09/2013 - 16:09:30: Piperoman[Spain] spawned as a NamVet
+L 05/09/2013 - 16:09:30: "Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><NamVet><ALIVE><100+0><setpos_exact 3000.96 2964.05 78.03; setang 0.00 181.37 0.00><Area 40394>" spawned
+L 05/09/2013 - 16:09:30: Respawning Piperoman[Spain]
+L 05/09/2013 - 16:09:30: (SKIN) SetCharacter: Survivor Piperoman[Spain] chose character NamVet(0) from model models/survivors/survivor_namvet.mdl
+L 05/09/2013 - 16:09:30: Piperoman[Spain] spawned as a NamVet
+L 05/09/2013 - 16:09:30: "Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><NamVet><ALIVE><100+0><setpos_exact 2866.91 3047.91 78.03; setang 0.00 252.29 0.00><Area 40401>" spawned
+L 05/09/2013 - 16:09:30: (SKIN) SetCharacter: Survivor Piperoman[Spain] chose character NamVet(0) from model models/survivors/survivor_teenangst.mdl
+L 05/09/2013 - 16:09:30: (SKIN) SetCharacter: Survivor Piperoman[Spain] chose character TeenGirl(1) from model models/survivors/survivor_teenangst.mdl
+L 05/09/2013 - 16:09:30: (SKIN) Survivor Piperoman[Spain] changed model to models/survivors/survivor_teenangst.mdl (wanted models/survivors/survivor_teenangst.mdl) via RestoreModelData
+L 05/09/2013 - 16:09:30: Piperoman[Spain] wants to respawn at 2894.895020 3230.402832 16.031342
+L 05/09/2013 - 16:09:30: GetSafeSpawnPos: Piperoman[Spain] ideal pos (2894.895020, 3230.402832, 16.031342) is clear
+L 05/09/2013 - 16:09:30: Piperoman[Spain] gets respawn pos 2894.895020 3230.402832 16.031342
+L 05/09/2013 - 16:09:30: "Piperoman[Spain]<2><STEAM_1:0:484244><>" entered the game
+L 05/09/2013 - 16:09:30: Preparing to restore 3 survivor bots after map transition...
+L 05/09/2013 - 16:09:30: Attempting to spawn a survivor bot
+L 05/09/2013 - 16:09:30: "Francis<11><BOT><>" connected, address "none"
+L 05/09/2013 - 16:09:30: OnEndChangelevel (11): 1 saved players:
+L 05/09/2013 - 16:09:30: 	Piperoman[Spain](2), state 2
+L 05/09/2013 - 16:09:30: "Francis<11><BOT><>" entered the game
+L 05/09/2013 - 16:09:30: "Francis<11><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 16:09:30: SetModelFromClass: Survivor Francis changed model from  to models/survivors/survivor_biker.mdl via SetModelFromClass
+L 05/09/2013 - 16:09:30: (SKIN) SetCharacter: Survivor Francis chose character Biker(3) from model models/survivors/survivor_biker.mdl
+L 05/09/2013 - 16:09:30: Francis spawned as a Biker
+L 05/09/2013 - 16:09:30: "Francis<11><BOT><Survivor><Biker><ALIVE><100+0><setpos_exact 2850.71 2899.16 78.03; setang 0.00 95.30 0.00><Area 40391>" spawned
+L 05/09/2013 - 16:09:30: (SKIN) Survivor Francis changed model from models/survivors/survivor_biker.mdl to models/survivors/survivor_biker.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 16:09:30: (SKIN) SetCharacter: Survivor Francis chose character Biker(3) from model models/survivors/survivor_biker.mdl
+L 05/09/2013 - 16:09:30: Restoring player Francis(11) after changelevel
+L 05/09/2013 - 16:09:30: Respawning Francis
+L 05/09/2013 - 16:09:30: (SKIN) SetCharacter: Survivor Francis chose character Biker(3) from model models/survivors/survivor_biker.mdl
+L 05/09/2013 - 16:09:30: Francis spawned as a Biker
+L 05/09/2013 - 16:09:30: "Francis<11><BOT><Survivor><Biker><ALIVE><100+0><setpos_exact 2910.99 2894.49 78.03; setang 0.00 106.19 0.00><Area 40391>" spawned
+L 05/09/2013 - 16:09:30: (SKIN) SetCharacter: Survivor Francis chose character Biker(3) from model models/survivors/survivor_biker.mdl
+L 05/09/2013 - 16:09:30: (SKIN) SetCharacter: Survivor Francis chose character Biker(3) from model models/survivors/survivor_biker.mdl
+L 05/09/2013 - 16:09:30: (SKIN) Survivor Francis changed model to models/survivors/survivor_biker.mdl (wanted models/survivors/survivor_biker.mdl) via RestoreModelData
+L 05/09/2013 - 16:09:30: Francis wants to respawn at 2898.152832 3120.140869 16.031342
+L 05/09/2013 - 16:09:30: GetSafeSpawnPos: Francis ideal pos (2898.152832, 3120.140869, 16.031342) is clear
+L 05/09/2013 - 16:09:30: Francis gets respawn pos 2898.152832 3120.140869 16.031342
+L 05/09/2013 - 16:09:30: Survivor bot restored after map transition at 2898,3120,16!
+L 05/09/2013 - 16:09:30: Attempting to spawn a survivor bot
+L 05/09/2013 - 16:09:30: "Louis<12><BOT><>" connected, address "none"
+L 05/09/2013 - 16:09:30: OnEndChangelevel (12): 1 saved players:
+L 05/09/2013 - 16:09:30: 	Piperoman[Spain](2), state 2
+L 05/09/2013 - 16:09:30: "Louis<12><BOT><>" entered the game
+L 05/09/2013 - 16:09:30: "Louis<12><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 16:09:30: SetModelFromClass: Survivor Louis changed model from  to models/survivors/survivor_manager.mdl via SetModelFromClass
+L 05/09/2013 - 16:09:30: (SKIN) SetCharacter: Survivor Louis chose character Manager(2) from model models/survivors/survivor_manager.mdl
+L 05/09/2013 - 16:09:30: Louis spawned as a Manager
+L 05/09/2013 - 16:09:30: "Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 2865.74 3054.94 78.03; setang 0.00 254.99 0.00><Area 40401>" spawned
+L 05/09/2013 - 16:09:30: (SKIN) Survivor Louis changed model from models/survivors/survivor_manager.mdl to models/survivors/survivor_manager.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 16:09:30: (SKIN) SetCharacter: Survivor Louis chose character Manager(2) from model models/survivors/survivor_manager.mdl
+L 05/09/2013 - 16:09:30: Restoring player Louis(12) after changelevel
+L 05/09/2013 - 16:09:30: Respawning Louis
+L 05/09/2013 - 16:09:30: (SKIN) SetCharacter: Survivor Louis chose character Manager(2) from model models/survivors/survivor_manager.mdl
+L 05/09/2013 - 16:09:30: Louis spawned as a Manager
+L 05/09/2013 - 16:09:30: "Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 3003.11 2903.30 78.03; setang 0.00 152.48 0.00><Area 40394>" spawned
+L 05/09/2013 - 16:09:30: (SKIN) SetCharacter: Survivor Louis chose character Manager(2) from model models/survivors/survivor_manager.mdl
+L 05/09/2013 - 16:09:30: (SKIN) SetCharacter: Survivor Louis chose character Manager(2) from model models/survivors/survivor_manager.mdl
+L 05/09/2013 - 16:09:30: (SKIN) Survivor Louis changed model to models/survivors/survivor_manager.mdl (wanted models/survivors/survivor_manager.mdl) via RestoreModelData
+L 05/09/2013 - 16:09:30: Louis wants to respawn at 2934.941650 2997.876953 16.031342
+L 05/09/2013 - 16:09:30: FindNearbySpawnSpot: Moving Louis from (2934.941650, 2997.876953, 16.031342) to (2887.461670, 3147.835693, 26.031254) in a nearby nav area (29184) with max range of 150.000000
+L 05/09/2013 - 16:09:30: Louis gets respawn pos 2887.461670 3147.835693 26.031254
+L 05/09/2013 - 16:09:30: Survivor bot restored after map transition at 2887,3148,26!
+L 05/09/2013 - 16:09:30: Attempting to spawn a survivor bot
+L 05/09/2013 - 16:09:30: "Bill<13><BOT><>" connected, address "none"
+L 05/09/2013 - 16:09:30: OnEndChangelevel (13): 1 saved players:
+L 05/09/2013 - 16:09:30: 	Piperoman[Spain](2), state 2
+L 05/09/2013 - 16:09:30: "Bill<13><BOT><>" entered the game
+L 05/09/2013 - 16:09:30: "Bill<13><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 16:09:30: SetModelFromClass: Survivor Bill changed model from  to models/survivors/survivor_namvet.mdl via SetModelFromClass
+L 05/09/2013 - 16:09:30: (SKIN) SetCharacter: Survivor Bill chose character NamVet(0) from model models/survivors/survivor_namvet.mdl
+L 05/09/2013 - 16:09:30: Bill spawned as a NamVet
+L 05/09/2013 - 16:09:30: "Bill<13><BOT><Survivor><NamVet><ALIVE><100+0><setpos_exact 3007.63 3001.44 78.03; setang 0.00 193.19 0.00><Area 40392>" spawned
+L 05/09/2013 - 16:09:30: (SKIN) Survivor Bill changed model from models/survivors/survivor_namvet.mdl to models/survivors/survivor_namvet.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 16:09:30: (SKIN) SetCharacter: Survivor Bill chose character NamVet(0) from model models/survivors/survivor_namvet.mdl
+L 05/09/2013 - 16:09:30: Restoring player Bill(13) after changelevel
+L 05/09/2013 - 16:09:30: Respawning Bill
+L 05/09/2013 - 16:09:30: (SKIN) SetCharacter: Survivor Bill chose character NamVet(0) from model models/survivors/survivor_namvet.mdl
+L 05/09/2013 - 16:09:30: Bill spawned as a NamVet
+L 05/09/2013 - 16:09:30: "Bill<13><BOT><Survivor><NamVet><ALIVE><100+0><setpos_exact 2888.18 3134.90 78.03; setang 0.00 254.63 0.00><Area 29184>" spawned
+L 05/09/2013 - 16:09:30: (SKIN) SetCharacter: Survivor Bill chose character NamVet(0) from model models/survivors/survivor_namvet.mdl
+L 05/09/2013 - 16:09:30: (SKIN) SetCharacter: Survivor Bill chose character NamVet(0) from model models/survivors/survivor_namvet.mdl
+L 05/09/2013 - 16:09:30: (SKIN) Survivor Bill changed model to models/survivors/survivor_namvet.mdl (wanted models/survivors/survivor_namvet.mdl) via RestoreModelData
+L 05/09/2013 - 16:09:30: Bill wants to respawn at 3010.875000 2980.153320 16.031342
+L 05/09/2013 - 16:09:30: GetSafeSpawnPos: Bill ideal pos (3010.875000, 2980.153320, 16.031342) is clear
+L 05/09/2013 - 16:09:30: Bill gets respawn pos 3010.875000 2980.153320 16.031342
+L 05/09/2013 - 16:09:30: Survivor bot restored after map transition at 3011,2980,16!
+L 05/09/2013 - 16:09:32: Skipping saved player Piperoman[Spain](2) - restore was already done
+L 05/09/2013 - 16:09:41: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 2900.09 3004.08 78.03; setang 2.17 314.49 0.00><Area 40401>" killed "infected<309><><Infected><infected><DEAD><-18><setpos_exact 3026.97 2883.63 16.03; setang -0.00 203.44 0.00><Area 40394>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:09:41: Allowing spawning - "Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><58+0><setpos_exact 3045.26 2920.62 78.03; setang 18.81 3.84 0.00><Area 29239>" left safe area
+L 05/09/2013 - 16:09:44: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 3275.98 2908.87 107.53; setang 67.98 14.70 -1.61><Area 26522>" killed "infected<392><><Infected><infected><DEAD><0><setpos_exact 3268.69 2892.12 -4.54; setang 0.00 21.44 0.00><Area 32200>" with "smg_silenced"
+L 05/09/2013 - 16:09:45: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><68+0><setpos_exact 3083.06 2934.76 78.03; setang 23.47 2.50 0.00><Area 33562>" killed "infected<322><><Infected><infected><DEAD><-5><setpos_exact 3198.49 2939.82 -17.90; setang -0.00 271.62 0.00><Area 33562>" with "pumpshotgun" (headshot)
+L 05/09/2013 - 16:09:45: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><58+0><setpos_exact 3324.08 2911.75 62.43; setang -12.54 114.65 0.00><Area 26522>" killed "infected<410><><Infected><infected><DEAD><29><setpos_exact 3146.43 3280.35 80.09; setang 0.00 -31.82 0.00><Area 33606>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:09:45: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 3296.85 2881.01 77.99; setang 31.98 97.94 0.00><Area 26522>" killed "infected<401><><Infected><infected><DEAD><27><setpos_exact 3274.64 3075.69 -97.95; setang 0.00 118.95 0.00><Area 32032>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:09:46: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><70+0><setpos_exact 3148.82 2904.59 78.03; setang 42.31 330.61 0.00><Area 33562>" killed "infected<398><><Infected><infected><DEAD><12><setpos_exact 3289.56 2831.53 -96.99; setang 0.00 381.82 0.00><Area 44089>" with "pumpshotgun" (headshot)
+L 05/09/2013 - 16:09:46: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 3296.04 2879.62 77.99; setang 23.48 127.90 0.00><Area 26522>" killed "infected<408><><Infected><infected><DEAD><4><setpos_exact 3188.60 3032.50 -61.19; setang 0.00 184.41 0.00><Area 32115>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:09:48: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><58+0><setpos_exact 3324.08 2920.97 62.43; setang 1.45 110.89 0.00><Area 26522>" killed "infected<394><><Infected><infected><DEAD><0><setpos_exact 3220.19 3192.43 16.03; setang 0.00 59.26 0.00><Area 25796>" with "smg_silenced"
+L 05/09/2013 - 16:09:48: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><48+0><setpos_exact 3141.25 2836.16 78.03; setang 24.33 25.99 0.00><Area 38762>" killed "infected<310><><Infected><infected><DEAD><0><setpos_exact 3263.50 2895.62 -10.11; setang 0.00 21.44 0.00><Area 32200>" with "pumpshotgun" (headshot)
+L 05/09/2013 - 16:09:48: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><60+0><setpos_exact 3167.96 2869.18 78.03; setang 32.60 333.55 0.00><Area 33565>" killed "infected<396><><Infected><infected><DEAD><-4><setpos_exact 3311.56 2791.00 -79.25; setang -0.00 56.76 0.00><Area 42463>" with "pumpshotgun"
+L 05/09/2013 - 16:09:49: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 3296.04 2879.62 77.99; setang 77.68 184.80 0.00><Area 26522>" killed "infected<397><><Infected><infected><DEAD><-12><setpos_exact 3272.26 2875.44 -52.04; setang 0.00 21.44 0.00><Area 32200>" with "smg_silenced"
+L 05/09/2013 - 16:09:49: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><48+0><setpos_exact 3164.20 2827.92 78.03; setang 28.03 31.68 0.00><Area 38762>" killed "infected<414><><Infected><infected><DEAD><-18><setpos_exact 3263.60 2888.19 -11.71; setang 0.00 21.44 0.00><Area 32200>" with "pumpshotgun" (headshot)
+L 05/09/2013 - 16:09:49: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><50+0><setpos_exact 3168.78 2866.26 78.03; setang 37.55 345.07 0.00><Area 33565>" killed "infected<393><><Infected><infected><DEAD><-4><setpos_exact 3316.85 2825.86 -79.97; setang -0.00 57.62 0.00><Area 42463>" with "pumpshotgun"
+L 05/09/2013 - 16:09:50: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><40+0><setpos_exact 3168.44 2866.13 75.27; setang 64.00 33.14 0.00><Area 33565>" killed "infected<395><><Infected><infected><DEAD><-57><setpos_exact 3206.77 2901.91 -75.48; setang 0.00 189.05 0.00><Area 37429>" with "pumpshotgun" (headshot)
+L 05/09/2013 - 16:09:50: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><40+0><setpos_exact 3168.44 2866.13 75.27; setang 64.00 33.14 0.00><Area 33565>" killed "infected<412><><Infected><infected><DEAD><-14><setpos_exact 3191.91 2880.76 -46.33; setang 0.00 -39.41 0.00><Area 37429>" with "pumpshotgun"
+L 05/09/2013 - 16:09:50: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><40+0><setpos_exact 3168.44 2866.13 75.27; setang 64.00 33.14 0.00><Area 33565>" killed "infected<390><><Infected><infected><DEAD><-2><setpos_exact 3258.22 2903.86 -94.54; setang 0.00 271.28 0.00><Area 32200>" with "pumpshotgun"
+L 05/09/2013 - 16:09:52: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><30+0><setpos_exact 3167.70 2865.76 68.90; setang 40.37 324.65 0.00><Area 33565>" killed "infected<411><><Infected><infected><DEAD><-3><setpos_exact 3226.54 2803.72 -79.55; setang 0.00 121.31 0.00><Area 32348>" with "pumpshotgun"
+L 05/09/2013 - 16:09:52: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><58+0><setpos_exact 3302.15 2924.61 59.99; setang 0.13 -171.23 0.00><Area 26522>" killed "infected<407><><Infected><infected><DEAD><-3><setpos_exact 3148.19 2899.37 16.03; setang -0.00 -58.48 0.00><Area 33565>" with "smg_silenced"
+L 05/09/2013 - 16:09:52: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><58+0><setpos_exact 3296.64 2923.81 59.99; setang -0.53 -170.70 0.00><Area 26522>" killed "infected<402><><Infected><infected><DEAD><-2><setpos_exact 3114.93 2881.56 16.03; setang -0.00 -90.25 0.00><Area 33565>" with "smg_silenced"
+L 05/09/2013 - 16:09:53: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 3313.05 2874.71 77.99; setang 21.73 84.85 0.00><Area 26522>" killed "infected<409><><Infected><infected><DEAD><16><setpos_exact 3330.96 3145.12 -78.10; setang -0.00 324.28 0.00><Area 43744>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:09:55: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 3313.05 2874.71 77.99; setang 27.12 135.72 0.00><Area 26522>" killed "infected<413><><Infected><infected><DEAD><7><setpos_exact 3062.52 3119.00 -114.84; setang 0.00 285.54 0.00><Area 42982>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:09:56: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><48+0><setpos_exact 3191.53 2870.67 -31.83; setang 356.50 325.31 0.00><Area 32368>" killed "infected<400><><Infected><infected><DEAD><-12><setpos_exact 3330.97 2781.58 -77.57; setang -0.00 238.11 0.00><Area 42463>" with "pumpshotgun" (headshot)
+L 05/09/2013 - 16:09:57: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><48+0><setpos_exact 3191.53 2870.67 -31.83; setang 14.25 15.27 0.00><Area 32368>" killed "infected<423><><Infected><infected><DEAD><0><setpos_exact 3252.75 2898.48 -91.88; setang 0.00 279.92 0.00><Area 32200>" with "pumpshotgun"
+L 05/09/2013 - 16:09:59: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><58+0><setpos_exact 3273.26 2949.94 59.99; setang 31.58 -141.86 0.00><Area 43211>" killed "infected<415><><Infected><infected><DEAD><-2><setpos_exact 3160.55 2868.81 -47.05; setang -0.00 37.36 0.00><Area 32368>" with "smg_silenced"
+L 05/09/2013 - 16:10:01: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><48+0><setpos_exact 3191.53 2870.67 -31.83; setang 6.64 40.70 0.00><Area 32368>" killed "infected<417><><Infected><infected><DEAD><-4><setpos_exact 3349.16 3007.28 -94.25; setang -0.00 221.53 0.00><Area 37423>" with "pumpshotgun" (headshot)
+L 05/09/2013 - 16:10:04: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><30+0><setpos_exact 3316.36 2828.77 78.15; setang 25.33 121.49 0.00><Area 26522>" killed "infected<431><><Infected><infected><DEAD><1><setpos_exact 3072.30 3227.09 -116.82; setang 0.00 292.98 0.00><Area 42953>" with "pumpshotgun" (headshot)
+L 05/09/2013 - 16:10:06: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><58+0><setpos_exact 3582.27 2928.03 -137.97; setang 17.98 63.83 0.00><Area 26091>" killed "infected<429><><Infected><infected><DEAD><22><setpos_exact 3639.43 3053.72 -239.97; setang -0.00 331.48 0.00><Area 26091>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:10:06: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><58+0><setpos_exact 3582.27 2928.03 -137.97; setang 18.12 64.29 0.00><Area 26091>" killed "infected<308><><Infected><infected><DEAD><34><setpos_exact 4018.52 3904.89 -511.97; setang 0.00 -44.17 0.00><Area 38910>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:10:10: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><48+0><setpos_exact 3735.85 3244.91 -297.97; setang 13.67 78.43 0.00><Area 1735>" killed "infected<393><><Infected><infected><DEAD><-1><setpos_exact 3787.81 3421.74 -375.97; setang 0.00 15.70 0.00><Area 31321>" with "pumpshotgun"
+L 05/09/2013 - 16:10:10: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 3201.94 2835.14 -29.07; setang 7.34 43.59 -1.40><Area 32367>" killed "infected<288><><Infected><infected><DEAD><10><setpos_exact 3368.39 3015.73 -103.97; setang 0.00 273.77 0.00><Area 37421>" with "pumpshotgun" (headshot)
+L 05/09/2013 - 16:10:11: 49.43: (MOB) SpawnMob requested of size 30.
+L 05/09/2013 - 16:10:11: 49.43: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 16:10:12: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><38+0><setpos_exact 3977.68 3223.09 -281.97; setang -17.06 -81.83 0.00><Area 38771>" killed "infected<394><><Infected><infected><DEAD><-3><setpos_exact 4000.85 3117.74 -271.97; setang 0.00 100.51 0.00><Area 38771>" with "smg_silenced"
+L 05/09/2013 - 16:10:12: 49.97: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 16:10:12: 49.97: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 16:10:12: 49.97: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 16:10:12: 49.97: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 16:10:12: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><38+0><setpos_exact 3974.84 3223.09 -281.97; setang -6.70 -76.35 0.00><Area 38771>" killed "infected<398><><Infected><infected><DEAD><-5><setpos_exact 3982.36 3194.06 -327.97; setang -0.00 98.95 0.00><Area 38771>" with "smg_silenced"
+L 05/09/2013 - 16:10:12: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 3375.95 2945.67 -45.67; setang 12.30 271.04 0.00><Area 37419>" killed "infected<430><><Infected><infected><DEAD><-29><setpos_exact 3380.40 2873.26 -108.18; setang 0.00 134.34 0.00><Area 43818>" with "pumpshotgun" (headshot)
+L 05/09/2013 - 16:10:13: 50.63: (MOB) Mob zombie spawned, 25 remain.
+L 05/09/2013 - 16:10:13: 50.63: (MOB) Mob zombie spawned, 24 remain.
+L 05/09/2013 - 16:10:13: 50.63: (MOB) Mob zombie spawned, 23 remain.
+L 05/09/2013 - 16:10:13: 50.63: (MOB) Mob zombie spawned, 22 remain.
+L 05/09/2013 - 16:10:13: ------------------------------ Director state change BUILD_UP -> SUSTAIN_PEAK
+L 05/09/2013 - 16:10:14: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><38+0><setpos_exact 3955.39 3159.45 -233.97; setang -15.54 -86.32 0.00><Area 38771>" killed "infected<396><><Infected><infected><DEAD><-3><setpos_exact 3967.44 2991.25 -247.97; setang -0.00 124.95 0.00><Area 26069>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:10:14: 52.40: (MOB) Mob zombie spawned, 21 remain.
+L 05/09/2013 - 16:10:14: 52.40: (MOB) Mob zombie spawned, 20 remain.
+L 05/09/2013 - 16:10:14: 52.40: (MOB) Mob zombie spawned, 19 remain.
+L 05/09/2013 - 16:10:14: 52.40: (MOB) Mob zombie spawned, 18 remain.
+L 05/09/2013 - 16:10:16: 53.67: (MOB) Mob zombie spawned, 17 remain.
+L 05/09/2013 - 16:10:16: 53.67: (MOB) Mob zombie spawned, 16 remain.
+L 05/09/2013 - 16:10:16: 53.67: (MOB) Mob zombie spawned, 15 remain.
+L 05/09/2013 - 16:10:16: 53.67: (MOB) Mob zombie spawned, 14 remain.
+L 05/09/2013 - 16:10:16: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><38+0><setpos_exact 3927.15 2996.34 -185.97; setang 11.38 -108.03 0.00><Area 26069>" killed "infected<397><><Infected><infected><DEAD><0><setpos_exact 3923.33 2952.73 -247.97; setang -0.00 142.44 0.00><Area 26069>" with "melee"
+L 05/09/2013 - 16:10:17: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><38+0><setpos_exact 3964.59 2964.04 -185.97; setang 0.16 -101.50 0.00><Area 26069>" killed "infected<298><><Infected><infected><DEAD><0><setpos_exact 3977.43 2892.88 -199.97; setang 0.00 99.92 0.00><Area 44084>" with "melee"
+L 05/09/2013 - 16:10:18: ------------------------------ Director state change SUSTAIN_PEAK -> PEAK_FADE
+L 05/09/2013 - 16:10:18: 56.17: (MOB) Mob zombie spawned, 13 remain.
+L 05/09/2013 - 16:10:18: 56.17: (MOB) Mob zombie spawned, 12 remain.
+L 05/09/2013 - 16:10:18: 56.17: (MOB) Mob zombie spawned, 11 remain.
+L 05/09/2013 - 16:10:18: 56.17: (MOB) Mob zombie spawned, 10 remain.
+L 05/09/2013 - 16:10:18: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 3935.33 2810.81 -75.97; setang 358.27 25.54 0.00><Area 43826>" killed "infected<309><><Infected><infected><DEAD><-11><setpos_exact 4008.01 2847.82 -117.90; setang 0.00 193.06 0.00><Area 44077>" with "pumpshotgun"
+L 05/09/2013 - 16:10:18: 56.40: (MOB) Mob zombie spawned, 9 remain.
+L 05/09/2013 - 16:10:18: 56.40: (MOB) Mob zombie spawned, 8 remain.
+L 05/09/2013 - 16:10:18: 56.40: (MOB) Mob zombie spawned, 7 remain.
+L 05/09/2013 - 16:10:18: 56.40: (MOB) Mob zombie spawned, 6 remain.
+L 05/09/2013 - 16:10:19: 56.67: (MOB) Mob zombie spawned, 5 remain.
+L 05/09/2013 - 16:10:19: 56.67: (MOB) Mob zombie spawned, 4 remain.
+L 05/09/2013 - 16:10:19: 56.67: (MOB) Mob zombie spawned, 3 remain.
+L 05/09/2013 - 16:10:19: 56.67: (MOB) Mob zombie spawned, 2 remain.
+L 05/09/2013 - 16:10:20: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 3992.43 2980.88 -185.97; setang 27.21 91.43 0.00><Area 26069>" killed "infected<431><><Infected><infected><DEAD><28><setpos_exact 3991.50 3221.09 -359.97; setang 0.00 255.42 0.00><Area 38771>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:10:21: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 3992.49 2980.30 -185.97; setang 22.28 83.88 0.00><Area 26069>" killed "infected<413><><Infected><infected><DEAD><-4><setpos_exact 4028.97 3306.32 -375.97; setang -0.00 258.13 0.00><Area 31316>" with "smg_silenced"
+L 05/09/2013 - 16:10:22: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 3992.49 2980.30 -185.97; setang 29.37 84.10 0.00><Area 26069>" killed "infected<423><><Infected><infected><DEAD><6><setpos_exact 4030.97 3274.43 -375.97; setang 0.00 332.86 0.00><Area 38771>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:10:22: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 3992.49 2980.30 -185.97; setang 25.82 91.19 0.00><Area 26069>" killed "infected<434><><Infected><infected><DEAD><-5><setpos_exact 3996.04 3141.17 -303.97; setang 0.00 234.07 0.00><Area 38771>" with "smg_silenced"
+L 05/09/2013 - 16:10:23: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><48+0><setpos_exact 4018.78 3027.84 -185.97; setang 24.50 102.05 0.00><Area 26069>" killed "infected<394><><Infected><infected><DEAD><-17><setpos_exact 3955.40 3339.82 -375.97; setang -0.00 281.94 0.00><Area 31316>" with "pumpshotgun" (headshot)
+L 05/09/2013 - 16:10:24: 62.07: (MOB) Mob zombie spawned, 1 remain.
+L 05/09/2013 - 16:10:24: 62.07: (MOB) Mob zombie spawned, 0 remain.
+L 05/09/2013 - 16:10:24: 62.07: (MOB) Pending mob done.
+L 05/09/2013 - 16:10:26: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 3974.77 2879.97 -137.97; setang 294.68 321.67 0.00><Area 44084>" killed "infected<411><><Infected><infected><DEAD><-10><setpos_exact 3983.99 2862.51 -128.94; setang 0.00 10.01 0.00><Area 26078>" with "pumpshotgun"
+L 05/09/2013 - 16:10:26: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 3974.77 2879.97 -137.97; setang 294.68 321.67 0.00><Area 44084>" killed "infected<433><><Infected><infected><DEAD><-10><setpos_exact 3988.97 2861.36 -128.94; setang 0.00 0.87 0.00><Area 26078>" with "pumpshotgun"
+L 05/09/2013 - 16:10:26: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 3974.77 2879.97 -137.97; setang 294.68 321.67 0.00><Area 44084>" killed "infected<401><><Infected><infected><DEAD><-10><setpos_exact 3988.97 2859.59 -128.94; setang 0.00 359.58 0.00><Area 26078>" with "pumpshotgun"
+L 05/09/2013 - 16:10:27: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 3974.77 2879.97 -137.97; setang 309.73 335.37 0.00><Area 44084>" killed "infected<430><><Infected><infected><DEAD><-10><setpos_exact 3988.97 2862.46 -128.94; setang 0.00 358.04 0.00><Area 26078>" with "pumpshotgun"
+L 05/09/2013 - 16:10:27: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 3974.77 2879.97 -137.97; setang 309.73 335.37 0.00><Area 44084>" killed "infected<393><><Infected><infected><DEAD><-10><setpos_exact 3988.97 2851.83 -128.94; setang 0.00 8.76 0.00><Area 26078>" with "pumpshotgun"
+L 05/09/2013 - 16:10:27: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 3974.77 2879.97 -137.97; setang 309.73 335.37 0.00><Area 44084>" killed "infected<285><><Infected><infected><DEAD><-10><setpos_exact 3988.97 2859.92 -128.94; setang 0.00 358.95 0.00><Area 26078>" with "pumpshotgun"
+L 05/09/2013 - 16:10:27: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><38+0><setpos_exact 4027.97 3059.74 -203.97; setang 25.44 105.54 0.00><Area 38770>" killed "infected<396><><Infected><infected><DEAD><28><setpos_exact 3997.60 3240.35 -367.97; setang 0.00 276.80 0.00><Area 38771>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:10:27: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 3992.49 2980.30 -185.97; setang 2.70 129.64 0.00><Area 26069>" killed "infected<429><><Infected><infected><DEAD><-4><setpos_exact 3916.60 3062.41 -247.97; setang -0.00 336.77 0.00><Area 38770>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:10:28: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><18+0><setpos_exact 4027.97 3059.74 -203.97; setang 29.86 104.16 0.00><Area 38770>" killed "infected<308><><Infected><infected><DEAD><-4><setpos_exact 4013.39 3088.77 -255.97; setang 0.00 288.69 0.00><Area 38771>" with "smg_silenced"
+L 05/09/2013 - 16:10:28: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><48+0><setpos_exact 4040.76 2985.72 -169.97; setang 21.75 117.20 0.00><Area 26072>" killed "infected<417><><Infected><infected><DEAD><-8><setpos_exact 3998.94 3051.63 -247.97; setang 0.00 15.61 0.00><Area 38770>" with "pumpshotgun"
+L 05/09/2013 - 16:10:29: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 3974.77 2879.97 -137.97; setang 19.62 83.14 0.00><Area 44084>" killed "infected<288><><Infected><infected><DEAD><-1><setpos_exact 3990.45 3119.32 -271.97; setang 0.00 303.00 0.00><Area 38771>" with "pumpshotgun"
+L 05/09/2013 - 16:10:29: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><18+0><setpos_exact 4027.97 3059.74 -203.97; setang 29.60 108.71 0.00><Area 38770>" killed "infected<408><><Infected><infected><DEAD><-5><setpos_exact 4004.65 3092.78 -261.30; setang 0.00 247.35 0.00><Area 38771>" with "smg_silenced"
+L 05/09/2013 - 16:10:31: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 3989.40 2862.97 -155.97; setang 306.41 88.96 0.00><Area 26078>" killed "infected<392><><Infected><infected><DEAD><-11><setpos_exact 3988.97 2882.97 -144.94; setang -0.00 333.71 0.00><Area 44078>" with "pumpshotgun"
+L 05/09/2013 - 16:10:31: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 3989.40 2862.97 -155.97; setang 306.41 88.96 0.00><Area 26078>" killed "infected<432><><Infected><infected><DEAD><-10><setpos_exact 3988.97 2882.97 -144.94; setang 0.00 2.35 0.00><Area 26078>" with "pumpshotgun"
+L 05/09/2013 - 16:10:31: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><48+0><setpos_exact 4085.44 2967.29 -145.97; setang 22.91 123.86 0.00><Area 26072>" killed "infected<414><><Infected><infected><DEAD><-3><setpos_exact 3961.41 3176.75 -311.97; setang -0.00 211.30 0.00><Area 38771>" with "pumpshotgun"
+L 05/09/2013 - 16:10:32: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 3989.45 2862.98 -155.97; setang 305.67 273.58 0.00><Area 26078>" killed "infected<438><><Infected><infected><DEAD><-10><setpos_exact 3988.97 2847.03 -144.94; setang -0.00 2.43 0.00><Area 26078>" with "pumpshotgun"
+L 05/09/2013 - 16:10:32: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><48+0><setpos_exact 4085.44 2967.29 -145.97; setang 24.49 134.70 0.00><Area 26072>" killed "infected<322><><Infected><infected><DEAD><-3><setpos_exact 3945.40 3104.51 -271.97; setang -0.00 331.22 0.00><Area 38771>" with "pumpshotgun"
+L 05/09/2013 - 16:10:33: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><18+0><setpos_exact 4027.97 3059.74 -203.97; setang 26.76 116.23 0.00><Area 38770>" killed "infected<281><><Infected><infected><DEAD><21><setpos_exact 3978.21 3111.30 -287.97; setang 0.00 267.91 0.00><Area 38771>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:10:34: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><48+0><setpos_exact 4085.44 2967.29 -145.97; setang 28.66 116.80 0.00><Area 26072>" killed "infected<206><><Infected><infected><DEAD><0><setpos_exact 4010.54 3108.94 -279.97; setang -0.00 301.39 0.00><Area 38771>" with "pumpshotgun"
+L 05/09/2013 - 16:10:34: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><48+0><setpos_exact 4085.44 2967.29 -145.97; setang 36.72 117.94 0.00><Area 26072>" killed "infected<289><><Infected><infected><DEAD><18><setpos_exact 4002.95 3129.08 -295.97; setang 0.00 237.81 0.00><Area 38771>" with "pumpshotgun" (headshot)
+L 05/09/2013 - 16:10:35: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 3989.45 2862.98 -155.97; setang 309.49 272.78 0.00><Area 26078>" killed "infected<398><><Infected><infected><DEAD><-10><setpos_exact 3988.97 2847.03 -144.94; setang 0.00 335.76 0.00><Area 26078>" with "pumpshotgun"
+L 05/09/2013 - 16:10:36: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 3959.05 2897.14 -155.97; setang 304.02 341.42 0.00><Area 44084>" killed "infected<409><><Infected><infected><DEAD><-5><setpos_exact 3988.97 2881.25 -144.94; setang 0.00 23.62 0.00><Area 26078>" with "smg_silenced"
+L 05/09/2013 - 16:10:37: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><18+0><setpos_exact 4001.22 3262.96 -305.97; setang 20.89 141.38 0.00><Area 38771>" killed "infected<435><><Infected><infected><DEAD><14><setpos_exact 4010.57 3291.99 -375.97; setang -0.00 340.42 0.00><Area 31316>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:10:38: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 3974.42 2940.57 -169.30; setang 355.74 254.13 0.00><Area 26069>" killed "infected<298><><Infected><infected><DEAD><-4><setpos_exact 3962.70 2862.65 -199.97; setang 0.00 356.63 0.00><Area 26078>" with "pumpshotgun"
+L 05/09/2013 - 16:10:38: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 3979.82 2986.36 -185.97; setang 8.35 269.66 -0.36><Area 26069>" killed "infected<282><><Infected><infected><DEAD><-4><setpos_exact 3985.36 2860.78 -199.97; setang 0.00 0.80 0.00><Area 26078>" with "smg_silenced"
+L 05/09/2013 - 16:10:46: ------------------------------ Director state change PEAK_FADE -> RELAX
+L 05/09/2013 - 16:10:58: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 3457.84 3877.35 -449.97; setang 1.71 99.13 0.00><Area 42997>" killed "infected<415><><Infected><infected><DEAD><-5><setpos_exact 3367.06 4459.23 -495.97; setang 0.00 -252.22 0.00><Area 29434>" with "rifle"
+L 05/09/2013 - 16:10:59: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><18+0><setpos_exact 3221.57 3701.72 -337.97; setang -18.12 157.58 0.00><Area 36191>" killed "infected<289><><Infected><infected><DEAD><-22><setpos_exact 3192.56 3706.61 -383.97; setang 0.00 304.20 0.00><Area 36191>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:11:05: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><18+0><setpos_exact 3092.56 3773.21 -225.97; setang -16.27 88.35 0.00><Area 29555>" killed "infected<309><><Infected><infected><DEAD><28><setpos_exact 3104.63 4123.57 -178.67; setang 0.00 264.35 0.00><Area 31880>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:11:07: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 3129.54 3714.97 -273.97; setang 353.97 132.07 0.00><Area 36190>" killed "infected<401><><Infected><infected><DEAD><-6><setpos_exact 2979.09 3911.65 -284.64; setang 0.00 270.00 0.00><Area 29555>" with "rifle"
+L 05/09/2013 - 16:11:13: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><83+0><setpos_exact 3674.81 3951.86 -291.97; setang -1.88 7.69 0.00><Area 31645>" killed "infected<390><><Infected><infected><DEAD><29><setpos_exact 4163.54 4025.34 -335.97; setang 0.00 -152.50 0.00><Area 38053>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:11:14: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><83+0><setpos_exact 3674.81 3951.86 -291.97; setang 2.34 4.92 0.00><Area 31645>" killed "infected<322><><Infected><infected><DEAD><30><setpos_exact 4194.22 4004.55 -335.97; setang 0.00 85.73 0.00><Area 38053>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:11:15: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><83+0><setpos_exact 3674.81 3951.86 -291.97; setang -1.68 1.03 0.00><Area 31645>" killed "infected<393><><Infected><infected><DEAD><30><setpos_exact 4255.81 3956.28 -335.97; setang 0.00 513.33 0.00><Area 1786>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:11:16: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><83+0><setpos_exact 3674.81 3951.86 -291.97; setang -2.41 -3.46 0.00><Area 31645>" killed "infected<285><><Infected><infected><DEAD><22><setpos_exact 3850.33 3941.55 -335.97; setang 0.00 176.71 0.00><Area 43434>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:11:16: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><83+0><setpos_exact 3674.81 3951.86 -291.97; setang -2.48 -3.66 0.00><Area 31645>" killed "infected<412><><Infected><infected><DEAD><18><setpos_exact 4570.53 3909.00 -287.97; setang 0.00 248.87 0.00><Area 43331>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:11:16: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 3613.70 3930.61 -270.87; setang 16.29 19.83 0.00><Area 31827>" killed "infected<392><><Infected><infected><DEAD><-8><setpos_exact 3703.84 3958.30 -335.97; setang 0.00 189.07 0.00><Area 31645>" with "rifle"
+L 05/09/2013 - 16:11:18: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 3614.03 3930.59 -270.89; setang 5.04 5.26 0.00><Area 31827>" killed "infected<288><><Infected><infected><DEAD><-6><setpos_exact 3926.41 3953.10 -335.97; setang 0.00 175.00 0.00><Area 43434>" with "rifle"
+L 05/09/2013 - 16:11:19: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 3566.23 3952.63 -278.42; setang 1.80 4.52 0.00><Area 31865>" killed "infected<408><><Infected><infected><DEAD><-5><setpos_exact 4119.17 3998.90 -335.97; setang 0.00 189.13 0.00><Area 38053>" with "rifle"
+L 05/09/2013 - 16:11:22: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 3909.74 3933.37 -273.97; setang 1.64 176.30 0.00><Area 43434>" killed "infected<310><><Infected><infected><DEAD><-6><setpos_exact 3608.89 3946.74 -324.26; setang 0.00 4.31 0.00><Area 31865>" with "rifle"
+L 05/09/2013 - 16:11:23: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 3941.84 3969.18 -273.97; setang 4.58 21.25 0.00><Area 43434>" killed "infected<417><><Infected><infected><DEAD><-7><setpos_exact 4070.70 4016.93 -335.97; setang -0.00 246.22 0.00><Area 43435>" with "rifle" (headshot)
+L 05/09/2013 - 16:11:24: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 3909.74 3933.37 -273.97; setang 2.16 26.23 0.00><Area 43434>" killed "infected<414><><Infected><infected><DEAD><10><setpos_exact 4102.47 4004.81 -335.97; setang 0.00 280.67 0.00><Area 43435>" with "rifle" (headshot)
+L 05/09/2013 - 16:11:24: ------------------------------ Director state change RELAX -> BUILD_UP
+L 05/09/2013 - 16:11:24: "Charger<14><BOT><>" connected, address "none"
+L 05/09/2013 - 16:11:24: OnEndChangelevel (14): 1 saved players:
+L 05/09/2013 - 16:11:24: 	Piperoman[Spain](2), state 2
+L 05/09/2013 - 16:11:24: "Charger<14><BOT><>" entered the game
+L 05/09/2013 - 16:11:24: "Charger<14><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 16:11:24: Charger spawned as a CHARGER
+L 05/09/2013 - 16:11:24: "Charger<14><BOT><Infected><CHARGER><ALIVE><600+0><setpos_exact 5525.00 3800.00 -263.97; setang 0.00 0.00 0.00><Area 32525>" spawned
+L 05/09/2013 - 16:11:24: "Hunter<15><BOT><>" connected, address "none"
+L 05/09/2013 - 16:11:24: OnEndChangelevel (15): 1 saved players:
+L 05/09/2013 - 16:11:24: 	Piperoman[Spain](2), state 2
+L 05/09/2013 - 16:11:24: "Hunter<15><BOT><>" entered the game
+L 05/09/2013 - 16:11:24: "Hunter<15><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 16:11:24: Hunter spawned as a HUNTER
+L 05/09/2013 - 16:11:24: "Hunter<15><BOT><Infected><HUNTER><ALIVE><250+0><setpos_exact 4375.00 4387.50 -225.97; setang 0.00 0.00 0.00><Area 23823>" spawned
+L 05/09/2013 - 16:11:26: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><48+0><setpos_exact 4048.06 3965.37 -273.97; setang 0.03 62.53 0.00><Area 43435>" killed "infected<203><><Infected><infected><DEAD><19><setpos_exact 4344.14 4538.97 -351.90; setang 0.00 102.97 0.00><Area 30796>" with "rifle" (headshot)
+L 05/09/2013 - 16:11:26: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><83+0><setpos_exact 4123.43 3920.03 -291.97; setang -15.15 19.44 0.00><Area 43435>" killed "infected<394><><Infected><infected><DEAD><23><setpos_exact 4469.13 4033.08 -215.67; setang 0.00 321.64 0.00><Area 26429>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:11:27: Hunter starting a lunge, 50 damage interrupts
+L 05/09/2013 - 16:11:28: Hunter ending a lunge
+L 05/09/2013 - 16:11:32: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><83+0><setpos_exact 4123.43 3920.03 -291.97; setang -6.50 -3.66 0.00><Area 43435>" killed "infected<409><><Infected><infected><DEAD><-4><setpos_exact 4507.81 3892.85 -287.97; setang 0.00 225.00 0.00><Area 43304>" with "smg_silenced"
+L 05/09/2013 - 16:11:33: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><48+0><setpos_exact 4050.01 3993.27 -273.97; setang 0.50 360.93 0.00><Area 43435>" killed "Charger<14><BOT><Infected><CHARGER><DEAD><1+0><setpos 4268.94 3980.00 -335.97; setang 330.52 176.53 0.00><Area 1786>" with "rifle"
+L 05/09/2013 - 16:11:33: "Smoker<16><BOT><>" connected, address "none"
+L 05/09/2013 - 16:11:33: OnEndChangelevel (16): 1 saved players:
+L 05/09/2013 - 16:11:33: 	Piperoman[Spain](2), state 2
+L 05/09/2013 - 16:11:33: "Smoker<16><BOT><>" entered the game
+L 05/09/2013 - 16:11:33: "Smoker<16><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 16:11:33: Smoker spawned as a SMOKER
+L 05/09/2013 - 16:11:33: "Smoker<16><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 3112.50 4137.50 -116.67; setang 0.00 0.00 0.00><Area 31880>" spawned
+L 05/09/2013 - 16:11:35: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<16><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 3302.23 4089.98 -116.67; setang 12.56 352.58 0.00><Area 31716>". Victim:"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 4068.31 3959.23 -273.97; setang 5.83 62.09 0.00><Area 43435>".
+L 05/09/2013 - 16:11:35: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<16><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 3321.89 4085.92 -116.67; setang 12.90 352.71 0.00><Area 31716>". Victim:"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 4065.02 3924.03 -273.97; setang 3.21 62.73 0.00><Area 43435>".
+L 05/09/2013 - 16:11:35: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 4068.31 3959.23 -273.97; setang 1.70 62.18 0.00><Area 43435>" killed "Hunter<15><BOT><Infected><HUNTER><DEAD><1+0><setpos 4202.65 4212.31 -287.97; setang 345.14 242.04 0.00><Area 37606>" with "rifle"
+L 05/09/2013 - 16:11:35: (TONGUE) Tongue launching towards victim.  Smoker:"Smoker<16><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 3335.38 4083.18 -116.67; setang 13.18 352.80 0.00><Area 31770>". Victim:"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 4065.02 3924.03 -273.97; setang 2.07 64.56 0.00><Area 43435>".
+L 05/09/2013 - 16:11:36: (TONGUE) Tongue grab starting.  Smoker:"Smoker<16><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 3335.41 4083.18 -116.67; setang 13.25 352.83 0.00><Area 31770>". Victim:"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 4065.02 3924.03 -273.97; setang 359.32 64.48 0.00><Area 43435>".
+L 05/09/2013 - 16:11:38: (TONGUE) Tongue letting go for a melee.  Smoker:"Smoker<16><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 3335.41 4083.18 -116.67; setang 13.25 352.83 0.00><Area 31770>". Victim:"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 3689.26 4007.86 -273.97; setang 357.36 118.78 0.00><Area 31645>".
+L 05/09/2013 - 16:11:42: "Charger<14><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 16:11:43: (DEATH)"env_fire<660><><Unassigned><env_fire><ALIVE><30><setpos_exact 4517.04 3664.93 -299.38; setang 0.00 0.00 0.00><Area 0>" killed "infected<429><><Infected><infected><DEAD><-4><setpos_exact 4530.57 3684.14 -292.84; setang 0.00 -391.23 0.00><Area 32535>" with "env_fire"
+L 05/09/2013 - 16:11:44: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><83+0><setpos_exact 4144.78 3910.54 -243.97; setang -6.50 167.45 0.00><Area 37581>" killed "Smoker<16><BOT><Infected><SMOKER><DEAD><1+0><setpos 2959.30 4153.95 -178.67; setang 0.16 348.40 0.00><Area 26634>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:11:44: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 3977.43 3969.61 -273.97; setang 3.48 7.12 0.00><Area 43434>" killed "infected<281><><Infected><infected><DEAD><-7><setpos_exact 4131.19 3978.06 -335.97; setang 0.00 212.90 0.00><Area 38053>" with "rifle" (headshot)
+L 05/09/2013 - 16:11:44: "Hunter<15><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 16:11:46: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 4090.31 3951.18 -273.97; setang 354.76 346.78 0.00><Area 43435>" killed "infected<410><><Infected><infected><DEAD><-7><setpos_exact 4233.73 3921.68 -297.97; setang 0.00 244.54 0.00><Area 29655>" with "rifle"
+L 05/09/2013 - 16:11:47: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><83+0><setpos_exact 4166.47 3826.67 -243.97; setang -4.59 -10.06 0.00><Area 37581>" killed "infected<309><><Infected><infected><DEAD><29><setpos_exact 4529.62 3759.68 -270.97; setang 0.00 239.67 0.00><Area 29616>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:11:47: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 4090.31 3951.18 -273.97; setang 0.35 316.65 0.00><Area 43435>" killed "infected<411><><Infected><infected><DEAD><-6><setpos_exact 4392.60 3665.85 -287.97; setang 0.00 327.25 0.00><Area 24231>" with "rifle"
+L 05/09/2013 - 16:11:48: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><83+0><setpos_exact 4203.43 3818.10 -243.97; setang -0.96 -13.10 0.00><Area 24235>" killed "infected<431><><Infected><infected><DEAD><12><setpos_exact 4582.47 3727.47 -285.74; setang 0.00 14.01 0.00><Area 32662>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:11:53: "Smoker<16><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 16:11:53: (DEATH)"env_fire<658><><Unassigned><env_fire><ALIVE><30><setpos_exact 4524.05 3496.50 -247.51; setang 0.00 0.00 0.00><Area 0>" killed "infected<422><><Infected><infected><DEAD><-5><setpos_exact 4567.22 3462.38 -219.54; setang 0.00 11.83 0.00><Area 33436>" with "env_fire"
+L 05/09/2013 - 16:11:53: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><83+0><setpos_exact 4717.80 3880.02 -225.97; setang 46.10 53.50 0.00><Area 42799>" killed "infected<414><><Infected><infected><DEAD><20><setpos_exact 4749.06 3923.56 -335.97; setang 0.00 185.51 0.00><Area 7983>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:11:54: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 4627.56 3819.12 -224.26; setang 5.99 48.54 0.00><Area 21497>" killed "infected<398><><Infected><infected><DEAD><-4><setpos_exact 4724.78 3912.69 -287.97; setang 0.00 267.26 0.00><Area 42799>" with "rifle"
+L 05/09/2013 - 16:11:55: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><48+0><setpos_exact 4557.13 3906.64 -225.97; setang 9.13 9.89 0.00><Area 43331>" killed "infected<281><><Infected><infected><DEAD><-7><setpos_exact 4710.00 3951.98 -330.22; setang -0.00 274.02 0.00><Area 7983>" with "rifle" (headshot)
+L 05/09/2013 - 16:11:55: ------------------------------ Director state change BUILD_UP -> SUSTAIN_PEAK
+L 05/09/2013 - 16:11:58: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><48+0><setpos_exact 4757.60 3936.02 -273.97; setang 355.21 249.60 -0.06><Area 7983>" killed "infected<310><><Infected><infected><DEAD><-6><setpos_exact 4613.47 3530.68 -261.09; setang 0.00 133.62 0.00><Area 33437>" with "rifle"
+L 05/09/2013 - 16:11:59: ------------------------------ Director state change SUSTAIN_PEAK -> PEAK_FADE
+L 05/09/2013 - 16:11:59: (DEATH)"infected<180><><Infected><infected><ALIVE><6><setpos_exact 4349.12 4539.00 -353.36; setang 0.00 355.62 0.00><Area 30796>" killed "infected<415><><Infected><infected><DEAD><-2><setpos_exact 4377.36 4536.84 -352.66; setang 0.00 175.69 0.00><Area 44095>" with "infected"
+L 05/09/2013 - 16:11:59: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 5105.20 3989.07 -273.97; setang 11.89 171.26 0.00><Area 37928>" killed "infected<173><><Infected><infected><DEAD><-7><setpos_exact 4953.36 4009.90 -335.97; setang 0.00 -18.32 0.00><Area 39026>" with "rifle"
+L 05/09/2013 - 16:12:01: ------------------------------ Director state change PEAK_FADE -> RELAX
+L 05/09/2013 - 16:12:04: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 5578.83 4346.67 -273.97; setang 5.85 265.82 0.00><Area 37657>" killed "infected<413><><Infected><infected><DEAD><10><setpos_exact 5565.41 4127.25 -335.97; setang 0.00 351.60 0.00><Area 37635>" with "rifle" (headshot)
+L 05/09/2013 - 16:12:07: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 5837.36 4197.03 -273.97; setang 2.05 268.65 0.00><Area 42800>" killed "infected<392><><Infected><infected><DEAD><1><setpos_exact 5847.49 4059.41 -335.97; setang -0.00 57.60 0.00><Area 37666>" with "rifle" (headshot)
+L 05/09/2013 - 16:12:09: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 6279.02 3211.54 -256.70; setang -0.43 133.82 0.00><Area 33455>" killed "infected<407><><Infected><infected><DEAD><-4><setpos_exact 6202.84 3283.44 -300.70; setang 0.00 314.89 0.00><Area 33075>" with "smg_silenced"
+L 05/09/2013 - 16:12:09: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 6279.02 3211.54 -256.70; setang 1.29 130.91 0.00><Area 33455>" killed "infected<401><><Infected><infected><DEAD><19><setpos_exact 6120.65 3411.03 -330.26; setang 0.00 182.30 0.00><Area 33198>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:12:10: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 6279.02 3211.54 -256.70; setang 4.78 128.01 0.00><Area 33455>" killed "infected<309><><Infected><infected><DEAD><-3><setpos_exact 6228.27 3268.45 -300.70; setang 0.00 196.54 0.00><Area 33092>" with "smg_silenced"
+L 05/09/2013 - 16:12:12: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><48+0><setpos_exact 6119.15 3331.64 -244.35; setang 11.81 47.03 0.00><Area 34869>" killed "infected<181><><Infected><infected><DEAD><-31><setpos_exact 6200.08 3423.18 -324.71; setang -0.00 200.65 0.00><Area 34872>" with "rifle" (headshot)
+L 05/09/2013 - 16:12:14: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 6518.83 2946.10 -238.70; setang 3.66 -3.00 0.00><Area 43481>" killed "infected<173><><Infected><infected><DEAD><26><setpos_exact 6609.85 2932.89 -300.70; setang 0.00 113.26 0.00><Area 33218>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:12:15: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><33+0><setpos_exact 6353.06 3115.36 -238.70; setang 28.78 120.71 0.00><Area 33463>" killed "infected<410><><Infected><infected><DEAD><-7><setpos_exact 6310.41 3176.25 -300.70; setang -0.00 315.66 0.00><Area 33457>" with "rifle"
+L 05/09/2013 - 16:12:16: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 6341.98 3146.34 -238.70; setang 8.72 122.59 0.00><Area 33466>" killed "infected<288><><Infected><infected><DEAD><-27><setpos_exact 6094.76 3528.43 -335.97; setang -0.00 302.19 0.00><Area 37646>" with "rifle" (headshot)
+L 05/09/2013 - 16:12:17: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 6689.83 2925.09 -238.70; setang 6.96 -11.65 0.00><Area 33491>" killed "infected<322><><Infected><infected><DEAD><-3><setpos_exact 6718.86 2924.04 -300.70; setang -0.00 174.09 0.00><Area 33491>" with "smg_silenced"
+L 05/09/2013 - 16:12:17: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 6699.91 2924.41 -238.70; setang 9.73 -4.72 0.00><Area 33491>" killed "infected<282><><Infected><infected><DEAD><-2><setpos_exact 6853.13 2911.51 -300.70; setang 0.00 146.92 0.00><Area 32597>" with "smg_silenced"
+L 05/09/2013 - 16:12:18: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 6699.24 2918.27 -238.70; setang 6.04 -9.27 0.00><Area 33491>" killed "infected<308><><Infected><infected><DEAD><0><setpos_exact 6963.05 2870.57 -300.70; setang 0.00 -121.03 0.00><Area 43223>" with "smg_silenced"
+L 05/09/2013 - 16:12:18: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 6712.28 2909.04 -238.70; setang 6.04 -11.05 0.00><Area 33491>" killed "infected<310><><Infected><infected><DEAD><-5><setpos_exact 7037.18 2847.97 -311.73; setang -0.00 -25.96 0.00><Area 30582>" with "smg_silenced"
+L 05/09/2013 - 16:12:18: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><33+0><setpos_exact 6497.11 2969.75 -238.70; setang 4.36 133.38 0.00><Area 32592>" killed "infected<402><><Infected><infected><DEAD><-6><setpos_exact 6298.17 3180.39 -300.70; setang 0.00 313.35 0.00><Area 33457>" with "rifle"
+L 05/09/2013 - 16:12:21: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 6962.99 2863.85 -256.70; setang -4.46 -32.70 0.00><Area 43223>" killed "infected<411><><Infected><infected><DEAD><-3><setpos_exact 7080.30 2795.08 -287.97; setang -0.00 158.47 0.00><Area 30578>" with "smg_silenced"
+L 05/09/2013 - 16:12:28: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><48+0><setpos_exact 7128.90 2869.35 -262.60; setang 5.30 8.16 0.00><Area 43271>" killed "infected<182><><Infected><infected><DEAD><-4><setpos_exact 7522.85 2922.97 -335.97; setang 0.00 89.17 0.00><Area 44048>" with "rifle"
+L 05/09/2013 - 16:12:31: ------------------------------ Director state change RELAX -> BUILD_UP
+L 05/09/2013 - 16:12:31: 189.03: (MOB) SpawnMob requested of size 30.
+L 05/09/2013 - 16:12:31: 189.03: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 16:12:31: "Charger<17><BOT><>" connected, address "none"
+L 05/09/2013 - 16:12:31: OnEndChangelevel (17): 1 saved players:
+L 05/09/2013 - 16:12:31: 	Piperoman[Spain](2), state 2
+L 05/09/2013 - 16:12:31: "Charger<17><BOT><>" entered the game
+L 05/09/2013 - 16:12:31: "Charger<17><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 16:12:31: Charger spawned as a CHARGER
+L 05/09/2013 - 16:12:31: "Charger<17><BOT><Infected><CHARGER><ALIVE><600+0><setpos_exact 7364.04 3344.34 -52.41; setang 0.00 0.00 0.00><Area 27492>" spawned
+L 05/09/2013 - 16:12:31: "Boomer<18><BOT><>" connected, address "none"
+L 05/09/2013 - 16:12:31: OnEndChangelevel (18): 1 saved players:
+L 05/09/2013 - 16:12:31: 	Piperoman[Spain](2), state 2
+L 05/09/2013 - 16:12:31: "Boomer<18><BOT><>" entered the game
+L 05/09/2013 - 16:12:31: "Boomer<18><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 16:12:31: Boomer spawned as a BOOMER
+L 05/09/2013 - 16:12:31: "Boomer<18><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact 8100.00 3225.00 -78.60; setang 0.00 0.00 0.00><Area 27925>" spawned
+L 05/09/2013 - 16:12:34: 192.03: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 16:12:34: 192.03: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 16:12:34: 192.03: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 16:12:34: 192.03: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 16:12:34: 192.07: (MOB) Mob zombie spawned, 25 remain.
+L 05/09/2013 - 16:12:34: 192.07: (MOB) Mob zombie spawned, 24 remain.
+L 05/09/2013 - 16:12:34: 192.07: (MOB) Mob zombie spawned, 23 remain.
+L 05/09/2013 - 16:12:34: 192.07: (MOB) Mob zombie spawned, 22 remain.
+L 05/09/2013 - 16:12:34: 192.10: (MOB) Mob zombie spawned, 21 remain.
+L 05/09/2013 - 16:12:34: 192.10: (MOB) Mob zombie spawned, 20 remain.
+L 05/09/2013 - 16:12:34: 192.10: (MOB) Mob zombie spawned, 19 remain.
+L 05/09/2013 - 16:12:34: 192.10: (MOB) Mob zombie spawned, 18 remain.
+L 05/09/2013 - 16:12:34: 192.13: (MOB) Mob zombie spawned, 17 remain.
+L 05/09/2013 - 16:12:34: 192.13: (MOB) Mob zombie spawned, 16 remain.
+L 05/09/2013 - 16:12:34: 192.13: (MOB) Mob zombie spawned, 15 remain.
+L 05/09/2013 - 16:12:34: 192.13: (MOB) Mob zombie spawned, 14 remain.
+L 05/09/2013 - 16:12:34: 192.17: (MOB) Mob zombie spawned, 13 remain.
+L 05/09/2013 - 16:12:34: 192.17: (MOB) Mob zombie spawned, 12 remain.
+L 05/09/2013 - 16:12:34: 192.17: (MOB) Mob zombie spawned, 11 remain.
+L 05/09/2013 - 16:12:34: 192.17: (MOB) Mob zombie spawned, 10 remain.
+L 05/09/2013 - 16:12:34: 192.20: (MOB) Mob zombie spawned, 9 remain.
+L 05/09/2013 - 16:12:34: 192.20: (MOB) Mob zombie spawned, 8 remain.
+L 05/09/2013 - 16:12:34: 192.20: (MOB) Mob zombie spawned, 7 remain.
+L 05/09/2013 - 16:12:34: 192.20: (MOB) Mob zombie spawned, 6 remain.
+L 05/09/2013 - 16:12:34: 192.23: (MOB) Mob zombie spawned, 5 remain.
+L 05/09/2013 - 16:12:34: 192.23: (MOB) Mob zombie spawned, 4 remain.
+L 05/09/2013 - 16:12:34: 192.23: (MOB) Mob zombie spawned, 3 remain.
+L 05/09/2013 - 16:12:34: 192.23: (MOB) Mob zombie spawned, 2 remain.
+L 05/09/2013 - 16:12:37: 195.10: (MOB) Mob zombie spawned, 1 remain.
+L 05/09/2013 - 16:12:37: 195.10: (MOB) Mob zombie spawned, 0 remain.
+L 05/09/2013 - 16:12:37: 195.10: (MOB) Pending mob done.
+L 05/09/2013 - 16:12:42: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 7306.51 2808.03 -291.97; setang -2.61 169.36 0.00><Area 43271>" killed "infected<432><><Infected><infected><DEAD><-3><setpos_exact 6974.65 2859.51 -300.70; setang -0.00 -41.49 0.00><Area 43223>" with "smg_silenced"
+L 05/09/2013 - 16:12:42: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 7306.51 2808.03 -291.97; setang -2.61 169.29 0.00><Area 43271>" killed "infected<485><><Infected><infected><DEAD><-2><setpos_exact 6927.28 2882.32 -300.70; setang 0.00 -8.64 0.00><Area 43223>" with "smg_silenced"
+L 05/09/2013 - 16:12:43: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 7210.70 2783.15 -225.97; setang 30.30 146.18 0.00><Area 43258>" killed "infected<439><><Infected><infected><DEAD><-31><setpos_exact 7132.40 2823.82 -323.92; setang 0.00 338.25 0.00><Area 43271>" with "rifle" (headshot)
+L 05/09/2013 - 16:12:43: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 7210.70 2783.15 -225.97; setang 30.30 146.18 0.00><Area 43258>" killed "infected<483><><Infected><infected><DEAD><-1><setpos_exact 7107.65 2849.04 -331.21; setang 0.00 328.12 0.00><Area 43271>" with "rifle"
+L 05/09/2013 - 16:12:43: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 7306.51 2808.03 -291.97; setang -2.48 168.96 0.00><Area 43271>" killed "infected<438><><Infected><infected><DEAD><-5><setpos_exact 6992.46 2869.41 -300.70; setang -0.00 -21.70 0.00><Area 30582>" with "smg_silenced"
+L 05/09/2013 - 16:12:43: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><48+0><setpos_exact 7275.87 2716.54 -225.97; setang 19.86 141.50 0.00><Area 278>" killed "infected<479><><Infected><infected><DEAD><-4><setpos_exact 7128.14 2830.17 -325.59; setang 0.00 329.82 0.00><Area 43271>" with "rifle"
+L 05/09/2013 - 16:12:43: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><48+0><setpos_exact 7275.87 2716.54 -225.97; setang 22.88 145.17 0.00><Area 278>" killed "infected<489><><Infected><infected><DEAD><-4><setpos_exact 7083.44 2839.07 -339.17; setang -0.00 337.51 0.00><Area 43271>" with "rifle"
+L 05/09/2013 - 16:12:44: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 7210.70 2783.15 -225.97; setang 37.76 170.18 0.00><Area 43258>" killed "infected<480><><Infected><infected><DEAD><-7><setpos_exact 7120.66 2805.03 -328.20; setang 0.00 295.00 0.00><Area 43271>" with "rifle"
+L 05/09/2013 - 16:12:44: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><48+0><setpos_exact 7275.87 2716.54 -225.97; setang 20.95 143.46 0.00><Area 278>" killed "infected<493><><Infected><infected><DEAD><-2><setpos_exact 7149.32 2825.58 -316.51; setang 0.00 327.63 0.00><Area 43271>" with "rifle"
+L 05/09/2013 - 16:12:44: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 7210.70 2783.15 -225.97; setang 35.58 170.99 0.00><Area 43258>" killed "infected<443><><Infected><infected><DEAD><-2><setpos_exact 7126.38 2811.92 -292.48; setang 0.00 270.00 0.00><Area 43271>" with "rifle"
+L 05/09/2013 - 16:12:44: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 7210.70 2783.15 -225.97; setang 34.95 170.99 0.00><Area 43258>" killed "infected<434><><Infected><infected><DEAD><-4><setpos_exact 7112.98 2805.03 -328.06; setang 0.00 270.00 0.00><Area 43271>" with "rifle"
+L 05/09/2013 - 16:12:45: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><48+0><setpos_exact 7275.87 2716.54 -225.97; setang 18.72 149.73 0.00><Area 278>" killed "infected<487><><Infected><infected><DEAD><-1><setpos_exact 7092.37 2819.95 -335.97; setang 0.00 346.03 0.00><Area 43271>" with "rifle" (headshot)
+L 05/09/2013 - 16:12:45: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><48+0><setpos_exact 7275.87 2716.54 -225.97; setang 18.12 148.77 0.00><Area 278>" killed "infected<488><><Infected><infected><DEAD><-15><setpos_exact 7148.34 2809.33 -312.89; setang 0.00 270.00 0.00><Area 43271>" with "rifle" (headshot)
+L 05/09/2013 - 16:12:45: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 7388.27 2808.03 -273.97; setang 361.49 163.73 0.00><Area 43271>" killed "infected<449><><Infected><infected><DEAD><-1><setpos_exact 7277.68 2834.32 -330.35; setang 0.00 340.81 0.00><Area 43271>" with "shotgun_spas"
+L 05/09/2013 - 16:12:46: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 7395.21 2808.03 -273.97; setang 350.58 189.31 0.00><Area 43271>" killed "infected<462><><Infected><infected><DEAD><-1><setpos_exact 7303.57 2784.25 -287.97; setang 0.00 326.24 0.00><Area 43260>" with "shotgun_spas"
+L 05/09/2013 - 16:12:46: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 7365.40 2687.18 -225.97; setang 2.08 173.16 0.00><Area 39049>" killed "infected<440><><Infected><infected><DEAD><-4><setpos_exact 7210.48 2714.07 -287.97; setang -0.00 311.08 0.00><Area 43258>" with "rifle"
+L 05/09/2013 - 16:12:46: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact 7430.55 2813.50 -273.97; setang 349.73 190.59 0.00><Area 44048>" killed "infected<481><><Infected><infected><DEAD><-16><setpos_exact 7216.00 2782.86 -287.97; setang -0.00 276.90 0.00><Area 43258>" with "shotgun_spas" (headshot)
+L 05/09/2013 - 16:12:46: Pipe bomb projectile spawned at 7480.377441 2849.699951 -272.983032, velocity -529.108032 33.267059 46.206059
+L 05/09/2013 - 16:12:48: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><80+0><setpos_exact 7510.33 2809.72 -273.97; setang 11.06 146.47 0.00><Area 44048>" killed "infected<496><><Infected><infected><DEAD><-2><setpos_exact 7417.17 2885.38 -335.97; setang -0.00 317.70 0.00><Area 44048>" with "shotgun_spas" (headshot)
+L 05/09/2013 - 16:12:53: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 7085.27 2502.84 -225.97; setang 29.07 38.48 0.00><Area 27021>" killed "infected<486><><Infected><infected><DEAD><-19><setpos_exact 7066.44 2805.03 -335.97; setang 0.00 1.27 0.00><Area 43271>" with "pipe_bomb"
+L 05/09/2013 - 16:12:53: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 7085.27 2502.84 -225.97; setang 29.07 38.48 0.00><Area 27021>" killed "infected<492><><Infected><infected><DEAD><-35><setpos_exact 7106.20 2773.11 -297.36; setang 0.00 270.00 0.00><Area 43271>" with "pipe_bomb"
+L 05/09/2013 - 16:12:53: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 7085.27 2502.84 -225.97; setang 29.07 38.48 0.00><Area 27021>" killed "infected<484><><Infected><infected><DEAD><-29><setpos_exact 7058.42 2836.14 -331.38; setang 0.00 265.24 0.00><Area 43271>" with "pipe_bomb"
+L 05/09/2013 - 16:12:53: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 7085.27 2502.84 -225.97; setang 29.07 38.48 0.00><Area 27021>" killed "infected<431><><Infected><infected><DEAD><-35><setpos_exact 7045.10 2914.11 -328.47; setang 0.00 272.00 0.00><Area 30583>" with "pipe_bomb"
+L 05/09/2013 - 16:12:53: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 7216.03 2612.06 -225.97; setang 7.09 135.96 0.00><Area 27059>" killed "infected<433><><Infected><infected><DEAD><-6><setpos_exact 7032.21 2785.30 -287.97; setang 0.00 183.97 0.00><Area 21590>" with "rifle"
+L 05/09/2013 - 16:12:53: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 7216.03 2611.08 -225.97; setang 4.88 135.49 0.00><Area 27059>" killed "infected<444><><Infected><infected><DEAD><-6><setpos_exact 7021.84 2801.17 -287.97; setang 0.00 45.30 0.00><Area 21590>" with "rifle"
+L 05/09/2013 - 16:12:53: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><80+0><setpos_exact 7253.50 2605.93 -225.97; setang 5.53 134.85 0.00><Area 27059>" killed "infected<482><><Infected><infected><DEAD><-2><setpos_exact 7097.35 2777.12 -287.97; setang 0.00 270.00 0.00><Area 21590>" with "shotgun_spas"
+L 05/09/2013 - 16:12:55: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><80+0><setpos_exact 7265.38 2617.84 -225.97; setang 6.44 118.18 0.00><Area 27059>" killed "infected<180><><Infected><infected><DEAD><0><setpos_exact 7174.83 2788.86 -287.97; setang 0.00 279.13 0.00><Area 43258>" with "shotgun_spas"
+L 05/09/2013 - 16:12:55: ------------------------------ Director state change BUILD_UP -> SUSTAIN_PEAK
+L 05/09/2013 - 16:12:55: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><86+0><setpos_exact 7216.02 2614.91 -225.97; setang 9.36 129.55 0.00><Area 27059>" killed "infected<173><><Infected><infected><DEAD><-5><setpos_exact 7154.66 2677.50 -285.59; setang -0.00 329.17 0.00><Area 43258>" with "rifle"
+L 05/09/2013 - 16:12:56: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><80+0><setpos_exact 7266.98 2628.07 -225.97; setang 6.44 93.73 0.00><Area 27059>" killed "infected<478><><Infected><infected><DEAD><-79><setpos_exact 7276.65 2664.94 -287.97; setang -0.00 240.75 0.00><Area 278>" with "shotgun_spas" (headshot)
+L 05/09/2013 - 16:12:56: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><80+0><setpos_exact 7266.98 2628.07 -225.97; setang 6.44 93.73 0.00><Area 27059>" killed "infected<495><><Infected><infected><DEAD><-23><setpos_exact 7246.70 2801.67 -287.97; setang 0.00 320.00 0.00><Area 43258>" with "shotgun_spas" (headshot)
+L 05/09/2013 - 16:12:56: "Sheldenator<19><STEAM_1:0:39793978><>" connected, address "84.129.32.208:27005"
+L 05/09/2013 - 16:12:57: "Sheldenator<19><STEAM_1:0:39793978><>" STEAM USERID validated
+L 05/09/2013 - 16:12:58: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><80+0><setpos_exact 7384.54 2690.67 -225.97; setang 5.92 129.63 0.00><Area 39049>" killed "infected<442><><Infected><infected><DEAD><-1><setpos_exact 7196.24 2909.78 -297.97; setang 0.00 311.84 0.00><Area 43271>" with "shotgun_spas"
+L 05/09/2013 - 16:12:59: ------------------------------ Director state change SUSTAIN_PEAK -> PEAK_FADE
+L 05/09/2013 - 16:13:04: ------------------------------ Director state change PEAK_FADE -> RELAX
+L 05/09/2013 - 16:13:14: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 7213.52 3720.88 -107.97; setang -1.55 -16.38 0.00><Area 30063>" killed "infected<320><><Infected><infected><DEAD><-2><setpos_exact 7317.03 3690.10 -150.58; setang -0.00 144.76 0.00><Area 27524>" with "smg_silenced"
+L 05/09/2013 - 16:13:19: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 7269.50 3807.97 -89.97; setang -1.09 -65.75 0.00><Area 30066>" killed "Boomer<18><BOT><Infected><BOOMER><DEAD><1+0><setpos 7375.13 3540.01 -133.04; setang 339.96 111.51 0.00><Area 27491>" with "smg_silenced"
+L 05/09/2013 - 16:13:26: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 7471.87 4092.82 -45.90; setang 7.03 168.72 0.00><Area 27475>" killed "Charger<17><BOT><Infected><CHARGER><DEAD><1+0><setpos 7404.91 4109.80 -106.29; setang 303.49 345.77 0.00><Area 27590>" with "smg_silenced"
+L 05/09/2013 - 16:13:28: "Boomer<18><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 16:13:31: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 7977.39 4119.54 -74.27; setang 10.53 72.06 0.00><Area 27792>" killed "infected<288><><Infected><infected><DEAD><0><setpos_exact 7985.03 4148.55 -134.24; setang 0.00 90.00 0.00><Area 34681>" with "melee"
+L 05/09/2013 - 16:13:32: (DEATH)"infected<395><><Infected><infected><ALIVE><6><setpos_exact 7775.94 3627.49 16.03; setang 0.00 168.33 0.00><Area 35256>" killed "infected<398><><Infected><infected><DEAD><-2><setpos_exact 7749.12 3633.05 16.03; setang 0.00 348.38 0.00><Area 35256>" with "infected"
+L 05/09/2013 - 16:13:33: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 8260.93 4053.88 -76.12; setang 14.49 -60.00 0.00><Area 34581>" killed "infected<298><><Infected><infected><DEAD><0><setpos_exact 8257.75 4003.83 -140.69; setang 0.00 130.05 0.00><Area 42530>" with "melee"
+L 05/09/2013 - 16:13:34: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 8200.52 4098.99 -59.84; setang 16.00 -61.06 0.00><Area 34656>" killed "infected<182><><Infected><infected><DEAD><0><setpos_exact 8200.69 4056.43 -129.82; setang -0.00 99.73 0.00><Area 34635>" with "melee"
+L 05/09/2013 - 16:13:35: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><36+0><setpos_exact 8000.13 4087.54 -78.76; setang 321.67 185.90 0.00><Area 34707>" killed "infected<282><><Infected><infected><DEAD><-3><setpos_exact 7811.95 4073.72 32.23; setang 0.00 87.56 0.00><Area 34663>" with "shotgun_spas"
+L 05/09/2013 - 16:13:35: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 8121.98 4124.28 -58.55; setang 15.74 -27.93 0.00><Area 34579>" killed "infected<281><><Infected><infected><DEAD><0><setpos_exact 8166.56 4108.81 -121.73; setang -0.00 167.73 0.00><Area 34656>" with "melee"
+L 05/09/2013 - 16:13:35: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 8121.98 4120.57 -59.30; setang 15.81 -27.93 0.00><Area 34579>" killed "infected<289><><Infected><infected><DEAD><0><setpos_exact 8163.08 4118.92 -114.27; setang -0.00 169.77 0.00><Area 34656>" with "melee"
+L 05/09/2013 - 16:13:35: "Charger<17><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 16:13:36: OnEndChangelevel Sheldenator(19): 1 saved players:
+L 05/09/2013 - 16:13:36: 	Piperoman[Spain](2), state 2
+L 05/09/2013 - 16:13:36: "Sheldenator<19><STEAM_1:0:39793978><>" entered the game
+L 05/09/2013 - 16:13:36: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><51+0><setpos_exact 8057.02 4039.26 -73.63; setang 2.97 314.35 0.00><Area 34578>" killed "infected<181><><Infected><infected><DEAD><-5><setpos_exact 8459.28 3627.81 -145.70; setang 0.00 134.35 0.00><Area 27971>" with "rifle"
+L 05/09/2013 - 16:13:37: (DEATH)"Francis<11><BOT><Survivor><Biker><ALIVE><51+0><setpos_exact 8066.83 4041.88 -73.20; setang 4.80 14.95 0.00><Area 34578>" killed "infected<339><><Infected><infected><DEAD><-6><setpos_exact 8452.24 4144.78 -148.01; setang -0.00 158.63 0.00><Area 34576>" with "rifle"
+L 05/09/2013 - 16:13:41: ------------------------------ Director state change RELAX -> BUILD_UP
+L 05/09/2013 - 16:13:41: "Sheldenator<19><STEAM_1:0:39793978><Unassigned>" joined team "Spectator"
+L 05/09/2013 - 16:13:43: "Francis<11><BOT><Survivor>" joined team "Spectator"
+L 05/09/2013 - 16:13:43: "Sheldenator<19><STEAM_1:0:39793978><Spectator>" joined team "Survivor"
+L 05/09/2013 - 16:13:43: (SKIN) Survivor Sheldenator changed model from  to models/survivors/survivor_biker.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 16:13:43: (SKIN) SetCharacter: Survivor Sheldenator chose character Biker(3) from model models/survivors/survivor_biker.mdl
+L 05/09/2013 - 16:13:43: (SKIN) SetCharacter: Survivor Sheldenator chose character Biker(3) from model models/survivors/survivor_biker.mdl
+L 05/09/2013 - 16:13:43: Sheldenator spawned as a Biker
+L 05/09/2013 - 16:13:43: "Sheldenator<19><STEAM_1:0:39793978><Survivor><Biker><ALIVE><100+0><setpos_exact 2992.69 2906.62 78.03; setang 0.00 151.64 0.00><Area 40394>" spawned
+L 05/09/2013 - 16:13:43: "Francis<11><BOT><Spectator>" disconnected (reason "Kicked by Console : survivor bot left the survivor team")
+L 05/09/2013 - 16:13:51: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 8230.87 3350.40 78.03; setang 1.09 -169.30 0.00><Area 42548>" killed "infected<281><><Infected><infected><DEAD><27><setpos_exact 8010.91 3315.15 16.03; setang 0.00 346.63 0.00><Area 37302>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:13:54: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><63+0><setpos_exact 8200.76 3374.97 66.96; setang -24.78 -142.90 0.00><Area 35738>" killed "infected<392><><Infected><infected><DEAD><6><setpos_exact 7958.67 3184.70 141.60; setang 0.00 12.17 0.00><Area 38689>" with "smg_silenced" (headshot)
+L 05/09/2013 - 16:13:56: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><28+0><setpos_exact 8262.67 3287.38 78.03; setang 12.99 189.86 0.00><Area 42548>" killed "infected<175><><Infected><infected><DEAD><-8><setpos_exact 8168.13 3266.52 16.03; setang 0.00 92.50 0.00><Area 43955>" with "rifle"
+L 05/09/2013 - 16:13:58: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><28+0><setpos_exact 8241.01 3365.06 78.03; setang 1.88 201.22 0.00><Area 42548>" killed "infected<402><><Infected><infected><DEAD><-2><setpos_exact 8099.31 3316.54 16.03; setang -0.00 32.41 0.00><Area 42826>" with "rifle"
+L 05/09/2013 - 16:13:59: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><28+0><setpos_exact 8213.96 3376.00 78.03; setang 348.32 221.02 0.00><Area 35738>" killed "infected<278><><Infected><infected><DEAD><-4><setpos_exact 8050.80 3205.77 83.59; setang 0.00 83.00 0.00><Area 37333>" with "rifle"
+L 05/09/2013 - 16:14:00: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><28+0><setpos_exact 8214.57 3371.62 78.03; setang 353.34 194.73 0.00><Area 35738>" killed "infected<285><><Infected><infected><DEAD><-7><setpos_exact 8092.21 3324.22 52.28; setang 0.00 35.97 0.00><Area 37277>" with "rifle"
+L 05/09/2013 - 16:14:01: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><28+0><setpos_exact 8195.32 3354.53 78.03; setang 11.41 180.25 0.00><Area 35738>" killed "infected<203><><Infected><infected><DEAD><0><setpos_exact 8002.06 3351.79 16.03; setang 0.00 1.94 0.00><Area 35968>" with "rifle"
+L 05/09/2013 - 16:14:04: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><36+0><setpos_exact 8419.10 3252.59 54.03; setang 356.09 183.79 0.00><Area 35858>" killed "infected<289><><Infected><infected><DEAD><-3><setpos_exact 8178.28 3242.16 16.03; setang -0.00 126.32 0.00><Area 43955>" with "shotgun_spas"
+L 05/09/2013 - 16:14:04: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><28+0><setpos_exact 8151.16 3277.93 78.03; setang 32.95 242.28 0.00><Area 43955>" killed "infected<308><><Infected><infected><DEAD><-13><setpos_exact 8135.93 3248.90 16.03; setang 0.00 62.33 0.00><Area 43955>" with "pistol_magnum"
+L 05/09/2013 - 16:14:06: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><28+0><setpos_exact 8151.16 3277.93 78.03; setang 7.48 165.03 0.00><Area 43955>" killed "infected<338><><Infected><infected><DEAD><-72><setpos_exact 8096.42 3293.07 16.03; setang -0.00 349.45 0.00><Area 43956>" with "pistol_magnum" (headshot)
+L 05/09/2013 - 16:14:08: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><43+0><setpos_exact 8108.72 3357.27 60.03; setang -22.34 92.82 0.00><Area 42826>" killed "infected<395><><Infected><infected><DEAD><-4><setpos_exact 8118.95 3386.30 35.70; setang 0.00 286.54 0.00><Area 37313>" with "smg_silenced"
+L 05/09/2013 - 16:14:15: (DEATH)"Sheldenator<19><STEAM_1:0:39793978><Survivor><Biker><ALIVE><51+0><setpos_exact 7426.50 3583.06 60.03; setang 0.26 -81.89 0.00><Area 37374>" killed "infected<196><><Infected><infected><DEAD><-5><setpos_exact 7527.07 2907.93 16.03; setang 0.00 98.47 0.00><Area 43518>" with "rifle" (headshot)
+L 05/09/2013 - 16:14:16: (DEATH)"Sheldenator<19><STEAM_1:0:39793978><Survivor><Biker><ALIVE><51+0><setpos_exact 7426.50 3583.06 60.03; setang 0.79 -86.77 0.00><Area 37374>" killed "infected<181><><Infected><infected><DEAD><-5><setpos_exact 7458.19 3020.58 16.03; setang 0.00 -110.41 0.00><Area 43518>" with "rifle"
+L 05/09/2013 - 16:14:16: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><28+0><setpos_exact 8101.71 3401.48 78.03; setang 324.29 74.71 0.00><Area 37313>" killed "infected<173><><Infected><infected><DEAD><-7><setpos_exact 8131.64 3458.77 64.24; setang -0.00 27.33 0.00><Area 37318>" with "rifle" (headshot)
+L 05/09/2013 - 16:14:17: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><20+0><setpos_exact 7539.82 3412.86 78.03; setang 9.75 84.13 0.00><Area 37374>" killed "infected<309><><Infected><infected><DEAD><-4><setpos_exact 7547.77 3489.57 24.03; setang -0.00 276.09 0.00><Area 37374>" with "shotgun_spas" (headshot)
+L 05/09/2013 - 16:14:18: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><28+0><setpos_exact 8101.71 3401.48 78.03; setang 339.82 84.52 0.00><Area 37313>" killed "infected<401><><Infected><infected><DEAD><-21><setpos_exact 8108.23 3488.89 56.28; setang 0.00 281.50 0.00><Area 37317>" with "rifle" (headshot)
+L 05/09/2013 - 16:14:20: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><ALIVE><43+0><setpos_exact 8171.33 3479.33 108.24; setang 10.66 150.51 0.00><Area 37318>" killed "infected<203><><Infected><infected><DEAD><-2><setpos_exact 7974.03 3610.69 16.03; setang 0.00 399.85 0.00><Area 37337>" with "smg_silenced"
+L 05/09/2013 - 16:14:22: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><20+0><setpos_exact 7696.65 3788.02 78.03; setang 356.89 246.42 0.00><Area 37267>" killed "infected<322><><Infected><infected><DEAD><-4><setpos_exact 7584.53 3545.83 34.75; setang -0.00 330.55 0.00><Area 38563>" with "shotgun_spas"
+L 05/09/2013 - 16:14:25: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><28+0><setpos_exact 8087.27 3480.06 126.24; setang 31.10 281.50 0.00><Area 37317>" killed "infected<320><><Infected><infected><DEAD><0><setpos_exact 8106.46 3369.51 16.03; setang -0.00 65.31 0.00><Area 42826>" with "rifle"
+L 05/09/2013 - 16:14:25: "Louis<12><BOT><Survivor><Manager><ALIVE><20+50><setpos_exact 7678.55 3901.93 78.03; setang 30.29 123.93 0.00><Area 34468>" used pills on "Louis<12><BOT><Survivor><Manager><ALIVE><20+50><setpos_exact 7678.55 3901.93 78.03; setang 30.29 123.93 0.00><Area L 05/09/2013 - 16:14:29: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><28+0><setpos_exact 7893.69 3620.52 78.03; setang 1.29 141.66 0.00><Area 36680>" killed "infected<175><><Infected><infected><DEAD><-16><setpos_exact 7687.06 3789.06 16.03; setang -0.00 55.50 0.00><Area 37267>" with "rifle" (headshot)
+L 05/09/2013 - 16:14:33: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><28+0><setpos_exact 7533.89 3636.65 78.03; setang 1.15 207.94 0.00><Area 36684>" killed "infected<289><><Infected><infected><DEAD><-15><setpos_exact 7364.83 3544.42 16.03; setang -0.00 57.68 0.00><Area 37387>" with "rifle" (headshot)
+L 05/09/2013 - 16:14:34: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><28+0><setpos_exact 7533.89 3636.65 78.03; setang 2.91 270.80 0.00><Area 36684>" killed "infected<285><><Infected><infected><DEAD><-5><setpos_exact 7541.35 3101.30 16.03; setang 0.00 90.80 0.00><Area 43520>" with "rifle"
+L 05/09/2013 - 16:14:38: 316.30: Director::StartPanicEvent( 0 ): Panic event started.
+L 05/09/2013 - 16:14:38: 316.30: ZombieManager::ClearPendingMobCount: All mobs cleared.
+L 05/09/2013 - 16:14:38: 316.30: Director: Panic Stage = STAGE_INITIAL_DELAY
+L 05/09/2013 - 16:14:38: 316.30: Director::StartPanicEvent: Staring 1 wave panic event
+L 05/09/2013 - 16:14:38: "Smoker<20><BOT><>" connected, address "none"
+L 05/09/2013 - 16:14:38: OnEndChangelevel (20): 1 saved players:
+L 05/09/2013 - 16:14:38: 	Piperoman[Spain](2), state 2
+L 05/09/2013 - 16:14:38: "Smoker<20><BOT><>" entered the game
+L 05/09/2013 - 16:14:38: "Smoker<20><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 16:14:38: Smoker spawned as a SMOKER
+L 05/09/2013 - 16:14:38: "Smoker<20><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 7525.00 3064.12 -70.30; setang 0.00 0.00 0.00><Area 28095>" spawned
+L 05/09/2013 - 16:14:38: "Boomer<21><BOT><>" connected, address "none"
+L 05/09/2013 - 16:14:38: OnEndChangelevel (21): 1 saved players:
+L 05/09/2013 - 16:14:38: 	Piperoman[Spain](2), state 2
+L 05/09/2013 - 16:14:38: "Boomer<21><BOT><>" entered the game
+L 05/09/2013 - 16:14:38: "Boomer<21><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 16:14:38: Boomer spawned as a BOOMER
+L 05/09/2013 - 16:14:38: "Boomer<21><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact 7525.00 2900.00 -55.31; setang 0.00 0.00 0.00><Area 27554>" spawned
+L 05/09/2013 - 16:14:43: 321.20: (MOB) SpawnMob requested of size 50.
+L 05/09/2013 - 16:14:43: 321.20: (MOB) SpawnMob pending count is now 50.
+L 05/09/2013 - 16:14:44: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><20+44><setpos_exact 7692.26 3741.11 78.03; setang 12.73 201.76 0.00><Area 37267>" killed "infected<400><><Infected><infected><DEAD><-2><setpos_exact 7615.41 3709.35 16.03; setang 0.00 190.33 0.00><Area 37264>" with "shotgun_spas"
+L 05/09/2013 - 16:14:45: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><20+44><setpos_exact 7673.29 3698.72 78.03; setang 6.69 211.18 0.00><Area 37267>" killed "infected<206><><Infected><infected><DEAD><0><setpos_exact 7575.40 3621.76 22.62; setang 0.00 49.52 0.00><Area 35254>" with "shotgun_spas"
+L 05/09/2013 - 16:14:45: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><28+0><setpos_exact 7690.94 3790.10 78.03; setang 10.79 247.93 0.00><Area 37267>" killed "infected<310><><Infected><infected><DEAD><-7><setpos_exact 7626.83 3638.11 16.03; setang 0.00 92.92 0.00><Area 36682>" with "rifle"
+L 05/09/2013 - 16:14:46: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><20+44><setpos_exact 7673.29 3698.72 78.03; setang 4.36 134.96 0.00><Area 37267>" killed "infected<401><><Infected><infected><DEAD><2><setpos_exact 7611.50 3783.50 16.03; setang -0.00 4.42 0.00><Area 37267>" with "shotgun_spas" (headshot)
+L 05/09/2013 - 16:14:46: 324.27: (MOB) Mob zombie spawned, 49 remain.
+L 05/09/2013 - 16:14:46: 324.27: (MOB) Mob zombie spawned, 48 remain.
+L 05/09/2013 - 16:14:46: 324.27: (MOB) Mob zombie spawned, 47 remain.
+L 05/09/2013 - 16:14:46: 324.27: (MOB) Mob zombie spawned, 46 remain.
+L 05/09/2013 - 16:14:47: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><20+44><setpos_exact 7673.29 3698.72 78.03; setang 11.31 149.24 0.00><Area 37267>" killed "infected<201><><Infected><infected><DEAD><-9><setpos_exact 7590.39 3757.56 16.03; setang -0.00 318.71 0.00><Area 37267>" with "shotgun_spas"
+L 05/09/2013 - 16:14:47: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><20+43><setpos_exact 7673.29 3698.72 78.03; setang 35.35 257.79 0.00><Area 37267>" killed "infected<390><><Infected><infected><DEAD><-17><setpos_exact 7661.94 3669.31 16.03; setang 0.00 59.24 0.00><Area 37264>" with "shotgun_spas"
+L 05/09/2013 - 16:14:48: (INCAP) "Sheldenator<19><STEAM_1:0:39793978><Survivor><Biker><INCAP><11+0><setpos_exact 8108.46 3464.36 126.24; setang 1.32 -88.46 0.00><Area 37317>" is incapacitated
+L 05/09/2013 - 16:14:48: (INCAP)"Sheldenator<19><STEAM_1:0:39793978><Survivor><Biker><INCAP><300+0><setpos_exact 8108.46 3464.36 126.24; setang 1.32 -88.46 0.00><Area 37317>" was incapped by "infected<394><><Infected><infected><ALIVE><50><setpos_exact 8068.96 3493.24 64.24; setang 0.00 323.84 0.00><Area 37317>" with ""
+L 05/09/2013 - 16:14:49: 327.10: (MOB) Mob zombie spawned, 45 remain.
+L 05/09/2013 - 16:14:49: 327.10: (MOB) Mob zombie spawned, 44 remain.
+L 05/09/2013 - 16:14:49: 327.10: (MOB) Mob zombie spawned, 43 remain.
+L 05/09/2013 - 16:14:49: 327.10: (MOB) Mob zombie spawned, 42 remain.
+L 05/09/2013 - 16:14:50: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><20+43><setpos_exact 7865.47 3591.08 78.03; setang 6.59 183.96 0.00><Area 36680>" killed "infected<308><><Infected><infected><DEAD><-8><setpos_exact 7620.32 3571.84 24.03; setang -0.00 65.91 0.00><Area 38573>" with "shotgun_spas" (headshot)
+L 05/09/2013 - 16:14:51: (INCAP) "Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><INCAP><13+0><setpos_exact 7567.62 3799.97 78.03; setang 15.67 131.40 0.00><Area 37266>" is incapacitated
+L 05/09/2013 - 16:14:51: (INCAP)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><INCAP><300+0><setpos_exact 7567.62 3799.97 78.03; setang 15.67 131.40 0.00><Area 37266>" was incapped by "infected<395><><Infected><infected><ALIVE><7><setpos_exact 7582.15 3756.89 16.03; setang 0.00 108.65 0.00><Area 37266>" with ""
+L 05/09/2013 - 16:14:52: (INCAP) "Louis<12><BOT><Survivor><Manager><ALIVE><20+42><setpos_exact 8068.53 3522.28 78.03; setang 345.63 298.69 -2.08><Area 37323>" starts reviving "Sheldenator<19><STEAM_1:0:39793978><Survivor><Biker><INCAP><261+0><setpos_exact 8108.46 3464.36 88.24; setang 1
+L 05/09/2013 - 16:14:52: (INCAP) "Louis<12><BOT><Survivor><Manager><ALIVE><20+42><setpos_exact 8068.53 3522.28 78.03; setang 345.74 300.77 -1.65><Area 37323>" stopped holding revive key and stops reviving "Sheldenator<19><STEAM_1:0:39793978><Survivor><Biker><INCAP><261+0><setpos_exact 8
+L 05/09/2013 - 16:14:52: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><20+42><setpos_exact 8068.53 3522.28 78.03; setang 345.75 302.38 -1.22><Area 37323>" killed "infected<408><><Infected><infected><DEAD><-8><setpos_exact 8097.56 3493.36 56.28; setang 0.00 290.61 0.00><Area 37317>" with "shotgun_spas"
+L 05/09/2013 - 16:14:52: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><20+42><setpos_exact 8068.53 3522.28 78.03; setang 345.75 302.38 -1.22><Area 37323>" killed "infected<394><><Infected><infected><DEAD><-18><setpos_exact 8068.96 3493.24 64.24; setang 0.00 323.82 0.00><Area 37317>" with "shotgun_spas"
+L 05/09/2013 - 16:14:52: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><20+42><setpos_exact 8068.53 3522.28 78.03; setang 345.75 302.38 -1.22><Area 37323>" killed "infected<407><><Infected><infected><DEAD><-12><setpos_exact 8123.65 3493.39 56.28; setang 0.00 242.38 0.00><Area 37317>" with "shotgun_spas"
+L 05/09/2013 - 16:14:52: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><20+42><setpos_exact 8066.62 3520.32 78.03; setang 344.39 306.41 0.00><Area 37323>" killed "infected<298><><Infected><infected><DEAD><-1><setpos_exact 8109.41 3447.91 64.24; setang -0.00 26.51 0.00><Area 37317>" with "shotgun_spas"
+L 05/09/2013 - 16:14:53: (INCAP) "Louis<12><BOT><Survivor><Manager><ALIVE><20+42><setpos_exact 8048.52 3530.21 78.03; setang 346.29 312.31 0.00><Area 37325>" starts reviving "Sheldenator<19><STEAM_1:0:39793978><Survivor><Biker><INCAP><245+0><setpos_exact 8108.46 3464.36 88.24; setang 18
+L 05/09/2013 - 16:14:54: 331.73: (MOB) Mob zombie spawned, 41 remain.
+L 05/09/2013 - 16:14:54: 331.73: (MOB) Mob zombie spawned, 40 remain.
+L 05/09/2013 - 16:14:54: 331.73: (MOB) Mob zombie spawned, 39 remain.
+L 05/09/2013 - 16:14:54: 331.73: (MOB) Mob zombie spawned, 38 remain.
+L 05/09/2013 - 16:14:54: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><28+0><setpos_exact 8079.97 3561.95 78.03; setang 345.67 304.04 0.00><Area 37325>" killed "infected<398><><Infected><infected><DEAD><-15><setpos_exact 8139.16 3474.32 64.24; setang 0.00 197.98 0.00><Area 37318>" with "rifle" (headshot)
+L 05/09/2013 - 16:14:55: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><28+0><setpos_exact 8080.00 3561.96 78.03; setang 347.37 276.76 0.00><Area 37325>" killed "infected<175><><Infected><infected><DEAD><-7><setpos_exact 8093.49 3448.07 64.24; setang 0.00 47.41 0.00><Area 37317>" with "rifle"
+L 05/09/2013 - 16:14:56: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><28+0><setpos_exact 8080.00 3561.96 78.03; setang 347.98 265.73 0.00><Area 37325>" killed "infected<288><><Infected><infected><DEAD><-7><setpos_exact 8070.56 3435.47 64.24; setang 0.00 37.31 0.00><Area 37317>" with "rifle"
+L 05/09/2013 - 16:14:56: 333.90: (MOB) Mob zombie spawned, 37 remain.
+L 05/09/2013 - 16:14:56: 333.90: (MOB) Mob zombie spawned, 36 remain.
+L 05/09/2013 - 16:14:56: 333.90: (MOB) Mob zombie spawned, 35 remain.
+L 05/09/2013 - 16:14:56: 333.90: (MOB) Mob zombie spawned, 34 remain.
+L 05/09/2013 - 16:14:57: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<20><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 8195.81 3375.97 78.03; setang 3.28 133.90 0.00><Area 35738>". Victim:"Bill<13><BOT><Survivor><NamVet><ALIVE><28+0><setpos_exact 8109.44 3505.64 107.49; setang 361.85 233.24 0.00><Area 37317>".
+L 05/09/2013 - 16:14:57: (TONGUE) Tongue launching towards victim.  Smoker:"Smoker<20><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 8198.69 3375.97 78.03; setang 3.27 134.07 0.00><Area 35738>". Victim:"Bill<13><BOT><Survivor><NamVet><ALIVE><28+0><setpos_exact 8096.48 3499.62 109.15; setang 6.28 173.15 -0.55><Area 37317>".
+L 05/09/2013 - 16:14:57: (TONGUE) Tongue grab starting.  Smoker:"Smoker<20><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 8198.73 3375.97 78.03; setang 3.27 134.24 0.00><Area 35738>". Victim:"Bill<13><BOT><Survivor><NamVet><ALIVE><28+0><setpos_exact 8093.04 3503.36 118.28; setang 9.95 164.12 -0.24><Area 37317>".
+L 05/09/2013 - 16:14:57: (DEATH)"Bill<13><BOT><Survivor><NamVet><ALIVE><28+0><setpos_exact 8125.01 3464.82 126.24; setang 27.29 246.56 0.00><Area 37317>" killed "infected<182><><Infected><infected><DEAD><-2><setpos_exact 8093.65 3420.92 57.06; setang 0.00 71.17 0.00><Area 37317>" with "rifle" (headshot)
+L 05/09/2013 - 16:14:57: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><INCAP><232+0><setpos_exact 7567.62 3799.97 40.03; setang -31.57 -173.19 0.00><Area 37266>" killed "infected<409><><Infected><infected><DEAD><-7><setpos_exact 7542.90 3800.66 16.03; setang 0.00 358.40 0.00><Area 35279>" with "dual_pistols"
+L 05/09/2013 - 16:14:58: (TONGUE) Tongue choke starting.  Smoker:"Smoker<20><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 8198.73 3375.97 78.03; setang 0.00 189.95 0.00><Area 35738>". Victim:"Bill<13><BOT><Survivor><NamVet><ALIVE><28+0><setpos_exact 8175.97 3408.00 78.03; setang 24.67 180.08 0.00><Area 37274>".
+L 05/09/2013 - 16:14:59: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><INCAP><219+0><setpos_exact 7567.62 3799.97 40.03; setang -38.83 -150.22 0.00><Area 37266>" killed "infected<203><><Infected><infected><DEAD><-11><setpos_exact 7533.00 3787.80 16.03; setang 0.00 19.36 0.00><Area 35279>" with "dual_pistols" (headshot)
+L 05/09/2013 - 16:14:59: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><INCAP><209+0><setpos_exact 7567.62 3799.97 40.03; setang -32.67 -122.78 0.00><Area 37266>" killed "infected<151><><Infected><infected><DEAD><-12><setpos_exact 7553.68 3775.16 16.03; setang 0.00 60.66 0.00><Area 37266>" with "dual_pistols" (headshot)
+L 05/09/2013 - 16:14:59: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><INCAP><206+0><setpos_exact 7567.62 3799.97 40.03; setang -28.69 -70.05 0.00><Area 37266>" killed "infected<395><><Infected><infected><DEAD><-1><setpos_exact 7582.15 3756.89 16.03; setang 0.00 108.63 0.00><Area 37266>" with "dual_pistols"
+L 05/09/2013 - 16:14:59: (INCAP) "Bill<13><BOT><Survivor><NamVet><INCAP><8+0><setpos_exact 8175.97 3408.00 56.03; setang 358.44 170.71 0.00><Area 37274>" is incapacitated
+L 05/09/2013 - 16:14:59: (INCAP)"Bill<13><BOT><Survivor><NamVet><INCAP><300+0><setpos_exact 8175.97 3408.00 56.03; setang 358.44 170.71 0.00><Area 37274>" was incapped by "infected<281><><Infected><infected><ALIVE><50><setpos_exact 8146.94 3412.75 16.03; setang 0.00 350.72 0.00><Area 37274>" with ""
+L 05/09/2013 - 16:15:00: 337.77: (MOB) Mob zombie spawned, 33 remain.
+L 05/09/2013 - 16:15:00: 337.77: (MOB) Mob zombie spawned, 32 remain.
+L 05/09/2013 - 16:15:00: 337.77: (MOB) Mob zombie spawned, 31 remain.
+L 05/09/2013 - 16:15:00: 337.77: (MOB) Mob zombie spawned, 30 remain.
+L 05/09/2013 - 16:15:00: (TONGUE) Tongue letting go for taking too much damage.  Smoker:"Smoker<20><BOT><Infected><SMOKER><ALIVE><190+0><setpos_exact 8198.73 3375.97 78.03; setang 33.99 125.39 0.00><Area 35738>". Victim:"Bill<13><BOT><Survivor><NamVet><INCAP><208+0><setpos_exact 8175.97 3408.00 56.03; setang 358.44 170.71 0.00><Area 37274>".
+L 05/09/2013 - 16:15:00: (TONGUE) Tongue choke ending.  Smoker:"Smoker<20><BOT><Infected><SMOKER><ALIVE><190+0><setpos_exact 8198.73 3375.97 78.03; setang 33.99 125.39 0.00><Area 35738>". Victim:"Bill<13><BOT><Survivor><NamVet><INCAP><208+0><setpos_exact 8175.97 3408.00 56.03; setang 358.44 170.71 0.00><Area 37274>".
+L 05/09/2013 - 16:15:00: (DEATH)"Boomer<21><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact 8181.56 3352.03 78.03; setang 12.33 95.71 0.00><Area 35738>" killed "Smoker<20><BOT><Infected><SMOKER><DEAD><1+0><setpos 8198.73 3375.97 16.03; setang 33.99 125.39 0.00><Area 35738>" with "boomer_claw"
+L 05/09/2013 - 16:15:00: "Jockey<22><BOT><>" connected, address "none"
+L 05/09/2013 - 16:15:00: OnEndChangelevel (22): 1 saved players:
+L 05/09/2013 - 16:15:00: 	Piperoman[Spain](2), state 2
+L 05/09/2013 - 16:15:00: "Jockey<22><BOT><>" entered the game
+L 05/09/2013 - 16:15:00: "Jockey<22><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 16:15:00: Jockey spawned as a JOCKEY
+L 05/09/2013 - 16:15:00: "Jockey<22><BOT><Infected><JOCKEY><ALIVE><325+0><setpos_exact 7900.00 2787.50 96.75; setang 0.00 0.00 0.00><Area 43517>" spawned
+L 05/09/2013 - 16:15:01: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><INCAP><193+0><setpos_exact 7567.62 3799.97 40.03; setang -28.75 -63.37 0.00><Area 37266>" killed "infected<282><><Infected><infected><DEAD><-3><setpos_exact 7569.09 3780.45 16.03; setang -0.00 94.29 0.00><Area 37266>" with "dual_pistols"
+L 05/09/2013 - 16:15:01: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><20+40><setpos_exact 8122.78 3486.69 118.28; setang 2.05 216.35 0.00><Area 37317>" killed "infected<278><><Infected><infected><DEAD><-5><setpos_exact 8035.12 3409.50 96.53; setang 0.00 64.50 0.00><Area 38575>" with "shotgun_spas"
+L 05/09/2013 - 16:15:01: (DEATH)"Bill<13><BOT><Survivor><NamVet><INCAP><208+0><setpos_exact 8175.97 3408.00 40.03; setang 330.27 170.71 -19.98><Area 37274>" killed "infected<281><><Infected><infected><DEAD><-12><setpos_exact 8146.94 3412.75 16.03; setang 0.00 350.72 0.00><Area 37274>" with "pistol_magnum"
+L 05/09/2013 - 16:15:01: (INCAP) "Sheldenator<19><STEAM_1:0:39793978><Survivor><Biker><INCAP><1+9><setpos_exact 8108.46 3464.36 126.24; setang 12.67 -96.31 0.00><Area 37317>" is incapacitated
+L 05/09/2013 - 16:15:01: (INCAP)"Sheldenator<19><STEAM_1:0:39793978><Survivor><Biker><INCAP><300+9><setpos_exact 8108.46 3464.36 126.24; setang 12.67 -96.31 0.00><Area 37317>" was incapped by "infected<180><><Infected><infected><ALIVE><50><setpos_exact 8121.98 3433.01 16.03; setang 0.00 113.35 0.00><Area 37274>" with ""
+L 05/09/2013 - 16:15:01: 339.10: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 16:15:01: 339.10: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 16:15:01: 339.10: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 16:15:01: 339.10: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 16:15:01: (DEATH)"Louis<12><BOT><Survivor><Manager><ALIVE><20+40><setpos_exact 8111.71 3473.15 126.24; setang 50.74 268.10 0.00><Area 37317>" killed "infected<180><><Infected><infected><DEAD><-5><setpos_exact 8121.98 3433.01 16.03; setang 0.00 113.31 0.00><Area 37274>" with "shotgun_spas"
+L 05/09/2013 - 16:15:03: (DEATH)"Bill<13><BOT><Survivor><NamVet><INCAP><205+0><setpos_exact 8175.97 3408.00 40.03; setang 349.06 180.45 -20.00><Area 37274>" killed "Boomer<21><BOT><Infected><BOOMER><DEAD><1+0><setpos 8100.33 3380.06 16.03; setang 313.15 20.27 0.00><Area 37313>" with "pistol_magnum"
+L 05/09/2013 - 16:15:03: (MOB) 29 wanderers grabbed for an IT mob of desired size 30.
+L 05/09/2013 - 16:15:03: 341.50: (MOB) SpawnITMob requested of size 1.
+L 05/09/2013 - 16:15:03: 341.50: (MOB) SpawnITMob will make 26.
+L 05/09/2013 - 16:15:03: (MOB) 29 wanderers grabbed for an IT mob of desired size 30.
+L 05/09/2013 - 16:15:03: 341.50: (MOB) SpawnITMob requested of size 1.
+L 05/09/2013 - 16:15:03: 341.50: (MOB) SpawnITMob will make 26.
+L 05/09/2013 - 16:15:03: (MOB) 29 wanderers grabbed for an IT mob of desired size 30.
+L 05/09/2013 - 16:15:03: 341.50: (MOB) SpawnITMob requested of size 1.
+L 05/09/2013 - 16:15:03: 341.50: (MOB) SpawnITMob will make 26.
+L 05/09/2013 - 16:15:04: 341.90: (MOB) Mob zombie spawned, 25 remain.
+L 05/09/2013 - 16:15:04: 341.90: (MOB) Mob zombie spawned, 24 remain.
+L 05/09/2013 - 16:15:04: 341.90: (MOB) Mob zombie spawned, 23 remain.
+L 05/09/2013 - 16:15:04: 341.90: (MOB) Mob zombie spawned, 22 remain.
+L 05/09/2013 - 16:15:04: (DEATH)"Piperoman[Spain]<2><STEAM_1:0:484244><Survivor><TeenGirl><INCAP><154+0><setpos_exact 7567.62 3799.97 40.03; setang -17.43 -120.53 0.00><Area 37266>" killed "infected<196><><Infected><infected><DEAD><-3><setpos_exact 7544.11 3770.24 16.03; setang 0.00 86.36 0.00><Area 35279>" with "dual_pistols"
+L 05/09/2013 - 16:15:09: (DEATH)"Bill<13><BOT><Survivor><NamVet><INCAP><190+0><setpos_exact 8175.97 3408.00 40.03; setang 326.12 142.51 -20.00><Area 37274>" killed "infected<434><><Infected><infected><DEAD><0><setpos_exact 8105.03 3461.22 64.24; setang 0.00 42.42 0.00><Area 37317>" with "pistol_magnum"
+L 05/09/2013 - 16:15:09: (DEATH)"Bill<13><BOT><Survivor><NamVet><INCAP><190+0><setpos_exact 8175.97 3408.00 40.03; setang 326.12 142.51 -20.00><Area 37274>" killed "infected<439><><Infected><infected><DEAD><0><setpos_exact 8091.64 3472.68 64.24; setang 0.00 331.50 0.00><Area 37317>" with "pistol_magnum"
+L 05/09/2013 - 16:15:09: "Smoker<20><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 16:15:10: "Piperoman[Spain]<2><STEAM_1:0:484244><Survivor>" disconnected (reason "Disconnect by user.")
+L 05/09/2013 - 16:15:10: "Zoey<23><BOT><>" connected, address "none"
+L 05/09/2013 - 16:15:10: OnEndChangelevel (23): 1 saved players:
+L 05/09/2013 - 16:15:10: 	Piperoman[Spain](2), state 2
+L 05/09/2013 - 16:15:10: "Zoey<23><BOT><>" entered the game
+L 05/09/2013 - 16:15:10: "Zoey<23><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 16:15:10: (SKIN) Survivor Zoey changed model from  to models/survivors/survivor_teenangst.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 16:15:10: (SKIN) SetCharacter: Survivor Zoey chose character TeenGirl(1) from model models/survivors/survivor_teenangst.mdl
+L 05/09/2013 - 16:15:10: (SKIN) SetCharacter: Survivor Zoey chose character TeenGirl(1) from model models/survivors/survivor_teenangst.mdl
+L 05/09/2013 - 16:15:10: Zoey spawned as a TeenGirl
+L 05/09/2013 - 16:15:10: "Zoey<23><BOT><Survivor><TeenGirl><ALIVE><100+0><setpos_exact 2987.73 2904.55 78.03; setang 0.00 149.49 0.00><Area 40394>" spawned
+L 05/09/2013 - 16:15:10: (DEATH)"Louis<12><BOT><Survivor><Manager><LIMPING><1+17><setpos_exact 7769.90 3373.59 86.03; setang 26.18 237.14 0.00><Area 38460>" killed "infected<310><><Infected><infected><DEAD><-5><setpos_exact 7701.17 3301.67 16.03; setang -0.00 4.99 0.00><Area 35968>" with "shotgun_spas"
+L 05/09/2013 - 16:15:10: (INCAP) "Louis<12><BOT><Survivor><Manager><INCAP><1+17><setpos_exact 7784.76 3369.89 86.03; setang 29.92 228.14 0.00><Area 35968>" is incapacitated
+L 05/09/2013 - 16:15:10: (INCAP)"Louis<12><BOT><Survivor><Manager><INCAP><300+17><setpos_exact 7784.76 3369.89 86.03; setang 29.92 228.14 0.00><Area 35968>" was incapped by "infected<401><><Infected><infected><ALIVE><50><setpos_exact 7739.93 3392.24 24.03; setang 0.00 333.50 0.00><Area 38460>" with ""
+L 05/09/2013 - 16:15:10: "Charger<24><BOT><>" connected, address "none"
+L 05/09/2013 - 16:15:10: OnEndChangelevel (24): 1 saved players:
+L 05/09/2013 - 16:15:10: 	Piperoman[Spain](2), state 2
+L 05/09/2013 - 16:15:10: "Charger<24><BOT><>" entered the game
+L 05/09/2013 - 16:15:10: "Charger<24><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 16:15:10: Charger spawned as a CHARGER
+L 05/09/2013 - 16:15:10: "Charger<24><BOT><Infected><CHARGER><ALIVE><600+0><setpos_exact 8435.00 3127.50 310.03; setang 0.00 0.00 0.00><Area 40740>" spawned
+L 05/09/2013 - 16:15:11: Team "Infected" triggered "L4D_Scenario_Survivors_Dead" (Infected "0") (Survivor "0")
+L 05/09/2013 - 16:15:11: Team "Infected" scored "0" with "3" players
+L 05/09/2013 - 16:15:11: Team "Survivor" scored "0" with "4" players
+L 05/09/2013 - 16:15:11: World triggered "Round_End"
+L 05/09/2013 - 16:15:12: (DEATH)"Louis<12><BOT><Survivor><Manager><INCAP><288+17><setpos_exact 7790.75 3369.60 48.03; setang 350.19 194.49 -20.00><Area 35968>" killed "infected<401><><Infected><infected><DEAD><15><setpos_exact 7764.76 3380.96 24.03; setang 0.00 336.39 0.00><Area 38460>" with "dual_pistols" (headshot)
+L 05/09/2013 - 16:15:12: "Sheldenator<19><STEAM_1:0:39793978><Survivor>" disconnected (reason "Disconnect by user.")
+L 05/09/2013 - 16:15:12: "Francis<25><BOT><>" connected, address "none"
+L 05/09/2013 - 16:15:12: OnEndChangelevel (25): 1 saved players:
+L 05/09/2013 - 16:15:12: 	Piperoman[Spain](2), state 2
+L 05/09/2013 - 16:15:12: "Francis<25><BOT><>" entered the game
+L 05/09/2013 - 16:15:12: "Francis<25><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 16:15:12: (SKIN) Survivor Francis changed model from  to models/survivors/survivor_biker.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 16:15:12: (SKIN) SetCharacter: Survivor Francis chose character Biker(3) from model models/survivors/survivor_biker.mdl
+L 05/09/2013 - 16:15:12: (SKIN) SetCharacter: Survivor Francis chose character Biker(3) from model models/survivors/survivor_biker.mdl
+L 05/09/2013 - 16:15:12: Francis spawned as a Biker
+L 05/09/2013 - 16:15:12: "Francis<25><BOT><Survivor><Biker><ALIVE><100+0><setpos_exact 2975.32 3099.87 78.03; setang 0.00 230.73 0.00><Area 40401>" spawned
+L 05/09/2013 - 16:15:12: Reloading original map c8m1_apartment
+L 05/09/2013 - 16:15:12: Preparing player entities for changelevel
+L 05/09/2013 - 16:15:12: Saving NORMAL for map transition at 7568,3800,16
+L 05/09/2013 - 16:15:12: (SKIN) Zoey saved model [models/survivors/survivor_teenangst.mdl] via PlayerSaveData
+L 05/09/2013 - 16:15:12: Saving NORMAL for map transition at 7791,3370,24
+L 05/09/2013 - 16:15:12: (SKIN) Louis saved model [models/survivors/survivor_manager.mdl] via PlayerSaveData
+L 05/09/2013 - 16:15:12: Saving NORMAL for map transition at 8176,3408,16
+L 05/09/2013 - 16:15:12: (SKIN) Bill saved model [models/survivors/survivor_namvet.mdl] via PlayerSaveData
+L 05/09/2013 - 16:15:12: Saving NORMAL for map transition at 8108,3464,64
+L 05/09/2013 - 16:15:12: (SKIN) Francis saved model [models/survivors/survivor_biker.mdl] via PlayerSaveData
+L 05/09/2013 - 16:15:12: 350.00: (MOB) Mob zombie spawned, 21 remain.
+L 05/09/2013 - 16:15:12: 350.00: (MOB) Mob zombie spawned, 20 remain.
+L 05/09/2013 - 16:15:12: "Francis<25><BOT><Survivor>" disconnected (reason "Kicked by Console")
+L 05/09/2013 - 16:15:12: "Boomer<21><BOT><Infected>" disconnected (reason "Kicked by Console")
+L 05/09/2013 - 16:15:12: "Charger<24><BOT><Infected>" disconnected (reason "Kicked by Console")
+L 05/09/2013 - 16:15:12: "Louis<12><BOT><Survivor>" disconnected (reason "Kicked by Console")
+L 05/09/2013 - 16:15:12: "Jockey<22><BOT><Infected>" disconnected (reason "Kicked by Console")
+L 05/09/2013 - 16:15:12: "Zoey<23><BOT><Survivor>" disconnected (reason "Kicked by Console")
+L 05/09/2013 - 16:15:12: "Bill<13><BOT><Survivor>" disconnected (reason "Kicked by Console")
+L 05/09/2013 - 16:15:12: 350.03: (MOB) Mob zombie spawned, 19 remain.
+L 05/09/2013 - 16:15:12: 350.03: (MOB) Mob zombie spawned, 18 remain.
+L 05/09/2013 - 16:15:12: 350.03: (MOB) Mob zombie spawned, 17 remain.
+L 05/09/2013 - 16:15:12: 350.03: (MOB) Mob zombie spawned, 16 remain.
+L 05/09/2013 - 16:15:12: Log file closed

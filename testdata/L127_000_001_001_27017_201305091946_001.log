@@ -1,0 +1,79 @@
+L 05/09/2013 - 19:46:39: Log file started (file "logs/L127_000_001_001_27017_201305091946_001.log") (game "/home/tf/srv/l4d2_beta/left4dead2_beta") (version "5289")
+L 05/09/2013 - 19:46:39: "Bill<2><STEAM_1:1:25363694><>" connected, address "107.212.60.132:27005"
+L 05/09/2013 - 19:46:39: World triggered "Round_Start"
+L 05/09/2013 - 19:46:39: CDirector::RunScript, C2m1_no_bosses, level: 2
+L 05/09/2013 - 19:46:42: "Bill<2><STEAM_1:1:25363694><>" STEAM USERID validated
+L 05/09/2013 - 19:48:04: FinishClientPutInServer Bill(2): looking for bots to take over
+L 05/09/2013 - 19:48:04: "Bill<2><STEAM_1:1:25363694><>" entered the game
+L 05/09/2013 - 19:48:16: "Bill<2><STEAM_1:1:25363694><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 19:48:16: SetModelFromClass: Survivor Bill changed model from  to models/survivors/survivor_mechanic.mdl via SetModelFromClass
+L 05/09/2013 - 19:48:16: (SKIN) SetCharacter: Survivor Bill chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 19:48:16: Bill spawned as a Mechanic
+L 05/09/2013 - 19:48:16: "Bill<2><STEAM_1:1:25363694><Survivor><Mechanic><ALIVE><100+0><setpos_exact 10756.00 7848.00 -482.49; setang 0.00 160.50 0.00><Area 10587>" spawned
+L 05/09/2013 - 19:48:16: "Rochelle<3><BOT><>" connected, address "none"
+L 05/09/2013 - 19:48:16: FinishClientPutInServer (3): looking for bots to take over
+L 05/09/2013 - 19:48:16: "Rochelle<3><BOT><>" entered the game
+L 05/09/2013 - 19:48:16: "Rochelle<3><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 19:48:16: SetModelFromClass: Survivor Rochelle changed model from  to models/survivors/survivor_producer.mdl via SetModelFromClass
+L 05/09/2013 - 19:48:16: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 19:48:16: Rochelle spawned as a Producer
+L 05/09/2013 - 19:48:16: "Rochelle<3><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 10756.00 7892.00 -482.49; setang 0.00 191.50 0.00><Area 13657>" spawned
+L 05/09/2013 - 19:48:16: (SKIN) Survivor Rochelle changed model from models/survivors/survivor_producer.mdl to models/survivors/survivor_producer.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 19:48:16: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 19:48:16: "Coach<4><BOT><>" connected, address "none"
+L 05/09/2013 - 19:48:16: FinishClientPutInServer (4): looking for bots to take over
+L 05/09/2013 - 19:48:16: "Coach<4><BOT><>" entered the game
+L 05/09/2013 - 19:48:16: "Coach<4><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 19:48:16: SetModelFromClass: Survivor Coach changed model from  to models/survivors/survivor_coach.mdl via SetModelFromClass
+L 05/09/2013 - 19:48:16: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 19:48:16: Coach spawned as a Coach
+L 05/09/2013 - 19:48:16: "Coach<4><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 10756.00 7848.00 -481.49; setang 0.00 160.50 0.00><Area 10587>" spawned
+L 05/09/2013 - 19:48:16: (SKIN) Survivor Coach changed model from models/survivors/survivor_coach.mdl to models/survivors/survivor_coach.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 19:48:16: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 19:48:16: "Nick<5><BOT><>" connected, address "none"
+L 05/09/2013 - 19:48:16: FinishClientPutInServer (5): looking for bots to take over
+L 05/09/2013 - 19:48:16: "Nick<5><BOT><>" entered the game
+L 05/09/2013 - 19:48:16: "Nick<5><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 19:48:16: SetModelFromClass: Survivor Nick changed model from  to models/survivors/survivor_gambler.mdl via SetModelFromClass
+L 05/09/2013 - 19:48:16: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 19:48:16: Nick spawned as a Gambler
+L 05/09/2013 - 19:48:16: "Nick<5><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 10756.00 7892.00 -482.49; setang 0.00 191.50 0.00><Area 13657>" spawned
+L 05/09/2013 - 19:48:16: (SKIN) Survivor Nick changed model from models/survivors/survivor_gambler.mdl to models/survivors/survivor_gambler.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 19:48:16: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 19:48:30: STEAMAUTH: Client Bill received failure code 6
+L 05/09/2013 - 19:48:30: "Bill<2><STEAM_1:1:25363694><Survivor>" disconnected (reason "No Steam logon")
+L 05/09/2013 - 19:48:30: "Ellis<6><BOT><>" connected, address "none"
+L 05/09/2013 - 19:48:30: FinishClientPutInServer (6): looking for bots to take over
+L 05/09/2013 - 19:48:30: "Ellis<6><BOT><>" entered the game
+L 05/09/2013 - 19:48:30: "Ellis<6><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 19:48:30: SetModelFromClass: Survivor Ellis changed model from  to models/survivors/survivor_mechanic.mdl via SetModelFromClass
+L 05/09/2013 - 19:48:30: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 19:48:30: Ellis spawned as a Mechanic
+L 05/09/2013 - 19:48:30: "Ellis<6><BOT><Survivor><Mechanic><ALIVE><100+0><setpos_exact 10756.00 7848.00 -481.49; setang 0.00 160.50 0.00><Area 10587>" spawned
+L 05/09/2013 - 19:48:30: (SKIN) Survivor Ellis changed model from models/survivors/survivor_mechanic.mdl to models/survivors/survivor_mechanic.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 19:48:30: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 19:48:30: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 19:48:30: Ellis spawned as a Mechanic
+L 05/09/2013 - 19:48:30: "Ellis<6><BOT><Survivor><Mechanic><ALIVE><100+0><setpos_exact 10716.00 7908.00 -480.49; setang 0.00 159.50 0.00><Area 10579>" spawned
+L 05/09/2013 - 19:48:30: Staying on original map c2m1_highway
+L 05/09/2013 - 19:48:30: CDirector::RunScript, scriptedmode, level: 1
+L 05/09/2013 - 19:48:30: CDirector::RunScript, director_base, level: 0
+L 05/09/2013 - 19:48:30: Preventing spawning
+L 05/09/2013 - 19:48:30: CDirector::RunScript, scriptedmode, level: 1
+L 05/09/2013 - 19:48:30: CDirector::RunScript, director_base, level: 0
+L 05/09/2013 - 19:48:30: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 19:48:30: Rochelle spawned as a Producer
+L 05/09/2013 - 19:48:30: "Rochelle<3><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 10756.00 7892.00 -482.49; setang 0.00 191.50 0.00><Area 13657>" spawned
+L 05/09/2013 - 19:48:30: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 19:48:30: Coach spawned as a Coach
+L 05/09/2013 - 19:48:30: "Coach<4><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 10728.00 7836.00 -481.08; setang 0.00 139.50 0.00><Area 10579>" spawned
+L 05/09/2013 - 19:48:30: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 19:48:30: Nick spawned as a Gambler
+L 05/09/2013 - 19:48:30: "Nick<5><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 10756.00 7848.00 -481.49; setang 0.00 160.50 0.00><Area 10587>" spawned
+L 05/09/2013 - 19:48:30: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 19:48:30: Ellis spawned as a Mechanic
+L 05/09/2013 - 19:48:30: "Ellis<6><BOT><Survivor><Mechanic><ALIVE><100+0><setpos_exact 10716.00 7908.00 -480.49; setang 0.00 159.50 0.00><Area 10579>" spawned
+L 05/09/2013 - 19:48:30: World triggered "Round_Start"
+L 05/09/2013 - 19:48:30: World triggered "Round_Start"
+L 05/09/2013 - 19:48:30: "Ellis<6><BOT><Survivor>" disconnected (reason "Kicked by Console")
+L 05/09/2013 - 19:48:30: "Rochelle<3><BOT><Survivor>" disconnected (reason "Kicked by

@@ -1,0 +1,167 @@
+L 05/09/2013 - 16:27:51: Log file started (file "logs/L127_000_001_001_27021_201305091627_000.log") (game "/home/tf/srv/l4d2_beta/left4dead2_beta") (version "5289")
+L 05/09/2013 - 16:27:51: Loading map "c2m1_highway"
+L 05/09/2013 - 16:27:51: server cvars start
+L 05/09/2013 - 16:27:51: "sv_maxspeed" = "1000.000000"
+L 05/09/2013 - 16:27:51: "sv_rollangle" = "0"
+L 05/09/2013 - 16:27:51: "tauntfrequency" = "1"
+L 05/09/2013 - 16:27:51: "r_AirboatViewZHeight" = "0.0"
+L 05/09/2013 - 16:27:51: "sv_cheats" = "0"
+L 05/09/2013 - 16:27:51: "r_VehicleViewDampen" = "1"
+L 05/09/2013 - 16:27:51: "mp_allowNPCs" = "1"
+L 05/09/2013 - 16:27:51: "god" = "0"
+L 05/09/2013 - 16:27:51: "mp_tournament" = "0"
+L 05/09/2013 - 16:27:51: "buddha" = "0"
+L 05/09/2013 - 16:27:51: "mp_flashlight" = "1"
+L 05/09/2013 - 16:27:51: "mp_maxrounds" = "0"
+L 05/09/2013 - 16:27:51: "sv_tags" = ""
+L 05/09/2013 - 16:27:51: "sv_stepsize" = "18"
+L 05/09/2013 - 16:27:51: "mp_teamlist" = "hgrunt;scientist"
+L 05/09/2013 - 16:27:51: "sv_alltalk" = "0"
+L 05/09/2013 - 16:27:51: "survivor_limit" = "4"
+L 05/09/2013 - 16:27:51: "mp_footsteps" = "1"
+L 05/09/2013 - 16:27:51: "sv_noclipaccelerate" = "5"
+L 05/09/2013 - 16:27:51: "sv_wateraccelerate" = "10"
+L 05/09/2013 - 16:27:51: "mp_autocrosshair" = "1"
+L 05/09/2013 - 16:27:51: "mp_stalemate_enable" = "0"
+L 05/09/2013 - 16:27:51: "sv_rollspeed" = "200"
+L 05/09/2013 - 16:27:51: "sv_airaccelerate" = "10"
+L 05/09/2013 - 16:27:51: "mp_teams_unbalance_limit" = "1"
+L 05/09/2013 - 16:27:51: "mp_timelimit" = "0"
+L 05/09/2013 - 16:27:51: "mp_fadetoblack" = "0"
+L 05/09/2013 - 16:27:51: "sv_noclipfriction" = "4"
+L 05/09/2013 - 16:27:51: "sv_waterfriction" = "1"
+L 05/09/2013 - 16:27:51: "sv_steamgroup" = ""
+L 05/09/2013 - 16:27:51: "coop" = "0"
+L 05/09/2013 - 16:27:51: "nextlevel" = ""
+L 05/09/2013 - 16:27:51: "sv_stopspeed" = "75"
+L 05/09/2013 - 16:27:51: "sv_specaccelerate" = "5"
+L 05/09/2013 - 16:27:51: "deathmatch" = "1"
+L 05/09/2013 - 16:27:51: "tv_enable" = "0"
+L 05/09/2013 - 16:27:51: "mp_falldamage" = "0"
+L 05/09/2013 - 16:27:51: "mp_freezetime" = "6"
+L 05/09/2013 - 16:27:51: "sv_voiceenable" = "1"
+L 05/09/2013 - 16:27:51: "tf_arena_max_streak" = "5"
+L 05/09/2013 - 16:27:51: "sv_bounce" = "0"
+L 05/09/2013 - 16:27:51: "mp_disable_respawn_times" = "0"
+L 05/09/2013 - 16:27:51: "r_AirboatViewDampenFreq" = "7.0"
+L 05/09/2013 - 16:27:51: "mp_weaponstay" = "0"
+L 05/09/2013 - 16:27:51: "mp_friendlyfire" = "1"
+L 05/09/2013 - 16:27:51: "sv_noclipspeed" = "5"
+L 05/09/2013 - 16:27:51: "r_JeepViewDampenDamp" = "1.0"
+L 05/09/2013 - 16:27:51: "mp_c4timer" = "45"
+L 05/09/2013 - 16:27:51: "r_AirboatViewDampenDamp" = "1.0"
+L 05/09/2013 - 16:27:51: "mp_stalemate_at_timelimit" = "0"
+L 05/09/2013 - 16:27:51: "sv_footsteps" = "1"
+L 05/09/2013 - 16:27:51: "mp_limitteams" = "2"
+L 05/09/2013 - 16:27:51: "tv_relaypassword" = ""
+L 05/09/2013 - 16:27:51: "tf_arena_round_time" = "0"
+L 05/09/2013 - 16:27:51: "mp_teamplay" = "0"
+L 05/09/2013 - 16:27:51: "r_JeepViewDampenFreq" = "7.0"
+L 05/09/2013 - 16:27:51: "sv_specnoclip" = "1"
+L 05/09/2013 - 16:27:51: "sv_friction" = "4"
+L 05/09/2013 - 16:27:51: "mp_autoteambalance" = "1"
+L 05/09/2013 - 16:27:51: "sv_contact" = ""
+L 05/09/2013 - 16:27:51: "director_afk_timeout" = "45"
+L 05/09/2013 - 16:27:51: "mp_roundtime" = "5"
+L 05/09/2013 - 16:27:51: "mp_fraglimit" = "0"
+L 05/09/2013 - 16:27:51: "mp_forcerespawn" = "1"
+L 05/09/2013 - 16:27:51: "decalfrequency" = "10"
+L 05/09/2013 - 16:27:51: "mp_winlimit" = "0"
+L 05/09/2013 - 16:27:51: "sv_accelerate" = "5"
+L 05/09/2013 - 16:27:51: "sv_gravity" = "800"
+L 05/09/2013 - 16:27:51: "sv_password" = ""
+L 05/09/2013 - 16:27:51: "r_JeepViewZHeight" = "10.0"
+L 05/09/2013 - 16:27:51: "tf_arena_preround_time" = "10"
+L 05/09/2013 - 16:27:51: "tv_password" = ""
+L 05/09/2013 - 16:27:51: "sv_specspeed" = "3"
+L 05/09/2013 - 16:27:51: server cvars end
+L 05/09/2013 - 16:27:52: Started map "c2m1_highway" (CRC "2017734994")
+L 05/09/2013 - 16:27:54: CDirector::RunScript, scriptedmode, level: 1
+L 05/09/2013 - 16:27:54: CDirector::RunScript, director_base, level: 0
+L 05/09/2013 - 16:27:55: Preventing spawning
+L 05/09/2013 - 16:27:55: CDirector::RunScript, scriptedmode, level: 1
+L 05/09/2013 - 16:27:55: CDirector::RunScript, director_base, level: 0
+L 05/09/2013 - 16:27:55: World triggered "Round_Start"
+L 05/09/2013 - 16:27:55: Preparing to restore 4 survivor bots after map transition...
+L 05/09/2013 - 16:27:55: Attempting to spawn a survivor bot
+L 05/09/2013 - 16:27:55: "Nick<260><BOT><>" connected, address "none"
+L 05/09/2013 - 16:27:55: OnEndChangelevel (260): 0 saved players:
+L 05/09/2013 - 16:27:55: "Nick<260><BOT><>" entered the game
+L 05/09/2013 - 16:27:55: "Nick<260><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 16:27:55: SetModelFromClass: Survivor Nick changed model from  to models/survivors/survivor_gambler.mdl via SetModelFromClass
+L 05/09/2013 - 16:27:55: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 16:27:55: Nick spawned as a Gambler
+L 05/09/2013 - 16:27:55: "Nick<260><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 10756.00 7848.00 -482.49; setang 0.00 160.50 0.00><Area 10587>" spawned
+L 05/09/2013 - 16:27:55: (SKIN) Survivor Nick changed model from models/survivors/survivor_gambler.mdl to models/survivors/survivor_gambler.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 16:27:55: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 16:27:55: Restoring player Nick(260) after changelevel
+L 05/09/2013 - 16:27:55: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 16:27:55: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 16:27:55: (SKIN) Survivor Nick changed model to models/survivors/survivor_gambler.mdl (wanted models/survivors/survivor_gambler.mdl) via RestoreModelData
+L 05/09/2013 - 16:27:55: CheckpointRespawn for Nick
+L 05/09/2013 - 16:27:55: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 16:27:55: Nick spawned as a Gambler
+L 05/09/2013 - 16:27:55: "Nick<260><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 10716.00 7908.00 -480.49; setang 0.00 159.50 0.00><Area 10579>" spawned
+L 05/09/2013 - 16:27:55: Survivor bot restored after map transition at 10716,7908,-542!
+L 05/09/2013 - 16:27:55: Attempting to spawn a survivor bot
+L 05/09/2013 - 16:27:55: "Coach<261><BOT><>" connected, address "none"
+L 05/09/2013 - 16:27:55: OnEndChangelevel (261): 0 saved players:
+L 05/09/2013 - 16:27:55: "Coach<261><BOT><>" entered the game
+L 05/09/2013 - 16:27:55: "Coach<261><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 16:27:55: SetModelFromClass: Survivor Coach changed model from  to models/survivors/survivor_coach.mdl via SetModelFromClass
+L 05/09/2013 - 16:27:55: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 16:27:55: Coach spawned as a Coach
+L 05/09/2013 - 16:27:55: "Coach<261><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 10728.00 7836.00 -481.08; setang 0.00 139.50 0.00><Area 10579>" spawned
+L 05/09/2013 - 16:27:55: (SKIN) Survivor Coach changed model from models/survivors/survivor_coach.mdl to models/survivors/survivor_coach.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 16:27:55: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 16:27:55: Restoring player Coach(261) after changelevel
+L 05/09/2013 - 16:27:55: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 16:27:55: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 16:27:55: (SKIN) Survivor Coach changed model to models/survivors/survivor_coach.mdl (wanted models/survivors/survivor_coach.mdl) via RestoreModelData
+L 05/09/2013 - 16:27:55: CheckpointRespawn for Coach
+L 05/09/2013 - 16:27:55: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 16:27:55: Coach spawned as a Coach
+L 05/09/2013 - 16:27:55: "Coach<261><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 10756.00 7848.00 -482.49; setang 0.00 160.50 0.00><Area 10587>" spawned
+L 05/09/2013 - 16:27:55: Survivor bot restored after map transition at 10756,7848,-544!
+L 05/09/2013 - 16:27:55: Attempting to spawn a survivor bot
+L 05/09/2013 - 16:27:55: "Ellis<262><BOT><>" connected, address "none"
+L 05/09/2013 - 16:27:55: OnEndChangelevel (262): 0 saved players:
+L 05/09/2013 - 16:27:55: "Ellis<262><BOT><>" entered the game
+L 05/09/2013 - 16:27:55: "Ellis<262><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 16:27:55: SetModelFromClass: Survivor Ellis changed model from  to models/survivors/survivor_mechanic.mdl via SetModelFromClass
+L 05/09/2013 - 16:27:55: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 16:27:55: Ellis spawned as a Mechanic
+L 05/09/2013 - 16:27:55: "Ellis<262><BOT><Survivor><Mechanic><ALIVE><100+0><setpos_exact 10756.00 7892.00 -482.49; setang 0.00 191.50 0.00><Area 13657>" spawned
+L 05/09/2013 - 16:27:55: (SKIN) Survivor Ellis changed model from models/survivors/survivor_mechanic.mdl to models/survivors/survivor_mechanic.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 16:27:55: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 16:27:55: Restoring player Ellis(262) after changelevel
+L 05/09/2013 - 16:27:55: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 16:27:55: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 16:27:55: (SKIN) Survivor Ellis changed model to models/survivors/survivor_mechanic.mdl (wanted models/survivors/survivor_mechanic.mdl) via RestoreModelData
+L 05/09/2013 - 16:27:55: CheckpointRespawn for Ellis
+L 05/09/2013 - 16:27:55: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 16:27:55: Ellis spawned as a Mechanic
+L 05/09/2013 - 16:27:55: "Ellis<262><BOT><Survivor><Mechanic><ALIVE><100+0><setpos_exact 10728.00 7836.00 -479.49; setang 0.00 139.50 0.00><Area 10579>" spawned
+L 05/09/2013 - 16:27:55: Survivor bot restored after map transition at 10728,7836,-541!
+L 05/09/2013 - 16:27:55: Attempting to spawn a survivor bot
+L 05/09/2013 - 16:27:55: "Rochelle<263><BOT><>" connected, address "none"
+L 05/09/2013 - 16:27:55: OnEndChangelevel (263): 0 saved players:
+L 05/09/2013 - 16:27:55: "Rochelle<263><BOT><>" entered the game
+L 05/09/2013 - 16:27:55: "Rochelle<263><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 16:27:55: SetModelFromClass: Survivor Rochelle changed model from  to models/survivors/survivor_producer.mdl via SetModelFromClass
+L 05/09/2013 - 16:27:55: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 16:27:55: Rochelle spawned as a Producer
+L 05/09/2013 - 16:27:55: "Rochelle<263><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 10716.00 7908.00 -480.49; setang 0.00 159.50 0.00><Area 10579>" spawned
+L 05/09/2013 - 16:27:55: (SKIN) Survivor Rochelle changed model from models/survivors/survivor_producer.mdl to models/survivors/survivor_producer.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 16:27:55: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 16:27:55: Restoring player Rochelle(263) after changelevel
+L 05/09/2013 - 16:27:55: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 16:27:55: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 16:27:55: (SKIN) Survivor Rochelle changed model to models/survivors/survivor_producer.mdl (wanted models/survivors/survivor_producer.mdl) via RestoreModelData
+L 05/09/2013 - 16:27:55: CheckpointRespawn for Rochelle
+L 05/09/2013 - 16:27:55: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 16:27:55: Rochelle spawned as a Producer
+L 05/09/2013 - 16:27:55: "Rochelle<263><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 10756.00 7892.00 -482.49; setang 0.00 191.50 0.00><Area 13657>" spawned
+L 05/09/2013 - 16:27:55: Survivor bot restored after map transition at 10756,7892,-544!
+L 05/09/2013 - 16:27:55: World triggered "Round_Start"
+L 05/09/2013 - 16:27:55: Log file closed

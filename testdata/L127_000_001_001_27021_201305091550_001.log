@@ -1,0 +1,999 @@
+L 05/09/2013 - 15:50:58: Log file started (file "logs/L127_000_001_001_27021_201305091550_001.log") (game "/home/tf/srv/l4d2_beta/left4dead2_beta") (version "5289")
+L 05/09/2013 - 15:51:11: OnEndChangelevel GameOverDude(61): 1 saved players:
+L 05/09/2013 - 15:51:11: 	GameOverDude(61), state 0
+L 05/09/2013 - 15:51:11: Restoring player GameOverDude(61) after changelevel
+L 05/09/2013 - 15:51:11: "GameOverDude<61><STEAM_1:1:28847790><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 15:51:11: SetModelFromClass: Survivor GameOverDude changed model from  to models/survivors/survivor_gambler.mdl via SetModelFromClass
+L 05/09/2013 - 15:51:11: (SKIN) SetCharacter: Survivor GameOverDude chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 15:51:11: GameOverDude spawned as a Gambler
+L 05/09/2013 - 15:51:11: "GameOverDude<61><STEAM_1:1:28847790><Survivor><Gambler><ALIVE><100+0><setpos_exact 4310.34 2098.34 -1.97; setang 0.00 153.34 0.00><Area 283882>" spawned
+L 05/09/2013 - 15:51:11: Respawning GameOverDude
+L 05/09/2013 - 15:51:11: (SKIN) SetCharacter: Survivor GameOverDude chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 15:51:11: GameOverDude spawned as a Gambler
+L 05/09/2013 - 15:51:11: "GameOverDude<61><STEAM_1:1:28847790><Survivor><Gambler><ALIVE><100+0><setpos_exact 3922.02 2144.24 -1.97; setang 0.00 0.60 0.00><Area 283885>" spawned
+L 05/09/2013 - 15:51:11: (SKIN) SetCharacter: Survivor GameOverDude chose character Gambler(0) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 15:51:11: (SKIN) SetCharacter: Survivor GameOverDude chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 15:51:11: (SKIN) Survivor GameOverDude changed model to models/survivors/survivor_producer.mdl (wanted models/survivors/survivor_producer.mdl) via RestoreModelData
+L 05/09/2013 - 15:51:11: GameOverDude wants to respawn at 4513.909668 2044.354004 -63.968750
+L 05/09/2013 - 15:51:11: GetSafeSpawnPos: GameOverDude ideal pos (4513.909668, 2044.354004, -63.968750) is clear
+L 05/09/2013 - 15:51:11: GameOverDude gets respawn pos 4513.909668 2044.354004 -63.968750
+L 05/09/2013 - 15:51:11: "GameOverDude<61><STEAM_1:1:28847790><>" entered the game
+L 05/09/2013 - 15:51:11: Preparing to restore 3 survivor bots after map transition...
+L 05/09/2013 - 15:51:11: Attempting to spawn a survivor bot
+L 05/09/2013 - 15:51:11: "Nick<103><BOT><>" connected, address "none"
+L 05/09/2013 - 15:51:11: OnEndChangelevel (103): 1 saved players:
+L 05/09/2013 - 15:51:11: 	GameOverDude(61), state 2
+L 05/09/2013 - 15:51:11: "Nick<103><BOT><>" entered the game
+L 05/09/2013 - 15:51:11: "Nick<103><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 15:51:11: SetModelFromClass: Survivor Nick changed model from  to models/survivors/survivor_gambler.mdl via SetModelFromClass
+L 05/09/2013 - 15:51:11: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 15:51:11: Nick spawned as a Gambler
+L 05/09/2013 - 15:51:11: "Nick<103><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 4086.78 1996.13 -1.97; setang 0.00 88.75 0.00><Area 283882>" spawned
+L 05/09/2013 - 15:51:11: (SKIN) Survivor Nick changed model from models/survivors/survivor_gambler.mdl to models/survivors/survivor_gambler.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 15:51:11: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 15:51:11: Restoring player Nick(103) after changelevel
+L 05/09/2013 - 15:51:11: Respawning Nick
+L 05/09/2013 - 15:51:11: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 15:51:11: Nick spawned as a Gambler
+L 05/09/2013 - 15:51:11: "Nick<103><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 3915.42 1967.33 -1.97; setang 0.00 45.66 0.00><Area 283882>" spawned
+L 05/09/2013 - 15:51:11: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 15:51:11: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 15:51:11: (SKIN) Survivor Nick changed model to models/survivors/survivor_gambler.mdl (wanted models/survivors/survivor_gambler.mdl) via RestoreModelData
+L 05/09/2013 - 15:51:11: Nick wants to respawn at 4187.614746 2005.385254 -63.968750
+L 05/09/2013 - 15:51:11: GetSafeSpawnPos: Nick ideal pos (4187.614746, 2005.385254, -63.968750) is clear
+L 05/09/2013 - 15:51:11: Nick gets respawn pos 4187.614746 2005.385254 -63.968750
+L 05/09/2013 - 15:51:11: Survivor bot restored after map transition at 4188,2005,-64!
+L 05/09/2013 - 15:51:11: Attempting to spawn a survivor bot
+L 05/09/2013 - 15:51:11: "Ellis<104><BOT><>" connected, address "none"
+L 05/09/2013 - 15:51:11: OnEndChangelevel (104): 1 saved players:
+L 05/09/2013 - 15:51:11: 	GameOverDude(61), state 2
+L 05/09/2013 - 15:51:11: "Ellis<104><BOT><>" entered the game
+L 05/09/2013 - 15:51:11: "Ellis<104><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 15:51:11: SetModelFromClass: Survivor Ellis changed model from  to models/survivors/survivor_mechanic.mdl via SetModelFromClass
+L 05/09/2013 - 15:51:11: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 15:51:11: Ellis spawned as a Mechanic
+L 05/09/2013 - 15:51:11: "Ellis<104><BOT><Survivor><Mechanic><ALIVE><100+0><setpos_exact 4098.71 2005.91 -1.97; setang 0.00 93.54 0.00><Area 283882>" spawned
+L 05/09/2013 - 15:51:11: (SKIN) Survivor Ellis changed model from models/survivors/survivor_mechanic.mdl to models/survivors/survivor_mechanic.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 15:51:11: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 15:51:11: Restoring player Ellis(104) after changelevel
+L 05/09/2013 - 15:51:11: Respawning Ellis
+L 05/09/2013 - 15:51:11: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 15:51:11: Ellis spawned as a Mechanic
+L 05/09/2013 - 15:51:11: "Ellis<104><BOT><Survivor><Mechanic><ALIVE><100+0><setpos_exact 4285.11 2151.74 -1.97; setang 0.00 178.94 0.00><Area 283888>" spawned
+L 05/09/2013 - 15:51:11: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 15:51:11: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 15:51:11: (SKIN) Survivor Ellis changed model to models/survivors/survivor_mechanic.mdl (wanted models/survivors/survivor_mechanic.mdl) via RestoreModelData
+L 05/09/2013 - 15:51:11: Ellis wants to respawn at 4158.157715 2048.421875 -63.968750
+L 05/09/2013 - 15:51:11: GetSafeSpawnPos: Ellis ideal pos (4158.157715, 2048.421875, -63.968750) is clear
+L 05/09/2013 - 15:51:11: Ellis gets respawn pos 4158.157715 2048.421875 -63.968750
+L 05/09/2013 - 15:51:11: Survivor bot restored after map transition at 4158,2048,-64!
+L 05/09/2013 - 15:51:11: Attempting to spawn a survivor bot
+L 05/09/2013 - 15:51:11: "Coach<105><BOT><>" connected, address "none"
+L 05/09/2013 - 15:51:11: OnEndChangelevel (105): 1 saved players:
+L 05/09/2013 - 15:51:11: 	GameOverDude(61), state 2
+L 05/09/2013 - 15:51:11: "Coach<105><BOT><>" entered the game
+L 05/09/2013 - 15:51:11: "Coach<105><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 15:51:11: SetModelFromClass: Survivor Coach changed model from  to models/survivors/survivor_coach.mdl via SetModelFromClass
+L 05/09/2013 - 15:51:11: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 15:51:11: Coach spawned as a Coach
+L 05/09/2013 - 15:51:11: "Coach<105><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 4417.89 2010.35 -1.97; setang 0.00 146.63 0.00><Area 283881>" spawned
+L 05/09/2013 - 15:51:11: (SKIN) Survivor Coach changed model from models/survivors/survivor_coach.mdl to models/survivors/survivor_coach.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 15:51:11: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 15:51:11: Restoring player Coach(105) after changelevel
+L 05/09/2013 - 15:51:11: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 15:51:11: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 15:51:11: (SKIN) Survivor Coach changed model to models/survivors/survivor_coach.mdl (wanted models/survivors/survivor_coach.mdl) via RestoreModelData
+L 05/09/2013 - 15:51:11: CheckpointRespawn for Coach
+L 05/09/2013 - 15:51:11: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 15:51:11: Coach spawned as a Coach
+L 05/09/2013 - 15:51:11: "Coach<105><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 4476.74 2049.18 -1.97; setang 0.00 159.32 0.00><Area 283881>" spawned
+L 05/09/2013 - 15:51:11: Survivor bot restored after map transition at 4477,2049,-64!
+L 05/09/2013 - 15:51:12: ------------------------------ Director state change RELAX -> BUILD_UP
+L 05/09/2013 - 15:51:15: Skipping saved player GameOverDude(61) - restore was already done
+L 05/09/2013 - 15:51:43: Allowing spawning - "GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 3865.88 2055.97 -1.97; setang 14.52 -176.98 0.00><Area 283905>" left safe area
+L 05/09/2013 - 15:51:47: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 3392.67 2037.74 158.03; setang 8.91 172.03 0.00><Area 47613>" killed "infected<120><><Infected><infected><DEAD><-8><setpos_exact 3161.73 2073.97 91.89; setang -0.00 -88.33 0.00><Area 52427>" with "autoshotgun"
+L 05/09/2013 - 15:51:47: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 3312.48 2046.15 158.03; setang 13.33 -172.60 0.00><Area 47613>" killed "infected<283><><Infected><infected><DEAD><-12><setpos_exact 3173.23 2023.42 94.36; setang 0.00 -151.03 0.00><Area 52427>" with "autoshotgun"
+L 05/09/2013 - 15:51:49: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 3061.16 2040.15 132.96; setang 12.94 178.56 0.00><Area 52426>" killed "infected<124><><Infected><infected><DEAD><21><setpos_exact 2448.35 2036.02 -7.97; setang 0.00 44.02 0.00><Area 365477>" with "autoshotgun" (headshot)
+L 05/09/2013 - 15:51:49: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 3061.16 2040.15 132.96; setang 12.94 178.56 0.00><Area 52426>" killed "infected<160><><Infected><infected><DEAD><21><setpos_exact 2438.00 2082.21 -7.97; setang 0.00 258.65 0.00><Area 365478>" with "autoshotgun" (headshot)
+L 05/09/2013 - 15:51:49: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 2980.52 2042.15 115.65; setang 12.67 178.36 0.00><Area 52426>" killed "infected<123><><Infected><infected><DEAD><-11><setpos_exact 2462.50 2062.50 -7.97; setang 0.00 99.25 0.00><Area 134433>" with "autoshotgun"
+L 05/09/2013 - 15:51:50: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 2867.74 2045.77 91.45; setang 9.83 148.13 0.00><Area 52425>" killed "infected<168><><Infected><infected><DEAD><-4><setpos_exact 2581.08 2212.54 -7.97; setang -0.00 23.60 0.00><Area 365486>" with "autoshotgun"
+L 05/09/2013 - 15:51:51: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 2867.74 2045.77 91.45; setang 8.98 141.67 0.00><Area 52425>" killed "infected<169><><Infected><infected><DEAD><-3><setpos_exact 2601.18 2274.81 -7.97; setang -0.00 -86.19 0.00><Area 53054>" with "autoshotgun"
+L 05/09/2013 - 15:51:53: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><81+0><setpos_exact 2916.96 2056.55 102.02; setang 22.78 193.90 0.00><Area 52425>" killed "infected<284><><Infected><infected><DEAD><-37><setpos_exact 2791.37 2033.63 12.46; setang 0.00 6.53 0.00><Area 52424>" with "rifle_desert"
+L 05/09/2013 - 15:51:58: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 2603.83 1876.97 54.03; setang 23.43 -18.02 0.00><Area 134420>" killed "infected<293><><Infected><infected><DEAD><0><setpos_exact 2672.62 1871.18 -7.97; setang 0.00 73.27 0.00><Area 134435>" with "melee"
+L 05/09/2013 - 15:52:03: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><81+0><setpos_exact 2691.94 1842.87 54.03; setang 4.24 147.24 0.00><Area 57314>" killed "infected<327><><Infected><infected><DEAD><-35><setpos_exact 2390.86 2036.30 -8.40; setang 0.00 314.11 0.00><Area 365467>" with "rifle_desert"
+L 05/09/2013 - 15:52:03: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><92+0><setpos_exact 2659.18 1824.03 54.03; setang 4.13 136.27 0.00><Area 53597>" killed "infected<217><><Infected><infected><DEAD><-40><setpos_exact 2478.11 2018.43 -7.97; setang 0.00 315.65 0.00><Area 134433>" with "hunting_rifle"
+L 05/09/2013 - 15:52:09: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><92+0><setpos_exact 2545.05 1920.72 54.03; setang 5.51 146.90 0.00><Area 134420>" killed "infected<191><><Infected><infected><DEAD><-40><setpos_exact 2311.25 2051.77 -9.66; setang 0.00 314.28 0.00><Area 365467>" with "hunting_rifle"
+L 05/09/2013 - 15:52:09: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 2412.46 1950.03 52.75; setang 22.04 145.85 0.00><Area 365467>" killed "infected<279><><Infected><infected><DEAD><0><setpos_exact 2376.42 1977.41 -9.08; setang -0.00 -34.88 0.00><Area 365467>" with "melee"
+L 05/09/2013 - 15:52:09: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><92+0><setpos_exact 2545.05 1920.72 54.03; setang 3.39 129.75 0.00><Area 134420>" killed "infected<304><><Infected><infected><DEAD><-58><setpos_exact 2246.79 2278.50 -10.29; setang 0.00 206.77 0.00><Area 50972>" with "hunting_rifle"
+L 05/09/2013 - 15:52:13: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2481.13 2024.67 54.03; setang 11.89 219.26 0.00><Area 134420>" killed "infected<280><><Infected><infected><DEAD><-20><setpos_exact 2307.28 1862.79 -11.17; setang 0.00 18.37 0.00><Area 146907>" with "shotgun_spas"
+L 05/09/2013 - 15:52:13: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2481.13 2024.67 54.03; setang 9.74 224.94 0.00><Area 134420>" killed "infected<295><><Infected><infected><DEAD><-17><setpos_exact 2278.56 1790.01 -8.98; setang 0.00 199.41 0.00><Area 51012>" with "shotgun_spas"
+L 05/09/2013 - 15:52:13: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 2412.46 1950.03 52.75; setang 16.90 166.84 0.00><Area 365467>" killed "infected<120><><Infected><infected><DEAD><0><setpos_exact 2376.17 1965.40 -9.25; setang -0.00 -18.63 0.00><Area 365467>" with "melee"
+L 05/09/2013 - 15:52:13: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2481.13 2024.67 54.03; setang 6.55 213.27 0.00><Area 134420>" killed "infected<215><><Infected><infected><DEAD><-19><setpos_exact 2295.48 1898.76 -10.74; setang 0.00 36.86 0.00><Area 146906>" with "shotgun_spas"
+L 05/09/2013 - 15:52:13: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2481.13 2024.67 54.03; setang 6.55 213.27 0.00><Area 134420>" killed "infected<325><><Infected><infected><DEAD><-19><setpos_exact 2261.90 1879.70 -11.30; setang 0.00 66.08 0.00><Area 50995>" with "shotgun_spas"
+L 05/09/2013 - 15:52:14: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2481.13 2024.67 54.03; setang 1.05 209.49 0.00><Area 134420>" killed "infected<190><><Infected><infected><DEAD><-20><setpos_exact 2286.97 1907.17 14.48; setang 0.00 90.00 0.00><Area 146906>" with "shotgun_spas" (headshot)
+L 05/09/2013 - 15:52:14: "Boomer<106><BOT><>" connected, address "none"
+L 05/09/2013 - 15:52:14: OnEndChangelevel (106): 1 saved players:
+L 05/09/2013 - 15:52:14: 	GameOverDude(61), state 2
+L 05/09/2013 - 15:52:14: "Boomer<106><BOT><>" entered the game
+L 05/09/2013 - 15:52:14: "Boomer<106><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:52:14: Boomer spawned as a BOOMER
+L 05/09/2013 - 15:52:14: "Boomer<106><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact 2487.50 3237.50 45.04; setang 0.00 0.00 0.00><Area 171014>" spawned
+L 05/09/2013 - 15:52:14: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2481.13 2024.67 54.03; setang 5.42 219.57 0.00><Area 134420>" killed "infected<301><><Infected><infected><DEAD><-18><setpos_exact 2263.71 1848.81 -12.19; setang 0.00 370.23 0.00><Area 50996>" with "shotgun_spas"
+L 05/09/2013 - 15:52:18: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 2288.23 1832.67 50.34; setang 26.86 -70.53 0.00><Area 51014>" killed "infected<300><><Infected><infected><DEAD><0><setpos_exact 2309.65 1769.27 -8.78; setang 0.00 251.08 0.00><Area 51037>" with "melee"
+L 05/09/2013 - 15:52:18: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 2288.23 1832.67 50.34; setang 26.86 -70.53 0.00><Area 51014>" killed "infected<294><><Infected><infected><DEAD><-1><setpos_exact 2333.38 1807.92 -11.71; setang 0.00 151.18 0.00><Area 51048>" with "melee"
+L 05/09/2013 - 15:52:18: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 2288.23 1832.67 50.34; setang 26.86 -70.53 0.00><Area 51014>" killed "infected<299><><Infected><infected><DEAD><-1><setpos_exact 2337.18 1760.48 -9.35; setang 0.00 328.01 0.00><Area 51046>" with "melee"
+L 05/09/2013 - 15:52:19: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2269.24 1928.73 51.24; setang 7.08 261.65 0.00><Area 47990>" killed "infected<297><><Infected><infected><DEAD><-18><setpos_exact 2238.71 1645.40 -39.88; setang 0.00 281.88 0.00><Area 50961>" with "shotgun_spas"
+L 05/09/2013 - 15:52:21: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 2415.14 1733.66 54.03; setang 49.04 -116.47 0.00><Area 365465>" killed "infected<216><><Infected><infected><DEAD><0><setpos_exact 2402.02 1704.63 -23.97; setang -0.00 78.32 0.00><Area 365463>" with "melee"
+L 05/09/2013 - 15:52:22: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><81+0><setpos_exact 2244.42 1817.93 52.72; setang 10.09 296.17 0.00><Area 50965>" killed "infected<160><><Infected><infected><DEAD><-36><setpos_exact 2357.55 1587.79 -32.28; setang 0.00 247.39 0.00><Area 52430>" with "rifle_desert"
+L 05/09/2013 - 15:52:22: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2293.02 1840.93 50.48; setang 12.32 300.20 0.00><Area 51014>" killed "infected<123><><Infected><infected><DEAD><-19><setpos_exact 2427.24 1615.06 -39.97; setang 0.00 116.13 0.00><Area 365444>" with "shotgun_spas"
+L 05/09/2013 - 15:52:23: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><81+0><setpos_exact 2244.42 1817.93 52.72; setang 4.68 276.01 0.00><Area 50965>" killed "infected<324><><Infected><infected><DEAD><-36><setpos_exact 2266.55 1565.94 -7.97; setang 0.00 505.07 0.00><Area 51004>" with "rifle_desert"
+L 05/09/2013 - 15:52:24: 86.73: (MOB) SpawnMob requested of size 30.
+L 05/09/2013 - 15:52:24: 86.73: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:52:24: 86.87: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:52:24: 86.87: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:52:24: 86.87: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:52:24: 87.07: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 15:52:24: 87.07: (MOB) Mob zombie spawned, 25 remain.
+L 05/09/2013 - 15:52:24: 87.07: (MOB) Mob zombie spawned, 24 remain.
+L 05/09/2013 - 15:52:24: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2293.02 1840.93 50.48; setang 8.79 105.89 0.00><Area 51014>" killed "infected<303><><Infected><infected><DEAD><0><setpos_exact 2251.96 1976.75 -10.58; setang 0.00 271.82 0.00><Area 47727>" with "shotgun_spas"
+L 05/09/2013 - 15:52:24: 87.27: (MOB) Mob zombie spawned, 23 remain.
+L 05/09/2013 - 15:52:24: 87.27: (MOB) Mob zombie spawned, 22 remain.
+L 05/09/2013 - 15:52:24: 87.43: (MOB) Mob zombie spawned, 21 remain.
+L 05/09/2013 - 15:52:25: 87.80: (MOB) Mob zombie spawned, 20 remain.
+L 05/09/2013 - 15:52:25: 87.80: (MOB) Mob zombie spawned, 19 remain.
+L 05/09/2013 - 15:52:25: 87.80: (MOB) Mob zombie spawned, 18 remain.
+L 05/09/2013 - 15:52:25: 88.10: (MOB) Mob zombie spawned, 17 remain.
+L 05/09/2013 - 15:52:25: 88.10: (MOB) Mob zombie spawned, 16 remain.
+L 05/09/2013 - 15:52:25: 88.10: (MOB) Mob zombie spawned, 15 remain.
+L 05/09/2013 - 15:52:25: 88.10: (MOB) Mob zombie spawned, 14 remain.
+L 05/09/2013 - 15:52:25: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><81+0><setpos_exact 2276.12 1759.21 54.03; setang 14.27 322.33 0.00><Area 51011>" killed "infected<124><><Infected><infected><DEAD><-16><setpos_exact 2434.53 1631.35 -39.97; setang -0.00 67.27 0.00><Area 365444>" with "rifle_desert"
+L 05/09/2013 - 15:52:25: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 2527.97 1654.76 22.03; setang 17.49 -27.43 0.00><Area 52375>" killed "infected<213><><Infected><infected><DEAD><0><setpos_exact 2563.70 1634.82 -39.97; setang 0.00 482.06 0.00><Area 52375>" with "melee"
+L 05/09/2013 - 15:52:26: 89.00: (MOB) Mob zombie spawned, 13 remain.
+L 05/09/2013 - 15:52:26: 89.00: (MOB) Mob zombie spawned, 12 remain.
+L 05/09/2013 - 15:52:26: 89.00: (MOB) Mob zombie spawned, 11 remain.
+L 05/09/2013 - 15:52:26: 89.00: (MOB) Mob zombie spawned, 10 remain.
+L 05/09/2013 - 15:52:26: "Smoker<107><BOT><>" connected, address "none"
+L 05/09/2013 - 15:52:26: OnEndChangelevel (107): 1 saved players:
+L 05/09/2013 - 15:52:26: 	GameOverDude(61), state 2
+L 05/09/2013 - 15:52:26: "Smoker<107><BOT><>" entered the game
+L 05/09/2013 - 15:52:26: "Smoker<107><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:52:26: Smoker spawned as a SMOKER
+L 05/09/2013 - 15:52:26: "Smoker<107><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 3462.50 2025.00 158.03; setang 0.00 0.00 0.00><Area 52888>" spawned
+L 05/09/2013 - 15:52:26: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2380.53 1697.78 38.03; setang 1.13 86.67 0.00><Area 365459>" killed "infected<300><><Infected><infected><DEAD><-15><setpos_exact 2395.92 2061.43 -8.20; setang 0.00 206.97 0.00><Area 365467>" with "shotgun_spas"
+L 05/09/2013 - 15:52:26: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 2717.95 1590.65 31.39; setang 20.92 -68.15 0.00><Area 268698>" killed "infected<299><><Infected><infected><DEAD><0><setpos_exact 2712.85 1561.54 -3.29; setang 0.00 103.18 0.00><Area 382454>" with "melee"
+L 05/09/2013 - 15:52:27: 89.63: (MOB) Mob zombie spawned, 9 remain.
+L 05/09/2013 - 15:52:27: 89.63: (MOB) Mob zombie spawned, 8 remain.
+L 05/09/2013 - 15:52:27: 89.63: (MOB) Mob zombie spawned, 7 remain.
+L 05/09/2013 - 15:52:27: 89.63: (MOB) Mob zombie spawned, 6 remain.
+L 05/09/2013 - 15:52:27: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><81+0><setpos_exact 2416.05 1659.85 22.03; setang 357.25 36.42 0.00><Area 365444>" killed "infected<326><><Infected><infected><DEAD><-37><setpos_exact 2533.56 1745.48 -7.97; setang 0.00 221.38 0.00><Area 53083>" with "rifle_desert"
+L 05/09/2013 - 15:52:27: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2402.08 1608.59 22.03; setang 358.64 114.91 0.00><Area 365444>" killed "infected<336><><Infected><infected><DEAD><-16><setpos_exact 2265.25 1921.32 -11.04; setang 0.00 221.48 0.00><Area 47990>" with "shotgun_spas"
+L 05/09/2013 - 15:52:28: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><81+0><setpos_exact 2490.50 1632.93 22.03; setang 344.31 89.42 0.00><Area 365444>" killed "infected<201><><Infected><infected><DEAD><-27><setpos_exact 2495.68 1695.98 -7.97; setang 0.00 257.96 0.00><Area 53091>" with "rifle_desert"
+L 05/09/2013 - 15:52:28: 91.57: (MOB) Mob zombie spawned, 5 remain.
+L 05/09/2013 - 15:52:28: 91.57: (MOB) Mob zombie spawned, 4 remain.
+L 05/09/2013 - 15:52:28: 91.57: (MOB) Mob zombie spawned, 3 remain.
+L 05/09/2013 - 15:52:28: 91.57: (MOB) Mob zombie spawned, 2 remain.
+L 05/09/2013 - 15:52:29: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2416.08 1544.40 54.03; setang 4.74 113.06 0.00><Area 365442>" killed "infected<342><><Infected><infected><DEAD><-14><setpos_exact 2291.23 1860.69 -11.33; setang 0.00 269.45 0.00><Area 146906>" with "shotgun_spas"
+L 05/09/2013 - 15:52:29: 92.60: (MOB) Mob zombie spawned, 1 remain.
+L 05/09/2013 - 15:52:29: 92.60: (MOB) Mob zombie spawned, 0 remain.
+L 05/09/2013 - 15:52:29: 92.60: (MOB) Pending mob done.
+L 05/09/2013 - 15:52:31: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2411.33 1624.43 22.03; setang 6.26 153.49 0.00><Area 365444>" killed "infected<280><><Infected><infected><DEAD><-1><setpos_exact 2295.79 1686.93 -14.90; setang -0.00 285.24 0.00><Area 365446>" with "shotgun_spas"
+L 05/09/2013 - 15:52:32: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2411.33 1624.43 22.03; setang 349.25 148.86 0.00><Area 365444>" killed "infected<301><><Infected><infected><DEAD><0><setpos_exact 2293.16 1693.74 -10.03; setang 0.00 387.43 0.00><Area 365446>" with "shotgun_spas" (headshot)
+L 05/09/2013 - 15:52:32: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<107><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2416.85 2056.51 54.03; setang 5.75 270.48 0.00><Area 365467>". Victim:"Coach<105><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2411.33 1624.43 22.03; setang 351.98 147.12 0.00><Area 365444>".
+L 05/09/2013 - 15:52:32: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><92+0><setpos_exact 2523.98 1610.25 22.03; setang 355.05 136.60 0.00><Area 52375>" killed "infected<325><><Infected><infected><DEAD><-40><setpos_exact 2326.62 1799.29 -11.87; setang 0.00 153.99 0.00><Area 51035>" with "hunting_rifle" (headshot)
+L 05/09/2013 - 15:52:32: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><81+0><setpos_exact 2490.09 1640.83 22.03; setang 9.31 136.96 -6.34><Area 365444>" killed "infected<293><><Infected><infected><DEAD><-37><setpos_exact 2418.28 1698.36 -7.89; setang -0.00 339.01 0.00><Area 365463>" with "rifle_desert"
+L 05/09/2013 - 15:52:32: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2402.08 1616.86 22.03; setang 360.18 145.32 0.00><Area 365444>" killed "infected<337><><Infected><infected><DEAD><-25><setpos_exact 2274.96 1719.93 -23.97; setang 0.00 301.09 0.00><Area 51000>" with "shotgun_spas"
+L 05/09/2013 - 15:52:32: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><92+0><setpos_exact 2523.98 1610.25 22.03; setang 360.33 145.06 0.00><Area 52375>" killed "infected<284><><Infected><infected><DEAD><-40><setpos_exact 2262.58 1794.39 -8.40; setang 0.00 238.56 0.00><Area 51013>" with "hunting_rifle"
+L 05/09/2013 - 15:52:32: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><81+0><setpos_exact 2490.09 1640.83 22.03; setang 7.52 136.79 -4.05><Area 365444>" killed "infected<216><><Infected><infected><DEAD><-36><setpos_exact 2267.47 1850.78 -11.61; setang 0.00 339.36 0.00><Area 50995>" with "rifle_desert"
+L 05/09/2013 - 15:52:32: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<107><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2379.96 2044.26 53.46; setang 5.77 272.93 0.00><Area 365467>". Victim:"Coach<105><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2402.08 1615.25 22.03; setang 6.56 139.96 0.00><Area 365444>".
+L 05/09/2013 - 15:52:32: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<107><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2379.96 2044.26 53.46; setang 5.77 272.93 0.00><Area 365467>". Victim:"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 2402.08 1618.66 22.03; setang 5.28 131.53 0.00><Area 365444>".
+L 05/09/2013 - 15:52:32: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2401.36 1608.21 22.03; setang 4.91 143.02 0.00><Area 365444>" killed "infected<215><><Infected><infected><DEAD><-17><setpos_exact 2248.83 1712.29 -34.70; setang 0.00 318.91 0.00><Area 47919>" with "shotgun_spas"
+L 05/09/2013 - 15:52:32: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><81+0><setpos_exact 2490.09 1640.83 22.03; setang 358.17 136.79 -0.32><Area 365444>" killed "infected<123><><Infected><infected><DEAD><-36><setpos_exact 2284.44 1836.46 -11.68; setang 0.00 197.37 0.00><Area 51014>" with "rifle_desert"
+L 05/09/2013 - 15:52:33: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<107><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2379.96 2044.26 53.46; setang 5.52 272.26 0.00><Area 365467>". Victim:"Coach<105><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2401.05 1601.00 22.03; setang 11.98 146.17 0.00><Area 365444>".
+L 05/09/2013 - 15:52:33: (TONGUE) Tongue launching towards victim.  Smoker:"Smoker<107><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2379.96 2044.26 53.46; setang 5.56 274.78 0.00><Area 365467>". Victim:"Coach<105><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2417.18 1599.71 22.33; setang 4.86 138.31 0.00><Area 52431>".
+L 05/09/2013 - 15:52:33: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2417.18 1599.71 22.33; setang 2.36 137.19 0.00><Area 52431>" killed "infected<344><><Infected><infected><DEAD><-18><setpos_exact 2313.46 1695.19 -23.97; setang 0.00 322.38 0.00><Area 51039>" with "shotgun_spas"
+L 05/09/2013 - 15:52:34: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><90+0><setpos_exact 2416.23 1599.29 22.76; setang 358.31 113.71 0.00><Area 52431>" killed "infected<340><><Infected><infected><DEAD><-17><setpos_exact 2292.12 1877.20 -11.09; setang 0.00 106.87 0.00><Area 146907>" with "shotgun_spas"
+L 05/09/2013 - 15:52:35: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><81+0><setpos_exact 2374.43 1597.91 52.16; setang 30.73 78.02 0.00><Area 52430>" killed "infected<343><><Infected><infected><DEAD><-37><setpos_exact 2401.96 1663.25 -34.77; setang 0.00 205.49 0.00><Area 365444>" with "rifle_desert" (headshot)
+L 05/09/2013 - 15:52:36: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 2137.15 1828.07 38.03; setang 19.01 137.41 0.00><Area 50862>" killed "infected<169><><Infected><infected><DEAD><0><setpos_exact 2106.79 1857.88 -31.73; setang -0.00 321.70 0.00><Area 50850>" with "melee"
+L 05/09/2013 - 15:52:37: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><92+0><setpos_exact 2156.99 1658.69 49.04; setang 4.91 33.49 0.00><Area 50902>" killed "infected<200><><Infected><infected><DEAD><-15><setpos_exact 2311.96 1742.40 -7.97; setang 0.00 334.88 0.00><Area 51038>" with "dual_pistols"
+L 05/09/2013 - 15:52:37: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><92+0><setpos_exact 2156.99 1658.69 49.04; setang 4.91 33.49 0.00><Area 50902>" killed "infected<120><><Infected><infected><DEAD><-14><setpos_exact 2334.11 1762.28 -9.35; setang 0.00 289.50 0.00><Area 51046>" with "dual_pistols"
+L 05/09/2013 - 15:52:38: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><92+0><setpos_exact 2082.44 1658.35 54.03; setang 18.24 16.89 0.00><Area 50816>" killed "infected<191><><Infected><infected><DEAD><-16><setpos_exact 2237.67 1703.48 -39.97; setang 0.00 262.70 0.00><Area 47919>" with "dual_pistols"
+L 05/09/2013 - 15:52:38: ------------------------------ Director state change BUILD_UP -> SUSTAIN_PEAK
+L 05/09/2013 - 15:52:38: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><75+0><setpos_exact 2343.68 1727.21 54.03; setang 19.42 191.12 0.00><Area 51045>" killed "infected<345><><Infected><infected><DEAD><-37><setpos_exact 2314.65 1719.31 -7.97; setang 0.00 15.23 0.00><Area 51039>" with "rifle_desert"
+L 05/09/2013 - 15:52:38: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><73+0><setpos_exact 2343.68 1727.21 54.03; setang 37.16 227.38 0.00><Area 51045>" killed "infected<217><><Infected><infected><DEAD><-24><setpos_exact 2260.59 1671.44 -39.97; setang -0.00 29.07 0.00><Area 365447>" with "rifle_desert"
+L 05/09/2013 - 15:52:40: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><71+0><setpos_exact 2343.68 1727.21 54.03; setang 29.32 339.46 0.00><Area 51045>" killed "infected<190><><Infected><infected><DEAD><-37><setpos_exact 2380.71 1696.38 -23.97; setang 0.00 140.22 0.00><Area 365459>" with "rifle_desert"
+L 05/09/2013 - 15:52:40: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><89+0><setpos_exact 2227.72 1674.45 22.03; setang 353.17 24.68 0.00><Area 47919>" killed "infected<335><><Infected><infected><DEAD><-23><setpos_exact 2396.50 1751.83 -10.27; setang -0.00 203.89 0.00><Area 53080>" with "shotgun_spas"
+L 05/09/2013 - 15:52:40: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><92+0><setpos_exact 2080.38 1663.39 54.03; setang 9.18 21.22 0.00><Area 50816>" killed "infected<338><><Infected><infected><DEAD><-29><setpos_exact 2298.82 1748.27 -7.97; setang -0.00 334.88 0.00><Area 51037>" with "dual_pistols"
+L 05/09/2013 - 15:52:41: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><89+0><setpos_exact 2227.72 1674.45 22.03; setang 354.52 42.54 0.00><Area 47919>" killed "infected<295><><Infected><infected><DEAD><-2><setpos_exact 2323.69 1764.72 -8.81; setang 0.00 300.67 0.00><Area 51037>" with "shotgun_spas"
+L 05/09/2013 - 15:52:41: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><89+0><setpos_exact 2227.72 1674.45 22.03; setang 354.52 42.54 0.00><Area 47919>" killed "infected<283><><Infected><infected><DEAD><-22><setpos_exact 2366.10 1816.84 -11.31; setang -0.00 315.90 0.00><Area 51071>" with "shotgun_spas"
+L 05/09/2013 - 15:52:41: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><89+0><setpos_exact 2227.72 1674.45 22.03; setang 354.52 42.54 0.00><Area 47919>" killed "infected<213><><Infected><infected><DEAD><-22><setpos_exact 2418.97 1864.18 -10.49; setang -0.00 224.59 0.00><Area 146907>" with "shotgun_spas"
+L 05/09/2013 - 15:52:41: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><89+0><setpos_exact 2228.99 1694.24 22.03; setang 350.19 39.61 0.00><Area 47919>" killed "infected<347><><Infected><infected><DEAD><-28><setpos_exact 2310.79 1758.43 -7.97; setang -0.00 314.69 0.00><Area 51037>" with "shotgun_spas"
+L 05/09/2013 - 15:52:41: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><89+0><setpos_exact 2228.99 1694.24 22.03; setang 350.19 39.61 0.00><Area 47919>" killed "infected<296><><Infected><infected><DEAD><0><setpos_exact 2327.82 1804.77 -11.71; setang -0.00 321.72 0.00><Area 51036>" with "shotgun_spas"
+L 05/09/2013 - 15:52:41: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 1972.90 1818.17 54.03; setang 23.10 -26.27 0.00><Area 50764>" killed "infected<339><><Infected><infected><DEAD><0><setpos_exact 1985.82 1791.55 -7.97; setang 0.00 131.27 0.00><Area 50765>" with "melee"
+L 05/09/2013 - 15:52:41: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 1972.90 1818.17 54.03; setang 23.10 -26.27 0.00><Area 50764>" killed "infected<160><><Infected><infected><DEAD><0><setpos_exact 2001.93 1806.74 -3.39; setang 0.00 170.28 0.00><Area 48380>" with "melee"
+L 05/09/2013 - 15:52:43: ------------------------------ Director state change SUSTAIN_PEAK -> PEAK_FADE
+L 05/09/2013 - 15:52:49: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<107><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2660.76 2470.89 45.07; setang 0.19 200.15 0.00><Area 51226>". Victim:"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 1928.35 2172.45 54.03; setang 13.13 52.33 0.00><Area 52899>".
+L 05/09/2013 - 15:52:49: ------------------------------ Director state change PEAK_FADE -> RELAX
+L 05/09/2013 - 15:52:51: (TONGUE) Tongue launching towards victim.  Smoker:"Smoker<107><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2619.91 2454.81 40.73; setang 359.88 176.62 0.00><Area 51210>". Victim:"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 2112.84 2466.62 54.03; setang 11.88 10.95 0.00><Area 50832>".
+L 05/09/2013 - 15:52:51: (TONGUE) Tongue grab starting.  Smoker:"Smoker<107><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2619.91 2454.81 40.73; setang 359.86 169.39 0.00><Area 51210>". Victim:"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 2195.19 2514.16 54.03; setang 11.88 10.95 0.00><Area 50935>".
+L 05/09/2013 - 15:52:52: (TONGUE) Tongue took 22.156450 damage (was 100.000000/100.000000).  Smoker:"Smoker<107><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2619.91 2454.81 40.73; setang 359.84 172.04 0.00><Area 51210>". Victim:"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 2247.16 2506.90 54.03; setang 11.88 10.95 0.00><Area 50979>".
+L 05/09/2013 - 15:52:52: (TONGUE) Tongue took 21.878956 damage (was 77.843552/100.000000).  Smoker:"Smoker<107><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2619.91 2454.81 40.73; setang 359.84 172.04 0.00><Area 51210>". Victim:"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 2247.16 2506.90 54.03; setang 11.88 10.95 0.00><Area 50979>".
+L 05/09/2013 - 15:52:52: (TONGUE) Tongue took 21.797920 damage (was 55.964596/100.000000).  Smoker:"Smoker<107><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2619.91 2454.81 40.73; setang 359.84 172.04 0.00><Area 51210>". Victim:"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 2247.16 2506.90 54.03; setang 11.88 10.95 0.00><Area 50979>".
+L 05/09/2013 - 15:52:52: (TONGUE) Tongue took 22.534559 damage (was 34.166676/100.000000).  Smoker:"Smoker<107><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 2619.91 2454.81 40.73; setang 359.84 172.04 0.00><Area 51210>". Victim:"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 2247.16 2506.90 54.03; setang 11.88 10.95 0.00><Area 50979>".
+L 05/09/2013 - 15:52:52: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><89+0><setpos_exact 2146.66 2289.02 42.19; setang 0.80 35.16 0.00><Area 50878>" killed "infected<168><><Infected><infected><DEAD><-4><setpos_exact 2652.98 2623.18 -7.97; setang 0.00 225.42 0.00><Area 51222>" with "shotgun_spas"
+L 05/09/2013 - 15:52:53: (TONGUE) Tongue letting go for taking too much damage.  Smoker:"Smoker<107><BOT><Infected><SMOKER><ALIVE><175+0><setpos_exact 2619.91 2454.81 40.73; setang 359.99 90.00 0.00><Area 51210>". Victim:"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 2419.21 2484.10 22.20; setang 12.08 0.72 0.00><Area 52372>".
+L 05/09/2013 - 15:52:53: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><89+0><setpos_exact 2185.31 2409.31 22.03; setang 357.79 7.05 0.00><Area 47794>" killed "Smoker<107><BOT><Infected><SMOKER><DEAD><1+0><setpos 2619.91 2454.81 -21.27; setang 346.45 185.98 0.00><Area 51210>" with "shotgun_spas"
+L 05/09/2013 - 15:53:02: "Smoker<107><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:53:10: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><89+0><setpos_exact 2830.18 3234.56 54.04; setang 4.16 179.98 0.00><Area 50554>" killed "Boomer<106><BOT><Infected><BOOMER><DEAD><1+0><setpos 2186.49 3232.32 -13.51; setang 348.62 0.20 0.00><Area 92326>" with "autoshotgun"
+L 05/09/2013 - 15:53:18: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><89+0><setpos_exact 2223.77 3132.04 54.02; setang 4.89 223.65 0.00><Area 197306>" killed "infected<217><><Infected><infected><DEAD><-18><setpos_exact 2042.21 2968.79 -7.98; setang 0.00 345.47 0.00><Area 197314>" with "shotgun_spas"
+L 05/09/2013 - 15:53:19: "Boomer<106><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:53:24: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><89+0><setpos_exact 1992.14 2905.35 54.02; setang 14.00 39.97 0.00><Area 197314>" killed "infected<168><><Infected><infected><DEAD><-40><setpos_exact 2063.08 2972.84 -7.98; setang 0.00 201.60 0.00><Area 197302>" with "shotgun_spas"
+L 05/09/2013 - 15:53:29: ------------------------------ Director state change RELAX -> BUILD_UP
+L 05/09/2013 - 15:53:29: "Spitter<108><BOT><>" connected, address "none"
+L 05/09/2013 - 15:53:29: OnEndChangelevel (108): 1 saved players:
+L 05/09/2013 - 15:53:29: 	GameOverDude(61), state 2
+L 05/09/2013 - 15:53:29: "Spitter<108><BOT><>" entered the game
+L 05/09/2013 - 15:53:29: "Spitter<108><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:53:29: Spitter spawned as a SPITTER
+L 05/09/2013 - 15:53:29: "Spitter<108><BOT><Infected><SPITTER><ALIVE><100+0><setpos_exact 1162.50 3662.50 54.03; setang 0.00 0.00 0.00><Area 51350>" spawned
+L 05/09/2013 - 15:53:37: Spitter projectile spawned at 2156.567139 3346.592529 53.511272, velocity 80.550476 -885.082581 -141.916763
+L 05/09/2013 - 15:53:38: "Hunter<109><BOT><>" connected, address "none"
+L 05/09/2013 - 15:53:38: OnEndChangelevel (109): 1 saved players:
+L 05/09/2013 - 15:53:38: 	GameOverDude(61), state 2
+L 05/09/2013 - 15:53:38: "Hunter<109><BOT><>" entered the game
+L 05/09/2013 - 15:53:38: "Hunter<109><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:53:38: Hunter spawned as a HUNTER
+L 05/09/2013 - 15:53:38: "Hunter<109><BOT><Infected><HUNTER><ALIVE><250+0><setpos_exact 1362.50 3712.50 54.03; setang 0.00 0.00 0.00><Area 50119>" spawned
+L 05/09/2013 - 15:53:38: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><85+0><setpos_exact 2187.05 3080.88 54.02; setang 7.52 90.64 0.00><Area 197306>" killed "Spitter<108><BOT><Infected><SPITTER><DEAD><1+0><setpos 2154.39 3370.49 -7.97; setang 336.95 276.43 0.00><Area 92319>" with "autoshotgun"
+L 05/09/2013 - 15:53:41: Hunter starting a lunge, 50 damage interrupts
+L 05/09/2013 - 15:53:42: Hunter ending a lunge
+L 05/09/2013 - 15:53:47: "Spitter<108><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:53:48: Hunter starting a lunge, 50 damage interrupts
+L 05/09/2013 - 15:53:48: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><81+0><setpos_exact 1601.97 3256.77 54.03; setang 2.31 124.04 0.00><Area 51316>" killed "Hunter<109><BOT><Infected><HUNTER><DEAD><1+0><setpos 1394.39 3556.96 14.25; setang 347.07 304.66 0.00><Area 50107>" with "autoshotgun"
+L 05/09/2013 - 15:53:55: "Smoker<110><BOT><>" connected, address "none"
+L 05/09/2013 - 15:53:55: OnEndChangelevel (110): 1 saved players:
+L 05/09/2013 - 15:53:55: 	GameOverDude(61), state 2
+L 05/09/2013 - 15:53:55: "Smoker<110><BOT><>" entered the game
+L 05/09/2013 - 15:53:55: "Smoker<110><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:53:55: Smoker spawned as a SMOKER
+L 05/09/2013 - 15:53:55: "Smoker<110><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -175.00 4450.00 186.03; setang 0.00 0.00 0.00><Area 92297>" spawned
+L 05/09/2013 - 15:53:57: "Hunter<109><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:54:04: (INCAP) "Ellis<104><BOT><Survivor><Mechanic><INCAP><83+0><setpos_exact 1117.06 3999.45 50.67; setang 42.81 318.35 0.00><Area 171043>" is incapacitated
+L 05/09/2013 - 15:54:04: (INCAP)"Ellis<104><BOT><Survivor><Mechanic><INCAP><300+0><setpos_exact 1117.06 3999.45 50.67; setang 42.81 318.35 0.00><Area 171043>" was incapped by "witch<120><><Infected><witch><ALIVE><200><setpos_exact 1185.70 3938.79 -39.97; setang 0.00 172.02 0.00><Area 365372>" with ""
+L 05/09/2013 - 15:54:04: ------------------------------ Director state change BUILD_UP -> SUSTAIN_PEAK
+L 05/09/2013 - 15:54:04: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><62+0><setpos_exact 1482.61 4161.05 62.03; setang 13.07 212.56 0.00><Area 47623>" killed "infected<164><><Infected><infected><DEAD><-37><setpos_exact 1370.03 4084.03 0.03; setang 0.00 387.02 0.00><Area 48316>" with "rifle_desert"
+L 05/09/2013 - 15:54:05: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><74+0><setpos_exact 1341.16 3503.83 25.28; setang 5.49 111.40 0.00><Area 48321>" killed "witch<120><><Infected><witch><DEAD><-17><setpos_exact 1164.38 3958.05 -39.97; setang 0.00 138.82 0.00><Area 365372>" with "shotgun_spas"
+L 05/09/2013 - 15:54:05: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><74+0><setpos_exact 1327.85 3523.97 26.73; setang 1.53 111.26 0.00><Area 48321>" killed "infected<215><><Infected><infected><DEAD><-7><setpos_exact 1130.00 4032.57 -24.32; setang 0.00 269.07 0.00><Area 171048>" with "shotgun_spas"
+L 05/09/2013 - 15:54:06: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><62+0><setpos_exact 1542.27 4252.54 62.03; setang 8.95 181.49 0.00><Area 47623>" killed "infected<295><><Infected><infected><DEAD><-37><setpos_exact 1383.53 4259.51 0.03; setang 0.00 354.61 0.00><Area 50027>" with "rifle_desert"
+L 05/09/2013 - 15:54:07: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><81+0><setpos_exact 1536.06 4366.60 62.03; setang 6.73 86.95 0.00><Area 47606>" killed "infected<169><><Infected><infected><DEAD><-9><setpos_exact 1550.18 4585.60 0.03; setang 0.00 268.04 0.00><Area 47606>" with "autoshotgun"
+L 05/09/2013 - 15:54:07: ------------------------------ Director state change SUSTAIN_PEAK -> PEAK_FADE
+L 05/09/2013 - 15:54:07: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><74+0><setpos_exact 1159.88 3874.40 22.03; setang 359.25 84.60 0.00><Area 52278>" killed "infected<328><><Infected><infected><DEAD><-14><setpos_exact 1236.30 4266.44 -21.13; setang 0.00 299.16 0.00><Area 53637>" with "shotgun_spas" (headshot)
+L 05/09/2013 - 15:54:08: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><81+0><setpos_exact 1536.50 4388.49 62.03; setang 5.02 112.29 0.00><Area 47606>" killed "infected<191><><Infected><infected><DEAD><-6><setpos_exact 1414.88 4655.24 0.03; setang 0.00 251.77 0.00><Area 47891>" with "autoshotgun"
+L 05/09/2013 - 15:54:08: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><81+0><setpos_exact 1536.50 4388.49 62.03; setang 5.02 112.29 0.00><Area 47606>" killed "infected<283><><Infected><infected><DEAD><-6><setpos_exact 1429.15 4631.69 0.03; setang 0.00 215.73 0.00><Area 48293>" with "autoshotgun"
+L 05/09/2013 - 15:54:08: (INCAP) "Coach<105><BOT><Survivor><Coach><ALIVE><74+0><setpos_exact 1142.30 3895.95 31.75; setang 4.07 103.70 0.00><Area 52412>" starts reviving "Ellis<104><BOT><Survivor><Mechanic><INCAP><288+0><setpos_exact 1117.06 3999.45 12.67; setang 352.09 79.97 -20.00><Ar
+L 05/09/2013 - 15:54:08: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><81+0><setpos_exact 1524.75 4317.22 62.03; setang 3.70 63.05 0.00><Area 50046>" killed "infected<168><><Infected><infected><DEAD><-3><setpos_exact 1698.97 4652.21 0.03; setang 0.00 237.22 0.00><Area 53671>" with "autoshotgun"
+L 05/09/2013 - 15:54:12: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><INCAP><288+0><setpos_exact 1117.06 3999.45 29.73; setang 5.66 76.87 -20.00><Area 171043>" killed "infected<201><><Infected><infected><DEAD><-5><setpos_exact 1217.15 4413.64 -41.18; setang 0.00 245.48 0.00><Area 52280>" with "dual_pistols"
+L 05/09/2013 - 15:54:12: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><81+0><setpos_exact 1681.97 4613.39 62.03; setang 20.46 77.64 0.00><Area 53671>" killed "infected<284><><Infected><infected><DEAD><-18><setpos_exact 1698.97 4684.45 0.03; setang 0.00 0.00 0.00><Area 50066>" with "autoshotgun"
+L 05/09/2013 - 15:54:14: "Ellis<104><BOT><Survivor><Mechanic><LIMPING><1+79><setpos_exact 1102.88 3996.75 54.03; setang 4.32 88.34 0.00><Area 171043>" used pills on "Ellis<104><BOT><Survivor><Mechanic><LIMPING><1+79><setpos_exact 1102.88 3996.75 54.03; setang 4.32 88.34 0.00><ArL 05/09/2013 - 15:54:15: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><74+0><setpos_exact 1146.00 4182.78 28.04; setang 2.93 91.31 0.00><Area 52414>" killed "infected<327><><Infected><infected><DEAD><-24><setpos_exact 1138.35 4591.03 -31.33; setang 0.00 195.92 0.00><Area 171066>" with "pistol"
+L 05/09/2013 - 15:54:15: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><LIMPING><1+79><setpos_exact 1241.14 4058.09 58.03; setang 1.69 95.14 0.00><Area 53631>" killed "infected<332><><Infected><infected><DEAD><-40><setpos_exact 1164.97 4900.67 -7.97; setang 0.00 -65.81 0.00><Area 49928>" with "hunting_rifle"
+L 05/09/2013 - 15:54:17: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><74+0><setpos_exact 1236.33 4406.94 40.92; setang 1.17 86.01 0.00><Area 53643>" killed "infected<190><><Infected><infected><DEAD><0><setpos_exact 1263.85 4801.58 -7.97; setang -0.00 124.16 0.00><Area 49958>" with "pistol"
+L 05/09/2013 - 15:54:20: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<110><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -14.03 4390.33 54.03; setang 3.35 7.08 0.00><Area 72477>". Victim:"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><81+0><setpos_exact 763.25 4485.32 22.03; setang -3.70 -174.25 0.00><Area 225296>".
+L 05/09/2013 - 15:54:20: ------------------------------ Director state change PEAK_FADE -> RELAX
+L 05/09/2013 - 15:54:20: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<110><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 37.31 4392.45 54.03; setang 4.64 7.18 0.00><Area 225281>". Victim:"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><81+0><setpos_exact 610.53 4466.44 22.03; setang -13.40 -168.84 0.00><Area 225285>".
+L 05/09/2013 - 15:54:21: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<110><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 37.31 4392.45 54.03; setang 4.03 6.62 0.00><Area 225281>". Victim:"Coach<105><BOT><Survivor><Coach><ALIVE><74+0><setpos_exact 814.93 4464.06 22.03; setang 357.77 180.77 0.00><Area 225296>".
+L 05/09/2013 - 15:54:21: (TONGUE) Tongue launching towards victim.  Smoker:"Smoker<110><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 37.31 4392.45 54.03; setang 3.69 6.48 0.00><Area 225281>". Victim:"Coach<105><BOT><Survivor><Coach><ALIVE><74+0><setpos_exact 786.94 4466.87 22.03; setang 357.69 184.42 0.00><Area 225296>".
+L 05/09/2013 - 15:54:22: (TONGUE) Tongue grab starting.  Smoker:"Smoker<110><BOT><Infected><SMOKER><ALIVE><222+0><setpos_exact 37.31 4392.45 54.03; setang 3.42 4.89 0.00><Area 225281>". Victim:"Coach<105><BOT><Survivor><Coach><ALIVE><74+0><setpos_exact 776.95 4456.05 22.03; setang 358.42 184.91 0.00><Area 225296>".
+L 05/09/2013 - 15:54:22: (TONGUE) Tongue letting go for taking too much damage.  Smoker:"Smoker<110><BOT><Infected><SMOKER><ALIVE><171+0><setpos_exact 37.31 4392.45 54.03; setang 3.41 4.91 0.00><Area 225281>". Victim:"Coach<105><BOT><Survivor><Coach><ALIVE><74+0><setpos_exact 771.14 4455.55 22.03; setang 357.65 184.91 0.00><Area 225296>".
+L 05/09/2013 - 15:54:22: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><62+0><setpos_exact 1115.28 4434.54 35.50; setang -0.48 182.18 0.00><Area 72977>" killed "Smoker<110><BOT><Infected><SMOKER><DEAD><1+0><setpos 37.31 4392.45 -7.97; setang 354.42 2.24 0.00><Area 225281>" with "rifle_desert"
+L 05/09/2013 - 15:54:23: Pipe bomb projectile spawned at 380.102997 4455.327148 -4.875049, velocity 0.000000 0.000000 0.000000
+L 05/09/2013 - 15:54:23: Explosion prop detonated 380,4455,-5.  Breaker:"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><81+0><setpos_exact 775.91 4518.58 28.62; setang 5.02 -169.83 0.00><Area 225296>". Attacker:"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><81+0><setpos_exact 775.91 4518.58 28.62; setang 5.02 -169.83 0.00><Area 225296>".
+L 05/09/2013 - 15:54:31: "Smoker<110><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:54:53: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><81+0><setpos_exact -217.71 4389.42 190.03; setang 5.54 -178.64 0.00><Area 92048>" killed "infected<160><><Infected><infected><DEAD><-7><setpos_exact -318.03 4379.52 128.03; setang -0.00 11.62 0.00><Area 47805>" with "autoshotgun"
+L 05/09/2013 - 15:54:58: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><79+0><setpos_exact -520.65 4493.87 190.03; setang 29.70 81.24 0.00><Area 167092>" killed "infected<164><><Infected><infected><DEAD><-61><setpos_exact -524.07 4522.90 128.03; setang -0.00 -80.91 0.00><Area 167092>" with "autoshotgun"
+L 05/09/2013 - 15:55:00: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><62+0><setpos_exact -547.64 4528.05 190.03; setang 2.75 277.38 0.00><Area 167092>" killed "infected<130><><Infected><infected><DEAD><-36><setpos_exact -517.03 4327.68 128.03; setang -0.00 79.70 0.00><Area 167090>" with "rifle_desert"
+L 05/09/2013 - 15:55:01: ------------------------------ Director state change RELAX -> BUILD_UP
+L 05/09/2013 - 15:55:01: "Charger<111><BOT><>" connected, address "none"
+L 05/09/2013 - 15:55:01: OnEndChangelevel (111): 1 saved players:
+L 05/09/2013 - 15:55:01: 	GameOverDude(61), state 2
+L 05/09/2013 - 15:55:01: "Charger<111><BOT><>" entered the game
+L 05/09/2013 - 15:55:01: "Charger<111><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:55:01: Charger spawned as a CHARGER
+L 05/09/2013 - 15:55:01: "Charger<111><BOT><Infected><CHARGER><ALIVE><600+0><setpos_exact 12.50 3812.50 270.03; setang 0.00 0.00 0.00><Area 76060>" spawned
+L 05/09/2013 - 15:55:01: "Spitter<112><BOT><>" connected, address "none"
+L 05/09/2013 - 15:55:01: OnEndChangelevel (112): 1 saved players:
+L 05/09/2013 - 15:55:01: 	GameOverDude(61), state 2
+L 05/09/2013 - 15:55:01: "Spitter<112><BOT><>" entered the game
+L 05/09/2013 - 15:55:01: "Spitter<112><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:55:01: Spitter spawned as a SPITTER
+L 05/09/2013 - 15:55:01: "Spitter<112><BOT><Infected><SPITTER><ALIVE><100+0><setpos_exact -87.50 3912.50 30.54; setang 0.00 0.00 0.00><Area 407608>" spawned
+L 05/09/2013 - 15:55:05: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><79+0><setpos_exact -331.81 4199.15 190.03; setang -16.43 1.45 0.00><Area 76031>" killed "infected<131><><Infected><infected><DEAD><-9><setpos_exact -137.09 4177.41 208.03; setang 0.00 145.34 0.00><Area 167114>" with "autoshotgun"
+L 05/09/2013 - 15:55:08: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><79+0><setpos_exact -119.37 4136.06 270.03; setang 13.66 -79.87 0.00><Area 167093>" killed "Charger<111><BOT><Infected><CHARGER><DEAD><1+0><setpos -89.78 3999.98 208.03; setang 318.32 102.27 0.00><Area 167102>" with "autoshotgun"
+L 05/09/2013 - 15:55:08: "Smoker<113><BOT><>" connected, address "none"
+L 05/09/2013 - 15:55:08: OnEndChangelevel (113): 1 saved players:
+L 05/09/2013 - 15:55:08: 	GameOverDude(61), state 2
+L 05/09/2013 - 15:55:08: "Smoker<113><BOT><>" entered the game
+L 05/09/2013 - 15:55:08: "Smoker<113><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:55:08: Smoker spawned as a SMOKER
+L 05/09/2013 - 15:55:08: "Smoker<113><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact 662.50 2937.50 54.03; setang 0.00 0.00 0.00><Area 51956>" spawned
+L 05/09/2013 - 15:55:12: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><79+0><setpos_exact -109.91 3768.28 270.03; setang 6.86 7.91 0.00><Area 76042>" killed "infected<200><><Infected><infected><DEAD><-2><setpos_exact 266.33 3829.19 208.03; setang 0.00 466.59 0.00><Area 388249>" with "autoshotgun"
+L 05/09/2013 - 15:55:12: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><79+0><setpos_exact -109.91 3768.28 270.03; setang 6.86 7.91 0.00><Area 76042>" killed "infected<190><><Infected><infected><DEAD><-1><setpos_exact 293.14 3837.26 208.03; setang 0.00 -181.63 0.00><Area 388250>" with "autoshotgun"
+L 05/09/2013 - 15:55:12: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><79+0><setpos_exact -109.91 3768.28 270.03; setang 6.86 7.91 0.00><Area 76042>" killed "infected<169><><Infected><infected><DEAD><0><setpos_exact 322.72 3815.94 208.06; setang 0.00 539.05 0.00><Area 76096>" with "autoshotgun"
+L 05/09/2013 - 15:55:14: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><79+0><setpos_exact -35.38 3776.88 270.03; setang 6.07 27.52 0.00><Area 76042>" killed "infected<168><><Infected><infected><DEAD><-13><setpos_exact 130.19 3873.08 208.03; setang 0.00 482.33 0.00><Area 167118>" with "autoshotgun"
+L 05/09/2013 - 15:55:17: "Charger<111><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:55:23: 265.83: (MOB) SpawnMob requested of size 30.
+L 05/09/2013 - 15:55:23: 265.83: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:55:23: 265.87: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:55:23: 265.87: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:55:23: 265.87: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:55:23: 265.87: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 15:55:23: 266.37: (MOB) Mob zombie spawned, 25 remain.
+L 05/09/2013 - 15:55:23: 266.37: (MOB) Mob zombie spawned, 24 remain.
+L 05/09/2013 - 15:55:23: 266.37: (MOB) Mob zombie spawned, 23 remain.
+L 05/09/2013 - 15:55:23: 266.37: (MOB) Mob zombie spawned, 22 remain.
+L 05/09/2013 - 15:55:25: 268.30: (MOB) Mob zombie spawned, 21 remain.
+L 05/09/2013 - 15:55:25: 268.30: (MOB) Mob zombie spawned, 20 remain.
+L 05/09/2013 - 15:55:25: 268.30: (MOB) Mob zombie spawned, 19 remain.
+L 05/09/2013 - 15:55:25: 268.30: (MOB) Mob zombie spawned, 18 remain.
+L 05/09/2013 - 15:55:25: Pipe bomb projectile spawned at 269.611023 3723.730713 256.627197, velocity 388.664062 122.429367 -629.643799
+L 05/09/2013 - 15:55:32: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><79+0><setpos_exact 261.32 3721.12 270.06; setang 56.50 13.92 0.00><Area 76039>" killed "infected<160><><Infected><infected><DEAD><-51><setpos_exact 321.17 3744.75 50.50; setang 0.00 301.27 0.00><Area 382392>" with "pipe_bomb"
+L 05/09/2013 - 15:55:32: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><77+0><setpos_exact 261.32 3721.12 270.06; setang 56.50 13.92 0.00><Area 76039>" killed "infected<326><><Infected><infected><DEAD><-51><setpos_exact 442.92 3742.96 -7.97; setang 0.00 29.94 0.00><Area 51803>" with "pipe_bomb"
+L 05/09/2013 - 15:55:32: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><77+0><setpos_exact 261.32 3721.12 270.06; setang 56.50 13.92 0.00><Area 76039>" killed "infected<301><><Infected><infected><DEAD><-51><setpos_exact 438.47 3762.84 -7.97; setang 0.00 345.64 0.00><Area 51802>" with "pipe_bomb"
+L 05/09/2013 - 15:55:32: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><77+0><setpos_exact 261.32 3721.12 270.06; setang 56.50 13.92 0.00><Area 76039>" killed "infected<202><><Infected><infected><DEAD><-51><setpos_exact 438.54 3756.12 -7.97; setang 0.00 359.07 0.00><Area 51802>" with "pipe_bomb"
+L 05/09/2013 - 15:55:32: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><77+0><setpos_exact 261.32 3721.12 270.06; setang 56.50 13.92 0.00><Area 76039>" killed "infected<124><><Infected><infected><DEAD><-51><setpos_exact 440.53 3770.78 -7.97; setang 0.00 329.84 0.00><Area 51802>" with "pipe_bomb"
+L 05/09/2013 - 15:55:32: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><77+0><setpos_exact 261.32 3721.12 270.06; setang 56.50 13.92 0.00><Area 76039>" killed "infected<300><><Infected><infected><DEAD><-51><setpos_exact 360.51 3748.27 0.12; setang 0.00 130.73 0.00><Area 382382>" with "pipe_bomb"
+L 05/09/2013 - 15:55:32: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><77+0><setpos_exact 261.32 3721.12 270.06; setang 56.50 13.92 0.00><Area 76039>" killed "infected<217><><Infected><infected><DEAD><-51><setpos_exact 434.84 3731.74 -12.47; setang 0.00 58.46 0.00><Area 51803>" with "pipe_bomb"
+L 05/09/2013 - 15:55:32: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><77+0><setpos_exact 261.32 3721.12 270.06; setang 56.50 13.92 0.00><Area 76039>" killed "infected<325><><Infected><infected><DEAD><-51><setpos_exact 448.19 3780.46 -7.97; setang 0.00 309.37 0.00><Area 382365>" with "pipe_bomb"
+L 05/09/2013 - 15:55:32: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><77+0><setpos_exact 261.32 3721.12 270.06; setang 56.50 13.92 0.00><Area 76039>" killed "infected<328><><Infected><infected><DEAD><-51><setpos_exact 424.51 3744.69 -9.27; setang 0.00 19.72 0.00><Area 51802>" with "pipe_bomb"
+L 05/09/2013 - 15:55:32: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><77+0><setpos_exact 261.32 3721.12 270.06; setang 56.50 13.92 0.00><Area 76039>" killed "infected<213><><Infected><infected><DEAD><-51><setpos_exact 462.19 3772.37 -7.97; setang 0.00 276.36 0.00><Area 51820>" with "pipe_bomb"
+L 05/09/2013 - 15:55:32: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><77+0><setpos_exact 261.32 3721.12 270.06; setang 56.50 13.92 0.00><Area 76039>" killed "infected<203><><Infected><infected><DEAD><-51><setpos_exact 453.52 3769.36 -5.44; setang 0.00 309.22 0.00><Area 51820>" with "pipe_bomb"
+L 05/09/2013 - 15:55:32: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><77+0><setpos_exact 261.32 3721.12 270.06; setang 56.50 13.92 0.00><Area 76039>" killed "infected<327><><Infected><infected><DEAD><-51><setpos_exact 458.87 3761.60 -5.44; setang 0.00 315.31 0.00><Area 51820>" with "pipe_bomb"
+L 05/09/2013 - 15:55:32: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><77+0><setpos_exact 261.32 3721.12 270.06; setang 56.50 13.92 0.00><Area 76039>" killed "infected<163><><Infected><infected><DEAD><-51><setpos_exact 454.41 3754.87 -5.44; setang 0.00 10.18 0.00><Area 51820>" with "pipe_bomb"
+L 05/09/2013 - 15:55:32: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><77+0><setpos_exact 261.32 3721.12 270.06; setang 56.50 13.92 0.00><Area 76039>" killed "infected<304><><Infected><infected><DEAD><-51><setpos_exact 463.96 3766.45 -5.44; setang 0.00 269.93 0.00><Area 51820>" with "pipe_bomb"
+L 05/09/2013 - 15:55:32: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><77+0><setpos_exact 261.32 3721.12 270.06; setang 56.50 13.92 0.00><Area 76039>" killed "infected<191><><Infected><infected><DEAD><-51><setpos_exact 424.47 3775.43 4.54; setang 0.00 334.09 0.00><Area 76165>" with "pipe_bomb"
+L 05/09/2013 - 15:55:32: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><77+0><setpos_exact 261.32 3721.12 270.06; setang 56.50 13.92 0.00><Area 76039>" killed "infected<201><><Infected><infected><DEAD><-51><setpos_exact 452.61 3741.96 5.78; setang 0.00 43.52 0.00><Area 51820>" with "pipe_bomb"
+L 05/09/2013 - 15:55:32: 275.00: (MOB) Mob zombie spawned, 17 remain.
+L 05/09/2013 - 15:55:32: 275.00: (MOB) Mob zombie spawned, 16 remain.
+L 05/09/2013 - 15:55:32: 275.00: (MOB) Mob zombie spawned, 15 remain.
+L 05/09/2013 - 15:55:32: 275.00: (MOB) Mob zombie spawned, 14 remain.
+L 05/09/2013 - 15:55:32: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><62+0><setpos_exact 81.21 3740.39 270.03; setang 22.40 0.64 0.00><Area 76039>" killed "infected<332><><Infected><infected><DEAD><1><setpos_exact 311.47 3734.26 147.19; setang 0.00 177.62 0.00><Area 382392>" with "rifle_desert" (headshot)
+L 05/09/2013 - 15:55:34: 276.77: (MOB) Mob zombie spawned, 13 remain.
+L 05/09/2013 - 15:55:34: 276.77: (MOB) Mob zombie spawned, 12 remain.
+L 05/09/2013 - 15:55:34: 276.77: (MOB) Mob zombie spawned, 11 remain.
+L 05/09/2013 - 15:55:34: 276.77: (MOB) Mob zombie spawned, 10 remain.
+L 05/09/2013 - 15:55:34: 277.23: (MOB) Mob zombie spawned, 9 remain.
+L 05/09/2013 - 15:55:34: 277.23: (MOB) Mob zombie spawned, 8 remain.
+L 05/09/2013 - 15:55:34: 277.23: (MOB) Mob zombie spawned, 7 remain.
+L 05/09/2013 - 15:55:34: 277.23: (MOB) Mob zombie spawned, 6 remain.
+L 05/09/2013 - 15:55:34: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><80+0><setpos_exact 39.79 3696.03 270.03; setang 17.61 121.40 0.00><Area 76039>" killed "infected<200><><Infected><infected><DEAD><-16><setpos_exact -10.36 3788.27 208.03; setang 0.00 326.29 0.00><Area 167089>" with "dual_pistols"
+L 05/09/2013 - 15:55:37: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<113><BOT><Infected><SMOKER><ALIVE><248+0><setpos_exact 144.12 3740.16 54.03; setang 337.79 5.92 0.00><Area 51719>". Victim:"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><77+0><setpos_exact 321.67 3754.27 176.73; setang 65.80 16.43 0.00><Area 76041>".
+L 05/09/2013 - 15:55:37: 279.83: (MOB) Mob zombie spawned, 5 remain.
+L 05/09/2013 - 15:55:37: 279.83: (MOB) Mob zombie spawned, 4 remain.
+L 05/09/2013 - 15:55:37: 279.83: (MOB) Mob zombie spawned, 3 remain.
+L 05/09/2013 - 15:55:37: 279.83: (MOB) Mob zombie spawned, 2 remain.
+L 05/09/2013 - 15:55:37: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><62+0><setpos_exact 188.38 3745.23 270.03; setang 6.17 157.49 0.00><Area 76039>" killed "infected<293><><Infected><infected><DEAD><-36><setpos_exact -16.93 3812.27 208.03; setang 0.00 317.52 0.00><Area 167089>" with "rifle_desert"
+L 05/09/2013 - 15:55:37: Spitter projectile spawned at 349.250000 3695.682617 22.261349, velocity -464.575134 765.426758 -91.059769
+L 05/09/2013 - 15:55:37: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><62+0><setpos_exact 286.08 3755.75 270.06; setang 4.28 171.22 0.00><Area 76039>" killed "infected<342><><Infected><infected><DEAD><-24><setpos_exact -5.42 3794.23 208.03; setang 0.00 353.83 0.00><Area 76042>" with "rifle_desert"
+L 05/09/2013 - 15:55:38: (TONGUE) Tongue launching towards victim.  Smoker:"Smoker<113><BOT><Infected><SMOKER><ALIVE><248+0><setpos_exact 144.12 3740.16 54.03; setang 2.92 19.45 0.00><Area 51719>". Victim:"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><77+0><setpos_exact 371.02 3820.28 54.03; setang 9.57 -98.81 0.00><Area 382368>".
+L 05/09/2013 - 15:55:38: (TONGUE) Tongue grab starting.  Smoker:"Smoker<113><BOT><Infected><SMOKER><ALIVE><248+0><setpos_exact 144.12 3740.16 54.03; setang 2.92 19.45 0.00><Area 51719>". Victim:"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><77+0><setpos_exact 371.02 3820.28 54.03; setang 26.27 -78.35 0.00><Area 382368>".
+L 05/09/2013 - 15:55:38: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><62+0><setpos_exact 317.93 3763.41 270.03; setang 66.40 298.14 0.00><Area 76096>" killed "Spitter<112><BOT><Infected><SPITTER><DEAD><1+0><setpos 371.70 3672.73 -39.97; setang 285.82 120.66 0.00><Area 382374>" with "rifle_desert"
+L 05/09/2013 - 15:55:39: 282.37: (MOB) Mob zombie spawned, 1 remain.
+L 05/09/2013 - 15:55:39: 282.37: (MOB) Mob zombie spawned, 0 remain.
+L 05/09/2013 - 15:55:39: 282.37: (MOB) Pending mob done.
+L 05/09/2013 - 15:55:40: (TONGUE) Tongue choke starting.  Smoker:"Smoker<113><BOT><Infected><SMOKER><ALIVE><248+0><setpos_exact 144.12 3740.16 54.03; setang 0.00 292.82 0.00><Area 51719>". Victim:"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><72+0><setpos_exact 176.15 3750.83 50.69; setang 21.65 -42.38 0.00><Area 115519>".
+L 05/09/2013 - 15:55:41: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><67+0><setpos_exact 450.67 3757.30 54.03; setang 34.43 254.37 0.00><Area 51802>" killed "infected<351><><Infected><infected><DEAD><-3><setpos_exact 420.65 3679.61 -39.97; setang 0.00 217.99 0.00><Area 382375>" with "shotgun_spas"
+L 05/09/2013 - 15:55:41: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><62+0><setpos_exact 436.08 3688.01 24.41; setang 20.03 269.05 0.00><Area 48444>" killed "infected<350><><Infected><infected><DEAD><-13><setpos_exact 439.49 3618.13 -39.97; setang 0.00 99.88 0.00><Area 47941>" with "shotgun_spas"
+L 05/09/2013 - 15:55:42: ------------------------------ Director state change BUILD_UP -> SUSTAIN_PEAK
+L 05/09/2013 - 15:55:42: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><51+0><setpos_exact 287.25 3644.42 54.03; setang 29.46 89.27 0.00><Area 382371>" killed "infected<352><><Infected><infected><DEAD><-26><setpos_exact 284.31 3747.81 -39.97; setang 0.00 305.39 0.00><Area 115543>" with "rifle_desert"
+L 05/09/2013 - 15:55:45: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><37+0><setpos_exact 387.89 3537.04 54.03; setang 1.05 110.57 0.00><Area 51793>" killed "infected<257><><Infected><infected><DEAD><-25><setpos_exact 338.54 3669.58 40.77; setang 0.00 334.85 0.00><Area 382392>" with "rifle_desert"
+L 05/09/2013 - 15:55:45: (INCAP) "GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><INCAP><10+0><setpos_exact 176.15 3740.16 32.03; setang 17.16 -37.03 0.00><Area 115528>" is incapacitated
+L 05/09/2013 - 15:55:45: (INCAP)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><INCAP><300+0><setpos_exact 176.15 3740.16 32.03; setang 17.16 -37.03 0.00><Area 115528>" was incapped by "Smoker<113><BOT><Infected><SMOKER><ALIVE><248+0><setpos_exact 144.12 3740.16 54.03; setang 40.45 0.48 0.00><Area 51719>" with "smoker_claw"
+L 05/09/2013 - 15:55:46: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><37+0><setpos_exact 382.29 3537.82 54.03; setang 351.59 115.13 0.00><Area 51793>" killed "infected<130><><Infected><infected><DEAD><-37><setpos_exact 302.89 3701.22 48.20; setang 0.00 223.36 0.00><Area 382392>" with "rifle_desert"
+L 05/09/2013 - 15:55:46: ------------------------------ Director state change SUSTAIN_PEAK -> PEAK_FADE
+L 05/09/2013 - 15:55:47: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><37+0><setpos_exact 382.29 3537.82 54.03; setang 361.04 123.31 0.00><Area 51793>" killed "infected<343><><Infected><infected><DEAD><-36><setpos_exact 263.97 3736.28 -3.70; setang 0.00 196.42 0.00><Area 382391>" with "rifle_desert"
+L 05/09/2013 - 15:55:47: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><61+0><setpos_exact 403.71 3504.44 54.03; setang 350.47 112.24 0.00><Area 51797>" killed "infected<164><><Infected><infected><DEAD><-13><setpos_exact 322.39 3714.73 56.30; setang 0.00 212.58 0.00><Area 382392>" with "dual_pistols"
+L 05/09/2013 - 15:55:47: "Spitter<112><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:55:48: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><37+0><setpos_exact 382.29 3537.82 54.03; setang 12.36 115.47 0.00><Area 51793>" killed "infected<296><><Infected><infected><DEAD><-36><setpos_exact 277.70 3760.13 -39.97; setang -0.00 151.50 0.00><Area 115543>" with "rifle_desert"
+L 05/09/2013 - 15:55:48: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><37+0><setpos_exact 382.29 3537.82 54.03; setang 5.06 111.79 0.00><Area 51793>" killed "infected<335><><Infected><infected><DEAD><-24><setpos_exact 303.56 3743.38 -14.76; setang 0.00 90.86 0.00><Area 382391>" with "rifle_desert"
+L 05/09/2013 - 15:55:49: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><58+0><setpos_exact 413.06 3651.75 22.03; setang 338.20 138.35 0.00><Area 382378>" killed "infected<215><><Infected><infected><DEAD><-17><setpos_exact 330.61 3722.53 56.30; setang 0.00 255.88 0.00><Area 382392>" with "shotgun_spas"
+L 05/09/2013 - 15:55:49: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><61+0><setpos_exact 403.57 3641.69 22.03; setang 357.56 161.18 0.00><Area 382378>" killed "infected<279><><Infected><infected><DEAD><-25><setpos_exact 199.61 3699.49 -7.97; setang 0.00 120.02 0.00><Area 115535>" with "dual_pistols"
+L 05/09/2013 - 15:55:49: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><61+0><setpos_exact 396.11 3683.49 22.03; setang 359.62 165.67 0.00><Area 382369>" killed "infected<195><><Infected><infected><DEAD><-14><setpos_exact 209.26 3726.11 -17.26; setang 0.00 157.07 0.00><Area 115534>" with "dual_pistols"
+L 05/09/2013 - 15:55:50: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><58+0><setpos_exact 194.95 3698.05 54.03; setang 28.77 78.06 0.00><Area 115526>" killed "infected<168><><Infected><infected><DEAD><-33><setpos_exact 205.15 3754.22 -36.23; setang 0.00 205.87 0.00><Area 396566>" with "shotgun_spas" (headshot)
+L 05/09/2013 - 15:55:50: (TONGUE) Tongue letting go for taking too much damage.  Smoker:"Smoker<113><BOT><Infected><SMOKER><ALIVE><193+0><setpos_exact 144.12 3740.16 54.03; setang 40.45 0.48 0.00><Area 51719>". Victim:"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><INCAP><90+0><setpos_exact 176.15 3740.16 32.03; setang 9.24 -38.04 0.00><Area 115528>".
+L 05/09/2013 - 15:55:50: (TONGUE) Tongue choke ending.  Smoker:"Smoker<113><BOT><Infected><SMOKER><ALIVE><193+0><setpos_exact 144.12 3740.16 54.03; setang 40.45 0.48 0.00><Area 51719>". Victim:"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><INCAP><90+0><setpos_exact 176.15 3740.16 32.03; setang 9.24 -38.04 0.00><Area 115528>".
+L 05/09/2013 - 15:55:50: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><61+0><setpos_exact 251.91 3666.41 54.03; setang 0.69 145.75 0.00><Area 382371>" killed "Smoker<113><BOT><Infected><SMOKER><DEAD><1+0><setpos 144.12 3740.16 -7.97; setang 316.49 325.62 0.00><Area 51719>" with "dual_pistols"
+L 05/09/2013 - 15:55:51: (INCAP) "Ellis<104><BOT><Survivor><Mechanic><ALIVE><61+0><setpos_exact 222.66 3697.16 54.03; setang 1.05 151.29 0.00><Area 115536>" starts reviving "GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><INCAP><90+0><setpos_exact 176.15 3740.16 12.42; setang 8
+L 05/09/2013 - 15:55:52: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><37+0><setpos_exact 326.29 3665.59 43.42; setang 21.28 141.16 0.00><Area 382372>" killed "infected<216><><Infected><infected><DEAD><-37><setpos_exact 251.69 3725.65 -34.69; setang 0.00 224.46 0.00><Area 115521>" with "rifle_desert"
+L 05/09/2013 - 15:55:53: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><58+0><setpos_exact 171.97 3698.05 54.03; setang 4.14 110.04 0.00><Area 115526>" killed "infected<169><><Infected><infected><DEAD><-21><setpos_exact 98.39 3918.90 -15.82; setang -0.00 288.75 0.00><Area 51711>" with "shotgun_spas"
+L 05/09/2013 - 15:55:53: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><37+0><setpos_exact 326.29 3665.59 43.42; setang 357.84 95.87 0.00><Area 382372>" killed "infected<124><><Infected><infected><DEAD><-37><setpos_exact 314.40 3758.77 -1.66; setang 0.00 97.40 0.00><Area 382386>" with "rifle_desert" (headshot)
+L 05/09/2013 - 15:55:54: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><37+0><setpos_exact 326.29 3665.59 43.42; setang 357.78 95.88 0.00><Area 382372>" killed "infected<160><><Infected><infected><DEAD><7><setpos_exact 302.49 3863.90 -7.97; setang -0.00 141.04 0.00><Area 51757>" with "rifle_desert" (headshot)
+L 05/09/2013 - 15:55:54: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><37+0><setpos_exact 326.29 3665.59 43.42; setang 304.78 94.61 0.00><Area 382372>" killed "infected<355><><Infected><infected><DEAD><-37><setpos_exact 321.57 3707.16 56.30; setang -0.00 315.27 0.00><Area 382392>" with "rifle_desert"
+L 05/09/2013 - 15:55:54: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><37+0><setpos_exact 352.96 3661.11 36.66; setang 299.33 116.84 0.00><Area 382372>" killed "infected<131><><Infected><infected><DEAD><-36><setpos_exact 288.75 3762.86 208.06; setang 0.00 293.42 0.00><Area 76039>" with "rifle_desert"
+L 05/09/2013 - 15:55:55: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><58+0><setpos_exact 171.97 3698.05 54.03; setang 28.59 24.96 0.00><Area 115526>" killed "infected<294><><Infected><infected><DEAD><-1><setpos_exact 251.69 3715.10 -28.05; setang 0.00 243.22 0.00><Area 382390>" with "shotgun_spas"
+L 05/09/2013 - 15:55:55: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><58+0><setpos_exact 171.97 3698.05 54.03; setang 28.59 24.96 0.00><Area 115526>" killed "infected<353><><Infected><infected><DEAD><-31><setpos_exact 265.54 3741.61 -39.97; setang -0.00 225.88 0.00><Area 115521>" with "shotgun_spas"
+L 05/09/2013 - 15:55:56: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><58+0><setpos_exact 171.97 3698.05 54.03; setang 32.67 14.65 0.00><Area 115526>" killed "infected<280><><Infected><infected><DEAD><-38><setpos_exact 258.60 3722.49 -36.46; setang 0.00 181.51 0.00><Area 382390>" with "shotgun_spas"
+L 05/09/2013 - 15:55:57: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+0><setpos_exact 224.28 3687.02 54.03; setang 37.59 54.81 0.00><Area 115539>" killed "infected<354><><Infected><infected><DEAD><-18><setpos_exact 267.30 3749.07 -39.97; setang 0.00 455.92 0.00><Area 115521>" with "dual_pistols"
+L 05/09/2013 - 15:55:58: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><37+0><setpos_exact 383.99 3675.00 22.03; setang 335.54 145.30 0.00><Area 382369>" killed "infected<163><><Infected><infected><DEAD><-27><setpos_exact 329.22 3718.80 59.53; setang 0.00 1.96 0.00><Area 382392>" with "rifle_desert"
+L 05/09/2013 - 15:55:58: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><58+0><setpos_exact 171.12 3695.82 54.03; setang 10.34 333.84 0.00><Area 115526>" killed "infected<120><><Infected><infected><DEAD><-18><setpos_exact 313.03 3636.59 -7.97; setang 0.00 496.67 0.00><Area 115547>" with "shotgun_spas"
+L 05/09/2013 - 15:55:58: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><37+0><setpos_exact 383.67 3669.27 22.03; setang 334.58 141.27 0.00><Area 382377>" killed "infected<283><><Infected><infected><DEAD><7><setpos_exact 297.30 3734.15 38.90; setang 0.00 347.52 0.00><Area 382391>" with "rifle_desert" (headshot)
+L 05/09/2013 - 15:56:00: "Smoker<113><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:56:00: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><58+0><setpos_exact 305.28 3660.39 53.42; setang 12.22 347.58 0.00><Area 382372>" killed "infected<356><><Infected><infected><DEAD><-4><setpos_exact 470.11 3626.07 -39.97; setang 0.00 348.98 0.00><Area 47941>" with "shotgun_spas"
+L 05/09/2013 - 15:56:01: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><58+0><setpos_exact 309.29 3641.38 54.03; setang 313.13 83.08 0.00><Area 115547>" killed "infected<190><><Infected><infected><DEAD><-36><setpos_exact 317.02 3709.03 107.92; setang 0.00 637.79 0.00><Area 76039>" with "shotgun_spas"
+L 05/09/2013 - 15:56:09: ------------------------------ Director state change PEAK_FADE -> RELAX
+L 05/09/2013 - 15:56:14: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><80+0><setpos_exact 126.01 2701.11 22.03; setang 1.86 -169.65 0.00><Area 52322>" killed "infected<295><><Infected><infected><DEAD><-7><setpos_exact -129.05 2659.05 -20.12; setang 0.00 69.72 0.00><Area 49038>" with "autoshotgun"
+L 05/09/2013 - 15:56:38: "Coach<105><BOT><Survivor><Coach><ALIVE><58+42><setpos_exact -1312.03 1046.03 66.03; setang 0.97 165.12 0.00><Area 47626>" used pills on "Coach<105><BOT><Survivor><Coach><ALIVE><58+42><setpos_exact -1312.03 1046.03 66.03; setang 0.97 165.12 0.00><Area 47L 05/09/2013 - 15:56:38: "Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+41><setpos_exact -1509.38 1170.25 66.03; setang 23.19 237.67 0.00><Area 47672>" used pills on "Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+41><setpos_exact -1509.38 1170.25 66.03; setang 23.19 237.67 0.00>L 05/09/2013 - 15:56:41: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><80+0><setpos_exact -1745.78 1213.57 66.03; setang -5.93 -177.77 0.00><Area 382333>" killed "infected<294><><Infected><infected><DEAD><-5><setpos_exact -2061.43 1224.84 95.70; setang 0.00 -0.00 0.00><Area 315403>" with "autoshotgun"
+L 05/09/2013 - 15:56:45: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><87+0><setpos_exact -1737.56 1177.31 66.03; setang 2.01 169.80 0.00><Area 382333>" killed "infected<160><><Infected><infected><DEAD><-34><setpos_exact -2340.73 1285.64 7.12; setang 0.00 93.38 0.00><Area 315450>" with "rifle_desert"
+L 05/09/2013 - 15:56:46: ------------------------------ Director state change RELAX -> BUILD_UP
+L 05/09/2013 - 15:56:46: "Charger<114><BOT><>" connected, address "none"
+L 05/09/2013 - 15:56:46: OnEndChangelevel (114): 1 saved players:
+L 05/09/2013 - 15:56:46: 	GameOverDude(61), state 2
+L 05/09/2013 - 15:56:46: "Charger<114><BOT><>" entered the game
+L 05/09/2013 - 15:56:46: "Charger<114><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:56:46: Charger spawned as a CHARGER
+L 05/09/2013 - 15:56:46: "Charger<114><BOT><Infected><CHARGER><ALIVE><600+0><setpos_exact -2575.00 1762.50 238.03; setang 0.00 0.00 0.00><Area 315373>" spawned
+L 05/09/2013 - 15:56:46: "Hunter<115><BOT><>" connected, address "none"
+L 05/09/2013 - 15:56:46: OnEndChangelevel (115): 1 saved players:
+L 05/09/2013 - 15:56:46: 	GameOverDude(61), state 2
+L 05/09/2013 - 15:56:46: "Hunter<115><BOT><>" entered the game
+L 05/09/2013 - 15:56:46: "Hunter<115><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:56:46: Hunter spawned as a HUNTER
+L 05/09/2013 - 15:56:46: "Hunter<115><BOT><Infected><HUNTER><ALIVE><250+0><setpos_exact -2975.00 1952.89 62.66; setang 0.00 0.00 0.00><Area 79346>" spawned
+L 05/09/2013 - 15:56:49: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+37><setpos_exact -1893.94 1680.37 62.03; setang 358.06 238.22 0.00><Area 47635>" killed "infected<216><><Infected><infected><DEAD><-40><setpos_exact -2134.15 1316.90 26.03; setang 0.00 34.47 0.00><Area 382346>" with "hunting_rifle"
+L 05/09/2013 - 15:56:53: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><87+0><setpos_exact -1706.47 1972.16 63.66; setang 352.46 207.27 0.00><Area 47594>" killed "Charger<114><BOT><Infected><CHARGER><DEAD><1+0><setpos -2064.03 1787.19 64.63; setang 351.38 27.35 0.00><Area 411668>" with "rifle_desert"
+L 05/09/2013 - 15:56:53: "Boomer<116><BOT><>" connected, address "none"
+L 05/09/2013 - 15:56:53: OnEndChangelevel (116): 1 saved players:
+L 05/09/2013 - 15:56:53: 	GameOverDude(61), state 2
+L 05/09/2013 - 15:56:53: "Boomer<116><BOT><>" entered the game
+L 05/09/2013 - 15:56:53: "Boomer<116><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:56:53: Boomer spawned as a BOOMER
+L 05/09/2013 - 15:56:53: "Boomer<116><BOT><Infected><BOOMER><ALIVE><50+0><setpos_exact -2449.61 2808.52 60.56; setang 0.00 0.00 0.00><Area 316116>" spawned
+L 05/09/2013 - 15:56:53: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+36><setpos_exact -1742.22 1996.61 63.22; setang 347.57 209.67 0.00><Area 47594>" killed "infected<202><><Infected><infected><DEAD><-40><setpos_exact -2348.15 1651.50 176.03; setang 0.00 367.81 0.00><Area 315378>" with "hunting_rifle"
+L 05/09/2013 - 15:56:54: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><87+0><setpos_exact -1706.47 1972.16 63.66; setang 349.56 208.08 0.00><Area 47594>" killed "infected<124><><Infected><infected><DEAD><-33><setpos_exact -2399.77 1603.58 176.03; setang 0.00 298.80 0.00><Area 604>" with "rifle_desert"
+L 05/09/2013 - 15:56:55: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><58+37><setpos_exact -1605.22 1974.90 101.83; setang 357.42 216.12 0.00><Area 382348>" killed "infected<130><><Infected><infected><DEAD><-40><setpos_exact -2370.97 1416.55 128.56; setang 0.00 372.98 0.00><Area 315320>" with "hunting_rifle"
+L 05/09/2013 - 15:56:57: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><58+36><setpos_exact -1860.54 1925.27 62.03; setang 2.20 165.81 0.00><Area 47594>" killed "infected<190><><Infected><infected><DEAD><-40><setpos_exact -2387.97 2058.46 0.05; setang 0.00 272.75 0.00><Area 351093>" with "hunting_rifle"
+L 05/09/2013 - 15:56:57: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><80+0><setpos_exact -2113.69 2244.91 62.03; setang -1.44 123.82 0.00><Area 108904>" killed "Boomer<116><BOT><Infected><BOOMER><DEAD><1+0><setpos -2331.39 2572.52 30.69; setang 346.65 303.60 0.00><Area 340629>" with "autoshotgun"
+L 05/09/2013 - 15:56:59: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+35><setpos_exact -2020.52 2160.52 62.03; setang 1.35 125.36 0.00><Area 226600>" killed "infected<328><><Infected><infected><DEAD><-40><setpos_exact -2663.47 3063.74 0.03; setang 0.00 127.64 0.00><Area 308990>" with "hunting_rifle"
+L 05/09/2013 - 15:56:59: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+35><setpos_exact -2013.99 2196.96 62.03; setang 1.39 125.56 0.00><Area 226600>" killed "infected<336><><Infected><infected><DEAD><-40><setpos_exact -2529.57 2910.02 -0.24; setang 0.00 -56.12 0.00><Area 316113>" with "hunting_rifle"
+L 05/09/2013 - 15:57:01: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><80+0><setpos_exact -2351.31 2624.98 133.90; setang 13.21 85.34 0.00><Area 424065>" killed "infected<332><><Infected><infected><DEAD><0><setpos_exact -2313.50 3063.26 -1.38; setang 0.00 94.34 0.00><Area 351081>" with "autoshotgun"
+L 05/09/2013 - 15:57:01: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><80+0><setpos_exact -2351.09 2629.98 137.83; setang 20.40 67.78 0.00><Area 424065>" killed "infected<216><><Infected><infected><DEAD><-3><setpos_exact -2245.38 2946.78 -2.29; setang 0.00 359.68 0.00><Area 351089>" with "autoshotgun"
+L 05/09/2013 - 15:57:01: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><58+35><setpos_exact -2354.26 2462.27 62.03; setang 346.59 101.76 0.00><Area 340629>" killed "infected<168><><Infected><infected><DEAD><-40><setpos_exact -2382.55 2598.20 48.50; setang 0.00 70.39 0.00><Area 424064>" with "hunting_rifle"
+L 05/09/2013 - 15:57:02: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><80+0><setpos_exact -2351.09 2629.98 137.83; setang 19.74 76.10 0.00><Area 424065>" killed "infected<294><><Infected><infected><DEAD><-3><setpos_exact -2271.71 2948.68 -2.37; setang 0.00 355.50 0.00><Area 351082>" with "autoshotgun"
+L 05/09/2013 - 15:57:02: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+34><setpos_exact -2265.02 2448.89 62.03; setang 6.61 25.87 0.00><Area 340629>" killed "infected<163><><Infected><infected><DEAD><0><setpos_exact -2089.37 2515.33 0.03; setang 0.00 217.90 0.00><Area 226748>" with "hunting_rifle"
+L 05/09/2013 - 15:57:02: "Charger<114><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:57:04: Hunter starting a lunge, 50 damage interrupts
+L 05/09/2013 - 15:57:05: Hunter ending a lunge
+L 05/09/2013 - 15:57:05: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><87+0><setpos_exact -2375.78 2571.24 91.68; setang 8.92 128.84 0.00><Area 424065>" killed "Hunter<115><BOT><Infected><HUNTER><DEAD><1+0><setpos -2663.25 2934.06 0.03; setang 341.64 308.39 0.00><Area 308991>" with "rifle_desert"
+L 05/09/2013 - 15:57:06: "Boomer<116><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:57:10: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+32><setpos_exact -2350.60 2741.95 59.44; setang 5.41 139.46 0.00><Area 122309>" killed "infected<121><><Infected><infected><DEAD><-40><setpos_exact -2687.63 3045.19 0.03; setang 0.00 69.39 0.00><Area 108910>" with "hunting_rifle"
+L 05/09/2013 - 15:57:12: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><80+0><setpos_exact -2996.03 2411.30 62.03; setang 10.70 131.74 0.00><Area 79344>" killed "infected<271><><Infected><infected><DEAD><-49><setpos_exact -3060.47 2464.56 0.03; setang -0.00 -55.21 0.00><Area 79311>" with "autoshotgun"
+L 05/09/2013 - 15:57:14: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><80+0><setpos_exact -3024.33 2265.99 62.03; setang 11.89 -79.30 0.00><Area 79311>" killed "infected<163><><Infected><infected><DEAD><-23><setpos_exact -3018.34 2213.08 0.03; setang -0.00 108.98 0.00><Area 79317>" with "autoshotgun"
+L 05/09/2013 - 15:57:14: "Hunter<115><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:57:15: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><80+0><setpos_exact -2987.50 2110.88 62.03; setang 7.60 -76.13 0.00><Area 79317>" killed "infected<295><><Infected><infected><DEAD><-5><setpos_exact -2913.38 1822.87 2.37; setang 0.00 -37.62 0.00><Area 365537>" with "autoshotgun"
+L 05/09/2013 - 15:57:15: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><80+0><setpos_exact -2971.55 2039.30 62.03; setang 7.60 -76.07 0.00><Area 315209>" killed "infected<213><><Infected><infected><DEAD><-5><setpos_exact -2925.18 1787.76 3.33; setang 0.00 303.55 0.00><Area 315243>" with "autoshotgun"
+L 05/09/2013 - 15:57:16: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><80+0><setpos_exact -2948.47 1943.89 62.00; setang 8.32 -110.06 0.00><Area 140545>" killed "infected<130><><Infected><infected><DEAD><0><setpos_exact -2972.83 1835.46 4.05; setang 0.00 78.79 0.00><Area 365535>" with "autoshotgun"
+L 05/09/2013 - 15:57:16: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><58+31><setpos_exact -2901.00 2556.11 44.03; setang 353.50 273.92 0.00><Area 309001>" killed "infected<279><><Infected><infected><DEAD><0><setpos_exact -2847.44 1948.46 95.39; setang 0.00 180.00 0.00><Area 183543>" with "dual_pistols"
+L 05/09/2013 - 15:57:22: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><87+0><setpos_exact -2992.14 1867.19 65.94; setang 3.24 105.94 0.00><Area 365535>" killed "infected<296><><Infected><infected><DEAD><-35><setpos_exact -3120.50 2330.15 0.03; setang 0.00 280.29 0.00><Area 79311>" with "rifle_desert"
+L 05/09/2013 - 15:57:22: CDirector::RunScript, C2_coaster_onslaught, level: 2
+L 05/09/2013 - 15:57:22: 384.90: (MOB) SpawnMob requested of size 27.
+L 05/09/2013 - 15:57:22: 384.90: (MOB) SpawnMob pending count is now 27.
+L 05/09/2013 - 15:57:22: 385.00: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 15:57:22: 385.00: (MOB) Mob zombie spawned, 25 remain.
+L 05/09/2013 - 15:57:22: 385.00: (MOB) Mob zombie spawned, 24 remain.
+L 05/09/2013 - 15:57:22: 385.30: (MOB) Mob zombie spawned, 23 remain.
+L 05/09/2013 - 15:57:22: 385.30: (MOB) Mob zombie spawned, 22 remain.
+L 05/09/2013 - 15:57:22: 385.30: (MOB) Mob zombie spawned, 21 remain.
+L 05/09/2013 - 15:57:22: 385.30: (MOB) Mob zombie spawned, 20 remain.
+L 05/09/2013 - 15:57:22: 385.53: (MOB) Mob zombie spawned, 19 remain.
+L 05/09/2013 - 15:57:22: 385.53: (MOB) Mob zombie spawned, 18 remain.
+L 05/09/2013 - 15:57:22: 385.53: (MOB) Mob zombie spawned, 17 remain.
+L 05/09/2013 - 15:57:22: 385.60: (MOB) Mob zombie spawned, 16 remain.
+L 05/09/2013 - 15:57:22: 385.60: (MOB) Mob zombie spawned, 15 remain.
+L 05/09/2013 - 15:57:22: 385.60: (MOB) Mob zombie spawned, 14 remain.
+L 05/09/2013 - 15:57:23: 385.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:23: 385.90: (MOB) SpawnMob pending count is now 19.
+L 05/09/2013 - 15:57:23: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><87+0><setpos_exact -2992.14 1867.19 65.94; setang 4.69 26.38 0.00><Area 365535>" killed "infected<190><><Infected><infected><DEAD><-36><setpos_exact -2767.60 1978.25 7.07; setang 0.00 24.15 0.00><Area 183491>" with "rifle_desert"
+L 05/09/2013 - 15:57:23: 386.20: (MOB) Mob zombie spawned, 18 remain.
+L 05/09/2013 - 15:57:23: 386.20: (MOB) Mob zombie spawned, 17 remain.
+L 05/09/2013 - 15:57:23: 386.20: (MOB) Mob zombie spawned, 16 remain.
+L 05/09/2013 - 15:57:23: 386.20: (MOB) Mob zombie spawned, 15 remain.
+L 05/09/2013 - 15:57:24: 386.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:24: 386.90: (MOB) SpawnMob pending count is now 20.
+L 05/09/2013 - 15:57:24: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><87+0><setpos_exact -2992.14 1867.19 65.94; setang 324.52 73.38 0.00><Area 365535>" killed "infected<169><><Infected><infected><DEAD><-34><setpos_exact -2816.19 2459.10 464.59; setang 0.00 211.80 0.00><Area 183521>" with "rifle_desert"
+L 05/09/2013 - 15:57:24: 387.53: (MOB) Mob zombie spawned, 19 remain.
+L 05/09/2013 - 15:57:24: 387.53: (MOB) Mob zombie spawned, 18 remain.
+L 05/09/2013 - 15:57:24: 387.53: (MOB) Mob zombie spawned, 17 remain.
+L 05/09/2013 - 15:57:24: 387.53: (MOB) Mob zombie spawned, 16 remain.
+L 05/09/2013 - 15:57:25: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+28><setpos_exact -2922.01 1912.82 62.04; setang 1.50 107.14 0.00><Area 365535>" killed "infected<217><><Infected><infected><DEAD><-40><setpos_exact -3171.38 2684.19 0.03; setang 0.00 -125.00 0.00><Area 308935>" with "hunting_rifle"
+L 05/09/2013 - 15:57:25: 387.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:25: 387.90: (MOB) SpawnMob pending count is now 21.
+L 05/09/2013 - 15:57:25: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+28><setpos_exact -2922.01 1912.82 62.04; setang 1.55 103.12 0.00><Area 365535>" killed "infected<335><><Infected><infected><DEAD><-40><setpos_exact -3100.45 2694.88 0.03; setang 0.00 274.83 0.00><Area 308935>" with "hunting_rifle"
+L 05/09/2013 - 15:57:26: 388.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:26: 388.90: (MOB) SpawnMob pending count is now 26.
+L 05/09/2013 - 15:57:26: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><87+0><setpos_exact -2992.14 1867.19 65.94; setang 3.21 7.58 0.00><Area 365535>" killed "infected<163><><Infected><infected><DEAD><-35><setpos_exact -2543.12 1926.97 -0.00; setang 0.00 117.01 0.00><Area 402155>" with "rifle_desert"
+L 05/09/2013 - 15:57:26: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+27><setpos_exact -2922.01 1912.82 62.04; setang 2.36 2.06 0.00><Area 365535>" killed "infected<327><><Infected><infected><DEAD><-40><setpos_exact -1942.88 1951.90 0.03; setang 0.00 133.20 0.00><Area 47594>" with "hunting_rifle"
+L 05/09/2013 - 15:57:27: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+27><setpos_exact -2922.01 1912.82 62.04; setang 1.68 1.71 0.00><Area 365535>" killed "infected<271><><Infected><infected><DEAD><-40><setpos_exact -2215.74 1938.93 1.50; setang 0.00 171.87 0.00><Area 108788>" with "hunting_rifle"
+L 05/09/2013 - 15:57:27: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+27><setpos_exact -2922.01 1912.82 62.04; setang 1.68 1.71 0.00><Area 365535>" killed "infected<279><><Infected><infected><DEAD><-40><setpos_exact -2022.32 1936.28 0.03; setang 0.00 78.42 0.00><Area 13336>" with "hunting_rifle"
+L 05/09/2013 - 15:57:27: 389.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:27: 389.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:27: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+27><setpos_exact -2922.01 1912.82 62.04; setang 1.57 8.38 0.00><Area 365535>" killed "infected<269><><Infected><infected><DEAD><-40><setpos_exact -2014.37 2035.21 0.03; setang 0.00 109.12 0.00><Area 226600>" with "hunting_rifle"
+L 05/09/2013 - 15:57:27: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+27><setpos_exact -2922.01 1912.82 62.04; setang 3.16 4.32 0.00><Area 365535>" killed "infected<299><><Infected><infected><DEAD><-40><setpos_exact -2146.54 1978.77 1.08; setang 0.00 166.92 0.00><Area 108788>" with "hunting_rifle"
+L 05/09/2013 - 15:57:27: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><87+0><setpos_exact -2992.14 1867.19 65.94; setang 4.13 9.85 0.00><Area 365535>" killed "infected<130><><Infected><infected><DEAD><-35><setpos_exact -2607.65 1932.01 -0.37; setang 0.00 175.41 0.00><Area 420193>" with "rifle_desert"
+L 05/09/2013 - 15:57:28: 390.73: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:57:28: 390.73: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:57:28: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><87+0><setpos_exact -2992.14 1867.19 65.94; setang 3.35 5.17 0.00><Area 365535>" killed "infected<288><><Infected><infected><DEAD><-35><setpos_exact -2548.53 1912.60 -0.07; setang 0.00 172.73 0.00><Area 402155>" with "rifle_desert"
+L 05/09/2013 - 15:57:28: 390.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:28: 390.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:28: 391.13: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:57:28: 391.13: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:57:28: 391.47: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:57:28: 391.47: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 15:57:29: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+27><setpos_exact -2922.01 1912.82 62.04; setang 4.69 14.16 0.00><Area 365535>" killed "infected<164><><Infected><infected><DEAD><-40><setpos_exact -2647.68 1980.82 -0.17; setang 0.00 197.19 0.00><Area 420193>" with "hunting_rifle"
+L 05/09/2013 - 15:57:29: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><87+0><setpos_exact -2992.14 1867.19 65.94; setang 2.49 22.72 0.00><Area 365535>" killed "infected<304><><Infected><infected><DEAD><-33><setpos_exact -2360.60 2122.58 0.03; setang 0.00 217.18 0.00><Area 108789>" with "rifle_desert"
+L 05/09/2013 - 15:57:29: 391.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:29: 391.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:29: 392.57: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:57:29: 392.57: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:57:29: 392.57: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:57:30: 392.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:30: 392.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:30: 393.20: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:57:30: 393.20: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:57:30: 393.20: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:57:31: 393.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:31: 393.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:31: 394.47: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:57:31: 394.47: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:57:31: 394.47: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:57:31: 394.47: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 15:57:32: (DEATH)"trigger_hurt<384><><Unassigned><trigger_hurt><ALIVE><0><setpos_exact -2762.06 2501.81 519.76; setang -40.21 89.24 89.24><Area 0>" killed "infected<234><><Infected><infected><DEAD><-491><setpos_exact -2740.28 2471.76 473.40; setang 0.00 179.57 0.00><Area 183524>" with "trigger_hurt"
+L 05/09/2013 - 15:57:32: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><87+0><setpos_exact -2992.14 1867.19 65.94; setang 357.47 358.26 0.00><Area 365535>" killed "infected<303><><Infected><infected><DEAD><-34><setpos_exact -2400.57 1838.49 87.48; setang 0.00 180.00 0.00><Area 315306>" with "rifle_desert"
+L 05/09/2013 - 15:57:32: 394.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:32: 394.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:32: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><87+0><setpos_exact -2992.14 1867.19 65.94; setang 357.42 358.38 0.00><Area 365535>" killed "infected<333><><Infected><infected><DEAD><-34><setpos_exact -2397.84 1848.76 58.30; setang 0.00 180.00 0.00><Area 315306>" with "rifle_desert"
+L 05/09/2013 - 15:57:32: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+26><setpos_exact -2922.01 1912.82 62.04; setang 0.49 358.17 0.00><Area 365535>" killed "infected<286><><Infected><infected><DEAD><-40><setpos_exact -2335.67 1890.09 1.98; setang 0.00 156.26 0.00><Area 411667>" with "hunting_rifle" (headshot)
+L 05/09/2013 - 15:57:33: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+26><setpos_exact -2922.01 1912.82 62.04; setang 1.91 352.73 0.00><Area 365535>" killed "infected<328><><Infected><infected><DEAD><-40><setpos_exact -2362.65 1838.36 2.49; setang 0.00 183.42 0.00><Area 315306>" with "hunting_rifle"
+L 05/09/2013 - 15:57:33: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+26><setpos_exact -2922.01 1912.82 62.04; setang 1.91 352.73 0.00><Area 365535>" killed "infected<326><><Infected><infected><DEAD><-40><setpos_exact -2240.97 1817.42 2.50; setang 0.00 182.65 0.00><Area 411667>" with "hunting_rifle"
+L 05/09/2013 - 15:57:33: 395.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:33: 395.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:33: (DEATH)"trigger_hurt<384><><Unassigned><trigger_hurt><ALIVE><0><setpos_exact -2772.91 2833.56 535.97; setang -0.00 98.42 90.08><Area 0>" killed "infected<216><><Infected><infected><DEAD><-450><setpos_exact -2798.36 2801.14 512.03; setang 0.00 259.29 0.00><Area 730>" with "trigger_hurt"
+L 05/09/2013 - 15:57:34: (DEATH)"trigger_hurt<384><><Unassigned><trigger_hurt><ALIVE><0><setpos_exact -2843.40 2943.76 535.99; setang -0.00 127.30 90.02><Area 0>" killed "infected<257><><Infected><infected><DEAD><-450><setpos_exact -2823.22 2849.91 526.64; setang 0.00 271.00 0.00><Area 730>" with "trigger_hurt"
+L 05/09/2013 - 15:57:34: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+25><setpos_exact -2922.01 1912.82 62.04; setang 3.98 88.59 0.00><Area 365535>" killed "infected<191><><Infected><infected><DEAD><-40><setpos_exact -2926.52 2245.07 0.03; setang 0.00 286.33 0.00><Area 309004>" with "hunting_rifle"
+L 05/09/2013 - 15:57:34: 396.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:34: 396.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:34: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><87+0><setpos_exact -3000.00 1801.10 68.06; setang 3.48 87.85 0.00><Area 315240>" killed "infected<131><><Infected><infected><DEAD><-35><setpos_exact -2989.26 2287.63 0.03; setang 0.00 276.76 0.00><Area 79635>" with "rifle_desert"
+L 05/09/2013 - 15:57:34: 397.33: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:57:34: 397.33: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:57:34: 397.33: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:57:34: 397.33: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 15:57:35: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+25><setpos_exact -3006.90 1821.67 68.08; setang 2.61 124.12 0.00><Area 315221>" killed "infected<190><><Infected><infected><DEAD><-40><setpos_exact -3327.97 2298.55 0.32; setang 0.00 359.61 0.00><Area 79630>" with "hunting_rifle"
+L 05/09/2013 - 15:57:35: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+25><setpos_exact -3006.90 1821.67 68.08; setang 2.61 124.12 0.00><Area 315221>" killed "infected<269><><Infected><infected><DEAD><-82><setpos_exact -3358.60 2337.52 26.92; setang 0.00 317.53 0.00><Area 13505>" with "hunting_rifle"
+L 05/09/2013 - 15:57:35: 397.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:35: 397.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:35: 398.43: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:57:35: 398.43: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:57:36: 398.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:36: 398.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:37: (MOB) 399.87: MOB SPAWN ERROR: Empty spawn area set, switching to ANYWHERE
+L 05/09/2013 - 15:57:37: 399.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:37: 399.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:37: (MOB) 399.90: MOB SPAWN ERROR: Empty spawn area set, switching to ANYWHERE
+L 05/09/2013 - 15:57:37: 399.93: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:57:37: 399.93: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:57:37: 399.93: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:57:37: 399.93: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 15:57:38: 400.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:38: 400.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:38: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><87+0><setpos_exact -2798.09 1870.45 62.03; setang 1.63 30.30 0.00><Area 382327>" killed "infected<163><><Infected><infected><DEAD><-37><setpos_exact -2695.36 1928.35 -0.36; setang -0.00 210.81 0.00><Area 25023>" with "rifle_desert"
+L 05/09/2013 - 15:57:38: "Spitter<117><BOT><>" connected, address "none"
+L 05/09/2013 - 15:57:38: OnEndChangelevel (117): 1 saved players:
+L 05/09/2013 - 15:57:38: 	GameOverDude(61), state 2
+L 05/09/2013 - 15:57:38: "Spitter<117><BOT><>" entered the game
+L 05/09/2013 - 15:57:38: "Spitter<117><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:57:38: Spitter spawned as a SPITTER
+L 05/09/2013 - 15:57:38: "Spitter<117><BOT><Infected><SPITTER><ALIVE><100+0><setpos_exact -2500.00 1162.50 54.47; setang 0.00 0.00 0.00><Area 316217>" spawned
+L 05/09/2013 - 15:57:38: (MOB) 401.57: MOB SPAWN ERROR: Empty spawn area set, switching to ANYWHERE
+L 05/09/2013 - 15:57:39: 401.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:39: 401.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:39: (DEATH)"trigger_hurt<384><><Unassigned><trigger_hurt><ALIVE><0><setpos_exact -3446.00 2271.25 339.19; setang 34.13 -90.00 90.00><Area 0>" killed "infected<280><><Infected><infected><DEAD><-450><setpos_exact -3450.23 2323.82 349.68; setang 0.00 168.82 0.00><Area 1273>" with "trigger_hurt"
+L 05/09/2013 - 15:57:39: (DEATH)"trigger_hurt<384><><Unassigned><trigger_hurt><ALIVE><0><setpos_exact -3445.75 2167.19 343.80; setang 0.41 -89.73 90.00><Area 0>" killed "infected<271><><Infected><infected><DEAD><-450><setpos_exact -3398.80 2283.77 329.72; setang 0.00 59.49 0.00><Area 1272>" with "trigger_hurt"
+L 05/09/2013 - 15:57:40: 402.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:40: 402.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:40: (MOB) 402.90: MOB SPAWN ERROR: Empty spawn area set, switching to ANYWHERE
+L 05/09/2013 - 15:57:40: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+24><setpos_exact -2737.81 2208.40 278.44; setang 48.20 257.47 0.00><Area 183482>" killed "infected<201><><Infected><infected><DEAD><-24><setpos_exact -2767.73 2013.93 24.21; setang 0.00 114.71 0.00><Area 183491>" with "dual_pistols"
+L 05/09/2013 - 15:57:41: 403.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:41: 403.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:41: (MOB) 404.03: MOB SPAWN ERROR: Empty spawn area set, switching to ANYWHERE
+L 05/09/2013 - 15:57:41: 404.07: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:57:41: 404.07: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:57:41: 404.07: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:57:41: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+23><setpos_exact -2730.47 2378.01 448.05; setang 47.37 242.59 0.00><Area 183522>" killed "infected<294><><Infected><infected><DEAD><-19><setpos_exact -2884.98 2112.22 90.49; setang 0.00 -0.00 0.00><Area 414381>" with "dual_pistols"
+L 05/09/2013 - 15:57:42: 404.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:42: 404.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:42: "Smoker<118><BOT><>" connected, address "none"
+L 05/09/2013 - 15:57:42: OnEndChangelevel (118): 1 saved players:
+L 05/09/2013 - 15:57:42: 	GameOverDude(61), state 2
+L 05/09/2013 - 15:57:42: "Smoker<118><BOT><>" entered the game
+L 05/09/2013 - 15:57:42: "Smoker<118><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:57:42: Smoker spawned as a SMOKER
+L 05/09/2013 - 15:57:42: "Smoker<118><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -2862.50 2787.50 62.03; setang 0.00 0.00 0.00><Area 108995>" spawned
+L 05/09/2013 - 15:57:42: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><81+0><setpos_exact -2787.41 2022.56 94.09; setang 3.39 294.34 0.00><Area 183490>" killed "infected<288><><Infected><infected><DEAD><7><setpos_exact -2756.02 1903.36 0.03; setang -0.00 118.98 0.00><Area 382327>" with "rifle_desert" (headshot)
+L 05/09/2013 - 15:57:42: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+23><setpos_exact -2805.04 2479.25 543.06; setang 46.27 269.00 0.00><Area 183521>" killed "infected<279><><Infected><infected><DEAD><-2><setpos_exact -2811.94 2057.54 63.55; setang 0.00 305.05 0.00><Area 183482>" with "dual_pistols" (headshot)
+L 05/09/2013 - 15:57:43: (DEATH)"trigger_hurt<385><><Unassigned><trigger_hurt><ALIVE><0><setpos_exact -2845.12 1673.00 342.97; setang 0.94 -0.01 89.99><Area 0>" killed "infected<130><><Infected><infected><DEAD><-450><setpos_exact -2916.75 1699.31 359.50; setang 0.00 161.43 0.00><Area 860>" with "trigger_hurt"
+L 05/09/2013 - 15:57:43: (MOB) 405.70: MOB SPAWN ERROR: Empty spawn area set, switching to ANYWHERE
+L 05/09/2013 - 15:57:43: 405.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:43: 405.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:43: (MOB) 406.00: MOB SPAWN ERROR: Empty spawn area set, switching to ANYWHERE
+L 05/09/2013 - 15:57:43: 406.03: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:57:43: 406.03: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:57:43: 406.03: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:57:43: 406.03: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 15:57:44: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><79+0><setpos_exact -2788.54 2055.67 125.72; setang 29.46 312.04 0.00><Area 183482>" killed "infected<238><><Infected><infected><DEAD><-37><setpos_exact -2716.55 1964.72 1.70; setang -0.00 143.12 0.00><Area 183491>" with "rifle_desert"
+L 05/09/2013 - 15:57:44: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><58+24><setpos_exact -2963.84 2972.80 574.03; setang 3.50 175.58 0.00><Area 602>" killed "infected<169><><Infected><infected><DEAD><-10><setpos_exact -3264.99 2990.50 512.03; setang 0.00 172.00 0.00><Area 597>" with "dual_pistols"
+L 05/09/2013 - 15:57:44: 406.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:44: 406.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:45: (MOB) 407.67: MOB SPAWN ERROR: Empty spawn area set, switching to ANYWHERE
+L 05/09/2013 - 15:57:45: 407.70: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:57:45: 407.70: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:57:45: 407.70: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:57:45: 407.70: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 15:57:45: 407.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:45: 407.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:45: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><79+0><setpos_exact -2790.41 2354.35 424.39; setang 50.81 247.75 0.00><Area 183482>" killed "infected<121><><Infected><infected><DEAD><-36><setpos_exact -2877.44 2141.10 128.36; setang 0.00 247.06 0.00><Area 414380>" with "rifle_desert"
+L 05/09/2013 - 15:57:46: 408.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:46: 408.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:46: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><79+0><setpos_exact -2735.01 2448.41 518.45; setang 45.42 245.98 0.00><Area 183504>" killed "infected<297><><Infected><infected><DEAD><-36><setpos_exact -2839.77 2203.14 208.38; setang -0.00 63.27 0.00><Area 183482>" with "rifle_desert" (headshot)
+L 05/09/2013 - 15:57:46: (MOB) 409.60: MOB SPAWN ERROR: Empty spawn area set, switching to ANYWHERE
+L 05/09/2013 - 15:57:47: 409.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:47: 409.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:47: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<118><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -2849.61 2436.10 62.03; setang 319.15 165.45 0.00><Area 108997>". Victim:"Coach<105><BOT><Survivor><Coach><ALIVE><58+23><setpos_exact -3411.00 2609.71 574.03; setang 26.66 98.92 0.00><Area 373>".
+L 05/09/2013 - 15:57:47: (DEATH)"trigger_hurt<384><><Unassigned><trigger_hurt><ALIVE><0><setpos_exact -2326.00 672.04 475.64; setang -10.75 -90.00 90.00><Area 0>" killed "Spitter<117><BOT><Infected><SPITTER><DEAD><1+0><setpos -2288.46 636.34 473.91; setang 6.61 119.54 0.00><Area 396504>" with "trigger_hurt"
+L 05/09/2013 - 15:57:47: (MOB) 410.43: MOB SPAWN ERROR: Empty spawn area set, switching to ANYWHERE
+L 05/09/2013 - 15:57:48: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<118><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -2832.86 2422.85 62.03; setang 321.41 180.62 0.00><Area 599>". Victim:"Coach<105><BOT><Survivor><Coach><ALIVE><58+23><setpos_exact -3411.90 2441.82 533.96; setang 39.62 17.49 0.00><Area 549>".
+L 05/09/2013 - 15:57:48: 410.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:48: 410.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:48: (MOB) 410.90: MOB SPAWN ERROR: Empty spawn area set, switching to ANYWHERE
+L 05/09/2013 - 15:57:48: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><79+0><setpos_exact -2876.65 2908.26 574.03; setang 42.21 237.90 0.00><Area 1097>" killed "infected<217><><Infected><infected><DEAD><-33><setpos_exact -3172.47 2426.21 0.03; setang 0.00 301.97 0.00><Area 6647>" with "rifle_desert"
+L 05/09/2013 - 15:57:48: (TONGUE) Tongue launching towards victim.  Smoker:"Smoker<118><BOT><Infected><SMOKER><ALIVE><116+0><setpos_exact -2832.86 2422.85 62.03; setang 332.30 194.28 0.00><Area 599>". Victim:"Coach<105><BOT><Survivor><Coach><ALIVE><58+22><setpos_exact -3416.93 2289.96 396.48; setang 29.72 12.45 0.00><Area 1272>".
+L 05/09/2013 - 15:57:49: 411.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:49: 411.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:49: (TONGUE) Tongue grab starting.  Smoker:"Smoker<118><BOT><Infected><SMOKER><ALIVE><116+0><setpos_exact -2832.86 2422.85 62.03; setang 334.56 207.95 0.00><Area 599>". Victim:"Coach<105><BOT><Survivor><Coach><ALIVE><58+22><setpos_exact -3417.86 2140.28 382.03; setang 26.27 25.17 0.00><Area 548>".
+L 05/09/2013 - 15:57:49: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+21><setpos_exact -3441.38 2392.29 486.33; setang 349.03 103.57 0.00><Area 549>" killed "infected<283><><Infected><infected><DEAD><-40><setpos_exact -3531.45 2739.84 504.10; setang 6.34 -0.00 0.00><Area 115716>" with "hunting_rifle"
+L 05/09/2013 - 15:57:49: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><79+0><setpos_exact -3149.52 2998.35 574.03; setang 355.06 218.04 0.00><Area 601>" killed "infected<215><><Infected><infected><DEAD><-35><setpos_exact -3476.67 2735.38 576.03; setang 0.00 346.30 0.00><Area 18617>" with "rifle_desert"
+L 05/09/2013 - 15:57:50: (MOB) 412.67: MOB SPAWN ERROR: Empty spawn area set, switching to ANYWHERE
+L 05/09/2013 - 15:57:50: 412.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:50: 412.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:50: (TONGUE) Tongue letting go for taking too much damage.  Smoker:"Smoker<118><BOT><Infected><SMOKER><ALIVE><4+0><setpos_exact -2832.86 2422.85 62.03; setang 0.00 94.17 0.00><Area 599>". Victim:"Coach<105><BOT><Survivor><Coach><ALIVE><58+22><setpos_exact -3378.03 2190.46 382.03; setang 28.45 23.26 0.00><Area 2150>".
+L 05/09/2013 - 15:57:50: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><58+22><setpos_exact -3378.03 2190.46 382.03; setang 28.45 23.26 0.00><Area 2150>" killed "Smoker<118><BOT><Infected><SMOKER><DEAD><1+0><setpos -2832.86 2422.85 0.03; setang 323.16 203.09 0.00><Area 599>" with "hunting_rifle"
+L 05/09/2013 - 15:57:50: (MOB) 413.33: MOB SPAWN ERROR: Empty spawn area set, switching to ANYWHERE
+L 05/09/2013 - 15:57:50: "Jockey<119><BOT><>" connected, address "none"
+L 05/09/2013 - 15:57:50: OnEndChangelevel (119): 1 saved players:
+L 05/09/2013 - 15:57:50: 	GameOverDude(61), state 2
+L 05/09/2013 - 15:57:50: "Jockey<119><BOT><>" entered the game
+L 05/09/2013 - 15:57:50: "Jockey<119><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:57:50: Jockey spawned as a JOCKEY
+L 05/09/2013 - 15:57:50: "Jockey<119><BOT><Infected><JOCKEY><ALIVE><325+0><setpos_exact -3883.77 2635.93 62.03; setang 0.00 0.00 0.00><Area 11232>" spawned
+L 05/09/2013 - 15:57:51: 413.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:51: 413.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:51: (MOB) 414.47: MOB SPAWN ERROR: Empty spawn area set, switching to ANYWHERE
+L 05/09/2013 - 15:57:51: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><80+0><setpos_exact -2313.81 1228.19 238.03; setang 18.69 -73.79 0.00><Area 35188>" killed "infected<303><><Infected><infected><DEAD><-39><setpos_exact -2307.32 1186.23 176.03; setang -0.00 130.54 0.00><Area 861>" with "autoshotgun"
+L 05/09/2013 - 15:57:51: 414.60: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:57:51: 414.60: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:57:52: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+21><setpos_exact -3324.98 1984.52 382.03; setang 5.31 323.49 0.00><Area 724>" killed "infected<200><><Infected><infected><DEAD><-14><setpos_exact -3167.87 1861.56 320.03; setang 0.00 280.64 0.00><Area 382318>" with "dual_pistols"
+L 05/09/2013 - 15:57:52: 414.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:52: 414.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:52: "Charger<120><BOT><>" connected, address "none"
+L 05/09/2013 - 15:57:52: OnEndChangelevel (120): 1 saved players:
+L 05/09/2013 - 15:57:52: 	GameOverDude(61), state 2
+L 05/09/2013 - 15:57:52: "Charger<120><BOT><>" entered the game
+L 05/09/2013 - 15:57:52: "Charger<120><BOT><Unassigned>" joined team "Spectator"
+L 05/09/2013 - 15:57:52: Charger spawned as a Unknown
+L 05/09/2013 - 15:57:52: "Charger<120><BOT><Spectator><><DEAD><1+0><setpos 4265.10 2009.85 -1.97; setang 0.00 112.68 0.00><Area 283882>" spawned
+L 05/09/2013 - 15:57:52: "Hunter<121><BOT><>" connected, address "none"
+L 05/09/2013 - 15:57:52: OnEndChangelevel (121): 1 saved players:
+L 05/09/2013 - 15:57:52: 	GameOverDude(61), state 2
+L 05/09/2013 - 15:57:52: "Hunter<121><BOT><>" entered the game
+L 05/09/2013 - 15:57:52: "Hunter<121><BOT><Unassigned>" joined team "Spectator"
+L 05/09/2013 - 15:57:52: Hunter spawned as a Unknown
+L 05/09/2013 - 15:57:52: "Hunter<121><BOT><Spectator><><DEAD><1+0><setpos 3913.04 1988.41 -1.97; setang 0.00 30.30 0.00><Area 283882>" spawned
+L 05/09/2013 - 15:57:52: "Charger<120><BOT><Spectator>" disconnected (reason "Kicked by Console : infected team is full")
+L 05/09/2013 - 15:57:52: "Hunter<121><BOT><Spectator>" disconnected (reason "Kicked by Console : infected team is full")
+L 05/09/2013 - 15:57:53: 415.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:53: 415.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:54: 416.83: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:57:54: 416.87: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:57:54: 416.87: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:57:54: 416.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:54: 416.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:54: 417.50: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:57:54: 417.50: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:57:55: 417.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:55: 417.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:56: 418.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:56: 418.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:56: "Spitter<117><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:57:56: 419.50: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:57:56: 419.50: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:57:57: 419.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:57: 419.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:57: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+19><setpos_exact -2531.14 1650.74 238.03; setang 6.47 347.16 0.00><Area 402160>" killed "infected<257><><Infected><infected><DEAD><-14><setpos_exact -2352.84 1609.75 176.03; setang 0.00 317.22 0.00><Area 1104>" with "dual_pistols"
+L 05/09/2013 - 15:57:57: "Charger<122><BOT><>" connected, address "none"
+L 05/09/2013 - 15:57:57: OnEndChangelevel (122): 1 saved players:
+L 05/09/2013 - 15:57:57: 	GameOverDude(61), state 2
+L 05/09/2013 - 15:57:57: "Charger<122><BOT><>" entered the game
+L 05/09/2013 - 15:57:57: "Charger<122><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:57:57: Charger spawned as a CHARGER
+L 05/09/2013 - 15:57:57: "Charger<122><BOT><Infected><CHARGER><ALIVE><600+0><setpos_exact -3200.00 -277.43 62.03; setang 0.00 0.00 0.00><Area 1148>" spawned
+L 05/09/2013 - 15:57:58: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+19><setpos_exact -2414.77 1531.86 230.03; setang 5.82 311.08 0.00><Area 2173>" killed "infected<163><><Infected><infected><DEAD><-16><setpos_exact -2324.42 1450.14 176.03; setang 0.00 270.57 0.00><Area 382315>" with "dual_pistols"
+L 05/09/2013 - 15:57:58: 420.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:58: 420.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:59: 421.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:57:59: 421.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:57:59: "Smoker<118><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:57:59: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><58+19><setpos_exact -2333.30 1314.26 238.03; setang 4.96 282.88 0.00><Area 382310>" killed "infected<124><><Infected><infected><DEAD><-15><setpos_exact -2287.64 1117.59 176.03; setang 0.00 282.13 0.00><Area 861>" with "dual_pistols"
+L 05/09/2013 - 15:58:00: 422.70: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:58:00: 422.70: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:58:00: 422.70: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:58:00: 422.70: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 15:58:00: 422.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:00: 422.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:00: (DEATH)"trigger_hurt<384><><Unassigned><trigger_hurt><ALIVE><0><setpos_exact -3402.66 897.38 143.03; setang 51.84 91.69 91.69><Area 0>" killed "infected<301><><Infected><infected><DEAD><-450><setpos_exact -3377.56 832.94 216.42; setang 0.00 267.83 0.00><Area 218588>" with "trigger_hurt"
+L 05/09/2013 - 15:58:00: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+18><setpos_exact -2297.26 1073.67 244.64; setang 24.49 29.69 0.00><Area 862>" killed "infected<164><><Infected><infected><DEAD><-26><setpos_exact -2203.23 1153.23 170.38; setang 0.00 180.00 0.00><Area 315455>" with "dual_pistols"
+L 05/09/2013 - 15:58:01: 423.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:01: 423.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:01: (DEATH)"trigger_hurt<384><><Unassigned><trigger_hurt><ALIVE><0><setpos_exact -3401.73 1137.90 72.34; setang 0.18 89.26 89.26><Area 0>" killed "infected<271><><Infected><infected><DEAD><-450><setpos_exact -3412.82 1067.66 48.03; setang 0.00 248.66 0.00><Area 11244>" with "trigger_hurt"
+L 05/09/2013 - 15:58:02: 424.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:02: 424.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:02: 425.60: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:58:02: 425.60: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:58:02: 425.60: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:58:02: 425.60: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 15:58:03: 425.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:03: 425.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:03: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><79+0><setpos_exact -2346.92 1233.18 238.03; setang 3.80 91.94 0.00><Area 35187>" killed "infected<325><><Infected><infected><DEAD><-36><setpos_exact -2364.38 1575.43 176.03; setang 0.00 286.63 0.00><Area 1104>" with "rifle_desert"
+L 05/09/2013 - 15:58:03: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+18><setpos_exact -2321.82 728.55 506.40; setang 30.08 76.17 0.00><Area 1105>" killed "infected<294><><Infected><infected><DEAD><30><setpos_exact -2105.23 1547.45 2.82; setang 0.00 180.00 0.00><Area 382347>" with "dual_pistols" (headshot)
+L 05/09/2013 - 15:58:03: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><80+0><setpos_exact -3401.61 797.48 370.80; setang 53.14 97.45 0.00><Area 218582>" killed "infected<296><><Infected><infected><DEAD><0><setpos_exact -3389.71 809.20 240.76; setang 0.00 292.41 0.00><Area 218588>" with "autoshotgun"
+L 05/09/2013 - 15:58:04: 426.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:04: 426.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:05: 427.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:05: 427.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:05: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><79+0><setpos_exact -2262.69 795.70 477.67; setang 36.67 83.62 0.00><Area 12478>" killed "infected<168><><Infected><infected><DEAD><-34><setpos_exact -2192.13 1373.73 5.06; setang 0.00 301.42 0.00><Area 316101>" with "rifle_desert" (headshot)
+L 05/09/2013 - 15:58:05: 428.13: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:58:05: 428.13: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:58:06: 428.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:06: 428.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:06: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><79+0><setpos_exact -2300.81 558.42 510.03; setang 348.18 199.71 0.00><Area 396504>" killed "infected<283><><Infected><infected><DEAD><-35><setpos_exact -2730.96 408.84 612.03; setang 0.00 413.72 0.00><Area 5260>" with "rifle_desert"
+L 05/09/2013 - 15:58:07: 429.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:07: 429.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:07: 430.20: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:58:07: 430.20: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:58:07: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><79+0><setpos_exact -2306.25 279.43 510.03; setang 12.39 146.77 0.00><Area 732>" killed "infected<280><><Infected><infected><DEAD><-35><setpos_exact -2741.25 570.54 357.94; setang 0.00 181.08 0.00><Area 18600>" with "rifle_desert"
+L 05/09/2013 - 15:58:08: 430.67: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:58:08: 430.67: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 15:58:08: 430.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:08: 430.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:08: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><58+17><setpos_exact -3085.73 166.08 510.03; setang 18.52 223.29 0.00><Area 390508>" killed "infected<163><><Infected><infected><DEAD><16><setpos_exact -3100.41 116.47 448.03; setang 0.00 164.85 0.00><Area 390508>" with "dual_pistols" (headshot)
+L 05/09/2013 - 15:58:09: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><79+0><setpos_exact -2499.20 164.17 510.03; setang 341.61 141.54 0.00><Area 611>" killed "infected<160><><Infected><infected><DEAD><-35><setpos_exact -2785.77 407.86 608.56; setang 0.00 119.48 0.00><Area 5213>" with "rifle_desert"
+L 05/09/2013 - 15:58:09: 431.73: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:58:09: 431.73: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:58:09: 431.73: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:58:09: 431.73: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 15:58:09: 431.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:09: 431.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:09: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><79+0><setpos_exact -2629.28 155.08 510.03; setang 339.36 117.35 0.00><Area 10997>" killed "infected<293><><Infected><infected><DEAD><7><setpos_exact -2773.23 446.50 615.61; setang 0.00 270.00 0.00><Area 218579>" with "rifle_desert" (headshot)
+L 05/09/2013 - 15:58:10: 432.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:10: 432.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:10: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+16><setpos_exact -3262.03 155.39 510.03; setang 10.11 339.05 -2.08><Area 605>" killed "infected<215><><Infected><infected><DEAD><-40><setpos_exact -3036.81 76.03 448.03; setang -0.00 25.19 0.00><Area 390508>" with "hunting_rifle"
+L 05/09/2013 - 15:58:11: 433.87: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:58:11: 433.87: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:58:11: 433.87: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:58:11: 433.87: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 15:58:11: 433.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:11: 433.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:12: 434.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:12: 434.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:13: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><79+0><setpos_exact -3361.38 240.18 510.03; setang 0.69 353.73 0.00><Area 731>" killed "infected<296><><Infected><infected><DEAD><-36><setpos_exact -2947.31 176.00 466.73; setang 0.00 90.00 0.00><Area 105038>" with "rifle_desert"
+L 05/09/2013 - 15:58:13: 435.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:13: 435.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:14: 436.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:14: 436.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:15: 437.77: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:58:15: 437.77: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:58:15: 437.77: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:58:15: 437.77: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 15:58:15: 437.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:15: 437.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:16: 438.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:16: 438.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:17: 439.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:17: 439.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:18: 440.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:18: 440.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:19: 441.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:19: 441.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:19: (DEATH)"Jockey<119><BOT><Infected><JOCKEY><DEAD><1+0><setpos -3147.29 3040.97 512.03; setang 6.25 84.28 0.00><Area 601>" committed suicide with "world"
+L 05/09/2013 - 15:58:20: "Spitter<123><BOT><>" connected, address "none"
+L 05/09/2013 - 15:58:20: OnEndChangelevel (123): 1 saved players:
+L 05/09/2013 - 15:58:20: 	GameOverDude(61), state 2
+L 05/09/2013 - 15:58:20: "Spitter<123><BOT><>" entered the game
+L 05/09/2013 - 15:58:20: "Spitter<123><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:58:20: Spitter spawned as a SPITTER
+L 05/09/2013 - 15:58:20: "Spitter<123><BOT><Infected><SPITTER><ALIVE><100+0><setpos_exact -3962.50 2125.00 206.03; setang 0.00 0.00 0.00><Area 324831>" spawned
+L 05/09/2013 - 15:58:20: 442.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:20: 442.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:20: 443.07: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:58:20: 443.07: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:58:20: 443.07: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:58:20: 443.07: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 15:58:20: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><59+13><setpos_exact -3354.63 1818.35 77.03; setang 11.35 281.53 0.00><Area 371287>" killed "infected<257><><Infected><infected><DEAD><-12><setpos_exact -3308.42 1606.16 -0.41; setang 0.00 84.54 0.00><Area 11193>" with "dual_pistols"
+L 05/09/2013 - 15:58:21: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><58+14><setpos_exact -3369.55 1815.20 76.67; setang 13.92 157.68 0.00><Area 351966>" killed "infected<201><><Infected><infected><DEAD><-16><setpos_exact -3505.96 1858.06 -3.22; setang 0.00 -0.00 0.00><Area 316202>" with "dual_pistols"
+L 05/09/2013 - 15:58:21: 443.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:21: 443.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:22: 444.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:22: 444.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:23: 445.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:23: 445.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:24: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><69+0><setpos_exact -3372.46 1831.36 81.10; setang 340.79 114.61 0.00><Area 351966>" killed "Charger<122><BOT><Infected><CHARGER><DEAD><1+0><setpos -3421.13 1910.41 55.24; setang 316.57 301.62 0.00><Area 11048>" with "rifle_desert"
+L 05/09/2013 - 15:58:24: 446.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:24: 446.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:24: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><58+13><setpos_exact -3404.61 2485.42 184.47; setang 47.14 159.54 0.00><Area 435>" killed "infected<279><><Infected><infected><DEAD><-18><setpos_exact -3456.04 2494.39 109.43; setang 0.00 90.00 0.00><Area 435>" with "dual_pistols"
+L 05/09/2013 - 15:58:25: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><63+0><setpos_exact -3896.44 2464.66 209.72; setang 20.27 -88.11 0.00><Area 41430>" killed "infected<299><><Infected><infected><DEAD><0><setpos_exact -3895.71 2417.68 144.03; setang -0.00 85.55 0.00><Area 41430>" with "melee"
+L 05/09/2013 - 15:58:25: "(1)Jockey<124><BOT><>" connected, address "none"
+L 05/09/2013 - 15:58:25: OnEndChangelevel (124): 1 saved players:
+L 05/09/2013 - 15:58:25: 	GameOverDude(61), state 2
+L 05/09/2013 - 15:58:25: "(1)Jockey<124><BOT><>" entered the game
+L 05/09/2013 - 15:58:25: "(1)Jockey<124><BOT><Unassigned>" joined team "Spectator"
+L 05/09/2013 - 15:58:25: (1)Jockey spawned as a Unknown
+L 05/09/2013 - 15:58:25: "(1)Jockey<124><BOT><Spectator><><DEAD><1+0><setpos 4405.82 2018.29 -1.97; setang 0.00 145.71 0.00><Area 283881>" spawned
+L 05/09/2013 - 15:58:25: "Hunter<125><BOT><>" connected, address "none"
+L 05/09/2013 - 15:58:25: OnEndChangelevel (125): 1 saved players:
+L 05/09/2013 - 15:58:25: 	GameOverDude(61), state 2
+L 05/09/2013 - 15:58:25: "Hunter<125><BOT><>" entered the game
+L 05/09/2013 - 15:58:25: "Hunter<125><BOT><Unassigned>" joined team "Spectator"
+L 05/09/2013 - 15:58:25: Hunter spawned as a Unknown
+L 05/09/2013 - 15:58:25: "Hunter<125><BOT><Spectator><><DEAD><1+0><setpos 4110.64 2000.22 -1.97; setang 0.00 65.60 0.00><Area 283882>" spawned
+L 05/09/2013 - 15:58:25: "(1)Jockey<124><BOT><Spectator>" disconnected (reason "Kicked by Console : infected team is full")
+L 05/09/2013 - 15:58:25: "Hunter<125><BOT><Spectator>" disconnected (reason "Kicked by Console : infected team is full")
+L 05/09/2013 - 15:58:25: 447.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:25: 447.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:25: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><63+0><setpos_exact -3911.75 2304.56 206.03; setang 20.07 -81.45 0.00><Area 122361>" killed "infected<164><><Infected><infected><DEAD><0><setpos_exact -3876.36 2266.84 144.03; setang 0.00 74.89 0.00><Area 122365>" with "melee"
+L 05/09/2013 - 15:58:26: 448.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:26: 448.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:27: 449.63: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:58:27: 449.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:27: 449.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:27: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><60+0><setpos_exact -3914.54 2051.32 206.03; setang 25.02 -76.56 0.00><Area 13582>" killed "infected<304><><Infected><infected><DEAD><0><setpos_exact -3911.27 2022.28 144.03; setang 0.00 115.18 0.00><Area 13582>" with "melee"
+L 05/09/2013 - 15:58:28: 450.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:28: 450.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:29: "Jockey<119><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:58:29: 451.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:29: 451.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:29: (MOB) 452.43: MOB SPAWN ERROR: Empty spawn area set, switching to ANYWHERE
+L 05/09/2013 - 15:58:29: 452.47: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:58:29: 452.47: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:58:29: 452.47: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:58:29: 452.47: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 15:58:30: "Hunter<126><BOT><>" connected, address "none"
+L 05/09/2013 - 15:58:30: OnEndChangelevel (126): 1 saved players:
+L 05/09/2013 - 15:58:30: 	GameOverDude(61), state 2
+L 05/09/2013 - 15:58:30: "Hunter<126><BOT><>" entered the game
+L 05/09/2013 - 15:58:30: "Hunter<126><BOT><Unassigned>" joined team "Infected"
+L 05/09/2013 - 15:58:30: Hunter spawned as a HUNTER
+L 05/09/2013 - 15:58:30: "Hunter<126><BOT><Infected><HUNTER><ALIVE><250+0><setpos_exact -4275.00 1600.00 114.43; setang 0.00 0.00 0.00><Area 1422>" spawned
+L 05/09/2013 - 15:58:30: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><60+0><setpos_exact -3811.38 1807.23 222.03; setang 17.63 -58.87 0.00><Area 289>" killed "infected<326><><Infected><infected><DEAD><0><setpos_exact -3804.52 1773.17 160.03; setang -0.00 131.84 0.00><Area 1367>" with "melee"
+L 05/09/2013 - 15:58:30: 452.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:30: 452.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:30: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><60+0><setpos_exact -3780.48 1783.09 222.03; setang 14.92 -77.16 0.00><Area 1367>" killed "infected<333><><Infected><infected><DEAD><0><setpos_exact -3776.21 1754.06 160.03; setang -0.00 77.69 0.00><Area 1367>" with "melee" (headshot)
+L 05/09/2013 - 15:58:31: 453.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:31: 453.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:32: 454.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:32: 454.90: (MOB) SpawnMob pending count is now 30.
+L 05/09/2013 - 15:58:32: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><69+0><setpos_exact -3427.23 3296.35 430.03; setang 3.58 266.86 0.00><Area 13576>" killed "infected<216><><Infected><infected><DEAD><-35><setpos_exact -3443.64 2915.68 368.03; setang 0.00 89.33 0.00><Area 13570>" with "rifle_desert"
+L 05/09/2013 - 15:58:32: (MOB) 455.60: MOB SPAWN ERROR: Empty spawn area set, switching to ANYWHERE
+L 05/09/2013 - 15:58:33: 455.63: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:58:33: 455.63: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:58:33: 455.63: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:58:33: "Charger<122><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:58:33: 455.90: (MOB) SpawnMob requested of size 5.
+L 05/09/2013 - 15:58:33: 455.90: (MOB) SpawnMob pending count is now 32.
+L 05/09/2013 - 15:58:35: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><58+0><setpos_exact -3581.62 1481.67 222.03; setang 15.19 78.51 0.00><Area 358233>" killed "infected<327><><Infected><infected><DEAD><0><setpos_exact -3566.67 1510.70 160.03; setang -0.00 -117.64 0.00><Area 358233>" with "melee"
+L 05/09/2013 - 15:58:36: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><58+0><setpos_exact -3578.83 1516.63 222.03; setang 33.47 122.33 0.00><Area 358233>" killed "infected<294><><Infected><infected><DEAD><0><setpos_exact -3564.37 1546.15 160.03; setang -0.00 -63.64 0.00><Area 358233>" with "melee"
+L 05/09/2013 - 15:58:37: 460.07: (MOB) Mob zombie spawned, 31 remain.
+L 05/09/2013 - 15:58:37: 460.07: (MOB) Mob zombie spawned, 30 remain.
+L 05/09/2013 - 15:58:43: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><56+0><setpos_exact -3566.37 2342.97 334.03; setang 30.96 -137.15 0.00><Area 11863>" killed "infected<332><><Infected><infected><DEAD><0><setpos_exact -3593.63 2311.37 272.03; setang -0.00 67.18 0.00><Area 11863>" with "melee"
+L 05/09/2013 - 15:58:43: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><56+0><setpos_exact -3566.37 2342.97 334.03; setang 27.53 -158.07 0.00><Area 11863>" killed "infected<215><><Infected><infected><DEAD><0><setpos_exact -3587.80 2313.35 272.03; setang 0.00 66.82 0.00><Area 11863>" with "melee"
+L 05/09/2013 - 15:58:43: (DEATH)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><ALIVE><56+0><setpos_exact -3566.37 2342.97 334.03; setang 27.53 -158.07 0.00><Area 11863>" killed "infected<200><><Infected><infected><DEAD><0><setpos_exact -3595.40 2332.11 272.03; setang 0.00 20.51 0.00><Area 11863>" with "melee"
+L 05/09/2013 - 15:58:44: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><69+0><setpos_exact -3830.42 2233.36 206.03; setang 14.89 80.48 0.00><Area 316006>" killed "infected<269><><Infected><infected><DEAD><-36><setpos_exact -3794.14 2451.21 137.07; setang 0.00 180.00 0.00><Area 315987>" with "rifle_desert" (headshot)
+L 05/09/2013 - 15:58:44: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><69+0><setpos_exact -3837.97 2233.36 206.03; setang 7.84 106.91 0.00><Area 316006>" killed "infected<328><><Infected><infected><DEAD><-37><setpos_exact -3872.85 2386.24 161.30; setang 0.00 270.00 0.00><Area 41429>" with "rifle_desert"
+L 05/09/2013 - 15:58:44: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><58+7><setpos_exact -3872.21 1966.36 222.03; setang 15.38 95.80 0.00><Area 13469>" killed "infected<217><><Infected><infected><DEAD><-14><setpos_exact -3908.49 2186.13 144.03; setang 0.00 262.48 0.00><Area 122364>" with "dual_pistols"
+L 05/09/2013 - 15:58:45: 468.50: (MOB) Mob zombie spawned, 29 remain.
+L 05/09/2013 - 15:58:45: 468.50: (MOB) Mob zombie spawned, 28 remain.
+L 05/09/2013 - 15:58:45: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><56+7><setpos_exact -3872.21 1966.36 222.03; setang 34.19 132.03 0.00><Area 13469>" killed "infected<238><><Infected><infected><DEAD><-18><setpos_exact -3916.76 2046.07 144.03; setang 0.00 93.37 0.00><Area 13582>" with "dual_pistols"
+L 05/09/2013 - 15:58:46: 468.63: (MOB) Mob zombie spawned, 27 remain.
+L 05/09/2013 - 15:58:46: 468.63: (MOB) Mob zombie spawned, 26 remain.
+L 05/09/2013 - 15:58:46: 469.20: (MOB) Mob zombie spawned, 25 remain.
+L 05/09/2013 - 15:58:46: 469.20: (MOB) Mob zombie spawned, 24 remain.
+L 05/09/2013 - 15:58:46: 469.20: (MOB) Mob zombie spawned, 23 remain.
+L 05/09/2013 - 15:58:46: 469.20: (MOB) Mob zombie spawned, 22 remain.
+L 05/09/2013 - 15:58:46: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><69+0><setpos_exact -3837.29 1990.06 222.03; setang 19.39 118.73 0.00><Area 5026>" killed "infected<213><><Infected><infected><DEAD><-37><setpos_exact -3888.09 2082.71 144.03; setang 0.00 188.46 0.00><Area 13582>" with "rifle_desert"
+L 05/09/2013 - 15:58:47: Hunter starting a pounce, 50 damage interrupts
+L 05/09/2013 - 15:58:47: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><67+0><setpos_exact -3837.29 1990.06 222.03; setang 18.65 241.90 0.00><Area 5026>" killed "infected<279><><Infected><infected><DEAD><-37><setpos_exact -3843.87 1961.03 160.03; setang -0.00 77.23 0.00><Area 5026>" with "rifle_desert"
+L 05/09/2013 - 15:58:47: Hunter ending a pounce
+L 05/09/2013 - 15:58:47: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><67+0><setpos_exact -3837.29 1990.06 222.03; setang 23.28 232.51 0.00><Area 5026>" killed "infected<164><><Infected><infected><DEAD><-37><setpos_exact -3908.88 1941.48 144.03; setang -0.00 34.84 0.00><Area 11609>" with "rifle_desert"
+L 05/09/2013 - 15:58:48: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><67+0><setpos_exact -3837.29 1990.06 222.03; setang 20.22 249.15 0.00><Area 5026>" killed "infected<271><><Infected><infected><DEAD><-37><setpos_exact -3866.03 1937.35 160.03; setang 0.00 103.70 0.00><Area 13469>" with "rifle_desert"
+L 05/09/2013 - 15:58:48: Spitter projectile spawned at -4700.361816 2043.077271 183.321960, velocity 897.963440 40.309200 -45.131931
+L 05/09/2013 - 15:58:48: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><54+6><setpos_exact -3873.10 1966.36 222.03; setang 25.24 93.80 0.00><Area 13469>" killed "infected<283><><Infected><infected><DEAD><-18><setpos_exact -3889.59 2049.14 144.03; setang 0.00 135.00 0.00><Area 13582>" with "dual_pistols"
+L 05/09/2013 - 15:58:48: Hunter starting a pounce, 50 damage interrupts
+L 05/09/2013 - 15:58:48: Hunter pounced on GameOverDude, 250 damage interrupts
+L 05/09/2013 - 15:58:48: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><67+0><setpos_exact -3837.29 1990.06 222.03; setang 19.78 266.75 0.00><Area 5026>" killed "infected<296><><Infected><infected><DEAD><-37><setpos_exact -3840.50 1931.18 160.03; setang -0.00 132.87 0.00><Area 289>" with "rifle_desert"
+L 05/09/2013 - 15:58:48: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><54+6><setpos_exact -3873.10 1966.36 222.03; setang 18.70 100.19 0.00><Area 13469>" killed "infected<303><><Infected><infected><DEAD><-15><setpos_exact -3913.31 2107.20 144.03; setang 0.00 259.64 0.00><Area 13582>" with "dual_pistols"
+L 05/09/2013 - 15:58:49: "Ellis<104><BOT><Survivor><Mechanic><ALIVE><46+54><setpos_exact -3918.62 2078.17 206.03; setang 24.56 89.83 0.00><Area 13582>" used pills on "Ellis<104><BOT><Survivor><Mechanic><ALIVE><46+54><setpos_exact -3918.62 2078.17 206.03; setang 24.56 89.83 0.00>L 05/09/2013 - 15:58:50: 472.70: (MOB) Mob zombie spawned, 21 remain.
+L 05/09/2013 - 15:58:50: 472.70: (MOB) Mob zombie spawned, 20 remain.
+L 05/09/2013 - 15:58:50: 472.70: (MOB) Mob zombie spawned, 19 remain.
+L 05/09/2013 - 15:58:50: 472.70: (MOB) Mob zombie spawned, 18 remain.
+L 05/09/2013 - 15:58:51: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><54+6><setpos_exact -3880.10 1960.08 222.03; setang 12.01 114.81 0.00><Area 11609>" killed "infected<191><><Infected><infected><DEAD><16><setpos_exact -3909.98 2036.43 144.03; setang -0.00 298.54 0.00><Area 13582>" with "dual_pistols" (headshot)
+L 05/09/2013 - 15:58:51: ------------------------------ Director state change BUILD_UP -> SUSTAIN_PEAK
+L 05/09/2013 - 15:58:52: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><67+0><setpos_exact -3793.97 1768.67 222.03; setang 11.98 140.74 0.00><Area 1367>" killed "infected<190><><Infected><infected><DEAD><-37><setpos_exact -3870.12 1849.61 160.03; setang 0.00 6.78 0.00><Area 13468>" with "rifle_desert"
+L 05/09/2013 - 15:58:53: 475.73: (MOB) Mob zombie spawned, 17 remain.
+L 05/09/2013 - 15:58:53: 475.73: (MOB) Mob zombie spawned, 16 remain.
+L 05/09/2013 - 15:58:53: 475.73: (MOB) Mob zombie spawned, 15 remain.
+L 05/09/2013 - 15:58:53: 475.73: (MOB) Mob zombie spawned, 14 remain.
+L 05/09/2013 - 15:58:53: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><67+0><setpos_exact -3679.01 1635.22 222.03; setang 8.55 100.57 0.00><Area 358237>" killed "infected<288><><Infected><infected><DEAD><-36><setpos_exact -3746.56 1963.74 160.03; setang 0.00 273.58 0.00><Area 289>" with "rifle_desert"
+L 05/09/2013 - 15:58:53: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><52+5><setpos_exact -3797.66 1736.61 222.03; setang 11.37 101.39 0.00><Area 206>" killed "infected<333><><Infected><infected><DEAD><20><setpos_exact -3847.57 2030.81 145.42; setang 0.00 180.00 0.00><Area 13582>" with "dual_pistols" (headshot)
+L 05/09/2013 - 15:58:54: (INCAP) "GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><INCAP><5+0><setpos_exact -3792.01 2336.35 284.03; setang 37.82 -60.19 0.00><Area 11860>" is incapacitated
+L 05/09/2013 - 15:58:54: (INCAP)"GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><INCAP><300+0><setpos_exact -3792.01 2336.35 284.03; setang 37.82 -60.19 0.00><Area 11860>" was incapped by "Hunter<126><BOT><Infected><HUNTER><ALIVE><250+0><setpos_exact -3792.01 2336.35 316.03; setang 9.21 289.64 0.00><Area 11860>" with "hunter_claw"
+L 05/09/2013 - 15:58:54: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><52+5><setpos_exact -3684.53 1653.66 222.03; setang 3.23 120.27 0.00><Area 358237>" killed "infected<301><><Infected><infected><DEAD><-8><setpos_exact -3867.42 1963.33 160.03; setang 0.00 255.00 0.00><Area 11609>" with "dual_pistols"
+L 05/09/2013 - 15:58:55: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><67+0><setpos_exact -3575.29 2035.54 286.47; setang 31.48 172.61 0.00><Area 11624>" killed "infected<124><><Infected><infected><DEAD><7><setpos_exact -3791.39 2071.68 137.29; setang 0.00 180.00 0.00><Area 316007>" with "rifle_desert" (headshot)
+L 05/09/2013 - 15:58:55: 477.87: (MOB) Mob zombie spawned, 13 remain.
+L 05/09/2013 - 15:58:55: 477.87: (MOB) Mob zombie spawned, 12 remain.
+L 05/09/2013 - 15:58:55: 477.87: (MOB) Mob zombie spawned, 11 remain.
+L 05/09/2013 - 15:58:55: 477.87: (MOB) Mob zombie spawned, 10 remain.
+L 05/09/2013 - 15:58:55: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><67+0><setpos_exact -3565.29 2180.49 317.67; setang 3.59 140.62 0.00><Area 11625>" killed "infected<286><><Infected><infected><DEAD><-36><setpos_exact -3748.53 2314.82 272.03; setang 0.00 153.65 0.00><Area 11860>" with "rifle_desert"
+L 05/09/2013 - 15:58:56: ------------------------------ Director state change SUSTAIN_PEAK -> PEAK_FADE
+L 05/09/2013 - 15:58:57: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><67+0><setpos_exact -3555.03 2198.09 321.46; setang 0.92 156.06 0.00><Area 11625>" killed "infected<334><><Infected><infected><DEAD><-36><setpos_exact -3779.20 2301.77 272.03; setang -0.00 110.33 0.00><Area 11860>" with "rifle_desert"
+L 05/09/2013 - 15:58:57: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><67+0><setpos_exact -3555.03 2198.09 321.46; setang 358.42 151.29 0.00><Area 11625>" killed "Spitter<123><BOT><Infected><SPITTER><DEAD><1+0><setpos -3845.37 2341.14 272.03; setang 341.00 333.77 0.00><Area 11860>" with "rifle_desert"
+L 05/09/2013 - 15:58:57: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><46+51><setpos_exact -3582.77 2283.10 334.03; setang 3.69 164.86 0.00><Area 5282>" killed "infected<168><><Infected><infected><DEAD><-83><setpos_exact -3762.98 2338.97 272.03; setang 0.00 185.15 0.00><Area 11860>" with "hunting_rifle"
+L 05/09/2013 - 15:58:57: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><46+51><setpos_exact -3582.77 2283.10 334.03; setang 3.69 164.86 0.00><Area 5282>" killed "infected<201><><Infected><infected><DEAD><-83><setpos_exact -3821.04 2343.07 272.03; setang 0.00 346.98 0.00><Area 11860>" with "hunting_rifle"
+L 05/09/2013 - 15:58:58: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><46+51><setpos_exact -3701.34 2340.04 334.03; setang 25.24 181.91 0.00><Area 11862>" killed "Hunter<126><BOT><Infected><HUNTER><DEAD><1+0><setpos -3792.01 2336.35 272.03; setang 310.57 2.33 0.00><Area 11860>" with "hunting_rifle"
+L 05/09/2013 - 15:58:58: 481.13: (MOB) Mob zombie spawned, 9 remain.
+L 05/09/2013 - 15:58:58: 481.13: (MOB) Mob zombie spawned, 8 remain.
+L 05/09/2013 - 15:58:58: 481.13: (MOB) Mob zombie spawned, 7 remain.
+L 05/09/2013 - 15:58:58: 481.13: (MOB) Mob zombie spawned, 6 remain.
+L 05/09/2013 - 15:58:58: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><52+4><setpos_exact -3574.84 2249.10 332.44; setang 6.98 163.62 0.00><Area 2042>" killed "infected<130><><Infected><infected><DEAD><-83><setpos_exact -3825.01 2323.56 272.03; setang 0.00 21.20 0.00><Area 11860>" with "hunting_rifle"
+L 05/09/2013 - 15:58:59: (INCAP) "Ellis<104><BOT><Survivor><Mechanic><ALIVE><46+51><setpos_exact -3744.91 2327.05 334.03; setang 28.89 168.82 0.00><Area 11860>" starts reviving "GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><INCAP><135+0><setpos_exact -3792.01 2336.35 296.03; 
+L 05/09/2013 - 15:59:00: "Coach<105><BOT><Survivor><Coach><ALIVE><52+48><setpos_exact -3602.97 2252.05 333.08; setang 3.02 84.24 0.00><Area 2042>" used pills on "Coach<105><BOT><Survivor><Coach><ALIVE><52+48><setpos_exact -3602.97 2252.05 333.08; setang 3.02 84.24 0.00><Area 204L 05/09/2013 - 15:59:01: 484.03: (MOB) Mob zombie spawned, 5 remain.
+L 05/09/2013 - 15:59:01: 484.03: (MOB) Mob zombie spawned, 4 remain.
+L 05/09/2013 - 15:59:01: 484.03: (MOB) Mob zombie spawned, 3 remain.
+L 05/09/2013 - 15:59:01: 484.03: (MOB) Mob zombie spawned, 2 remain.
+L 05/09/2013 - 15:59:03: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><52+47><setpos_exact -3602.97 2252.05 333.08; setang 4.91 161.74 0.00><Area 2042>" killed "infected<163><><Infected><infected><DEAD><0><setpos_exact -3822.18 2338.37 272.03; setang 0.00 356.18 0.00><Area 11860>" with "hunting_rifle"
+L 05/09/2013 - 15:59:04: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><52+47><setpos_exact -3602.97 2252.05 333.08; setang 39.70 213.36 0.00><Area 2042>" killed "infected<216><><Infected><infected><DEAD><-40><setpos_exact -3783.86 2126.33 132.01; setang 0.00 180.00 0.00><Area 316008>" with "hunting_rifle"
+L 05/09/2013 - 15:59:04: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><52+47><setpos_exact -3602.97 2252.05 333.08; setang 39.70 213.36 0.00><Area 2042>" killed "infected<279><><Infected><infected><DEAD><-40><setpos_exact -3783.53 2126.38 129.69; setang 0.00 180.00 0.00><Area 316008>" with "hunting_rifle"
+L 05/09/2013 - 15:59:04: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><67+0><setpos_exact -3726.22 2294.27 334.03; setang 358.46 167.24 0.00><Area 11860>" killed "infected<297><><Infected><infected><DEAD><-37><setpos_exact -3887.37 2348.88 315.20; setang 0.00 270.00 0.00><Area 115749>" with "rifle_desert"
+L 05/09/2013 - 15:59:04: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><67+0><setpos_exact -3726.22 2294.27 334.03; setang 30.52 233.57 0.00><Area 11860>" killed "infected<131><><Infected><infected><DEAD><-36><setpos_exact -3892.69 2086.44 144.03; setang 0.00 13.01 0.00><Area 13582>" with "rifle_desert"
+L 05/09/2013 - 15:59:05: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><52+46><setpos_exact -3578.62 2298.25 334.03; setang 20.29 270.42 0.00><Area 5282>" killed "infected<278><><Infected><infected><DEAD><-40><setpos_exact -3588.24 2234.13 266.56; setang 0.00 96.29 0.00><Area 11625>" with "hunting_rifle"
+L 05/09/2013 - 15:59:05: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><52+46><setpos_exact -3578.62 2298.25 334.03; setang 20.29 270.42 0.00><Area 5282>" killed "infected<276><><Infected><infected><DEAD><-40><setpos_exact -3573.76 2162.90 251.27; setang 0.00 97.22 0.00><Area 11625>" with "hunting_rifle"
+L 05/09/2013 - 15:59:06: "Spitter<123><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:59:06: 488.90: (MOB) Mob zombie spawned, 1 remain.
+L 05/09/2013 - 15:59:06: 488.90: (MOB) Mob zombie spawned, 0 remain.
+L 05/09/2013 - 15:59:06: 488.90: (MOB) Pending mob done.
+L 05/09/2013 - 15:59:07: "Hunter<126><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+L 05/09/2013 - 15:59:07: "GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><LIMPING><1+79><setpos_exact -4169.79 2308.49 337.99; setang 14.49 -177.00 0.00><Area 11856>" used pills on "GameOverDude<61><STEAM_1:1:28847790><Survivor><Producer><LIMPING><1+79><setpos_exact -41L 05/09/2013 - 15:59:08: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><46+48><setpos_exact -3989.99 2307.31 351.14; setang 11.20 17.47 0.00><Area 11858>" killed "infected<195><><Infected><infected><DEAD><-26><setpos_exact -3868.35 2343.23 280.80; setang 0.00 90.00 0.00><Area 11860>" with "dual_pistols"
+L 05/09/2013 - 15:59:09: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><67+0><setpos_exact -4111.05 2327.72 334.03; setang 9.75 1.63 0.00><Area 11856>" killed "infected<169><><Infected><infected><DEAD><-37><setpos_exact -3968.26 2336.58 272.03; setang 0.00 140.00 0.00><Area 11859>" with "rifle_desert"
+L 05/09/2013 - 15:59:10: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><46+48><setpos_exact -4378.31 2316.63 299.54; setang -1.10 358.94 0.00><Area 11824>" killed "infected<200><><Infected><infected><DEAD><-7><setpos_exact -3952.89 2308.36 272.03; setang 0.00 181.61 0.00><Area 11859>" with "dual_pistols"
+L 05/09/2013 - 15:59:11: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><46+48><setpos_exact -4451.64 2316.71 283.76; setang 358.91 1.87 0.00><Area 11824>" killed "infected<121><><Infected><infected><DEAD><25><setpos_exact -3839.14 2355.94 315.84; setang 0.00 270.00 0.00><Area 115749>" with "dual_pistols" (headshot)
+L 05/09/2013 - 15:59:11: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><67+0><setpos_exact -4685.45 2338.58 233.43; setang 353.74 359.84 0.00><Area 11822>" killed "infected<303><><Infected><infected><DEAD><-20><setpos_exact -4176.40 2323.53 272.03; setang 0.00 178.36 0.00><Area 11856>" with "rifle_desert"
+L 05/09/2013 - 15:59:12: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><46+47><setpos_exact -4655.56 2332.00 239.86; setang 8.09 25.08 0.00><Area 11822>" killed "infected<124><><Infected><infected><DEAD><22><setpos_exact -4262.34 2535.06 168.03; setang 0.00 269.34 0.00><Area 351189>" with "dual_pistols" (headshot)
+L 05/09/2013 - 15:59:12: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><67+0><setpos_exact -4749.04 2287.49 229.99; setang 353.88 2.44 0.00><Area 4774>" killed "infected<295><><Infected><infected><DEAD><-33><setpos_exact -3925.94 2332.12 272.03; setang 0.00 197.45 0.00><Area 11859>" with "rifle_desert"
+L 05/09/2013 - 15:59:13: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><46+47><setpos_exact -4708.96 2100.88 195.68; setang 3.79 5.94 0.00><Area 11574>" killed "infected<293><><Infected><infected><DEAD><60><setpos_exact -4118.31 2181.39 154.57; setang 0.00 211.33 0.00><Area 24433>" with "hunting_rifle" (headshot)
+L 05/09/2013 - 15:59:13: (DEATH)"Coach<105><BOT><Survivor><Coach><ALIVE><52+44><setpos_exact -4687.07 2303.22 233.08; setang 354.36 1.96 0.00><Area 11822>" killed "infected<215><><Infected><infected><DEAD><-14><setpos_exact -3836.00 2363.08 316.01; setang 0.00 270.00 0.00><Area 115749>" with "dual_pistols"
+L 05/09/2013 - 15:59:15: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><46+47><setpos_exact -4728.75 1768.05 124.03; setang 7.35 18.19 0.00><Area 4791>" killed "infected<201><><Infected><infected><DEAD><-40><setpos_exact -4290.90 1918.14 25.56; setang 0.00 325.54 0.00><Area 351850>" with "hunting_rifle" (headshot)
+L 05/09/2013 - 15:59:15: (DEATH)"Nick<103><BOT><Survivor><Gambler><ALIVE><67+0><setpos_exact -4791.53 1657.68 118.03; setang 5.24 358.62 0.00><Area 4652>" killed "infected<288><><Infected><infected><DEAD><-35><setpos_exact -4418.42 1644.76 44.32; setang 0.00 175.93 0.00><Area 588>" with "rifle_desert"
+L 05/09/2013 - 15:59:17: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><46+46><setpos_exact -4936.90 1672.85 62.03; setang 350.74 17.41 0.00><Area 284875>" killed "infected<191><><Infected><infected><DEAD><-50><setpos_exact -4278.44 1870.95 144.98; setang 0.00 179.38 0.00><Area 12447>" with "hunting_rifle" (headshot)
+L 05/09/2013 - 15:59:17: (DEATH)"Ellis<104><BOT><Survivor><Mechanic><ALIVE><46+46><setpos_exact -4975.93 1645.44 66.03; setang 342.61 43.26 0.00><Area 284875>" killed "infected<120><><Infected><infected><DEAD><-40><setpos_exact -4218.94 2365.43 341.85; setang 0.00 -0.00 0.00><Area 11825>" with "hunting_rifle" (headshot)
+L 05/09/2013 - 15:59:21: Preparing player entities for changelevel
+L 05/09/2013 - 15:59:21: Saving GameOverDude for transition at -5030.173828 1704.055054 4.031250
+L 05/09/2013 - 15:59:21: (SKIN) GameOverDude saved model [models/survivors/survivor_producer.mdl] via PlayerSaveData
+L 05/09/2013 - 15:59:21: Saving NORMAL for map transition at -5116,1384,4
+L 05/09/2013 - 15:59:21: (SKIN) Nick saved model [models/survivors/survivor_gambler.mdl] via PlayerSaveData
+L 05/09/2013 - 15:59:21: Saving NORMAL for map transition at -5295,1444,4
+L 05/09/2013 - 15:59:21: (SKIN) Ellis saved model [models/survivors/survivor_mechanic.mdl] via PlayerSaveData
+L 05/09/2013 - 15:59:21: Saving NORMAL for map transition at -5061,1668,4
+L 05/09/2013 - 15:59:21: (SKIN) Coach saved model [models/survivors/survivor_coach.mdl] via PlayerSaveData
+L 05/09/2013 - 15:59:29: Log file closed

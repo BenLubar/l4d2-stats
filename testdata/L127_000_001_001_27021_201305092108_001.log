@@ -1,0 +1,143 @@
+L 05/09/2013 - 21:08:14: Log file started (file "logs/L127_000_001_001_27021_201305092108_001.log") (game "/home/tf/srv/l4d2_beta/left4dead2_beta") (version "5289")
+L 05/09/2013 - 21:08:14: CDirector::RunScript, C1M2_reserved_wanderers, level: 2
+L 05/09/2013 - 21:08:14: "[CMCCH]!bonk<17><STEAM_1:1:58618891><>" connected, address "80.73.215.89:27005"
+L 05/09/2013 - 21:08:14: "[CMCCH]!bonk<17><STEAM_1:1:58618891><>" STEAM USERID validated
+L 05/09/2013 - 21:08:48: OnEndChangelevel [CMCCH]!bonk(17): 2 saved players:
+L 05/09/2013 - 21:08:48: 	=^_^= <3 Kitten!?! (pirkyj)(2), state 0
+L 05/09/2013 - 21:08:48: 	[CBC]Zoey(3), state 0
+L 05/09/2013 - 21:08:48: "[CMCCH]!bonk<17><STEAM_1:1:58618891><>" entered the game
+L 05/09/2013 - 21:08:53: "Nick<18><BOT><>" connected, address "none"
+L 05/09/2013 - 21:08:53: OnEndChangelevel (18): 2 saved players:
+L 05/09/2013 - 21:08:53: 	=^_^= <3 Kitten!?! (pirkyj)(2), state 0
+L 05/09/2013 - 21:08:53: 	[CBC]Zoey(3), state 0
+L 05/09/2013 - 21:08:53: "Nick<18><BOT><>" entered the game
+L 05/09/2013 - 21:08:53: CREATING BOT Nick FOR =^_^= <3 Kitten!?! (pirkyj)(2)
+L 05/09/2013 - 21:08:53: "Nick<18><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 21:08:53: SetModelFromClass: Survivor Nick changed model from  to models/survivors/survivor_gambler.mdl via SetModelFromClass
+L 05/09/2013 - 21:08:53: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 21:08:53: Nick spawned as a Gambler
+L 05/09/2013 - 21:08:53: "Nick<18><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2619.84 5215.17 510.03; setang 0.00 244.65 0.00><Area 222259>" spawned
+L 05/09/2013 - 21:08:53: (SKIN) Survivor Nick changed model from models/survivors/survivor_gambler.mdl to models/survivors/survivor_gambler.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 21:08:53: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 21:08:53: Restoring player Nick(18) after changelevel
+L 05/09/2013 - 21:08:53: Respawning Nick
+L 05/09/2013 - 21:08:53: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 21:08:53: Nick spawned as a Gambler
+L 05/09/2013 - 21:08:53: "Nick<18><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 2353.69 5001.15 510.03; setang 0.00 313.49 0.00><Area 222002>" spawned
+L 05/09/2013 - 21:08:53: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 21:08:53: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+L 05/09/2013 - 21:08:53: (SKIN) Survivor Nick changed model to models/survivors/survivor_gambler.mdl (wanted models/survivors/survivor_gambler.mdl) via RestoreModelData
+L 05/09/2013 - 21:08:53: Nick wants to respawn at 2516.918213 5116.911621 448.031250
+L 05/09/2013 - 21:08:53: GetSafeSpawnPos: Nick ideal pos (2516.918213, 5116.911621, 448.031250) is clear
+L 05/09/2013 - 21:08:53: Nick gets respawn pos 2516.918213 5116.911621 448.031250
+L 05/09/2013 - 21:08:53: "Rochelle<19><BOT><>" connected, address "none"
+L 05/09/2013 - 21:08:53: OnEndChangelevel (19): 2 saved players:
+L 05/09/2013 - 21:08:53: 	=^_^= <3 Kitten!?! (pirkyj)(2), state 0
+L 05/09/2013 - 21:08:53: 	[CBC]Zoey(3), state 0
+L 05/09/2013 - 21:08:53: "Rochelle<19><BOT><>" entered the game
+L 05/09/2013 - 21:08:53: CREATING BOT Rochelle FOR [CBC]Zoey(3)
+L 05/09/2013 - 21:08:53: "Rochelle<19><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 21:08:53: SetModelFromClass: Survivor Rochelle changed model from  to models/survivors/survivor_producer.mdl via SetModelFromClass
+L 05/09/2013 - 21:08:53: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 21:08:53: Rochelle spawned as a Producer
+L 05/09/2013 - 21:08:53: "Rochelle<19><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 2305.28 5136.94 510.03; setang 0.00 295.16 0.00><Area 222002>" spawned
+L 05/09/2013 - 21:08:53: (SKIN) Survivor Rochelle changed model from models/survivors/survivor_producer.mdl to models/survivors/survivor_producer.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 21:08:53: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 21:08:53: Restoring player Rochelle(19) after changelevel
+L 05/09/2013 - 21:08:53: Respawning Rochelle
+L 05/09/2013 - 21:08:53: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 21:08:53: Rochelle spawned as a Producer
+L 05/09/2013 - 21:08:53: "Rochelle<19><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 2367.89 5020.65 510.03; setang 0.00 287.49 0.00><Area 222002>" spawned
+L 05/09/2013 - 21:08:53: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 21:08:53: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 21:08:53: (SKIN) Survivor Rochelle changed model to models/survivors/survivor_producer.mdl (wanted models/survivors/survivor_producer.mdl) via RestoreModelData
+L 05/09/2013 - 21:08:53: Rochelle wants to respawn at 2276.477539 5261.029297 448.031250
+L 05/09/2013 - 21:08:53: GetSafeSpawnPos: Rochelle ideal pos (2276.477539, 5261.029297, 448.031250) is clear
+L 05/09/2013 - 21:08:53: Rochelle gets respawn pos 2276.477539 5261.029297 448.031250
+L 05/09/2013 - 21:08:53: "[CMCCH]!bonk<17><STEAM_1:1:58618891><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 21:08:53: SetModelFromClass: Survivor [CMCCH]!bonk changed model from  to models/survivors/survivor_coach.mdl via SetModelFromClass
+L 05/09/2013 - 21:08:53: (SKIN) SetCharacter: Survivor [CMCCH]!bonk chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 21:08:53: [CMCCH]!bonk spawned as a Coach
+L 05/09/2013 - 21:08:53: "[CMCCH]!bonk<17><STEAM_1:1:58618891><Survivor><Coach><ALIVE><100+0><setpos_exact 2296.64 5072.82 510.03; setang 0.00 310.14 0.00><Area 222002>" spawned
+L 05/09/2013 - 21:08:53: "Ellis<20><BOT><>" connected, address "none"
+L 05/09/2013 - 21:08:53: OnEndChangelevel (20): 2 saved players:
+L 05/09/2013 - 21:08:53: 	=^_^= <3 Kitten!?! (pirkyj)(2), state 0
+L 05/09/2013 - 21:08:53: 	[CBC]Zoey(3), state 0
+L 05/09/2013 - 21:08:53: "Ellis<20><BOT><>" entered the game
+L 05/09/2013 - 21:08:53: "Ellis<20><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 21:08:53: SetModelFromClass: Survivor Ellis changed model from  to models/survivors/survivor_mechanic.mdl via SetModelFromClass
+L 05/09/2013 - 21:08:53: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 21:08:53: Ellis spawned as a Mechanic
+L 05/09/2013 - 21:08:53: "Ellis<20><BOT><Survivor><Mechanic><ALIVE><100+0><setpos_exact 2331.45 5071.79 510.03; setang 0.00 297.15 0.00><Area 222002>" spawned
+L 05/09/2013 - 21:08:53: (SKIN) Survivor Ellis changed model from models/survivors/survivor_mechanic.mdl to models/survivors/survivor_mechanic.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 21:08:53: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+L 05/09/2013 - 21:08:53: Nick<18> TIMED OUT TRANSITIONING PLAYER 2
+L 05/09/2013 - 21:08:53: Marking transitioning player 2 (=^_^= <3 Kitten!?! (pirkyj)) DONE
+L 05/09/2013 - 21:08:53: Preparing to restore 2 survivor bots after map transition...
+L 05/09/2013 - 21:09:07: OnEndChangelevel [CBC]Zoey(3): 2 saved players:
+L 05/09/2013 - 21:09:07: 	=^_^= <3 Kitten!?! (pirkyj)(2), state 2
+L 05/09/2013 - 21:09:07: 	[CBC]Zoey(3), state 0
+L 05/09/2013 - 21:09:07: Restoring player [CBC]Zoey(3) after changelevel
+L 05/09/2013 - 21:09:07: "Rochelle<19><BOT><Survivor>" joined team "Spectator"
+L 05/09/2013 - 21:09:07: "[CBC]Zoey<3><STEAM_1:1:52813794><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 21:09:07: SetModelFromClass: Survivor [CBC]Zoey changed model from  to models/survivors/survivor_producer.mdl via SetModelFromClass
+L 05/09/2013 - 21:09:07: (SKIN) SetCharacter: Survivor [CBC]Zoey chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 21:09:07: [CBC]Zoey spawned as a Producer
+L 05/09/2013 - 21:09:07: "[CBC]Zoey<3><STEAM_1:1:52813794><Survivor><Producer><ALIVE><100+0><setpos_exact 2367.68 5153.22 510.03; setang 0.00 280.08 0.00><Area 222002>" spawned
+L 05/09/2013 - 21:09:07: (SKIN) Survivor [CBC]Zoey changed model from models/survivors/survivor_producer.mdl to models/survivors/survivor_producer.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 21:09:07: (SKIN) SetCharacter: Survivor [CBC]Zoey chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 21:09:07: (SKIN) SetCharacter: Survivor [CBC]Zoey chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 21:09:07: [CBC]Zoey spawned as a Producer
+L 05/09/2013 - 21:09:07: "[CBC]Zoey<3><STEAM_1:1:52813794><Survivor><Producer><ALIVE><100+0><setpos_exact 2605.34 5134.54 510.03; setang 0.00 233.43 0.00><Area 222102>" spawned
+L 05/09/2013 - 21:09:07: "[CBC]Zoey<3><STEAM_1:1:52813794><Survivor><Producer><ALIVE><66+0><setpos_exact 2276.48 5261.03 510.03; setang 0.00 -76.18 0.00><Area 239102>" spawned
+L 05/09/2013 - 21:09:07: "[CBC]Zoey<3><STEAM_1:1:52813794><>" entered the game
+L 05/09/2013 - 21:09:07: Rochelle<19> STOPS BEING HELD BY NON-SPECTATOR [CBC]Zoey
+L 05/09/2013 - 21:09:07: "Rochelle<19><BOT><Spectator>" disconnected (reason "Kicked by Console : survivor bot left the survivor team")
+L 05/09/2013 - 21:09:07: ------------------------------ Director state change RELAX -> BUILD_UP
+L 05/09/2013 - 21:09:20: "[CBC]Zoey<3><STEAM_1:1:52813794><Survivor>" disconnected (reason "Disconnect by user.")
+L 05/09/2013 - 21:09:20: "Rochelle<21><BOT><>" connected, address "none"
+L 05/09/2013 - 21:09:20: OnEndChangelevel (21): 2 saved players:
+L 05/09/2013 - 21:09:20: 	=^_^= <3 Kitten!?! (pirkyj)(2), state 2
+L 05/09/2013 - 21:09:20: 	[CBC]Zoey(3), state 1
+L 05/09/2013 - 21:09:20: "Rochelle<21><BOT><>" entered the game
+L 05/09/2013 - 21:09:20: "Rochelle<21><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 21:09:20: SetModelFromClass: Survivor Rochelle changed model from  to models/survivors/survivor_producer.mdl via SetModelFromClass
+L 05/09/2013 - 21:09:20: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 21:09:20: Rochelle spawned as a Producer
+L 05/09/2013 - 21:09:20: "Rochelle<21><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 2419.44 5192.93 510.03; setang 0.00 311.12 0.00><Area 222002>" spawned
+L 05/09/2013 - 21:09:20: (SKIN) Survivor Rochelle changed model from models/survivors/survivor_producer.mdl to models/survivors/survivor_producer.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 21:09:20: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 21:09:20: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+L 05/09/2013 - 21:09:20: Rochelle spawned as a Producer
+L 05/09/2013 - 21:09:20: "Rochelle<21><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 2440.14 5052.47 510.03; setang 0.00 248.54 0.00><Area 222002>" spawned
+L 05/09/2013 - 21:09:26: "[CMCCH]!bonk<17><STEAM_1:1:58618891><Survivor>" disconnected (reason "Disconnect by user.")
+L 05/09/2013 - 21:09:26: "Coach<22><BOT><>" connected, address "none"
+L 05/09/2013 - 21:09:26: OnEndChangelevel (22): 2 saved players:
+L 05/09/2013 - 21:09:26: 	=^_^= <3 Kitten!?! (pirkyj)(2), state 2
+L 05/09/2013 - 21:09:26: 	[CBC]Zoey(3), state 1
+L 05/09/2013 - 21:09:26: "Coach<22><BOT><>" entered the game
+L 05/09/2013 - 21:09:26: "Coach<22><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 21:09:26: SetModelFromClass: Survivor Coach changed model from  to models/survivors/survivor_coach.mdl via SetModelFromClass
+L 05/09/2013 - 21:09:26: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 21:09:26: Coach spawned as a Coach
+L 05/09/2013 - 21:09:26: "Coach<22><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 2282.55 5220.87 510.03; setang 0.00 294.45 0.00><Area 239102>" spawned
+L 05/09/2013 - 21:09:26: (SKIN) Survivor Coach changed model from models/survivors/survivor_coach.mdl to models/survivors/survivor_coach.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 21:09:26: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 21:09:26: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+L 05/09/2013 - 21:09:26: Coach spawned as a Coach
+L 05/09/2013 - 21:09:26: "Coach<22><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 2402.74 5061.23 510.43; setang 0.00 269.91 0.00><Area 222002>" spawned
+L 05/09/2013 - 21:09:26: Reloading original map c1m1_hotel
+L 05/09/2013 - 21:09:26: Preparing player entities for changelevel
+L 05/09/2013 - 21:09:26: Saving NORMAL for map transition at 2319,5259,448
+L 05/09/2013 - 21:09:26: (SKIN) Coach saved model [models/survivors/survivor_coach.mdl] via PlayerSaveData
+L 05/09/2013 - 21:09:26: Saving NORMAL for map transition at 2396,5038,448
+L 05/09/2013 - 21:09:26: (SKIN) Nick saved model [models/survivors/survivor_gambler.mdl] via PlayerSaveData
+L 05/09/2013 - 21:09:26: Saving NORMAL for map transition at 2333,4961,448
+L 05/09/2013 - 21:09:26: (SKIN) Rochelle saved model [models/survivors/survivor_producer.mdl] via PlayerSaveData
+L 05/09/2013 - 21:09:26: Saving NORMAL for map transition at 2488,5121,448
+L 05/09/2013 - 21:09:26: (SKIN) Ellis saved model [models/survivors/survivor_mechanic.mdl] via PlayerSaveData
+L 05/09/2013 - 21:09:26: "Coach<22><BOT><Survivor>" disconnected (reason "Kicked by Console")
+L 05/09/2013 - 21:09:26: "Rochelle<21><BOT><Survivor>" disconnected (reason "Kicked by Console")
+L 05/09/2013 - 21:09:26: "Nick<18><BOT><Survivor>" disconnected (reason "Kicked by Console")
+L 05/09/2013 - 21:09:26: "Ellis<20><BOT><Survivor>" disconnected (reason "Kicked by Console")
+L 05/09/2013 - 21:09:26: Log file closed

@@ -1,0 +1,61 @@
+L 05/09/2013 - 17:34:03: Log file started (file "logs/L127_000_001_001_27017_201305091734_001.log") (game "/home/tf/srv/l4d2_beta/left4dead2_beta") (version "5289")
+L 05/09/2013 - 17:34:03: "Taltos<2><STEAM_1:1:39813142><>" connected, address "75.34.53.153:27005"
+L 05/09/2013 - 17:34:03: World triggered "Round_Start"
+L 05/09/2013 - 17:34:05: "Taltos<2><STEAM_1:1:39813142><>" STEAM USERID validated
+L 05/09/2013 - 17:34:52: FinishClientPutInServer Taltos(2): looking for bots to take over
+L 05/09/2013 - 17:34:52: "Taltos<2><STEAM_1:1:39813142><>" entered the game
+L 05/09/2013 - 17:35:03: "Taltos<2><STEAM_1:1:39813142><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 17:35:03: SetModelFromClass: Survivor Taltos changed model from  to models/survivors/survivor_teenangst.mdl via SetModelFromClass
+L 05/09/2013 - 17:35:03: (SKIN) SetCharacter: Survivor Taltos chose character TeenGirl(1) from model models/survivors/survivor_teenangst.mdl
+L 05/09/2013 - 17:35:03: Taltos spawned as a TeenGirl
+L 05/09/2013 - 17:35:03: "Taltos<2><STEAM_1:1:39813142><Survivor><TeenGirl><ALIVE><100+0><setpos_exact -10007.50 -8505.25 54.03; setang 0.00 295.50 0.00><Area 25917>" spawned
+L 05/09/2013 - 17:35:03: "Louis<3><BOT><>" connected, address "none"
+L 05/09/2013 - 17:35:03: FinishClientPutInServer (3): looking for bots to take over
+L 05/09/2013 - 17:35:03: "Louis<3><BOT><>" entered the game
+L 05/09/2013 - 17:35:03: "Louis<3><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 17:35:03: SetModelFromClass: Survivor Louis changed model from  to models/survivors/survivor_manager.mdl via SetModelFromClass
+L 05/09/2013 - 17:35:03: (SKIN) SetCharacter: Survivor Louis chose character Manager(2) from model models/survivors/survivor_manager.mdl
+L 05/09/2013 - 17:35:03: Louis spawned as a Manager
+L 05/09/2013 - 17:35:03: "Louis<3><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact -10093.20 -8577.60 54.03; setang 0.00 333.50 0.00><Area 23542>" spawned
+L 05/09/2013 - 17:35:03: (SKIN) Survivor Louis changed model from models/survivors/survivor_manager.mdl to models/survivors/survivor_manager.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 17:35:03: (SKIN) SetCharacter: Survivor Louis chose character Manager(2) from model models/survivors/survivor_manager.mdl
+L 05/09/2013 - 17:35:03: "Francis<4><BOT><>" connected, address "none"
+L 05/09/2013 - 17:35:03: FinishClientPutInServer (4): looking for bots to take over
+L 05/09/2013 - 17:35:03: "Francis<4><BOT><>" entered the game
+L 05/09/2013 - 17:35:03: "Francis<4><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 17:35:03: SetModelFromClass: Survivor Francis changed model from  to models/survivors/survivor_biker.mdl via SetModelFromClass
+L 05/09/2013 - 17:35:03: (SKIN) SetCharacter: Survivor Francis chose character Biker(3) from model models/survivors/survivor_biker.mdl
+L 05/09/2013 - 17:35:03: Francis spawned as a Biker
+L 05/09/2013 - 17:35:03: "Francis<4><BOT><Survivor><Biker><ALIVE><100+0><setpos_exact -10007.50 -8505.25 56.00; setang 0.00 295.50 0.00><Area 25917>" spawned
+L 05/09/2013 - 17:35:03: (SKIN) Survivor Francis changed model from models/survivors/survivor_biker.mdl to models/survivors/survivor_biker.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 17:35:03: (SKIN) SetCharacter: Survivor Francis chose character Biker(3) from model models/survivors/survivor_biker.mdl
+L 05/09/2013 - 17:35:03: "Bill<5><BOT><>" connected, address "none"
+L 05/09/2013 - 17:35:03: FinishClientPutInServer (5): looking for bots to take over
+L 05/09/2013 - 17:35:03: "Bill<5><BOT><>" entered the game
+L 05/09/2013 - 17:35:03: "Bill<5><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 17:35:03: SetModelFromClass: Survivor Bill changed model from  to models/survivors/survivor_namvet.mdl via SetModelFromClass
+L 05/09/2013 - 17:35:03: (SKIN) SetCharacter: Survivor Bill chose character NamVet(0) from model models/survivors/survivor_namvet.mdl
+L 05/09/2013 - 17:35:03: Bill spawned as a NamVet
+L 05/09/2013 - 17:35:03: "Bill<5><BOT><Survivor><NamVet><ALIVE><100+0><setpos_exact -10093.20 -8577.60 57.00; setang 0.00 333.50 0.00><Area 23542>" spawned
+L 05/09/2013 - 17:35:03: (SKIN) Survivor Bill changed model from models/survivors/survivor_namvet.mdl to models/survivors/survivor_namvet.mdl via HandleCommand_JoinTeam
+L 05/09/2013 - 17:35:03: (SKIN) SetCharacter: Survivor Bill chose character NamVet(0) from model models/survivors/survivor_namvet.mdl
+L 05/09/2013 - 17:35:14: CDirector::RunScript, c9m1_nobosses, level: 2
+L 05/09/2013 - 17:35:46: Allowing spawning - "Taltos<2><STEAM_1:1:39813142><Survivor><TeenGirl><ALIVE><100+0><setpos_exact -9927.77 -9960.90 58.43; setang 4.69 -143.77 0.00><Area 343>" left safe area
+L 05/09/2013 - 17:35:48: (DEATH)"Taltos<2><STEAM_1:1:39813142><Survivor><TeenGirl><ALIVE><100+0><setpos_exact -10077.01 -10152.20 57.54; setang 5.68 170.69 0.00><Area 13764>" killed "infected<166><><Infected><infected><DEAD><-13><setpos_exact -10310.02 -10102.50 -5.16; setang 0.00 84.22 0.00><Area 15106>" with "pumpshotgun"
+L 05/09/2013 - 17:35:49: (DEATH)"Louis<3><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact -10016.13 -10189.91 66.51; setang 6.05 50.20 0.00><Area 13764>" killed "infected<170><><Infected><infected><DEAD><-2><setpos_exact -9857.86 -10002.12 -4.69; setang 0.00 95.88 0.00><Area 343>" with "pumpshotgun"
+L 05/09/2013 - 17:35:50: (DEATH)"Taltos<2><STEAM_1:1:39813142><Survivor><TeenGirl><ALIVE><100+0><setpos_exact -10101.07 -10223.97 68.33; setang 6.14 176.30 0.00><Area 13764>" killed "infected<169><><Infected><infected><DEAD><0><setpos_exact -10244.40 -10202.09 -2.53; setang 0.00 13.25 0.00><Area 13764>" with "pumpshotgun"
+L 05/09/2013 - 17:35:50: (DEATH)"Louis<3><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact -10016.12 -10189.97 66.53; setang 7.71 2.94 0.00><Area 13764>" killed "infected<228><><Infected><infected><DEAD><-17><setpos_exact -9914.25 -10195.45 5.44; setang -0.00 181.22 0.00><Area 25214>" with "pumpshotgun"
+L 05/09/2013 - 17:35:54: (DEATH)"Louis<3><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact -10016.12 -10189.97 66.53; setang 7.06 179.24 0.00><Area 13764>" killed "infected<226><><Infected><infected><DEAD><-9><setpos_exact -10253.92 -10199.83 -2.64; setang 0.00 351.07 0.00><Area 15109>" with "pumpshotgun"
+L 05/09/2013 - 17:35:55: (DEATH)"Louis<3><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact -10016.12 -10189.97 66.53; setang 6.05 163.32 0.00><Area 13764>" killed "infected<167><><Infected><infected><DEAD><-9><setpos_exact -10320.99 -10089.19 -3.84; setang 0.00 328.53 0.00><Area 15106>" with "pumpshotgun"
+L 05/09/2013 - 17:35:56: (DEATH)"Louis<3><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact -10016.12 -10189.97 66.53; setang 3.98 161.30 0.00><Area 13764>" killed "infected<168><><Infected><infected><DEAD><-1><setpos_exact -10456.93 -10040.94 -3.16; setang 0.00 341.33 0.00><Area 13759>" with "pumpshotgun"
+L 05/09/2013 - 17:35:58: (DEATH)"Louis<3><BOT><Survivor><Manager><ALIVE><100+0><setpos_exact -10016.12 -10189.97 66.53; setang 2.81 3.73 0.00><Area 13764>" killed "infected<68><><Infected><infected><DEAD><-6><setpos_exact -9405.87 -10150.63 -3.87; setang 0.00 175.26 0.00><Area 13934>" with "pumpshotgun"
+L 05/09/2013 - 17:36:03: "Taltos<2><STEAM_1:1:39813142><Survivor>" disconnected (reason "Disconnect by user.")
+L 05/09/2013 - 17:36:03: "Zoey<6><BOT><>" connected, address "none"
+L 05/09/2013 - 17:36:03: FinishClientPutInServer (6): looking for bots to take over
+L 05/09/2013 - 17:36:03: "Zoey<6><BOT><>" entered the game
+L 05/09/2013 - 17:36:03: "Zoey<6><BOT><Unassigned>" joined team "Survivor"
+L 05/09/2013 - 17:36:03: SetModelFromClass: Survivor Zoey changed model from  to models/survivors/survivor_teenangst.mdl via SetModelFromClass
+L 05/09/2013 - 17:36:03: (SKIN) SetCharacter: Survivor Zoey chose character TeenGirl(1) from model models/survivors/survivor_teenangst.mdl
+L 05/09/2013 - 17:36:03: Zoey spawned as a TeenGirl
+L 05/09/2013 - 17:36:03: "Zoey<6><BOT><Survivor><TeenGirl><ALIVE><100+0><setpos_exact -10007.50 -8505.25 54.03; setang 0.00 295.50 0.00><Area 25917>" spawned
+L 05/09/2013 - 17:36:03: (SKIN) Survivor Zoey changed model from models/survivors/survivor_teenangst.mdl to models/survivo

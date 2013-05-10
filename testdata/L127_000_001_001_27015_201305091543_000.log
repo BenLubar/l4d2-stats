@@ -1,0 +1,98 @@
+L 05/09/2013 - 15:43:01: Log file started (file "logs/L127_000_001_001_27015_201305091543_000.log") (game "/home/tf/srv/l4d2_beta/left4dead2_beta") (version "5289")
+L 05/09/2013 - 15:43:01: Loading map "c8m4_interior"
+L 05/09/2013 - 15:43:01: server cvars start
+L 05/09/2013 - 15:43:01: "sv_maxspeed" = "1000.000000"
+L 05/09/2013 - 15:43:01: "sv_rollangle" = "0"
+L 05/09/2013 - 15:43:01: "tauntfrequency" = "1"
+L 05/09/2013 - 15:43:01: "r_AirboatViewZHeight" = "0.0"
+L 05/09/2013 - 15:43:01: "sv_cheats" = "0"
+L 05/09/2013 - 15:43:01: "r_VehicleViewDampen" = "1"
+L 05/09/2013 - 15:43:01: "mp_allowNPCs" = "1"
+L 05/09/2013 - 15:43:01: "god" = "0"
+L 05/09/2013 - 15:43:01: "mp_tournament" = "0"
+L 05/09/2013 - 15:43:01: "buddha" = "0"
+L 05/09/2013 - 15:43:01: "mp_flashlight" = "1"
+L 05/09/2013 - 15:43:01: "mp_maxrounds" = "0"
+L 05/09/2013 - 15:43:01: "sv_tags" = ""
+L 05/09/2013 - 15:43:01: "sv_stepsize" = "18"
+L 05/09/2013 - 15:43:01: "mp_teamlist" = "hgrunt;scientist"
+L 05/09/2013 - 15:43:01: "sv_alltalk" = "0"
+L 05/09/2013 - 15:43:01: "survivor_limit" = "4"
+L 05/09/2013 - 15:43:01: "mp_footsteps" = "1"
+L 05/09/2013 - 15:43:01: "sv_noclipaccelerate" = "5"
+L 05/09/2013 - 15:43:01: "sv_wateraccelerate" = "10"
+L 05/09/2013 - 15:43:01: "mp_autocrosshair" = "1"
+L 05/09/2013 - 15:43:01: "mp_stalemate_enable" = "0"
+L 05/09/2013 - 15:43:01: "sv_rollspeed" = "200"
+L 05/09/2013 - 15:43:01: "sv_airaccelerate" = "10"
+L 05/09/2013 - 15:43:01: "mp_teams_unbalance_limit" = "1"
+L 05/09/2013 - 15:43:01: "mp_timelimit" = "0"
+L 05/09/2013 - 15:43:01: "mp_fadetoblack" = "0"
+L 05/09/2013 - 15:43:01: "sv_noclipfriction" = "4"
+L 05/09/2013 - 15:43:01: "sv_waterfriction" = "1"
+L 05/09/2013 - 15:43:01: "sv_steamgroup" = ""
+L 05/09/2013 - 15:43:01: "coop" = "0"
+L 05/09/2013 - 15:43:01: "nextlevel" = ""
+L 05/09/2013 - 15:43:01: "sv_stopspeed" = "75"
+L 05/09/2013 - 15:43:01: "sv_specaccelerate" = "5"
+L 05/09/2013 - 15:43:01: "deathmatch" = "1"
+L 05/09/2013 - 15:43:01: "tv_enable" = "0"
+L 05/09/2013 - 15:43:01: "mp_falldamage" = "0"
+L 05/09/2013 - 15:43:01: "mp_freezetime" = "6"
+L 05/09/2013 - 15:43:01: "sv_voiceenable" = "1"
+L 05/09/2013 - 15:43:01: "tf_arena_max_streak" = "5"
+L 05/09/2013 - 15:43:01: "sv_bounce" = "0"
+L 05/09/2013 - 15:43:01: "mp_disable_respawn_times" = "0"
+L 05/09/2013 - 15:43:01: "r_AirboatViewDampenFreq" = "7.0"
+L 05/09/2013 - 15:43:01: "mp_weaponstay" = "0"
+L 05/09/2013 - 15:43:01: "mp_friendlyfire" = "1"
+L 05/09/2013 - 15:43:01: "sv_noclipspeed" = "5"
+L 05/09/2013 - 15:43:01: "r_JeepViewDampenDamp" = "1.0"
+L 05/09/2013 - 15:43:01: "mp_c4timer" = "45"
+L 05/09/2013 - 15:43:01: "r_AirboatViewDampenDamp" = "1.0"
+L 05/09/2013 - 15:43:01: "mp_stalemate_at_timelimit" = "0"
+L 05/09/2013 - 15:43:01: "sv_footsteps" = "1"
+L 05/09/2013 - 15:43:01: "mp_limitteams" = "2"
+L 05/09/2013 - 15:43:01: "tv_relaypassword" = ""
+L 05/09/2013 - 15:43:01: "tf_arena_round_time" = "0"
+L 05/09/2013 - 15:43:01: "mp_teamplay" = "0"
+L 05/09/2013 - 15:43:01: "r_JeepViewDampenFreq" = "7.0"
+L 05/09/2013 - 15:43:01: "sv_specnoclip" = "1"
+L 05/09/2013 - 15:43:01: "sv_friction" = "4"
+L 05/09/2013 - 15:43:01: "mp_autoteambalance" = "1"
+L 05/09/2013 - 15:43:01: "sv_contact" = ""
+L 05/09/2013 - 15:43:01: "director_afk_timeout" = "45"
+L 05/09/2013 - 15:43:01: "mp_roundtime" = "5"
+L 05/09/2013 - 15:43:01: "mp_fraglimit" = "0"
+L 05/09/2013 - 15:43:01: "mp_forcerespawn" = "1"
+L 05/09/2013 - 15:43:01: "decalfrequency" = "10"
+L 05/09/2013 - 15:43:01: "mp_winlimit" = "0"
+L 05/09/2013 - 15:43:01: "sv_accelerate" = "5"
+L 05/09/2013 - 15:43:01: "sv_gravity" = "800"
+L 05/09/2013 - 15:43:01: "sv_password" = ""
+L 05/09/2013 - 15:43:01: "r_JeepViewZHeight" = "10.0"
+L 05/09/2013 - 15:43:01: "tf_arena_preround_time" = "10"
+L 05/09/2013 - 15:43:01: "tv_password" = ""
+L 05/09/2013 - 15:43:01: "sv_specspeed" = "3"
+L 05/09/2013 - 15:43:01: server cvars end
+L 05/09/2013 - 15:43:02: Started map "c8m4_interior" (CRC "-658901249")
+L 05/09/2013 - 15:43:03: CDirector::RunScript, scriptedmode, level: 1
+L 05/09/2013 - 15:43:03: CDirector::RunScript, director_base, level: 0
+L 05/09/2013 - 15:43:03: Preventing spawning
+L 05/09/2013 - 15:43:03: CDirector::RunScript, scriptedmode, level: 1
+L 05/09/2013 - 15:43:03: CDirector::RunScript, director_base, level: 0
+L 05/09/2013 - 15:43:03: World triggered "Round_Start"
+L 05/09/2013 - 15:43:03: Area 27034 is NAV_TANK_ONLY
+L 05/09/2013 - 15:43:03: Area 29700 is NAV_MOB_ONLY
+L 05/09/2013 - 15:43:03: Area 29704 is NAV_MOB_ONLY
+L 05/09/2013 - 15:43:03: Area 29594 is NAV_MOB_ONLY
+L 05/09/2013 - 15:43:03: Area 29927 is NAV_MOB_ONLY
+L 05/09/2013 - 15:43:03: Area 30521 is NAV_MOB_ONLY
+L 05/09/2013 - 15:43:03: Area 30247 is NAV_MOB_ONLY
+L 05/09/2013 - 15:43:03: Area 34747 is NAV_MOB_ONLY
+L 05/09/2013 - 15:43:03: Area 30917 is NAV_MOB_ONLY
+L 05/09/2013 - 15:43:03: Area 30799 is NAV_MOB_ONLY
+L 05/09/2013 - 15:43:03: Area 29762 is NAV_MOB_ONLY
+L 05/09/2013 - 15:43:03: Area 31091 is NAV_MOB_ONLY
+L 05/09/2013 - 15:43:03: World triggered "Round_Start"
+L 05/09/2013 - 15:43:03: Log file closed
