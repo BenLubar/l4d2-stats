@@ -80,7 +80,7 @@ func main() {
 	flag.Parse()
 
 	var err error
-	bucket, err = couchbase.GetBucket("http://localhost:8091/", "default", "default")
+	bucket, err = couchbase.GetBucket("http://localhost:8091/", "default", "l4d2")
 	if err != nil {
 		panic(err)
 	}
