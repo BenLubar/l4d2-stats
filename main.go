@@ -53,7 +53,7 @@ func processFile(filename string) error {
 			return err
 		}
 
-		if unparsed, _ := line["Unparsed"]; unparsed {
+		if unparsed, _ := line["Unparsed"].(bool); unparsed {
 			continue
 		}
 
