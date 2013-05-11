@@ -53,6 +53,15 @@ func processFile(filename string) error {
 			return err
 		}
 
+		if unparsed, _ := line["Unparsed"]; unparsed {
+			continue
+		}
+
+		// Only store kills for now
+		if t, _ := line["Type"].(string); t != "killed" {
+			continue
+		}
+
 		line["Base"] = base
 		_, err = bucket.Add(fmt.Sprintf("%s+%d", base, ln), 0, line)
 		if err != nil {
