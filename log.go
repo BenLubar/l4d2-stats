@@ -27,6 +27,12 @@ func LogReader(r io.Reader) func() (int, map[string]interface{}, error) {
 			return ln, nil, err
 		}
 		line = line[:len(line)-1] // remove trailing newline
+		var rline []rune
+		for _, r := range line {
+			rline = append(rline, r)
+		}
+		line = string(rline)
+
 		parsed := map[string]interface{}{"Text": line, "Line": ln}
 
 		t, err := time.Parse(TimeFormat, line[:len(TimeFormat)])
