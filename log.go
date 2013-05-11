@@ -14,7 +14,7 @@ var (
 	pattern_joined_team  = regexp.MustCompile(`^"([^<"]+)<(\d*)><(BOT|STEAM_\d:\d:\d+)><([A-Z][a-z]*)>" joined team "([A-Z][a-z]*)"$`)
 	pattern_spawned_as_a = regexp.MustCompile(`^([^<"]+) spawned as a ([A-Z][A-Za-z]*)$`)
 	pattern_respawning   = regexp.MustCompile(`^Respawning ([^<"]+)$`)
-	pattern_death        = regexp.MustCompile(`^\(DEATH\)"([^<"]+)<(\d*)><(BOT|STEAM_\d:\d:\d+|)><([A-Za-z]*)><([A-Za-z]*)><([A-Z]+)><(-?\d+(?:\+\d+)?)><setpos(?:_exact)? (-?\d+\.\d\d) (-?\d+\.\d\d) (-?\d+\.\d\d); setang (-?\d+\.\d\d) (-?\d+\.\d\d) (-?\d+\.\d\d)><Area (\d+)>" killed "([^<"]+)<(\d*)><(BOT|STEAM_\d:\d:\d+|)><([A-Za-z]*)><([A-Za-z]*)><([A-Z]+)><(-?\d+(?:\+\d+)?)><setpos(?:_exact)? (-?\d+\.\d\d) (-?\d+\.\d\d) (-?\d+\.\d\d); setang (-?\d+\.\d\d) (-?\d+\.\d\d) (-?\d+\.\d\d)><Area (\d+)>" with "([a-z0-9_]+)"( \(headshot\))?$`)
+	pattern_death        = regexp.MustCompile(`^\(DEATH\)"([^<"]+)<(\d*)><(BOT|STEAM_\d:\d:\d+|)><([A-Za-z_]*)><([A-Za-z_]*)><([A-Z]+)><(-?\d+(?:\+\d+)?)><setpos(?:_exact)? (-?\d+\.\d\d) (-?\d+\.\d\d) (-?\d+\.\d\d); setang (-?\d+\.\d\d) (-?\d+\.\d\d) (-?\d+\.\d\d)><Area (\d+)>" killed "([^<"]+)<(\d*)><(BOT|STEAM_\d:\d:\d+|)><([A-Za-z_]*)><([A-Za-z_]*)><([A-Z]+)><(-?\d+(?:\+\d+)?)><setpos(?:_exact)? (-?\d+\.\d\d) (-?\d+\.\d\d) (-?\d+\.\d\d); setang (-?\d+\.\d\d) (-?\d+\.\d\d) (-?\d+\.\d\d)><Area (\d+)>" with "([a-z0-9_]+)"( \(headshot\))?$`)
 )
 
 func LogReader(r io.Reader) func() (int, map[string]interface{}, error) {
