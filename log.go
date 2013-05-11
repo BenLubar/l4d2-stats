@@ -11,10 +11,11 @@ import (
 const TimeFormat = "L 01/02/2006 - 15:04:05: "
 
 var (
-	pattern_joined_team  = regexp.MustCompile(`^"([^<"]+)<(\d*)><(BOT|STEAM_\d:\d:\d+)><([A-Z][a-z]*)>" joined team "([A-Z][a-z]*)"$`)
-	pattern_spawned_as_a = regexp.MustCompile(`^([^<"]+) spawned as a ([A-Z][A-Za-z]*)$`)
-	pattern_respawning   = regexp.MustCompile(`^Respawning ([^<"]+)$`)
-	pattern_death        = regexp.MustCompile(`^\(DEATH\)"([^<"]+)<(\d*)><(BOT|STEAM_\d:\d:\d+|)><([A-Za-z_]*)><([A-Za-z_]*)><([A-Z]+)><(-?\d+(?:\+\d+)?)><setpos(?:_exact)? (-?\d+\.\d\d) (-?\d+\.\d\d) (-?\d+\.\d\d); setang (-?\d+\.\d\d) (-?\d+\.\d\d) (-?\d+\.\d\d)><Area (\d+)>" killed "([^<"]+)<(\d*)><(BOT|STEAM_\d:\d:\d+|)><([A-Za-z_]*)><([A-Za-z_]*)><([A-Z]+)><(-?\d+(?:\+\d+)?)><setpos(?:_exact)? (-?\d+\.\d\d) (-?\d+\.\d\d) (-?\d+\.\d\d); setang (-?\d+\.\d\d) (-?\d+\.\d\d) (-?\d+\.\d\d)><Area (\d+)>" with "([a-z0-9_]+)"( \(headshot\))?$`)
+	pattern_joined_team  = regexp.MustCompile(`^"(.+)<(\d*)><(BOT|STEAM_\d:\d:\d+)><([A-Za-z0-9_]+)>" joined team "([A-Za-z0-9_]+)"$`)
+	pattern_spawned_as_a = regexp.MustCompile(`^(.+) spawned as a ([A-Z][A-Za-z]*)$`)
+	pattern_respawning   = regexp.MustCompile(`^Respawning (.+)$`)
+	pattern_death        = regexp.MustCompile(`^\(DEATH\)"(.+)<(\d*)><(BOT|STEAM_\d:\d:\d+|)><([A-Za-z0-9_]+)><([A-Za-z_]+)><([A-Z]+)><(-?\d+(?:\+\d+)?)><setpos(?:_exact)? (-?\d+\.\d\d) (-?\d+\.\d\d) (-?\d+\.\d\d); setang (-?\d+\.\d\d) (-?\d+\.\d\d) (-?\d+\.\d\d)><Area (\d+)>" killed "(.+)<(\d*)><(BOT|STEAM_\d:\d:\d+|)><([A-Za-z0-9_]+)><([A-Za-z_]+)><([A-Z]+)><(-?\d+(?:\+\d+)?)><setpos(?:_exact)? (-?\d+\.\d\d) (-?\d+\.\d\d) (-?\d+\.\d\d); setang (-?\d+\.\d\d) (-?\d+\.\d\d) (-?\d+\.\d\d)><Area (\d+)>" with "([a-z0-9_]+)"( \(headshot\))?$`)
+	pattern_suicide      = regexp.MustCompile(`^\(DEATH\)"(.+)<(\d*)><(BOT|STEAM_\d:\d:\d+|)><([A-Za-z0-9_]+)><([A-Za-z_]+)><([A-Z]+)><(-?\d+(?:\+\d+)?)><setpos(?:_exact)? (-?\d+\.\d\d) (-?\d+\.\d\d) (-?\d+\.\d\d); setang (-?\d+\.\d\d) (-?\d+\.\d\d) (-?\d+\.\d\d)><Area (\d+)>" (?:committed suicide with "([a-z0-9_]+)"|(died from unknown attacker \(probably World\)))$`)
 )
 
 func LogReader(r io.Reader) func() (int, map[string]interface{}, error) {
@@ -150,6 +151,57 @@ func LogReader(r io.Reader) func() (int, map[string]interface{}, error) {
 
 			parsed["Weapon"] = m[29]
 			parsed["Headshot"] = m[30] != ""
+		} else if m := pattern_suicide.FindStringSubmatch(line); m != nil {
+			parsed["Type"] = "killed"
+			attacker := make(map[string]interface{})
+			parsed["Attacker"] = attacker
+			parsed["Victim"] = attacker
+			attacker["Name"] = m[1]
+			attacker["UID"], err = strconv.Atoi(m[2])
+			if err != nil {
+				return ln, nil, err
+			}
+			attacker["Addr"] = m[3]
+			attacker["Team"] = m[4]
+			attacker["Class"] = m[5]
+			attacker["Status"] = m[6]
+			attacker["Health"] = m[7]
+			attacker_pos := make([]float64, 6)
+			attacker["Pos"] = attacker_pos
+			attacker_pos[0], err = strconv.ParseFloat(m[8], 64)
+			if err != nil {
+				return ln, nil, err
+			}
+			attacker_pos[1], err = strconv.ParseFloat(m[9], 64)
+			if err != nil {
+				return ln, nil, err
+			}
+			attacker_pos[2], err = strconv.ParseFloat(m[10], 64)
+			if err != nil {
+				return ln, nil, err
+			}
+			attacker_pos[3], err = strconv.ParseFloat(m[11], 64)
+			if err != nil {
+				return ln, nil, err
+			}
+			attacker_pos[4], err = strconv.ParseFloat(m[12], 64)
+			if err != nil {
+				return ln, nil, err
+			}
+			attacker_pos[5], err = strconv.ParseFloat(m[13], 64)
+			if err != nil {
+				return ln, nil, err
+			}
+			attacker["Area"], err = strconv.Atoi(m[14])
+			if err != nil {
+				return ln, nil, err
+			}
+
+			parsed["Weapon"] = m[15]
+			if m[15] == "" && m[16] != "" {
+				parsed["Weapon"] = "world"
+			}
+			parsed["Headshot"] = false
 		} else {
 			parsed["Unparsed"] = true
 		}
